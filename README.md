@@ -1,6 +1,4 @@
 # Website OSCRotterdam
-***
-***
 
 Source code of the website of the Open Science Community Rotterdam.
 
@@ -8,10 +6,11 @@ This website is developed using [_R_](https://cran.r-project.org/) and [`blogdow
 
 
 ## Usage
-To publish your last changes online:
+Please only work in the `development`-branch. To publish your last changes online perform the following step:
 1. `blogdown::build_site()` in `R` to build the new public folder 
-2. commit your changes in development folder
-3. run `.deploy.sh`
+2. `commit` your changes in development folder(!)
+3. `push` all changes and resolve all merge conflicts
+4. run `.deploy.sh`
 
 
 
@@ -27,6 +26,3 @@ To publish your last changes online:
   - section to host member initiatives that we facilitate --> blog posts, clever use of **Categories**
   - upload our Code of Conduct --> add link to Google Doc in **About** section
   - integrate signing up for the community with a box to sign up for the newsletter (Mailchimp) --> requires an account on MailChimp and a Newsletter section in the website template (example [here](https://themes.gohugo.io/theme/restaurant-hugo/#contact-us))
-
-***
-***
