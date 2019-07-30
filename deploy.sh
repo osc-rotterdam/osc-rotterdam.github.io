@@ -13,6 +13,7 @@ cp -rav public/ $TMPDIR/
 
 # switch to master branch
 git checkout master
+git pull --force
 
 # replace public folder
 rm * -rf
