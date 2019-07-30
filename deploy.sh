@@ -8,6 +8,7 @@ printf "Deploying updates to GitHub...\n"
 # make folder for master brach and move it to tmp
 cp CNAME public/
 cp README.md public/
+cp .gitignore public/
 TMPDIR=$(dirname $(mktemp))
 cp -rav public/ $TMPDIR/
 
