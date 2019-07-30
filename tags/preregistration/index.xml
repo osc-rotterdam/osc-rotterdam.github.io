@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preregistration on Open Science Community Rotterdam</title>
+    <link>https://openscience-rotterdam.com/tags/preregistration/</link>
+    <description>Recent content in preregistration on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openscience-rotterdam.com/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Oliver Lindemann</title>
+      <link>https://openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
+      <description>Welcome to the community, Oliver!</description>
+    </item>
+    
+    <item>
+      <title>OSCR Member: Antonio Schettino</title>
+      <link>https://openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
+      <description>Welcome to the community, Antonio!</description>
+    </item>
+    
+  </channel>
+</rss>
