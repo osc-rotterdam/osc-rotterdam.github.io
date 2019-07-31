@@ -2,20 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>People</title>
-      <link>https://www.openscience-rotterdam.com/categories/people/</link>
+      <title>home</title>
+      <link>/categories/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>/categories/news/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>/categories/people/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/categories/people/</guid>
+      <guid>/categories/people/</guid>
       <description></description>
     </item>
     

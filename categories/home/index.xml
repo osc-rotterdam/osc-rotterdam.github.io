@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home on Open Science Community Rotterdam</title>
+    <link>/categories/home/</link>
+    <description>Recent content in home on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>Who are we? Open Science Community Rotterdam (OSCR) comprises of academics and support staff working at Erasmus University Rotterdam (EUR) and Erasmus Medical Center (ErasmusMC). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product.
+OSCR is part of a growing national network of communities including Amsterdam, Eindhoven, Groningen, Leiden, Nijmegen, Tilburg, and Utrecht.</description>
+    </item>
+    
+  </channel>
+</rss>
