@@ -1,26 +1,16 @@
 ---
-title: Welcome!
-author: Antonio Schettino
-date: 2024-01-01
-slug: oscr-intro
-categories: [introduction]
-tags: [ ]
-coverImage: /images/OSCR_logo.svg
-thumbnailImage: /images/OSCR_banner.svg
-
-thumbnailImagePosition: top
-coverSize: partial
-coverMeta: out
-metaAlignment: center
-
+date: 2019-07-31
+categories: [home]
+tags: []
 showMeta: false
 comments: false
 showActions: false
-
-summary: Welcome to the official website of the **Open Science Community Rotterdam**! Read this post to know who we are and how to navigate this website!
 ---
 
-<!-- toc -->
+<p><center>
+  <img border="0" alt="OSCR" src="/images/OSCR_banner.png" width="70%" align="center">
+</center></p>
+
 
 # Who are we?
 

@@ -1,0 +1,14 @@
+---
+title: Sorry no News yet
+author: ''
+date: '2019-07-31'
+slug: soory-no-news-yet
+categories: [news]
+tags: []
+keywords:
+  - tech
+---
+
+<!--more-->
+
+This is just a placeholder!

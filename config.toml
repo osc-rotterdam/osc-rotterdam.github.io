@@ -53,31 +53,43 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
+  url = "/home"
+#[[menu.main]]
+#  weight = 2
+#  identifier = "categories"
+#  name = "Categories"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+#  url = "/categories"
 [[menu.main]]
   weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+  identifier = "new"
+  name = "News"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "/Categories/news"
 [[menu.main]]
   weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  identifier = "peo"
+  name = "People"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-child\"></i>"
+  url = "/Categories/people"
 [[menu.main]]
   weight = 5
   identifier = "cod"
   name = "Code of Conduct"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
   url = "https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing"
+[[menu.main]]
+  weight = 6
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+#[[menu.main]]
+#  weight = 4
+#  identifier = "about"
+#  name = "About"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+#  url = "/#about"
 
 [[menu.links]]
   weight = 1
