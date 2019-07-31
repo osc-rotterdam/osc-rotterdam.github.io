@@ -24,3 +24,5 @@
 #blogdown
 public/
 content/post/*.html
+content/*.html
+static/post/
