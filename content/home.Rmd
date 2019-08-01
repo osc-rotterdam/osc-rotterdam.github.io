@@ -8,9 +8,8 @@ showActions: false
 ---
 
 <p><center>
-  <img border="0" alt="OSCR" src="/images/OSCR_banner.png" width="70%" align="center">
+  <img border="0" alt="OSCR" src="/images/OSCR_banner.png" width="100%" align="center">
 </center></p>
-
 
 # Who are we?
 
@@ -20,6 +19,8 @@ Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support
 
 # About this website
 
-Check out [**Categories**](/categories) to find posts on different topics, e.g., news and announcements. Browse [**Tags**](/tags) to discover the expertise of each member of the community. [**Code of Conduct**](https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing) redirects to the related document. Feel free to browse the source code of this website on [GitHub](https://github.com/osc-rotterdam) and follow us on [Twitter](https://twitter.com/OSCRotterdam)!
+Check out [**News**](/new) to find posts on different topics, e.g., news and announcements. Browse [**Tags**](/tags) to discover the expertise of each member of the community. [**Code of Conduct**](https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing) redirects to the related document. Feel free to browse the source code of this website on [GitHub](https://github.com/osc-rotterdam) and follow us on [Twitter](https://twitter.com/OSCRotterdam)!
 
-This website is maintained by [Antonio Schettino](https://asch3tti.netlify.com/) and [Oliver Lindemann](http://www.cognitive-psychology.eu/lindemann/).
+This website is maintained by [Antonio Schettino](https://asch3tti.netlify.com/) and [Oliver Lindemann](http://www.cognitive-psychology.eu/lindemann/). For inquiries, contact info@openscience-rotterdam.com. 
+
+Developed in [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [Hugo](https://themes.gohugo.io/). [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme/) theme by [Thibaud Leprêtre](https://github.com/kakawait).

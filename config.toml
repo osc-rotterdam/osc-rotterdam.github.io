@@ -34,15 +34,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [author]
   name = "Open Science Community Rotterdam"
-  bio = "Official website of the <br/> Open Science Community of <br/> [Erasmus Universiteit Rotterdam](https://www.eur.nl/en) and <br/> [Erasmus Medical Center](https://www.erasmusmc.nl/)."
+  bio = "Official website of the <br/> Open Science Community of <br/> [Erasmus Universiteit Rotterdam](https://www.eur.nl/en) and <br/> [Erasmus Medical Center](https://www.erasmusmc.nl/). <br/> Email: [info@openscience-rotterdam.com](mailto:info@openscience-rotterdam.com)"
   # job = "Open Science Community Rotterdam"
-  location = "Rotterdam (NL)"
+  # location = "Rotterdam (NL)"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "info@openscience-rotterdam.com"
+  # gravatarEmail = "info@openscience-rotterdam.com"
   # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  # picture = "OSCR_thumbnail.svg"
+  picture = "/images/OSCR_thumbnail.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "OSCRotterdam"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -65,33 +65,32 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 2
   identifier = "new"
   name = "News"
-  #pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
-  pre = "<i class=\"ai ai-osf ai-2x\"></i>"
-  url = "/Categories/news"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "/Categories/News"
 [[menu.main]]
   weight = 3
   identifier = "peo"
   name = "People"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-child\"></i>"
-  url = "/Categories/people"
+  url = "/Categories/People"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "cod"
   name = "Code of Conduct"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
   url = "https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing"
 [[menu.main]]
-  weight = 6
+  weight = 5
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
-#[[menu.main]]
-#  weight = 4
-#  identifier = "about"
-#  name = "About"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-#  url = "/#about"
+[[menu.main]]
+  weight = 6
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/#about"
 
 [[menu.links]]
   weight = 1

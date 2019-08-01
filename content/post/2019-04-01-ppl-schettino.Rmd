@@ -3,7 +3,7 @@ title: "OSCR Member: Antonio Schettino"
 date: 2019-04-01
 slug: "oscr-ppl-schettino"
 categories: ["people"]
-tags: ["cat lover", "open access", "data management", "data sharing", "reproducible analysis", "open source software", "preregistration"]
+tags: ["cat lover", "data sharing", "reproducible analysis", "preregistration"] # top 3 categories + unique
 coverImage: /images/people.svg
 thumbnailImage: /images/Schettino.jpg
 thumbnailImagePosition: left
@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: Welcome to the community, Antonio!
+summary: Coordinator Open Science Community Rotterdam
 editor_options: 
   chunk_output_type: console
 ---
@@ -51,31 +51,37 @@ As Coordinator of the Open Science Community Rotterdam, I facilitate communicati
 
 Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
 
+<!-- EMAIL -->
 <p>
   <a href="mailto:schettino@eur.nl">
   <img border="0" alt="Antonio Schettino" src="/images/Schettino.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
+<!-- CV -->
 <p align="center">
   <a href="https://asch3tti.netlify.com/cv/schettino_academic.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
+<!-- TWITTER -->
 <p align="center">
   <a href="https://twitter.com/asch3tti" class="fa fa-twitter fa-2x">
   </a>
 </p>
 
+<!-- GITHUB -->
+<!-- 
 <p align="center">
   <a href="https://github.com/aschetti" class="fa fa-github fa-2x" style="color:#000000;">
   </a>
 </p>
-
-<!-- ADD OSF FROM ACADEMICONS -->
-
+ -->
+ 
+<!-- OSF -->
 <p align="center">
-  <a href="https://osf.io/zbv65/"> <i class="fa-li ai ai-osf ai-2x"></i></a>
+  <a href="https://osf.io/zbv65/"> <i class="ai ai-osf ai-2x"  style="color:#000000;"></i>
+  </a>
 </p>
 
 <BR>
