@@ -8,38 +8,8 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/2019/07/soory-no-news-yet/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/home/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/news/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,14 +18,18 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/2019/04/oscr-ppl-schettino/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cat-lover/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -72,8 +46,26 @@
   </url>
   
   <url>
+    <loc>/categories/home/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/news/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/open-access/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,6 +82,12 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/preregistration/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -102,8 +100,9 @@
   </url>
   
   <url>
-    <loc>/2019/04/oscr-ppl-schettino/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news on Open Science Community Rotterdam</title>
+    <title>News on Open Science Community Rotterdam</title>
     <link>/categories/news/</link>
-    <description>Recent content in news on Open Science Community Rotterdam</description>
+    <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/07/soory-no-news-yet/</guid>
-      <description>
-
-
-</description>
+      <description>HUGOMORE42 This is just a placeholder!</description>
     </item>
     
   </channel>
