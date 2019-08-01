@@ -3,7 +3,7 @@ title: "OSCR Member: Oliver Lindemann"
 date: 2019-07-30
 slug: "oscr-ppl-lindemann"
 categories: ["people"]
-tags: ["cat lover", "open access", "data management", "data sharing", "reproducible analysis", "open source software", "preregistration"]
+tags: ["data management", "data sharing", "reproducible analysis", "open source software", "preregistration", "Linux"]
 coverImage: /images/people.svg
 thumbnailImage: /images/oliver-2.jpg
 thumbnailImagePosition: left
