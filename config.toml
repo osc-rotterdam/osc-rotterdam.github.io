@@ -73,12 +73,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "People"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-child\"></i>"
   url = "/Categories/People"
-[[menu.main]]
-  weight = 4
-  identifier = "cod"
-  name = "Code of Conduct"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
-  url = "https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing"
+#[[menu.main]]
+#  weight = 4
+#  identifier = "cod"
+#  name = "Code of Conduct"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
+#  url = "https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing"
 [[menu.main]]
   weight = 5
   identifier = "tags"
@@ -92,18 +92,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
 
-[[menu.links]]
-  weight = 1
-  identifier = "twitter"
-  name = "Twitter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
-  url = "https://twitter.com/OSCRotterdam"  
-[[menu.links]]
-  weight = 2
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/osc-rotterdam"
+#[[menu.links]]
+#  weight = 1
+#  identifier = "twitter"
+#  name = "Twitter"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+#  url = "https://twitter.com/OSCRotterdam"  
+#[[menu.links]]
+#  weight = 2
+#  identifier = "github"
+#  name = "GitHub"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+#  url = "https://github.com/osc-rotterdam"
 # [[menu.links]]
 #   weight = 3
 #   identifier = "stackoverflow"
