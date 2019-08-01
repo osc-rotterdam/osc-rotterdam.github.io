@@ -3,17 +3,17 @@ title: "OSCR Member: Oliver Lindemann"
 date: 2019-07-30
 slug: "oscr-ppl-lindemann"
 categories: ["people"]
-tags: ["data management", "data sharing", "reproducible analysis", "open source software", "preregistration", "Linux"]
+tags: ["data management", "data sharing", "reproducible analysis", "open source software", "preregistration", "Linux", "school-essb"]
 coverImage: /images/people.svg
 thumbnailImage: /images/oliver-2.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
 metaAlignment: center
-showMeta: true
-comments: true
+showMeta: True
+comments: True
 showActions: true
-summary: Welcome to the community, Oliver!
+summary: Cognitive Psychologist, ESSB
 editor_options: 
   chunk_output_type: console
 ---
