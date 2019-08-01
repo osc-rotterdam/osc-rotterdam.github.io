@@ -13,21 +13,21 @@ showActions: false
 
 ## Who are we?
 
-Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details please check out our [**Code of Conduct**](/coc/).
+Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Code of Conduct**](/coc/).
 
 
 **OSCR** is part of a growing national network of communities including [Amsterdam](https://twitter.com/OSCAmsterdam), [Eindhoven](https://twitter.com/OSCEindhoven), [Groningen](https://twitter.com/OSCGroningen), [Leiden](https://twitter.com/OSCLeiden), [Nijmegen](https://twitter.com/OSCNijmegen), [Tilburg](https://twitter.com/OpenTilburg), and [Utrecht](https://twitter.com/OpenSciUtrecht).
 
 ## About this website
 
-Check out [**News**](/new) to find recent posts on different topics and announcements. Click on [**People**](/categories/people/)  or browse through the [**Tags**](/tags) to discover the members of the community and thier expertises.
+Check out [**News**](/new) to find recent posts on different topics and announcements. Click on [**People**](/categories/people/) or browse through the [**Tags**](/tags) to discover the members of the community and their expertise.
 
 ## Contact
 
-The coordinator of the **OSCR**  is [Antonio Schettino](https://asch3tti.netlify.com/). For inquiries, please contact us via email info@openscience-rotterdam.com. 
-
+The coordinator of the **OSCR** is [Antonio Schettino](https://asch3tti.netlify.com/). For inquiries, please contact us via email at info@openscience-rotterdam.com. 
 
 <hr>
+
 Feel free to follow us on [Twitter](https://twitter.com/OSCRotterdam).
 
 <p><center><a class="twitter-timeline" data-width="70%"  data-height="600" data-theme="light" href="https://twitter.com/OSCRotterdam">Tweets by OSCRotterdam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -35,7 +35,8 @@ Feel free to follow us on [Twitter](https://twitter.com/OSCRotterdam).
 
 <hr>
 
-
 <small><small>
 This website is maintained by [Antonio Schettino](https://asch3tti.netlify.com/) and [Oliver Lindemann](http://www.cognitive-psychology.eu/lindemann/). It is developed in [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [Hugo](https://themes.gohugo.io/) using [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme/) theme. Find the source code on [GitHub](https://github.com/osc-rotterdam/osc-rotterdam.github.io/tree/development). 
 </small></small>
+
+

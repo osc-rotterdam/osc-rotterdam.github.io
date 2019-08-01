@@ -123,6 +123,5 @@ radarchart(OS_skills,
 ```
 
 ***
-***
 
 
