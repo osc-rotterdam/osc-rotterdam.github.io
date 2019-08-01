@@ -65,7 +65,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 2
   identifier = "new"
   name = "News"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  #pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  pre = "<i class=\"ai ai-osf ai-2x\"></i>"
   url = "/Categories/news"
 [[menu.main]]
   weight = 3

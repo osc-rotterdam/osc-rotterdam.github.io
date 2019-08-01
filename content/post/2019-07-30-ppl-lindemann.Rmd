@@ -58,7 +58,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 </p>
 
 <p align="center">
-  <a href=http://www.cognitive-psychology.eu/lindemann/" class="fa fa-file fa-2x" style="color:#00B969;">
+  <a href="http://www.cognitive-psychology.eu/lindemann/" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
