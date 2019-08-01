@@ -3,7 +3,7 @@
 # Author : Thibaud Leprêtre
 
 # I STRONGLY recommend you to use a CDN to speed up loading of pages.
-  # There is many free CDN like Cloudinary or you can also use indirectly
+# There is many free CDN like Cloudinary or you can also use indirectly
 # by using services like Google Photos.
 
 # If you want to store images yourself, please read this guidelines:
@@ -39,9 +39,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   location = "Rotterdam (NL)"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "info@openscience-rotterdam.com"
+  # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  # picture = "OSCR-background.png"
+  # picture = "OSCR_thumbnail.svg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "OSCRotterdam"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -161,7 +162,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "green-background.png" # this does not work
+  coverImage = "green-background.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = false
