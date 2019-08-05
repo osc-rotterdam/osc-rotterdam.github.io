@@ -6,18 +6,20 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sorry no News yet</title>
-      <link>https://www.openscience-rotterdam.com/2019/07/soory-no-news-yet/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <title>The OSCR website is live!</title>
+      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/07/soory-no-news-yet/</guid>
-      <description>HUGOMORE42 This is just a placeholder!</description>
+      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
+      <description>The official website of the Open Science Community Rotterdam is now live!
+Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
+Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
     </item>
     
   </channel>
