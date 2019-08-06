@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
   
-baseURL = "https://www.openscience-rotterdam.com/"
+baseURL = "https://www.openscience-rotterdam.com/home"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Open Science Community Rotterdam"
@@ -39,7 +39,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # location = "Rotterdam (NL)"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "info@openscience-rotterdam.com"
-  # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "/images/OSCR_thumbnail.png"
