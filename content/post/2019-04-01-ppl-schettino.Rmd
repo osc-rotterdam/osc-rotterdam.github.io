@@ -3,7 +3,7 @@ title: "OSCR Member: Antonio Schettino"
 date: 2019-04-01
 slug: "oscr-ppl-schettino"
 categories: ["people"]
-tags: ["cat lover", "data sharing", "reproducible analysis", "preregistration"] # top 3 categories + unique
+tags: ["cat lover", "data sharing", "reproducible analysis", "preregistration"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/Schettino.jpg
 thumbnailImagePosition: left
@@ -97,21 +97,6 @@ special_skill <- "cat lover"
 OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
   dplyr::select(c(special_skill, "open source software", "data sharing", "data management", "reproducible analysis", "open access", "preregistration"))
-
-# # using the tidyverse
-# library(ggiraphExtra)
-# OS_skills[3,] %>%
-#   ggRadar(.,
-#           rescale = FALSE, legend.position = "none", colour = "#00B969",
-#           size = 1, interactive = FALSE, use.label = TRUE) +
-#   scale_y_continuous(labels = NULL, minor_breaks = NULL) + # don't show ticks
-#   ggtitle("OPEN SCIENCE SKILLS") +
-#   theme(
-#     axis.text.x = element_text(size = 18),
-#     plot.title = element_text(size = 26, face = "bold", hjust = .5),
-#     panel.background = element_blank(),
-#     panel.grid.major = element_line(colour = "#7e7e7e", linetype = "dotted"),
-#   )
 
 # custom radar plot
 radarchart(OS_skills,
