@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
       <description>Policy Director, RSM</description>
     </item>
     
     <item>
       <title>The OSCR website is live!</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
+      <link>/2019/08/website-live/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
+      <guid>/2019/08/website-live/</guid>
       <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <link>/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
+      <guid>/2019/07/oscr-ppl-lindemann/</guid>
       <description>Cognitive Psychologist, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <link>/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
+      <guid>/2019/04/oscr-ppl-schettino/</guid>
       <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     

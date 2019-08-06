@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>school-rsm on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+    <link>/tags/school-rsm/</link>
     <description>Recent content in school-rsm on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/school-rsm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/school-rsm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
       <description>Policy Director, RSM</description>
     </item>
     

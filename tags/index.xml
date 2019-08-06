@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <link>/tags/data-management/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <guid>/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <link>/tags/data-sharing/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <guid>/tags/data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <link>/tags/open-access/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <guid>/tags/open-access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>policy analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/policy-analysis/</link>
+      <link>/tags/policy-analysis/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/policy-analysis/</guid>
+      <guid>/tags/policy-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school-rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <link>/tags/school-rsm/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
+      <guid>/tags/school-rsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://www.openscience-rotterdam.com/tags/linux/</link>
+      <link>/tags/linux/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <link>/tags/open-source-software/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
+      <guid>/tags/open-source-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <link>/tags/reproducible-analysis/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <guid>/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <link>/tags/school-essb/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <guid>/tags/school-essb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cat lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <link>/tags/cat-lover/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
+      <guid>/tags/cat-lover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <link>/tags/preregistration/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <guid>/tags/preregistration/</guid>
       <description></description>
     </item>
     

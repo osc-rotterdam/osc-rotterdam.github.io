@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/categories/news/</link>
+    <link>/categories/news/</link>
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The OSCR website is live!</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
+      <link>/2019/08/website-live/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
+      <guid>/2019/08/website-live/</guid>
       <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     

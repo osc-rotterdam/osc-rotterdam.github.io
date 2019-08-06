@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/</link>
+    <link>/</link>
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
       <description>Policy Director, RSM</description>
     </item>
     
     <item>
       <title>The OSCR website is live!</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
+      <link>/2019/08/website-live/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
+      <guid>/2019/08/website-live/</guid>
       <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.openscience-rotterdam.com/coc/</link>
+      <link>/coc/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/coc/</guid>
+      <guid>/coc/</guid>
       <description>Code of Conduct Antonio Schettino
 Mission The Open Science Community Rotterdam (OSCR) organizes and promotes formal and informal events and meetings to discuss open and transparent scientific practices (also termed open science, OS). OSCR has three main goals:
  facilitate communication and sharing of information on OS; increase and speed up the practical adoption of OS; build professional networks and foster scientific collaborations, with OS as an integral part of research.</description>
@@ -42,29 +42,29 @@ Mission The Open Science Community Rotterdam (OSCR) organizes and promotes forma
     
     <item>
       <title></title>
-      <link>https://www.openscience-rotterdam.com/home/</link>
+      <link>/home/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/</guid>
+      <guid>/home/</guid>
       <description>Who are we? Open Science Community Rotterdam (OSCR) comprises of academics and support staff working at Erasmus University Rotterdam (EUR) and Erasmus Medical Center (ErasmusMC). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our Code of Conduct.
 OSCR is part of a growing national network of communities including Amsterdam, Eindhoven, Groningen, Leiden, Nijmegen, Tilburg, and Utrecht.</description>
     </item>
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <link>/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
+      <guid>/2019/07/oscr-ppl-lindemann/</guid>
       <description>Cognitive Psychologist, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <link>/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
+      <guid>/2019/04/oscr-ppl-schettino/</guid>
       <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
