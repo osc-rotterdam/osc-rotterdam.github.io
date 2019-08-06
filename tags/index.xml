@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/home/tags/</link>
+    <link>https://www.openscience-rotterdam.com/tags/</link>
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/home/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cat Lover</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/cat-lover/</link>
+      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/cat-lover/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Management</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/data-management/</link>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/data-management/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Sharing</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/data-sharing/</link>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/data-sharing/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/linux/</link>
+      <link>https://www.openscience-rotterdam.com/tags/linux/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/linux/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Access</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/open-access/</link>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/open-access/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source Software</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/open-source-software/</link>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/open-source-software/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy Analysis</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/policy-analysis/</link>
+      <link>https://www.openscience-rotterdam.com/tags/policy-analysis/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/policy-analysis/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/policy-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preregistration</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/preregistration/</link>
+      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/preregistration/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducible Analysis</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/reproducible-analysis/</link>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/reproducible-analysis/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School Essb</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/school-essb/</link>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/school-essb/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School Rsm</title>
-      <link>https://www.openscience-rotterdam.com/home/tags/school-rsm/</link>
+      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/tags/school-rsm/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>
     </item>
     
