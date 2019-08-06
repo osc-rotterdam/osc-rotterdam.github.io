@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>preregistration on Open Science Community Rotterdam</title>
-    <link>/tags/preregistration/</link>
+    <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
     <description>Recent content in preregistration on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>/2019/04/oscr-ppl-schettino/</link>
+      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
       <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
