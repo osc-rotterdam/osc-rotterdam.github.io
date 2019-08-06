@@ -2,39 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Open Science Community Rotterdam</title>
-    <link>/categories/</link>
+    <link>https://www.openscience-rotterdam.com/categories/</link>
     <description>Recent content in Categories on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>people</title>
-      <link>/categories/people/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Home</title>
+      <link>https://www.openscience-rotterdam.com/categories/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/people/</guid>
+      <guid>https://www.openscience-rotterdam.com/categories/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>https://www.openscience-rotterdam.com/categories/news/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/news/</guid>
+      <guid>https://www.openscience-rotterdam.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>home</title>
-      <link>/categories/home/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <title>People</title>
+      <link>https://www.openscience-rotterdam.com/categories/people/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/home/</guid>
+      <guid>https://www.openscience-rotterdam.com/categories/people/</guid>
       <description></description>
     </item>
     
