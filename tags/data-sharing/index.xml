@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Sharing on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-    <description>Recent content in Data Sharing on Open Science Community Rotterdam</description>
+    <title>data sharing on Open Science Community Rotterdam</title>
+    <link>/tags/data-sharing/</link>
+    <description>Recent content in data sharing on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
-      <description> Description My role is institutional advancement of the business school at Erasmus University.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Open Science Expertise  </description>
-    </item>
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <link>/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
-      <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
-I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
+      <guid>/2019/07/oscr-ppl-lindemann/</guid>
+      <description>Cognitive Psychologist, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <link>/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
-      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
-As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
+      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
   </channel>

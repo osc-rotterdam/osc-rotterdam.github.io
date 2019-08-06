@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Access on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-    <description>Recent content in Open Access on Open Science Community Rotterdam</description>
+    <title>open access on Open Science Community Rotterdam</title>
+    <link>/tags/open-access/</link>
+    <description>Recent content in open access on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <title>OSCR Member: Antonio Schettino</title>
+      <link>/2019/04/oscr-ppl-schettino/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
-      <description> Description My role is institutional advancement of the business school at Erasmus University.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Open Science Expertise  </description>
+      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <description>Welcome to the community, Antonio!</description>
     </item>
     
   </channel>

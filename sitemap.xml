@@ -3,138 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/website-live/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/coc/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/home/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/linux/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <loc>/2019/08/website-live/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/news/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/coc/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/07/soory-no-news-yet/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/home/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>/2019/07/oscr-ppl-lindemann/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/policy-analysis/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>/tags/data-sharing/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>/tags/open-source-software/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
+    <loc>/categories/people/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reproducible-analysis/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/school-essb/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/04/oscr-ppl-schettino/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cat-lover/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <loc>/tags/preregistration/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

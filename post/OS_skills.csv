@@ -1,6 +1,5 @@
-name,cat lover,open access,data management,data sharing,reproducible analysis,open source software,preregistration,Linux,policy analysis
-max,10,10,10,10,10,10,10,10,10
-min,0,0,0,0,0,0,0,0,0
-Antonio Schettino,10,6,9,9,8,8,9,NA,NA
-Oliver Lindemann,NA,3,5,8,9,10,7,9,NA
-Wilfred Mijnhardt,NA,7,7,7,3,3,3,NA,10
+name,cat lover,open access,data management,data sharing,reproducible analysis,open source software,preregistration,Linux
+max,10,10,10,10,10,10,10,10
+min,0,0,0,0,0,0,0,0
+Antonio Schettino,10,6,9,9,8,8,9,0
+Oliver Lindemann,1,3,5,8,9,10,7,9
