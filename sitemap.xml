@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -50,7 +55,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,7 +133,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,7 +145,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
