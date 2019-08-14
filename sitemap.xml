@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
@@ -51,7 +56,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,13 +80,13 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +98,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,13 +110,19 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/punkrock/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,7 +134,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
