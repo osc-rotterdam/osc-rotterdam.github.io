@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat Lover on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+    <description>Recent content in Cat Lover on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/cat-lover/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Antonio Schettino</title>
+      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
+      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
+As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
+    </item>
+    
+  </channel>
+</rss>

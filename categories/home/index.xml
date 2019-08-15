@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/categories/home/</link>
+    <description>Recent content in Home on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.openscience-rotterdam.com/coc/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/coc/</guid>
+      <description>Code of Conduct Antonio Schettino
+Mission The Open Science Community Rotterdam (OSCR) organizes and promotes formal and informal events and meetings to discuss open and transparent scientific practices (also termed open science, OS). OSCR has three main goals:
+ facilitate communication and sharing of information on OS; increase and speed up the practical adoption of OS; build professional networks and foster scientific collaborations, with OS as an integral part of research.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.openscience-rotterdam.com/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/home/</guid>
+      <description>Who are we? Open Science Community Rotterdam (OSCR) comprises of academics and support staff working at Erasmus University Rotterdam (EUR) and Erasmus Medical Center (ErasmusMC). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our Code of Conduct.
+OSCR is part of a growing national network of communities including Amsterdam, Eindhoven, Groningen, Leiden, Nijmegen, Tilburg, and Utrecht.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punkrock on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/punkrock/</link>
+    <description>Recent content in Punkrock on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/punkrock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Matthias Wieser</title>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</guid>
+      <description>Description I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducible Analysis on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+    <description>Recent content in Reproducible Analysis on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/reproducible-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Jason Roos</title>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
+      <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+    </item>
+    
+    <item>
+      <title>OSCR Member: Oliver Lindemann</title>
+      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
+      <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
+I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
+    </item>
+    
+    <item>
+      <title>OSCR Member: Antonio Schettino</title>
+      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
+      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
+As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
+    </item>
+    
+  </channel>
+</rss>
