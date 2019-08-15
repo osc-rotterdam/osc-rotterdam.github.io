@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: Psychologist, Director of Research (Psychology), ESSB  
+summary: Professor of Psychology, Director of Research (Psychology), ESSB  
 editor_options: 
   chunk_output_type: console
 ---
