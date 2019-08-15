@@ -25,8 +25,11 @@
 public/
 content/post/*.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 content/*.html
 static/post/
 .Rproj.user
 =======
 >>>>>>> 1c66972e0fbb384eef68d413b5ffc7e0263d4d6f
+=======
+>>>>>>> master
