@@ -1,0 +1,104 @@
+---
+title: "OSCR Member: Rolf Zwaan"
+date: 2019-08-15
+slug: "oscr-ppl-zwaan"
+categories: ["people"]
+tags: ["data management", "reproducible analysis", "data sharing", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Zwaan.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Professor of Psychology, Chair of Brain & Cognition, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+My research is in the area of language processing and cognition. Current interests are conspiracy thinking and social media use.
+
+I conduct mostly behavioral research on language processing, memory, and learning. I have been an active participant in the open science movement for the past 6 years or so, focusing particularly on replication, on which I've written both theoretical and empirical papers as well as blog posts. My students and I routinely use preregistration for our experiments and always make our stimuli and data available. I am Senior Editor of [_Collabra: Psychology_](https://www.collabra.org/) in which we have an open data, open materials, open code, and open reviews policy.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:zwaan@essb.eur.nl">
+  <img border="0" alt="Rolf Zwaan" src="/images/Zwaan.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.eur.nl/people/rolf-zwaan" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/RolfZwaan" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- GOOGLE SCHOLAR -->
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=ICnWlukAAAAJ&hl=nl
+https://www.researchgate.net/profile/Rolf_Zwaan" class="ai ai-google-scholar fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Open Science Expertise
+
+```{r radarPlot}
+
+member_name <- "Rolf Zwaan"
+
+# OS_skills <- read_csv(paste0(getwd(), "/content/post/OS_skills.csv")) %>% # when testing
+OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("open source software", "data sharing", "data management", "reproducible analysis", "open access", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
