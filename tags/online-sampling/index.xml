@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Sampling on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/online-sampling/</link>
+    <description>Recent content in Online Sampling on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/online-sampling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Gabriele Paolacci</title>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
+      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
+ CV and Contact Info Click on the picture to send an email.</description>
+    </item>
+    
+  </channel>
+</rss>

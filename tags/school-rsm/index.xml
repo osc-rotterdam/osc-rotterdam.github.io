@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-rsm on Open Science Community Rotterdam</title>
-    <link>/tags/school-rsm/</link>
-    <description>Recent content in school-rsm on Open Science Community Rotterdam</description>
+    <title>School Rsm on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+    <description>Recent content in School Rsm on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/school-rsm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/school-rsm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>OSCR Member: Gabriele Paolacci</title>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
+      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
+ CV and Contact Info Click on the picture to send an email.</description>
+    </item>
+    
+    <item>
       <title>OSCR Member: Jason Roos</title>
-      <link>/2019/08/oscr-ppl-roos/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-roos/</guid>
-      <description>Associate Professor of Marketing, RSM</description>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
+      <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
     </item>
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
-      <description>Policy Director, RSM</description>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
+      <description> Description My role is institutional advancement of the business school at Erasmus University.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+     
+ Open Science Expertise  </description>
     </item>
     
   </channel>
