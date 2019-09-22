@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/categories/news/</link>
-    <description>Recent content in News on Open Science Community Rotterdam</description>
+    <title>Eshpm on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/eshpm/</link>
+    <description>Recent content in Eshpm on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/eshpm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
       <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
 I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
-    </item>
-    
-    <item>
-      <title>The OSCR website is live!</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
-      <description>The official website of the Open Science Community Rotterdam is now live!
-Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
-Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
     </item>
     
   </channel>
