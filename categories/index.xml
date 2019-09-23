@@ -6,18 +6,10 @@
     <description>Recent content in Categories on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Home</title>
-      <link>https://www.openscience-rotterdam.com/categories/home/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/categories/home/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>News</title>
@@ -29,11 +21,20 @@
     </item>
     
     <item>
-      <title>People</title>
+      <title>people</title>
       <link>https://www.openscience-rotterdam.com/categories/people/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/categories/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://www.openscience-rotterdam.com/categories/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/categories/home/</guid>
       <description></description>
     </item>
     
