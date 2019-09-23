@@ -5,7 +5,7 @@ set -e
 
 printf "Deploying updates to GitHub...\n"
 
-# make folder for master brach and move it to tmp
+# make folder for master branch and move it to tmp
 cp CNAME public/
 cp README.md public/
 cp .gitignore public/
@@ -31,8 +31,9 @@ if [ -n "$*" ]; then
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
+# Push master branch
 git push --all
 
 # switch back to development branch
 git checkout development
+
