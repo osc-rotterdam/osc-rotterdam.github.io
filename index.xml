@@ -2,84 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/</link>
+    <link>/</link>
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>OSCR Member: Meg Perry-Duxbury</title>
+      <link>/2019/10/oscr-ppl-perryduxbury/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/oscr-ppl-perryduxbury/</guid>
+      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
+I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
+ CV and Contact Info Click on the picture to send an email.</description>
+    </item>
+    
+    <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</link>
+      <link>/2019/09/announcement-osfworkshop-eshpm/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
-      <description>September 24th, h.14:30, room J7-43/J7-45</description>
+      <guid>/2019/09/announcement-osfworkshop-eshpm/</guid>
+      <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
+I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
     </item>
     
     <item>
       <title>OSCR Member: Gabriele Paolacci</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</link>
+      <link>/2019/08/oscr-ppl-paolacci/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
-      <description>Associate Professor of Marketing, RSM</description>
+      <guid>/2019/08/oscr-ppl-paolacci/</guid>
+      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
+ CV and Contact Info Click on the picture to send an email.</description>
     </item>
     
     <item>
       <title>OSCR Member: Rolf Zwaan</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</link>
+      <link>/2019/08/oscr-ppl-zwaan/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</guid>
-      <description>Professor of Psychology, Chair of Brain &amp;amp; Cognition, ESSB</description>
+      <guid>/2019/08/oscr-ppl-zwaan/</guid>
+      <description>Description My research is in the area of language processing and cognition. Current interests are conspiracy thinking and social media use.
+I conduct mostly behavioral research on language processing, memory, and learning. I have been an active participant in the open science movement for the past 6 years or so, focusing particularly on replication, on which I’ve written both theoretical and empirical papers as well as blog posts. My students and I routinely use preregistration for our experiments and always make our stimuli and data available.</description>
     </item>
     
     <item>
       <title>OSCR Member: Jason Roos</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</link>
+      <link>/2019/08/oscr-ppl-roos/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
-      <description>Associate Professor of Marketing, RSM</description>
+      <guid>/2019/08/oscr-ppl-roos/</guid>
+      <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
     </item>
     
     <item>
       <title>OSCR Member: Matthias Wieser</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</link>
+      <link>/2019/08/oscr-ppl-wieser/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</guid>
-      <description>Professor of Psychology, Director of Research (Psychology), ESSB</description>
+      <guid>/2019/08/oscr-ppl-wieser/</guid>
+      <description>Description I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain.</description>
     </item>
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
-      <description>Policy Director, RSM</description>
+      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
+      <description> Description My role is institutional advancement of the business school at Erasmus University.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+     
+ Open Science Expertise  </description>
     </item>
     
     <item>
       <title>The OSCR website is live!</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
+      <link>/2019/08/website-live/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
-      <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
+      <guid>/2019/08/website-live/</guid>
+      <description>The official website of the Open Science Community Rotterdam is now live!
+Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
+Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.openscience-rotterdam.com/coc/</link>
+      <link>/coc/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/coc/</guid>
+      <guid>/coc/</guid>
       <description>Code of Conduct Antonio Schettino
 Mission The Open Science Community Rotterdam (OSCR) organizes and promotes formal and informal events and meetings to discuss open and transparent scientific practices (also termed open science, OS). OSCR has three main goals:
  facilitate communication and sharing of information on OS; increase and speed up the practical adoption of OS; build professional networks and foster scientific collaborations, with OS as an integral part of research.</description>
@@ -87,30 +107,32 @@ Mission The Open Science Community Rotterdam (OSCR) organizes and promotes forma
     
     <item>
       <title></title>
-      <link>https://www.openscience-rotterdam.com/home/</link>
+      <link>/home/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/home/</guid>
+      <guid>/home/</guid>
       <description>Who are we? Open Science Community Rotterdam (OSCR) comprises of academics and support staff working at Erasmus University Rotterdam (EUR) and Erasmus Medical Center (ErasmusMC). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our Code of Conduct.
 OSCR is part of a growing national network of communities including Amsterdam, Eindhoven, Groningen, Leiden, Nijmegen, Tilburg, and Utrecht.</description>
     </item>
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
+      <link>/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
-      <description>Cognitive Psychologist, ESSB</description>
+      <guid>/2019/07/oscr-ppl-lindemann/</guid>
+      <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
+I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
+      <link>/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
-      <description>Coordinator Open Science Community Rotterdam</description>
+      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
+As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
     </item>
     
   </channel>
