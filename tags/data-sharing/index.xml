@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Sharing on Open Science Community Rotterdam</title>
-    <link>/tags/data-sharing/</link>
+    <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
     <description>Recent content in Data Sharing on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Rolf Zwaan</title>
-      <link>/2019/08/oscr-ppl-zwaan/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-zwaan/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</guid>
       <description>Description My research is in the area of language processing and cognition. Current interests are conspiracy thinking and social media use.
 I conduct mostly behavioral research on language processing, memory, and learning. I have been an active participant in the open science movement for the past 6 years or so, focusing particularly on replication, on which I’ve written both theoretical and empirical papers as well as blog posts. My students and I routinely use preregistration for our experiments and always make our stimuli and data available.</description>
     </item>
     
     <item>
       <title>OSCR Member: Jason Roos</title>
-      <link>/2019/08/oscr-ppl-roos/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-roos/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
       <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
  CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
     </item>
     
     <item>
       <title>OSCR Member: Matthias Wieser</title>
-      <link>/2019/08/oscr-ppl-wieser/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-wieser/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</guid>
       <description>Description I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain.</description>
     </item>
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
       <description> Description My role is institutional advancement of the business school at Erasmus University.
  CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
      
@@ -54,20 +54,20 @@ I conduct mostly behavioral research on language processing, memory, and learnin
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>/2019/07/oscr-ppl-lindemann/</link>
+      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/07/oscr-ppl-lindemann/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
       <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
 I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>/2019/04/oscr-ppl-schettino/</link>
+      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
       <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
 As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
     </item>

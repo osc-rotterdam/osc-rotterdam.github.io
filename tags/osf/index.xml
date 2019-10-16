@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osf on Open Science Community Rotterdam</title>
-    <link>/tags/osf/</link>
+    <link>https://www.openscience-rotterdam.com/tags/osf/</link>
     <description>Recent content in Osf on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/osf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/osf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>/2019/09/announcement-osfworkshop-eshpm/</link>
+      <link>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/announcement-osfworkshop-eshpm/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
       <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
 I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
     </item>
