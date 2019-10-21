@@ -6,10 +6,19 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSCR Member: Aurélie Lemmens</title>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-paolacci/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-paolacci/</guid>
+      <description>Description My current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Aleksandra Badura</title>

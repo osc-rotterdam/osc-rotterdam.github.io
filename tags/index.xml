@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business Open Science</title>
+      <link>https://www.openscience-rotterdam.com/tags/business-open-science/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/business-open-science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cat Lover</title>
@@ -62,6 +71,15 @@
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -131,7 +149,7 @@
     <item>
       <title>R</title>
       <link>https://www.openscience-rotterdam.com/tags/r/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
       <description></description>
@@ -140,7 +158,7 @@
     <item>
       <title>Reproducible Analysis</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
@@ -176,7 +194,7 @@
     <item>
       <title>School Rsm</title>
       <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>

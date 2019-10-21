@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/r/</link>
-    <description>Recent content in R on Open Science Community Rotterdam</description>
+    <title>Machine Learning on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-paolacci/</guid>
       <description>Description My current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
-    </item>
-    
-    <item>
-      <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
-      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
-I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
- CV and Contact Info Click on the picture to send an email.</description>
     </item>
     
   </channel>
