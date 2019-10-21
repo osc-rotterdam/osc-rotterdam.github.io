@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -133,7 +138,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,6 +204,12 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
