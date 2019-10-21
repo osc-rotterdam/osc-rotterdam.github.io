@@ -1,7 +1,7 @@
 ---
 title: "OSCR Member: Aurélie Lemmens"
 date: 2019-10-21
-slug: "oscr-ppl-paolacci"
+slug: "oscr-ppl-lemmens"
 categories: ["people"]
 tags: ["R", "machine learning", "business & open science", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
