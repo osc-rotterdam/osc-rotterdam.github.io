@@ -6,10 +6,20 @@
     <description>Recent content in Eshpm on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/eshpm/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talk on Collective and Individual Benefits of Open Science at ESHPM</title>
+      <link>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</guid>
+      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with senior researchers working at the Erasmus School of Health Policy and Management (ESHPM).
+I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
+    </item>
     
     <item>
       <title>OSF Workshop at ESHPM</title>
