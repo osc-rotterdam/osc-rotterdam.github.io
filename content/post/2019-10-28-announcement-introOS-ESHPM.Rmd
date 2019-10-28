@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-On October 31st I will discuss the benefits of open science (and open data in particular) with senior researchers working at the Erasmus School of Health Policy and Management ([ESHPM](https://www.eur.nl/eshpm/)). 
+On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management ([ESHPM](https://www.eur.nl/eshpm/)). 
 
 I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how _non-transparent_ scholarly output -- combined with the current sluggish and cumbersome publication system -- can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences. I will then highlight how investing time and resources on adopting open science practices can have perceived and quantifiable benefits for the career of individual researchers, e.g., more collaborations, increased number of citations for papers accompanied by their respective curated datasets, and selective job opportunities. Finally, I will talk about how **_OSCR_** can support individuals and research groups in the transition to more openness by creating a network of "practicioners of open science" (with various levels of expertise) as well as offering workshops and personalized advice.
 
