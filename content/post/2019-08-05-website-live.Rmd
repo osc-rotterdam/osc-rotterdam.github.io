@@ -24,7 +24,7 @@ Have you heard of this community but you don't really know what we do? On the [*
 
 Who are the members of our community? Click on [**People**](/categories/people) to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!
 
-Do you need help implementing open science practices in your workflow? The [**Tabs**](/tags) section allows you to search who, within the community, has relevant expertise in open access publications, data sharing, reproducible analysis, and much more. Feel free to contact them for advice and collaboration!
+Do you need help implementing open science practices in your workflow? The [**Tags**](/tags) section allows you to search who, within the community, has relevant expertise in open access publications, data sharing, reproducible analysis, and much more. Feel free to contact them for advice and collaboration!
 
 Finally, in the [**News**](/new) section we will communicate upcoming events, such as workshops and journal clubs.
 
