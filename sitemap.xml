@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -101,7 +106,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,13 +166,13 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,7 +184,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +196,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,7 +214,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -221,13 +226,13 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
