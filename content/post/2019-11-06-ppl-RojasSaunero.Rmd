@@ -1,6 +1,6 @@
 ---
 title: "OSCR Member: L. Paloma Rojas Saunero"
-date: 2019-11-05
+date: 2019-11-06
 slug: "oscr-ppl-rojassaunero"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "open source software", "data management", "school-erasmusmc"] # top 3 categories + unique + school
@@ -43,7 +43,7 @@ opts_chunk$set(
 
 # Description
 
-I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies Rdam organizer) and advocate of open science.
+I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R'dam organizer) and advocate of open science.
 
 # CV and Contact Info
 
