@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>school-erasmusmc on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
+    <link>/tags/school-erasmusmc/</link>
     <description>Recent content in school-erasmusmc on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/school-erasmusmc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/school-erasmusmc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</link>
+      <link>/2019/11/oscr-ppl-rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</guid>
+      <guid>/2019/11/oscr-ppl-rojassaunero/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
       <title>OSCR Member: Aleksandra Badura</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</link>
+      <link>/2019/10/oscr-ppl-badura/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</guid>
+      <guid>/2019/10/oscr-ppl-badura/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
     

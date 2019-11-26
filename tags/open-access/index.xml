@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open access on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+    <link>/tags/open-access/</link>
     <description>Recent content in open access on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.openscience-rotterdam.com/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Aleksandra Badura</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</link>
+      <link>/2019/10/oscr-ppl-badura/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</guid>
+      <guid>/2019/10/oscr-ppl-badura/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
     
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
+      <link>/2019/10/oscr-ppl-perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
+      <guid>/2019/10/oscr-ppl-perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
     
     <item>
       <title>OSCR Member: Rolf Zwaan</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</link>
+      <link>/2019/08/oscr-ppl-zwaan/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</guid>
+      <guid>/2019/08/oscr-ppl-zwaan/</guid>
       <description>Professor of Psychology, Chair of Brain &amp;amp; Cognition, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Matthias Wieser</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</link>
+      <link>/2019/08/oscr-ppl-wieser/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</guid>
+      <guid>/2019/08/oscr-ppl-wieser/</guid>
       <description>Professor of Psychology, Director of Research (Psychology), ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
       <description>Policy Director, RSM</description>
     </item>
     
