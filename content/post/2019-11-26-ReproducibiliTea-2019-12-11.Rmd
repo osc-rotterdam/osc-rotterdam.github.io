@@ -1,8 +1,8 @@
 ---
 title: ReproducibiliTea for qualitative researchers
 author: "Antonio Schettino"
-date: 2019-12-11
-slug: ReproducibiliTea-2019-12-11
+date: 2019-11-26
+slug: ReproducibiliTea-Dec2019
 categories: ["News"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg
@@ -35,7 +35,7 @@ There are now almost 50 ReproducibiliTea journal clubs worldwide (!), and the [R
 
 ## Next Meeting
 
-The next meeting will take place after the Christmas holidays, on **January 22nd 2020** at **11:00** in room **VB-02** ([V building](https://www.eur.nl/en/campus/locations/spaces/v-building)).
+The next meeting will take place after the Christmas holidays, on **January 22nd 2020** at **11:00** in room **VB-02** ([V building](https://www.eur.nl/en/campus/locations/spaces/v-building)). Contact schettino@eur.nl to be the next discussant!
 
 Greetings,
 
@@ -43,6 +43,6 @@ Antonio Schettino and Rik Joosen
 
 ***
 
-[^1]: The slide deck will soon be available on our [OSF repository](https://osf.io/yk9pf/).
+[^1]: The slide deck will be available on our [OSF repository](https://osf.io/yk9pf/).
 
 
