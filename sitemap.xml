@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/11/jongerling/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/11/reproducibilitea-dec2019/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -140,8 +145,14 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/latex/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/tags/linux/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -189,7 +200,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -219,7 +230,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -231,7 +242,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,7 +260,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
