@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Management on Open Science Community Rotterdam</title>
+    <title>data management on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-    <description>Recent content in Data Management on Open Science Community Rotterdam</description>
+    <description>Recent content in data management on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</guid>
-      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</guid>
-      <description>Description Throughout my Ph.D. studies and Postdoctoral Fellowships, my work had focused on unraveling the function of the cerebellum in health and disease, encompassing two research lines:
- Line-1. I have established that the modulation of cerebellar activity is essential for motor learning and helped to develop a computer model that reproduces experimental data and can predict motor impairments based on neural activity. Using intravital two-photon imaging, we discovered that granule cells acquire signals predictive of motor performance.</description>
+      <description>Assistant Professor, Erasmus MC</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
-      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -47,8 +44,7 @@
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
-      <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -57,10 +53,7 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
-      <description> Description My role is institutional advancement of the business school at Erasmus University.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Open Science Expertise  </description>
+      <description>Policy Director, RSM</description>
     </item>
     
   </channel>

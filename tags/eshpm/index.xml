@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eshpm on Open Science Community Rotterdam</title>
+    <title>ESHPM on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/eshpm/</link>
-    <description>Recent content in Eshpm on Open Science Community Rotterdam</description>
+    <description>Recent content in ESHPM on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</guid>
-      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management (ESHPM).
-I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
+      <description>Upfront investment, tangible career benefits.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ I will first provide a brief introduction on open science and some active areas 
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
-      <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
-I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
+      <description>September 24th, h.14:30, room J7-43/J7-45</description>
     </item>
     
   </channel>

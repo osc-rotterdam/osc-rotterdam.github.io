@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reproducibilitea on Open Science Community Rotterdam</title>
+    <title>ReproducibiliTea on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
-    <description>Recent content in Reproducibilitea on Open Science Community Rotterdam</description>
+    <description>Recent content in ReproducibiliTea on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</guid>
-      <description>Exciting news! OSCR will organize monthly journal clubs following the ReproducibiliTea format!
-Here you will find a brief description of how the OSCR ReproducibiliTea will be organized. In brief, each month we will meet for an hour either in T (Mandeville) or J (Bayle) building to discuss a paper or blog post treating a specific open science topic. Some examples may include:
- does publishing open access have specific costs and benefits for the individual researcher?</description>
+      <description>A monthly journal club to discuss all things open science</description>
     </item>
     
   </channel>
