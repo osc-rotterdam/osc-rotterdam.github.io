@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Open Science Community Rotterdam</title>
@@ -13,29 +13,32 @@
     
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</link>
+      <link>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</guid>
-      <description>PhD Candidate, Erasmus MC</description>
+      <guid>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</guid>
+      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
     </item>
     
     <item>
       <title>OSCR Member: Aurélie Lemmens</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/lemmens/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</guid>
-      <description>Associate Professor of Marketing, RSM</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/lemmens/</guid>
+      <description>Description My current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
     </item>
     
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
-      <description>PhD Candidate, ESPHM</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</guid>
+      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
+I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
+ CV and Contact Info Click on the picture to send an email.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sushi lover on Open Science Community Rotterdam</title>
+    <title>Sushi Lover on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/sushi-lover/</link>
-    <description>Recent content in sushi lover on Open Science Community Rotterdam</description>
+    <description>Recent content in Sushi Lover on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -13,11 +13,13 @@
     
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
-      <description>PhD Candidate, ESPHM</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</guid>
+      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
+I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
+ CV and Contact Info Click on the picture to send an email.</description>
     </item>
     
   </channel>

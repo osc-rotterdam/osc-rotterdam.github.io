@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Open Science Community Rotterdam</title>
@@ -6,36 +6,49 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>ReproducibiliTea for qualitative researchers</title>
+      <link>https://www.openscience-rotterdam.com/2019/11/reproducibilitea-dec2019/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/11/reproducibilitea-dec2019/</guid>
+      <description>As many of you know, OSCR recently started a ReproducibiliTea journal club (for details on the initiative, see a previous blog post). Seven people attended our first meeting (on November 13th): everyone was interested and engaged, thanks to a cozy and informal environment conducive of open debate… we could not have started in a better way! This nice atmosphere sparked very interesting discussions, one of which is the topic of our next meeting.</description>
+    </item>
+    
+    <item>
       <title>Talk on Collective and Individual Benefits of Open Science at ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</guid>
-      <description>Upfront investment, tangible career benefits.</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</guid>
+      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management (ESHPM).
+I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
     </item>
     
     <item>
       <title>ReproducibiliTea journal clubs</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-reproducibilitea/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</guid>
-      <description>A monthly journal club to discuss all things open science</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-reproducibilitea/</guid>
+      <description>Exciting news! OSCR will organize monthly journal clubs following the ReproducibiliTea format!
+Here you will find a brief description of how the OSCR ReproducibiliTea will be organized. In brief, each month we will meet for an hour either in T (Mandeville) or J (Bayle) building to discuss a paper or blog post treating a specific open science topic. Some examples may include:
+ does publishing open access have specific costs and benefits for the individual researcher?</description>
     </item>
     
     <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</link>
+      <link>https://www.openscience-rotterdam.com/2019/09/osfworkshop-eshpm-sept2019/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
-      <description>September 24th, h.14:30, room J7-43/J7-45</description>
+      <guid>https://www.openscience-rotterdam.com/2019/09/osfworkshop-eshpm-sept2019/</guid>
+      <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
+I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
     </item>
     
     <item>
@@ -44,7 +57,9 @@
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
-      <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
+      <description>The official website of the Open Science Community Rotterdam is now live!
+Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
+Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
     </item>
     
   </channel>

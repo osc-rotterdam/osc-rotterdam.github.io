@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-erasmusmc on Open Science Community Rotterdam</title>
+    <title>School Erasmusmc on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
-    <description>Recent content in school-erasmusmc on Open Science Community Rotterdam</description>
+    <description>Recent content in School Erasmusmc on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
@@ -13,20 +13,22 @@
     
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</link>
+      <link>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</guid>
-      <description>PhD Candidate, Erasmus MC</description>
+      <guid>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</guid>
+      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
     </item>
     
     <item>
       <title>OSCR Member: Aleksandra Badura</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/badura/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</guid>
-      <description>Assistant Professor, Erasmus MC</description>
+      <guid>https://www.openscience-rotterdam.com/2019/10/badura/</guid>
+      <description>Description Throughout my Ph.D. studies and Postdoctoral Fellowships, my work had focused on unraveling the function of the cerebellum in health and disease, encompassing two research lines:
+ Line-1. I have established that the modulation of cerebellar activity is essential for motor learning and helped to develop a computer model that reproduces experimental data and can predict motor impairments based on neural activity. Using intravital two-photon imaging, we discovered that granule cells acquire signals predictive of motor performance.</description>
     </item>
     
   </channel>
