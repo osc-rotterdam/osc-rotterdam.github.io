@@ -1,11 +1,11 @@
 ---
-title: "OSCR Member: Jason Roos"
-date: 2019-08-14
-slug: "oscr-ppl-roos"
+title: "OSCR Member: Meg Perry-Duxbury"
+date: 2019-10-03
+slug: "perryduxbury"
 categories: ["people"]
-tags: ["data management", "reproducible analysis", "data sharing", "school-rsm"] # top 3 categories + unique + school
+tags: ["R", "open access", "reproducible analysis", "sushi lover", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Roos.jpg
+thumbnailImage: /images/PerryDuxbury.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: Associate Professor of Marketing, RSM
+summary: PhD Candidate, ESPHM
 editor_options: 
   chunk_output_type: console
 ---
@@ -43,7 +43,9 @@ opts_chunk$set(
 
 # Description
 
-My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
+My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
+
+I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
 
 # CV and Contact Info
 
@@ -51,26 +53,26 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- EMAIL -->
 <p>
-  <a href="mailto:jroos@rsm.nl">
-  <img border="0" alt="Jason Roos" src="/images/Roos.jpg" width="150" height="150" align="left">
+  <a href="mailto:perryduxbury@eshpm.eur.nl">
+  <img border="0" alt="Meg Perry-Duxbury" src="/images/PerryDuxbury.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
 <!-- CV -->
 <p align="center">
-  <a href="http://www.jasonmtroos.com/files/cv_jmt_roos.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
+  <a href="https://drive.google.com/file/d/1Kj54Rb7Ey0LCAL82gESQwwsSQ9313Z9s/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
 <!-- TWITTER -->
 <p align="center">
-  <a href="https://twitter.com/jmtroos" class="fa fa-twitter fa-2x">
+  <a href="https://twitter.com/meg_pd" class="fa fa-twitter fa-2x">
   </a>
 </p>
 
-<!-- GITHUB -->
+<!-- RESEARCHGATE -->
 <p align="center">
-  <a href="https://github.com/jasonmtroos" class="fa fa-github fa-2x" style="color:#000000;">
+  <a href="https://www.researchgate.net/profile/Meg_Perry-Duxbury" class="ai ai-researchgate fa-2x" style="color:#000000;">
   </a>
 </p>
 
@@ -80,12 +82,13 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 ```{r radarPlot}
 
-member_name <- "Jason Roos"
+member_name <- "Meg Perry-Duxbury"
+special_skill <- c("R", "sushi lover")
 
 # OS_skills <- read_csv(paste0(getwd(), "/content/post/OS_skills.csv")) %>% # when testing
 OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c("open source software", "data sharing", "data management", "reproducible analysis", "open access", "preregistration"))
+  dplyr::select(c(special_skill, "data sharing", "open source software", "data management", "reproducible analysis", "open access", "preregistration"))
 
 # custom radar plot
 radarchart(OS_skills,

@@ -2,7 +2,7 @@
 title: ReproducibiliTea journal clubs  
 author: "Antonio Schettino"
 date: 2019-10-21
-slug: announcement-ReproducibiliTea
+slug: OSCR-ReproducibiliTea
 categories: ["News"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg

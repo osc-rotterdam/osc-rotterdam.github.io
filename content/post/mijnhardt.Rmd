@@ -1,19 +1,19 @@
 ---
-title: "OSCR Member: Gabriele Paolacci"
-date: 2019-08-27
-slug: "oscr-ppl-paolacci"
+title: "OSCR Member: Wilfred Mijnhardt"
+date: 2019-08-06
+slug: "mijnhardt"
 categories: ["people"]
-tags: ["online sampling", "preregistration", "reproducible analysis", "data management", "school-rsm"] # top 3 categories + unique + school
+tags: ["policy analysis", "open access", "data management", "data sharing", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Paolacci.jpg
+thumbnailImage: /images/Mijnhardt.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
 metaAlignment: center
-showMeta: true
-comments: true
+showMeta: True
+comments: True
 showActions: true
-summary: Associate Professor of Marketing, RSM
+summary: Policy Director, RSM
 editor_options: 
   chunk_output_type: console
 ---
@@ -43,7 +43,7 @@ opts_chunk$set(
 
 # Description
 
-My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
+My role is institutional advancement of the business school at Erasmus University.
 
 # CV and Contact Info
 
@@ -51,37 +51,37 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- EMAIL -->
 <p>
-  <a href="mailto:gpaolacci@rsm.nl">
-  <img border="0" alt="Gabriele Paolacci" src="/images/Paolacci.jpg" width="150" height="150" align="left">
+  <a href="mailto:wmijnhardt@rsm.nl">
+  <img border="0" alt="Wilfred Mijnhardt" src="/images/Mijnhardt.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
 <!-- CV -->
 <p align="center">
-  <a href="https://www.dropbox.com/s/9ignbvwcz3oisap/cv%20paolacci.pdf?dl=0" class="fa fa-file fa-2x" style="color:#00B969;">
+  <a href="https://www.linkedin.com/in/wilfredmijnhardt/" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
 <!-- TWITTER -->
 <p align="center">
-  <a href="https://twitter.com/gpaolacci" class="fa fa-twitter fa-2x">
+  <a href="https://twitter.com/wmijnhardt" class="fa fa-twitter fa-2x">
   </a>
 </p>
 
-<!-- GOOGLE SCHOLAR -->
+<!-- ORCID -->
 <p align="center">
-  <a href="http://scholar.google.nl/citations?user=Vq2ccE4AAAAJ&hl=en" class="ai ai-google-scholar fa-2x" style="color:#000000;">
+  <a href="https://orcid.org/0000-0001-9066-0798" class="ai ai-orcid fa-2x" style="color:#000000;">
   </a>
 </p>
-
+ 
 <BR>
 
 # Open Science Expertise
 
 ```{r radarPlot}
 
-member_name <- "Gabriele Paolacci"
-special_skill <- "online sampling"
+member_name <- "Wilfred Mijnhardt"
+special_skill <- "policy analysis"
 
 # OS_skills <- read_csv(paste0(getwd(), "/content/post/OS_skills.csv")) %>% # when testing
 OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%

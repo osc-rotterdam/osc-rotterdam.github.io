@@ -1,7 +1,7 @@
 ---
 title: "OSCR Member: Aleksandra Badura"
 date: 2019-10-16
-slug: "oscr-ppl-badura"
+slug: "badura"
 categories: ["people"]
 tags: ["horses", "open source software", "open access", "data management", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg

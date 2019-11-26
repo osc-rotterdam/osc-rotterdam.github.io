@@ -1,7 +1,7 @@
 ---
 title: "OSCR Member: Antonio Schettino"
 date: 2019-04-01
-slug: "oscr-ppl-schettino"
+slug: "schettino"
 categories: ["people"]
 tags: ["cat lover", "data sharing", "reproducible analysis", "preregistration"] # top 3 categories + unique + school
 coverImage: /images/people.svg

@@ -2,7 +2,7 @@
 title: Talk on Collective and Individual Benefits of Open Science at ESHPM 
 author: "Antonio Schettino"
 date: 2019-10-28
-slug: announcement-introOS-ESHPM
+slug: introOS-ESHPM-Oct2019
 categories: ["News"]
 tags: ["ESHPM"]
 coverImage: /images/OSCR_ESHPM.png
