@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReproducibiliTea on Open Science Community Rotterdam</title>
-    <link>/tags/reproducibilitea/</link>
+    <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
     <description>Recent content in ReproducibiliTea on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/reproducibilitea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/reproducibilitea/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ReproducibiliTea for qualitative researchers</title>
-      <link>/2019/12/reproducibilitea-2019-12-11/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/12/reproducibilitea-2019-12-11/</guid>
-      <description>December 11th, h. 11:00, room J7-55</description>
-    </item>
     
     <item>
       <title>ReproducibiliTea journal clubs</title>
-      <link>/2019/10/announcement-reproducibilitea/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/announcement-reproducibilitea/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</guid>
       <description>A monthly journal club to discuss all things open science</description>
     </item>
     

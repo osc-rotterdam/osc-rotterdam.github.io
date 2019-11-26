@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>online sampling on Open Science Community Rotterdam</title>
-    <link>/tags/online-sampling/</link>
+    <link>https://www.openscience-rotterdam.com/tags/online-sampling/</link>
     <description>Recent content in online sampling on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/online-sampling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/online-sampling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Gabriele Paolacci</title>
-      <link>/2019/08/oscr-ppl-paolacci/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-paolacci/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
     

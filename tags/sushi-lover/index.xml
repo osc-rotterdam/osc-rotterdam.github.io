@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sushi lover on Open Science Community Rotterdam</title>
-    <link>/tags/sushi-lover/</link>
+    <link>https://www.openscience-rotterdam.com/tags/sushi-lover/</link>
     <description>Recent content in sushi lover on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/sushi-lover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/sushi-lover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>/2019/10/oscr-ppl-perryduxbury/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/oscr-ppl-perryduxbury/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
     

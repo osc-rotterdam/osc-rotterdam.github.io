@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on Open Science Community Rotterdam</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
     <description>Recent content in machine learning on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OSCR Member: Aurélie Lemmens</title>
-      <link>/2019/10/oscr-ppl-lemmens/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/oscr-ppl-lemmens/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
     

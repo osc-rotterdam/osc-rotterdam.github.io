@@ -2,156 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science Community Rotterdam</title>
-    <link>/</link>
+    <link>https://www.openscience-rotterdam.com/</link>
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ReproducibiliTea for qualitative researchers</title>
-      <link>/2019/12/reproducibilitea-2019-12-11/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/12/reproducibilitea-2019-12-11/</guid>
-      <description>December 11th, h. 11:00, room J7-55</description>
-    </item>
-    
-    <item>
-      <title>Demo Oliver</title>
-      <link>/2019/11/demo-oliver/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/11/demo-oliver/</guid>
-      <description>&lt;p&gt;some news&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>/2019/11/oscr-ppl-rojassaunero/</link>
+      <link>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/11/oscr-ppl-rojassaunero/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/11/oscr-ppl-rojassaunero/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
       <title>Talk on Collective and Individual Benefits of Open Science at ESHPM</title>
-      <link>/2019/10/announcement-introos-eshpm/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/announcement-introos-eshpm/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-introos-eshpm/</guid>
       <description>Upfront investment, tangible career benefits.</description>
     </item>
     
     <item>
       <title>OSCR Member: Aurélie Lemmens</title>
-      <link>/2019/10/oscr-ppl-lemmens/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/oscr-ppl-lemmens/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-lemmens/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
       <title>ReproducibiliTea journal clubs</title>
-      <link>/2019/10/announcement-reproducibilitea/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/announcement-reproducibilitea/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/</guid>
       <description>A monthly journal club to discuss all things open science</description>
     </item>
     
     <item>
       <title>OSCR Member: Aleksandra Badura</title>
-      <link>/2019/10/oscr-ppl-badura/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/oscr-ppl-badura/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-badura/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
     
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>/2019/10/oscr-ppl-perryduxbury/</link>
+      <link>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/10/oscr-ppl-perryduxbury/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/10/oscr-ppl-perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
     
     <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>/2019/09/announcement-osfworkshop-eshpm/</link>
+      <link>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/09/announcement-osfworkshop-eshpm/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/09/announcement-osfworkshop-eshpm/</guid>
       <description>September 24th, h.14:30, room J7-43/J7-45</description>
     </item>
     
     <item>
       <title>OSCR Member: Gabriele Paolacci</title>
-      <link>/2019/08/oscr-ppl-paolacci/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-paolacci/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-paolacci/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
       <title>OSCR Member: Rolf Zwaan</title>
-      <link>/2019/08/oscr-ppl-zwaan/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-zwaan/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-zwaan/</guid>
       <description>Professor of Psychology, Chair of Brain &amp;amp; Cognition, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Jason Roos</title>
-      <link>/2019/08/oscr-ppl-roos/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-roos/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-roos/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
       <title>OSCR Member: Matthias Wieser</title>
-      <link>/2019/08/oscr-ppl-wieser/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-wieser/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-wieser/</guid>
       <description>Professor of Psychology, Director of Research (Psychology), ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Wilfred Mijnhardt</title>
-      <link>/2019/08/oscr-ppl-mijnhardt/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/oscr-ppl-mijnhardt/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/oscr-ppl-mijnhardt/</guid>
       <description>Policy Director, RSM</description>
     </item>
     
     <item>
       <title>The OSCR website is live!</title>
-      <link>/2019/08/website-live/</link>
+      <link>https://www.openscience-rotterdam.com/2019/08/website-live/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/website-live/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
       <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/coc/</link>
+      <link>https://www.openscience-rotterdam.com/coc/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/coc/</guid>
+      <guid>https://www.openscience-rotterdam.com/coc/</guid>
       <description>Code of Conduct Antonio Schettino
 Mission The Open Science Community Rotterdam (OSCR) organizes and promotes formal and informal events and meetings to discuss open and transparent scientific practices (also termed open science, OS). OSCR has three main goals:
  facilitate communication and sharing of information on OS; increase and speed up the practical adoption of OS; build professional networks and foster scientific collaborations, with OS as an integral part of research.</description>
@@ -159,29 +141,29 @@ Mission The Open Science Community Rotterdam (OSCR) organizes and promotes forma
     
     <item>
       <title></title>
-      <link>/home/</link>
+      <link>https://www.openscience-rotterdam.com/home/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/home/</guid>
+      <guid>https://www.openscience-rotterdam.com/home/</guid>
       <description>Who are we? Open Science Community Rotterdam (OSCR) comprises of academics and support staff working at Erasmus University Rotterdam (EUR) and Erasmus Medical Center (ErasmusMC). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our Code of Conduct.
 OSCR is part of a growing national network of communities including Amsterdam, Eindhoven, Groningen, Leiden, Nijmegen, Tilburg, and Utrecht.</description>
     </item>
     
     <item>
       <title>OSCR Member: Oliver Lindemann</title>
-      <link>/2019/07/oscr-ppl-lindemann/</link>
+      <link>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/07/oscr-ppl-lindemann/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/07/oscr-ppl-lindemann/</guid>
       <description>Cognitive Psychologist, ESSB</description>
     </item>
     
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>/2019/04/oscr-ppl-schettino/</link>
+      <link>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/oscr-ppl-schettino/</guid>
+      <guid>https://www.openscience-rotterdam.com/2019/04/oscr-ppl-schettino/</guid>
       <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
