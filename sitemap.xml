@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2019/12/koyama/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/11/jongerling/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -116,7 +121,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,6 +168,12 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -181,8 +192,14 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-mindedness/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,7 +217,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,7 +229,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,7 +265,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
