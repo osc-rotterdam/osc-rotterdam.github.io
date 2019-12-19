@@ -79,7 +79,7 @@ https://www.researchgate.net/profile/Rolf_Zwaan" class="ai ai-google-scholar fa-
 
 <BR>
 
-# Open Science Expertise
+# Expertise
 
 ```{r radarPlot}
 
