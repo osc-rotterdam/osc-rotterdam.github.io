@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/01/tenand/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/12/koyama/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
@@ -121,13 +126,19 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +198,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +210,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,7 +228,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,7 +240,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,7 +258,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -271,7 +282,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
