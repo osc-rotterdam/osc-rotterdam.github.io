@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-The third OSCR [**ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **January 22nd** at **11:00** in **room VB-02** ([V building](https://www.eur.nl/campus/locaties/ruimtes/v-building). I will be the discussant, and we will talk about the following paper[^1]: 
+The third OSCR [**ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **January 22nd** at **11:00** in **room VB-02** ([V building](https://www.eur.nl/campus/locaties/ruimtes/v-building)). I will be the discussant, and we will talk about the following paper[^1]: 
 
 > Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
 
