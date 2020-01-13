@@ -6,10 +6,21 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea: Musical Contrast and Chronological Rejuvenation</title>
+      <link>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/</guid>
+      <description>The third OSCR ReproducibiliTea journal club will take place on January 22nd at 11:00 in room VB-02 (V building. I will be the discussant, and we will talk about the following paper1:
+ Simmons, J. P., Nelson, L. D., &amp;amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
+ This paper, now considered a classic reference when discussing open science in psychological research, shows how unreported flexible choices in data collection, analysis, and reporting can increase false-positive rates.</description>
+    </item>
     
     <item>
       <title>ReproducibiliTea for qualitative researchers</title>
