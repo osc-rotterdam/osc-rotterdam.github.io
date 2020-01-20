@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -154,6 +159,12 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/essb/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -184,6 +195,12 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/meetings/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -191,7 +208,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,7 +232,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,7 +262,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
