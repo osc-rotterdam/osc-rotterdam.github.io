@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-I am happy to announce that [Daniël Lakens](https://www.tue.nl/en/research/researchers/daniel-lakens/), Associate Professor in the Human-Technology interaction group at [Eindhoven University of Technology](https://www.tue.nl/en/), will give a talk at the upcoming [DPECS colloquium](https://docs.google.com/document/d/1AYpkmMLJz8ap6Zfo6Tm5740SZil_EO2kYy-MUhtS4cs/edit#).
+I am happy to announce that [Daniël Lakens](https://www.tue.nl/en/research/researchers/daniel-lakens/), Associate Professor in the Human-Technology interaction group at [Eindhoven University of Technology](https://www.tue.nl/en/), will give a talk at the upcoming [DPECS colloquium](https://docs.google.com/document/d/1AYpkmMLJz8ap6Zfo6Tm5740SZil_EO2kYy-MUhtS4cs/edit#), which will take place on February 11th at 15:00 in room T13-67 ([Mandeville building](https://www.eur.nl/en/campus/locations/spaces/mandeville-building)).
 
 Prof. Lakens is a long-standing adopter and proponent of open science practices. He is active on [**Twitter**](https://twitter.com/lakens), has a very interesting blog called [**The 20% Statistician**](http://daniellakens.blogspot.com/), and teaches two successful massive online open courses: [**Improving your statistical inferences**](https://www.coursera.org/learn/statistical-inferences?) and [**Improving Your Statistical Questions**](https://www.coursera.org/learn/improving-statistical-questions).
 
