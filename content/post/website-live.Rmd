@@ -2,7 +2,7 @@
 title: The OSCR website is live!
 author: "Antonio Schettino"
 date: 2019-08-05
-slug: website-live
+slug: "website-live"
 categories: ["News"]
 coverImage: /images/ErasmusLogos.png # ErasmusLogo.svg does not work
 thumbnailImage: /images/OSCR_thumbnail.svg

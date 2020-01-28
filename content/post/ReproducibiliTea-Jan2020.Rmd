@@ -2,7 +2,7 @@
 title: "ReproducibiliTea: Musical Contrast and Chronological Rejuvenation"
 author: "Antonio Schettino"
 date: 2020-01-13
-slug: ReproducibiliTea-Jan2020
+slug: "ReproducibiliTea-Jan2020"
 categories: ["News"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg

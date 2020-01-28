@@ -2,7 +2,7 @@
 title: OSF Workshop at ESHPM  
 author: "Antonio Schettino"
 date: 2019-09-22
-slug: OSFworkshop-ESHPM-Sept2019
+slug: "OSFworkshop-ESHPM-Sept2019"
 categories: ["News"]
 tags: ["workshops", "OSF", "ESHPM"]
 coverImage: /images/OSF_ESHPM.png

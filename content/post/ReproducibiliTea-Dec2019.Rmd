@@ -2,7 +2,7 @@
 title: ReproducibiliTea for qualitative researchers
 author: "Antonio Schettino"
 date: 2019-11-26
-slug: ReproducibiliTea-Dec2019
+slug: "ReproducibiliTea-Dec2019"
 categories: ["News"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg
