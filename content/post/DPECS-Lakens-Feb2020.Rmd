@@ -14,7 +14,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: "February 11th, h. 15:00, room T13-67"
+summary: "February 11th 2020, h. 15:00, room T13-67"
 editor_options: 
   chunk_output_type: console
 ---

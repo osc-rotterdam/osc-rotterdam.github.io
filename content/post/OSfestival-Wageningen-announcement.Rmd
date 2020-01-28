@@ -14,7 +14,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: "August 27th, 2020, Campus Wageningen University & Research"
+summary: "August 27th 2020, Campus Wageningen University & Research"
 editor_options: 
   chunk_output_type: console
 ---
