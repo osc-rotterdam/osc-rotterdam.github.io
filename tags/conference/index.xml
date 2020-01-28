@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/conference/</link>
+    <description>Recent content in Conference on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>National Open Science Festival - Save the Date!</title>
+      <link>https://www.openscience-rotterdam.com/2020/01/osfestival-wageningen-announcement/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/01/osfestival-wageningen-announcement/</guid>
+      <description>Deadlines:
+Open Call submission: March 10th, 2020
+Notification of acceptance or rejection: March 31st, 2020
+Registration opens: April 2nd, 2020
+The National Open Science Festival provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.</description>
+    </item>
+    
+  </channel>
+</rss>
