@@ -1,0 +1,41 @@
+---
+title: National Open Science Festival - Save the Date!
+author: "Antonio Schettino"
+date: 2020-01-28
+slug: "OSfestival-Wageningen-announcement"
+categories: ["News"]
+tags: ["conference"]
+coverImage: /images/OSfestival_Wageningen.jpg
+thumbnailImage: /images/WUR_logo.jpeg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "August 27th, 2020, Campus Wageningen University & Research"
+editor_options: 
+  chunk_output_type: console
+---
+
+***
+***
+
+**Deadlines**:   
+Open Call submission: **March 10th, 2020**   
+Notification of acceptance or rejection: **March 31st, 2020**   
+Registration opens: **April 2nd, 2020**
+
+***
+***
+
+The **National Open Science Festival** provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.
+
+In organizing the National Open Science Festival, the program committee welcomes input from researchers in developing the programme for the day. **The call for Sessions opens on Feb 1st.** The programme committee particularly invites proposals for sessions intended to be interactive and proposals that stem from local initiatives. If you want to simply present an initiative you are asked to apply for the call for the [Marketplace Lunch](https://opensciencefestival.nl/call-for-market-place/).
+
+The **Open Science Awards** will recognise and reward researchers or research students who have used open science to make their research more accessible, transparent, or reproducible. The call is open to all researchers and PhD students from Dutch universities and research institutes. Submission is by means of a **case study** describing their experience with open science. the top five use cases will each receive a prize of **€ 250**. The winners are expected to give a presentation/demonstration of up to 10 minutes about their use case at the Open Science Festival in Wageningen on August 27th.
+
+***
+
+
