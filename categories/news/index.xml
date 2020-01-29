@@ -6,10 +6,20 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea: Meet the Journal of Trial and Error</title>
+      <link>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/</guid>
+      <description>The fourth OSCR ReproducibiliTea journal club will take place on February 12th at 11:00 in room J7-55 (Bayle building).
+We will have two special guests: Max Bautista Perpinyà and Stefan Gaillard, two co-founders of the Journal of Trial and Error. In their talk1, Max and Stefan will focus on the importance of publishing negative and null results, as well as other research results that would traditionally be considered “failure” such as unsuccessful chemical syntheses.</description>
+    </item>
     
     <item>
       <title>National Open Science Festival - Save the Date!</title>
