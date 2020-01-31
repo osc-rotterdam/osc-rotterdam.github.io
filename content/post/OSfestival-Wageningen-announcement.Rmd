@@ -22,6 +22,8 @@ editor_options:
 ***
 ***
 
+**Website**: https://opensciencefestival.nl/
+
 **Deadlines**:   
 Open Call submission: **March 10th, 2020**   
 Notification of acceptance or rejection: **March 31st, 2020**   
@@ -30,7 +32,7 @@ Registration opens: **April 2nd, 2020**
 ***
 ***
 
-The **National Open Science Festival** provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.
+The [**National Open Science Festival**](https://opensciencefestival.nl/) provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.
 
 In organizing the National Open Science Festival, the program committee welcomes input from researchers in developing the programme for the day. **The call for Sessions opens on Feb 1st.** The programme committee particularly invites proposals for sessions intended to be interactive and proposals that stem from local initiatives. If you want to simply present an initiative you are asked to apply for the call for the [Marketplace Lunch](https://opensciencefestival.nl/call-for-market-place/).
 
