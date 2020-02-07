@@ -21,6 +21,7 @@ editor_options:
 ```{r setup, include = FALSE}
 
 library(knitr)
+library(here)
 library(tidyverse)
 library(fmsb)
 
@@ -87,8 +88,7 @@ Click on the picture to send an email.
 member_name <- "Joran Jongerling"
 special_skill <- c("Linux", "LaTeX", "R")
 
-# OS_skills <- read_csv(paste0(getwd(), "/content/post/OS_skills.csv")) %>% # when testing
-OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%
+OS_skills <- read_csv(here("content/post/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
   dplyr::select(c("open source software", "data sharing", special_skill, "data management", "preregistration", "open access", "reproducible analysis"))
 

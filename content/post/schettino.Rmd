@@ -21,6 +21,7 @@ editor_options:
 ```{r setup, include = FALSE}
 
 library(knitr)
+library(here)
 library(tidyverse)
 library(fmsb)
 
@@ -93,10 +94,9 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 member_name <- "Antonio Schettino"
 special_skill <- "cat lover"
 
-# OS_skills <- read_csv(paste0(getwd(), "/content/post/OS_skills.csv")) %>% # when testing
-OS_skills <- read_csv(paste0(getwd(), "/OS_skills.csv")) %>%
+OS_skills <- read_csv(here("content/post/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c(special_skill, "open source software", "data sharing", "data management", "reproducible analysis", "open access", "preregistration"))
+  dplyr::select(c("reproducible analysis", "open source software", "open access", "data management", "preregistration", special_skill, "data sharing"))
 
 # custom radar plot
 radarchart(OS_skills,
