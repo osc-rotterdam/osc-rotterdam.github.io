@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian Inference</title>
+      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Business Open Science</title>
@@ -221,7 +230,7 @@
     <item>
       <title>R</title>
       <link>https://www.openscience-rotterdam.com/tags/r/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>School Essb</title>
       <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Inference on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
+    <description>Recent content in Bayesian Inference on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Rik Joosen</title>
+      <link>https://www.openscience-rotterdam.com/2020/02/joosen/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/02/joosen/</guid>
+      <description>Description I am a PhD candidate at the Department of Public Administration and Sociology. In my research, I look at interest groups and regulatory politics using quantitative text analysis and statistics. I am fairly new to open science. I have published in an open access journal and use open source software (R) for my analysis.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+    </item>
+    
+  </channel>
+</rss>
