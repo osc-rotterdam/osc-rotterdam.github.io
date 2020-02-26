@@ -1,6 +1,6 @@
 ---
 title: "OSCR Member: Lorenza Dall'Aglio"
-date: 2020-02-25
+date: 2020-02-26
 slug: "dallaglio"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "academic tweeting", "school-erasmusmc"] # top 3 categories + unique + school
