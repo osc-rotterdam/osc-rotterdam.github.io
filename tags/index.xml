@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academic Tweeting</title>
+      <link>https://www.openscience-rotterdam.com/tags/academic-tweeting/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/academic-tweeting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian Inference</title>
@@ -257,7 +266,7 @@
     <item>
       <title>Reproducibilitea</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
-      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducibilitea/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>School Erasmusmc</title>
       <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
       <description></description>

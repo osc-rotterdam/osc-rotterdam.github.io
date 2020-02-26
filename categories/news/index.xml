@@ -6,10 +6,20 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea: Reponsible Research Evaluation</title>
+      <link>https://www.openscience-rotterdam.com/2020/02/reproducibilitea-mar2020/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/02/reproducibilitea-mar2020/</guid>
+      <description>The fifth OSCR ReproducibiliTea journal club will take place on March 11th at 11:00 in room G2-35 (G building).
+We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the National University of Ireland and co-founder of the Open Scholarship Community Galway. Hardy is interested in how research is evaluated and how academics are assessed when it comes to job / grant applications and promotions. Hardy believes that research assessment is a topic all researchers should have a basic knowledge of, as it will determine their careers in academia.</description>
+    </item>
     
     <item>
       <title>ReproducibiliTea: Meet the Journal of Trial and Error</title>
