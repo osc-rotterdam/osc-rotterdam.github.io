@@ -6,10 +6,19 @@
     <description>Recent content in People on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSCR Member: Dorien Huijser</title>
+      <link>https://www.openscience-rotterdam.com/2020/03/huijser/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/03/huijser/</guid>
+      <description>Description I am a lab and data manager at a developmental psychology group at ESSB, meaning that I help researchers implement better data management and more open research practices. This can sometimes be a challenge, because we collect large amounts of data that are often also privacy-sensitive. I for example help our researchers with preregistration, data organization and data sharing and aim to develop a vision on open science for our group.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Elisabet Blok</title>

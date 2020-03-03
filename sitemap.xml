@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/03/huijser/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/02/blok/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -194,7 +199,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -290,7 +295,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -302,7 +307,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -326,7 +331,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -338,13 +343,13 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -392,13 +397,19 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/science-education/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
