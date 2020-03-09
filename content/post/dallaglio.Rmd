@@ -44,7 +44,7 @@ opts_chunk$set(
 
 # Description
 
-I am a PhD student at Erasmus MC investigating how brain structure and connectivity relate with behavioural and emotional problems in children and adolescents from the general population. I am also the co-funder of Rotterdam [RIOT Science Club](https://rdam-riot-science-club.github.io/), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
+I am a PhD student at Erasmus MC investigating how brain structure and connectivity relate with behavioural and emotional problems in children and adolescents from the general population. I am also the co-funder of Rotterdam [R.I.O.T. Science Club](https://rdam-riot-science-club.github.io/), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
 
 # CV and Contact Info
 
