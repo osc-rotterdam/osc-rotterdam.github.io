@@ -44,7 +44,7 @@ opts_chunk$set(
 
 # Description
 
-I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam [RIOT Science Club](https://www.kcl.ac.uk/events/series/riot-science-club), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
+I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam [RIOT Science Club](https://rdam-riot-science-club.github.io/), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
 
 # CV and Contact Info
 
