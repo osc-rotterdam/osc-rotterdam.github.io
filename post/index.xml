@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSCR &amp; RIOT: by researchers, for researchers</title>
+      <link>https://www.openscience-rotterdam.com/2020/03/oscr-riots/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/03/oscr-riots/</guid>
+      <description>The Open Science Community Rotterdam is part of a national (Dutch) network of communities created by researchers for researchers.
+All Open Science Communities in The Netherlands as of March 2020.
+ We facilitate communication among scholars by giving them platforms to connect and share information on open science practices, for example our internal chat rooms on Matrix or the website on which this blog post is hosted. We organize events, for example infosessions on open science, workshops on reproducible data analysis, and journal clubs.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Dorien Huijser</title>
