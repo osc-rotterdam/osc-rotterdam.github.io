@@ -1,5 +1,5 @@
 ---
-title: "OSCR & RIOT: by researchers, for researchers"
+title: "OSCR & R.I.O.T.S.: by researchers, for researchers"
 author: "Antonio Schettino"
 date: 2020-03-12
 slug: "OSCR-RIOTS"
@@ -16,7 +16,7 @@ comments: true
 showActions: true
 summary: "Increasing the offer of training on open and reproducible science at EUR and ErasmusMC"
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 
 ```{r setup, include = FALSE}
