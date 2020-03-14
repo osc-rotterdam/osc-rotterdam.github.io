@@ -84,9 +84,9 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 member_name <- "Ana Martinovici"
 special_skill <- c("cat lover", "packrat", "R")
 
-OS_skills <- read_csv(here("content/post/OS_skills.csv")) %>%
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c(special_skill, "open access", "open source software", "reproducible analysis", "data sharing", "data management"))
+  dplyr::select(c(all_of(special_skill), "open access", "open source software", "reproducible analysis", "data sharing", "data management"))
 
 # custom radar plot
 radarchart(OS_skills,
