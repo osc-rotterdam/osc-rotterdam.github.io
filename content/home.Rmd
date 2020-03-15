@@ -15,8 +15,9 @@ showActions: false
 
 The Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Code of Conduct**](/coc/).
 
+**OSCR** is part of a growing national network of communities including [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://twitter.com/OSCMaastricht), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), and [Groningen](https://twitter.com/OSCGroningen).
 
-**OSCR** is part of a growing national network of communities including [Amsterdam](https://twitter.com/OSCAmsterdam), [Eindhoven](https://twitter.com/OSCEindhoven), [Groningen](https://twitter.com/OSCGroningen), [Leiden](https://twitter.com/OSCLeiden), [Nijmegen](https://twitter.com/OSCNijmegen), [Tilburg](https://twitter.com/OpenTilburg), and [Utrecht](https://twitter.com/OpenSciUtrecht).
+![](/images/OSC-NL.png)
 
 ## About this website
 
