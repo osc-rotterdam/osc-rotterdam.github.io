@@ -6,10 +6,20 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea Online: Comparing the standard Psychology literature with Registered Reports</title>
+      <link>https://www.openscience-rotterdam.com/2020/03/reproducibilitea-apr2020/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/03/reproducibilitea-apr2020/</guid>
+      <description>The worldwide spread of the SARS-CoV-2 virus – and subsequent increase in people affected by COVID-19 – is causing noticeable disruptions in our regular lifestyle. However, we are doing our best to translate OSCR initiatives online, not only to continue our mission to increase awareness on open science practices but also provide valuable support and human connection during this period of (self-)isolation.
+One of our first online events will be the sixth OSCR ReproducibiliTea journal club, which will take place on April 8th at 11:001.</description>
+    </item>
     
     <item>
       <title>OSCR &amp; R.I.O.T.S.: by researchers, for researchers</title>
