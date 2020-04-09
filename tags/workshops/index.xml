@@ -6,10 +6,20 @@
     <description>Recent content in Workshops on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webinar: Introduction to Git(Hub)</title>
+      <link>https://www.openscience-rotterdam.com/2020/04/intro-github-apr2020/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/04/intro-github-apr2020/</guid>
+      <description>Our first online ReproducibiliTea Rotterdam was a great success! Thirty people joined our Zoom meeting to discuss with Anne Scheel her preprint comparing the standard psychology literature with Registered Reports. The presentation was awesome, the questions insightful, and the atmosphere light and informal. Thanks to everyone involved!
+Given the strong interest and current relevance of open science as a set of tools to quickly disseminate knowledge, the OSCR will host an online webinar entitled Introduction to Git(Hub).</description>
+    </item>
     
     <item>
       <title>OSF Workshop at ESHPM</title>
