@@ -77,7 +77,7 @@ An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing 
 **ADDITIONAL NOTES**   
 
 * In this webinar, we will be using RStudio only as an easy way to commit and push changes to the GitHub repository. These operations can be done outside of RStudio, for example in Matlab, SPSS, or other software;
-* if you want to learn how to use Git but using RStudio is the only reason why you will no join this webinar, please notify Antonio (*schettino@eur.nl*). We are considering having a similar webinar where we use a Git GUI (e.g., [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/git-client)) instead of RStudio;
+* if you want to learn how to use Git but using RStudio is the only reason why you will not join this webinar, please notify Antonio (*schettino@eur.nl*). We are considering having a similar webinar where we use a Git GUI (e.g., [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/git-client)) instead of RStudio;
 * this webinar is organized by the [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/). Join the community to propose topics for courses and journal club and interact with like-minded people. If interested, send an email to the OSCR coordinator, Dr. Antonio Schettino (*schettino@eur.nl*)
 
 Hope to see many of you!
