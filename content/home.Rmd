@@ -17,7 +17,7 @@ The Open Science Community Rotterdam (_**OSCR**_) comprises of academics and sup
 
 **OSCR** is part of a growing national network of communities including [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://twitter.com/OSCMaastricht), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), and [Groningen](https://twitter.com/OSCGroningen).
 
-![All Open Science Communities in The Netherlands. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en)](/images/OSC-NL.png)
+![All Open Science Communities in The Netherlands. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/OSC-NL.png)
 
 ## About this website
 
