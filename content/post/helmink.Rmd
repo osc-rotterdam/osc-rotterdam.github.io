@@ -44,7 +44,7 @@ opts_chunk$set(
 
 # Description
 
-Fleur Helmink is a PhD Candidate at Erasmus MC-Sophia. She works on the [Dutch Bipolar Offspring Study](https://www.ncbi.nlm.nih.gov/pubmed/11556634), a cohort study that follows adolescents of parents with bipolar disorder into adulthood. Fleur uses innovative methods, such as experience sampling method and digital phenotyping (with the use of smartphone sensors), to measure daily life functioning.   
+Fleur Helmink is a PhD Candidate at Erasmus MC-Sophia. She works on the [Dutch Bipolar Offspring Study](https://doi.org/10.1176/appi.ajp.2012.12030401), a cohort study that follows adolescents of parents with bipolar disorder into adulthood. Fleur uses innovative methods, such as experience sampling method and digital phenotyping (with the use of smartphone sensors), to measure daily life functioning.   
 She specifically focusses on how mental health and daily life functioning relate in high-risk individuals.
 
 # CV and Contact Info
