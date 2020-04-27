@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/04/reproducibilitea-may2020/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -269,7 +274,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/essb/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -401,7 +406,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

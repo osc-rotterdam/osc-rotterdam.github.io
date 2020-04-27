@@ -6,10 +6,20 @@
     <description>Recent content in Preregistration on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A flexible use of preregistration templates</title>
+      <link>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</guid>
+      <description>Malte Dewies is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR (see his personal profile page), actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods.
+He recently preregistered an exploratory study for which existing templates were insufficient, so he decided to build his own.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Malte Dewies</title>
