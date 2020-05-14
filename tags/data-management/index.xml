@@ -6,10 +6,19 @@
     <description>Recent content in Data Management on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/data-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSCR Member: Eduard Klapwijk</title>
+      <link>https://www.openscience-rotterdam.com/2020/05/klapwijk/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/05/klapwijk/</guid>
+      <description>Description Eduard is a postdoc in the SYNC lab. A central question in his research is: Why do most teenagers grow up to be kind to others while a proportion engage in harmful, antisocial and risky behaviors? He is very much interested in how we can address these questions using neuroimaging methods in a robust, reproducible way. His main focus as a postdoc at Erasmus University will be to determine the optimal sample size in developmental studies for a range of fMRI tasks.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Ilaria Orlandi</title>
