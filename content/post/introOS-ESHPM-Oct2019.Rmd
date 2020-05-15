@@ -4,7 +4,7 @@ author: "Antonio Schettino"
 date: 2019-10-28
 slug: "introOS-ESHPM-Oct2019"
 categories: ["News"]
-tags: ["ESHPM"]
+tags: ["talks", "ESHPM"]
 coverImage: /images/OSCR_ESHPM.png
 thumbnailImage: /images/ESHPM_logo.png
 thumbnailImagePosition: left

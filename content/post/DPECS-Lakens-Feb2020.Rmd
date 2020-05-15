@@ -4,7 +4,7 @@ author: "Antonio Schettino"
 date: 2020-01-20
 slug: "DPECS-Lakens-Feb2020"
 categories: ["News"]
-tags: ["meetings", "ESSB"]
+tags: ["talks", "ESSB"]
 coverImage: /images/ESSB.png
 thumbnailImage: /images/ESSB_logo.png
 thumbnailImagePosition: left
