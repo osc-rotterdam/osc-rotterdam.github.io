@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/talks/</link>
+    <description>Recent content in Talks on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online data collection: The challenges of open samples (aka MTurk and the like)</title>
+      <link>https://www.openscience-rotterdam.com/2020/05/opensampling-may2020/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/05/opensampling-may2020/</guid>
+      <description>A huge proportion of participants in behavioral science studies are recruited from “open sampling” services, such as Amazon Mechanical Turk and Prolific. These services can accelerate and democratize the production of scientific knowledge. They also allow researches to collect larger samples compared to traditional samples in behavioral research (e.g., undergraduate students). However, open sampling also poses unique challenges to behavioral researchers. For example, participants have increasing research experience, which can affect experimental validity and replicability; researchers face a tradeoff between collecting larger samples and providing ethical payments to individuals who participate in research to earn a living wage.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming talk by Daniël Lakens</title>
+      <link>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</guid>
+      <description>I am happy to announce that Daniël Lakens, Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology, will give a talk at the upcoming DPECS colloquium, which will take place on February 11th at 15:00 in room T13-67 (Mandeville building).
+Prof. Lakens is a long-standing adopter and proponent of open science practices. He is active on Twitter, has a very interesting blog called The 20% Statistician, and teaches two successful massive online open courses: Improving your statistical inferences and Improving Your Statistical Questions.</description>
+    </item>
+    
+    <item>
+      <title>Talk on Collective and Individual Benefits of Open Science at ESHPM</title>
+      <link>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</guid>
+      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management (ESHPM).
+I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
+    </item>
+    
+  </channel>
+</rss>

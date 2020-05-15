@@ -165,15 +165,6 @@
     </item>
     
     <item>
-      <title>Meetings</title>
-      <link>https://www.openscience-rotterdam.com/tags/meetings/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/meetings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multiverse Analysis</title>
       <link>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
@@ -377,6 +368,15 @@
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/sushi-lover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
       <description></description>
     </item>
     
