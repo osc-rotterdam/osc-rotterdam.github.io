@@ -1,5 +1,5 @@
 ---
-title: "Webinar: Introduction to Git(Hub)"
+title: "Introduction to Git(Hub)"
 author: "Antonio Schettino"
 date: 2020-04-09
 slug: "Intro-GitHub-Apr2020"
