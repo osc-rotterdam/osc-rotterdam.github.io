@@ -6,10 +6,19 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Brief Introduction to Bayesian Hypothesis Testing</title>
+      <link>https://www.openscience-rotterdam.com/2020/05/introbayes-june2020/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/05/introbayes-june2020/</guid>
+      <description>In the context of the ongoing debate about the replication crisis in psychology, methodologists have criticized the common practice of null-hypothesis testing using p-values. As a result, more and more researchers recently started using so-called Bayesian statistics to analyse their data. But what does this “new” approach to statistics really mean? What are the differences between Bayesian statistics and Frequentist statistics? What are the advantages (or disadvantages) of the estimation of the “subjective probability” of a model as compared to the usual practice to test a model based on the “objective probability” of the data under the null-hypothesis?</description>
+    </item>
     
     <item>
       <title>Online data collection: The challenges of open samples (aka MTurk and the like)</title>
