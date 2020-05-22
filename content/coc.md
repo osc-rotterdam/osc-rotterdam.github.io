@@ -56,6 +56,6 @@ If someone makes you or anyone else feel unsafe or unwelcome, or if you believe 
 
 ## Acknowledgements
 
-This anti-harassment policy was adapted from the [Code of Conduct of the Open Science Community Utrecht](https://openscience-utrecht.com/code-of-conduct/)
+This anti-harassment policy was adapted from the [Code of Conduct of the Open Science Community Utrecht](https://openscience-utrecht.com/code-of-conduct/).
 
 
