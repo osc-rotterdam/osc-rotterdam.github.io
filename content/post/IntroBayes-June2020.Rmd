@@ -1,0 +1,52 @@
+---
+title: "A Brief Introduction to Bayesian Hypothesis Testing"
+author: "Antonio Schettino"
+date: 2020-05-22
+slug: "IntroBayes-June2020"
+categories: ["News"]
+tags: ["talks"]
+coverImage: /images/OSCR-bayes-banner.png
+thumbnailImage: /images/OSCR-bayes-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "June 3rd 2020, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+In the context of the ongoing debate about the replication crisis in psychology, methodologists have criticized the common practice of null-hypothesis testing using *p*-values. As a result, more and more researchers recently started using so-called Bayesian statistics to analyse their data. But what does this "new" approach to statistics really mean? What are the differences between Bayesian statistics and Frequentist statistics? What are the advantages (or disadvantages) of the estimation of the "subjective probability" of a model as compared to the usual practice to test a model based on the "objective probability" of the data under the null-hypothesis? What are the implications for our conclusions and interpretations of the results, if we switch from Frequentist to Bayesian statistics?
+
+[Dr. Oliver Lindemann](http://cognitive-psychology.eu/lindemann), Assistant Professor at the Department of Psychology, Education and Child Studies, will give an introduction to the basic concepts and computational principles of Bayesian parameter estimation and hypothesis testing. A Bayesian *t*-test and the calculation of Bayes-factors will be illustrated using the free and easy-to-use software [JASP](https://jasp-stats.org/).
+
+The event will take place on **June 3rd 2020** at **14:00 CEST** and will last between 60' and 90'[^1]. An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the ReproducibiliTea mailing list but would like to join, please contact *schettino@eur.nl*.
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Antonio**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Hope to see many of you!
+
+Take care,
+
+Oliver Lindemann and Antonio Schettino
+
+***
+
+[^1]: Depending on questions from the audience, which are highly encouraged... we love interactive discussions!
+
+
