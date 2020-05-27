@@ -6,10 +6,21 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea Online: v-hacking</title>
+      <link>https://www.openscience-rotterdam.com/2020/05/reproducibilitea-june2020/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/05/reproducibilitea-june2020/</guid>
+      <description>The eighth OSCR ReproducibiliTea journal club will take place on June 10th at 11:00. The discussants will be Dr. Ian Hussey and Prof. Sean Hughes, from the Department of Experimental-Clinical and Health Psychology at Ghent University (Belgium).
+Ian and Sean will guide us through one of their latest papers1:
+ Hussey, I., &amp;amp; Hughes, S. (2020). Hidden Invalidity Among 15 Commonly Used Measures in Social and Personality Psychology. Advances in Methods and Practices in Psychological Science.</description>
+    </item>
     
     <item>
       <title>A Brief Introduction to Bayesian Hypothesis Testing</title>
@@ -64,7 +75,7 @@ He recently preregistered an exploratory study for which existing templates were
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/reproducibilitea-may2020/</guid>
-      <description>Ther seventh OSCR ReproducibiliTea journal club will take place on May 13th at 11:00. The discussants will be Elisabet Blok and Lorenza Dall’Aglio, PhD Candidates at Erasmus MC and co-founders of the Rotterdam R.I.O.T.S. Club (with which the OSCR has a synergic collaboration).
+      <description>The seventh OSCR ReproducibiliTea journal club will take place on May 13th at 11:00. The discussants will be Elisabet Blok and Lorenza Dall’Aglio, PhD Candidates at Erasmus MC and co-founders of the Rotterdam R.I.O.T.S. Club (with which the OSCR has a synergic collaboration).
 We will talk about the following paper1:
  Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., Orben, A., Parsons, S.</description>
     </item>
