@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-Ther seventh [**OSCR ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **May 13th** at **11:00**. The discussants will be [Elisabet Blok](https://www.openscience-rotterdam.com/2020/02/blok/) and [Lorenza Dall'Aglio](https://www.openscience-rotterdam.com/2020/02/dallaglio/), PhD Candidates at Erasmus MC and co-founders of the [Rotterdam R.I.O.T.S. Club](https://rdam-riot-science-club.github.io/) (with which the OSCR has a [synergic collaboration](https://www.openscience-rotterdam.com/2020/03/oscr-riots/)).   
+The seventh [**OSCR ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **May 13th** at **11:00**. The discussants will be [Elisabet Blok](https://www.openscience-rotterdam.com/2020/02/blok/) and [Lorenza Dall'Aglio](https://www.openscience-rotterdam.com/2020/02/dallaglio/), PhD Candidates at Erasmus MC and co-founders of the [Rotterdam R.I.O.T.S. Club](https://rdam-riot-science-club.github.io/) (with which the OSCR has a [synergic collaboration](https://www.openscience-rotterdam.com/2020/03/oscr-riots/)).   
 We will talk about the following paper[^1]:
 
 > Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., Orben, A., Parsons, S., & Schulte-Mecklenbeck, M. (2019). Seven Easy Steps to Open Science: An Annotated Reading List. Zeitschrift Für Psychologie, 227(4), 237–248. https://doi.org/10.1027/2151-2604/a000387
