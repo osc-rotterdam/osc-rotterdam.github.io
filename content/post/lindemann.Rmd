@@ -55,7 +55,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 <!-- EMAIL -->
 <p>
   <a href="mailto:lindemann@essb.eur.nl">
-  <img border="0" alt="Oliver Lindemann" src="/images/oliver-2.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Oliver Lindemann" src="/images/Lindemann.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
