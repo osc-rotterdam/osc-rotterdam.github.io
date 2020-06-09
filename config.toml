@@ -79,13 +79,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
 #  url = "https://docs.google.com/document/d/1C8Dufk7TUVdh7jhSBl_k2Gv33ly3tzgMNCaqI_DR7cs/edit?usp=sharing"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 6
+  weight = 5
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
