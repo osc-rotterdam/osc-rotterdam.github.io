@@ -30,7 +30,7 @@ A Tour Around the Tidyverse World.
 June 24th 2020, h. 14:00 CEST, duration 90'.
 
 **INSTRUCTOR**   
-[Paloma Rojas Saunero](https://www.rsm.nl/people/ana-martinovici/), PhD student at the [Department of Epidemiology](http://www.erasmus-epidemiology.nl/) at [Erasmus MC](https://www.erasmusmc.nl/en) and [RStudio Tidyverse Certified Trainer](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
+[Paloma Rojas Saunero](https://www.openscience-rotterdam.com/2019/11/rojassaunero/), PhD student at the [Department of Epidemiology](http://www.erasmus-epidemiology.nl/) at [Erasmus MC](https://www.erasmusmc.nl/en) and [RStudio Tidyverse Certified Trainer](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
 
 **TARGET AUDIENCE**   
 Anyone who analyzes data and wants to improve their skills in *R*.
