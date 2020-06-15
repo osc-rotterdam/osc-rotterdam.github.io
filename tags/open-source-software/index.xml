@@ -6,10 +6,20 @@
     <description>Recent content in Open Source Software on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/open-source-software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Tour Around the Tidyverse World</title>
+      <link>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</guid>
+      <description>Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With R, of course! 😄
+The OSCR is happy to announce an online workshop entitled A Tour Around the Tidyverse World.</description>
+    </item>
     
     <item>
       <title>OSCR Member: Eduard Klapwijk</title>

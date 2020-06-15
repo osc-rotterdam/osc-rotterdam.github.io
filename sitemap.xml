@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/06/becht/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
@@ -364,7 +369,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,7 +393,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -400,7 +405,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -430,7 +435,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -466,7 +471,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -526,7 +531,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
