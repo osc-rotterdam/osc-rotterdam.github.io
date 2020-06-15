@@ -1,0 +1,82 @@
+---
+title: "A Tour Around the Tidyverse World"
+author: "Antonio Schettino"
+date: 2020-06-15
+slug: "intro-tidyverse-June2020"
+categories: ["News"]
+tags: ["workshops", "open source software", "reproducible analysis"]
+coverImage: /images/OSCR-tidyverse-banner.png
+thumbnailImage: /images/OSCR-tidyverse-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "June 24th 2020, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With *R*, of course! `r emo::ji("smile")`  
+   
+The OSCR is happy to announce an online workshop entitled **A Tour Around the Tidyverse World**. Below the announcement:
+
+**WHAT**   
+A Tour Around the Tidyverse World.
+
+**WHEN**   
+June 24th 2020, h. 14:00 CEST, duration 90'.
+
+**INSTRUCTOR**   
+[Paloma Rojas Saunero](https://www.rsm.nl/people/ana-martinovici/), PhD student at the [Department of Epidemiology](http://www.erasmus-epidemiology.nl/) at [Erasmus MC](https://www.erasmusmc.nl/en) and [RStudio Tidyverse Certified Trainer](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
+
+**TARGET AUDIENCE**   
+Anyone who analyzes data and wants to improve their skills in *R*.
+
+**DESIRED OUTCOME**   
+During this workshop you will learn:  
+   
+* What is the `tidyverse` and differences with base *R*
+* How to clean and transform your data with `dplyr`
+* How to use the pipe `%>%` operator
+* What is tidy data and how to make your raw data tidy
+* The `ggplot` grammar 
+
+**PREPARATION**   
+You can access and use the materials for this workshop in two ways:
+
+* use [RStudio Cloud](https://rstudio.cloud/), a cloud-based version of R and RStudio available through your browser. The link will be provided at the beginning of the workshop. A free account is necessary: [sign up here](https://rstudio.cloud/plans/free).
+* work directly on your computer:
+   - install a recent version of *R* (at least *v3.6*) from [CRAN](https://cran.r-project.org/)
+   - install a recent version of **RStudio IDE** (at least *v1.3*), available on the [RStudio website](https://rstudio.com/products/rstudio/download/)
+   - in RStudio, run the following command in the console: `install.packages(c("tidyverse", "here"))`
+   - download the workshop materials from [this GitHub repository](https://github.com/palolili23/tidyverse_workshop_oscr)
+
+**REGISTRATION**   
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the link, meeting ID, and password of the video call on [Zoom](https://zoom.us/). If you are not part of the OSCR mailing list but would like to join, please contact *schettino@eur.nl*.
+
+**MEETING RULES**   
+
+* wear headphones
+* mute your microphone
+* video is optional
+* pay attention to the moderator (which will be **Antonio**)
+* if you have questions
+  * click on the **Raise Hand** button and the moderator will unmute you, or
+  * write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment
+
+Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Hope to see many of you!
+
+Take care,
+
+Paloma Rojas Saunero and Antonio Schettino
+
+***
+
+

@@ -52,7 +52,7 @@ We expect participants to follow these rules at all events and event-related soc
 
 ## Reporting Misconduct
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to dr. Antonio Schettino (schettino@eur.nl) and/or the organizers of that specific event. You may report your concerns anonymously. Every complaint will be fully investigated and appropriate actions will swiftly be taken to prevent a recurrence. When making a personal report, we will make sure your statement is managed properly and respectfully. You will not be asked to confront anyone and we will not disclose your identity to anyone.
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to dr. Antonio Schettino (*schettino@eur.nl*) and/or the organizers of that specific event. You may report your concerns anonymously. Every complaint will be fully investigated and appropriate actions will swiftly be taken to prevent a recurrence. When making a personal report, we will make sure your statement is managed properly and respectfully. You will not be asked to confront anyone and we will not disclose your identity to anyone.
 
 ## Acknowledgements
 
