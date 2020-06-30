@@ -6,10 +6,20 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReproducibiliTea Online: Beyond Bonferroni Revisited</title>
+      <link>https://www.openscience-rotterdam.com/2020/06/reproducibilitea-july2020/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/06/reproducibilitea-july2020/</guid>
+      <description>The ninth OSCR ReproducibiliTea journal club will take place on July 8th at 14:00. This is a special one, because it is a combined session between OSCR and Rotterdam R.I.O.T.S.. More information on this wonderful partnership can be found on this blog post.
+The discussant will be Dr. Tonya White from the Department of Child and Adolescent Psychiatry and the Department of Radiology &amp;amp; Nuclear Medicine at Erasmus MC.</description>
+    </item>
     
     <item>
       <title>A Tour Around the Tidyverse World</title>
