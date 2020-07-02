@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSCR Member: Georg Granic</title>
+      <link>https://www.openscience-rotterdam.com/2020/07/granic/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/07/granic/</guid>
+      <description>Description My research interests lie in the intersection of Economics, Political Science, and Psychology. I am currently doing research on how incentives influence survey responses, how voting affects political preferences, and how to design just-in-time adaptive nudges.
+ CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+    </item>
     
     <item>
       <title>ReproducibiliTea Online: Beyond Bonferroni Revisited</title>
