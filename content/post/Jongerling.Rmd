@@ -58,26 +58,6 @@ Click on the picture to send an email.
   <img border="0" alt="Joran Jongerling" src="/images/Jongerling.jpg" width="150" height="150" align="left">
   </a>
 </p>
-
-<!-- CV
-<p align="center">
-  <a href="http://www.cognitive-psychology.eu/lindemann/" class="fa fa-file fa-2x" style="color:#00B969;">
-  </a>
-</p>
-
-<!-- TWITTER
-<p align="center">
-  <a href="https://twitter.com/Ol1909" class="fa fa-twitter fa-2x">
-  </a>
-</p>
-
-<!-- GITHUB
-<p align="center">
-  <a href="https://github.com/lindemann09" class="fa fa-github fa-2x" style="color:#000000;">
-  </a>
-</p>
-
--->
  
 <BR><BR><BR><BR><BR>
 

@@ -70,14 +70,6 @@ Click on the picture to send an email. The icons on the right redirect to the CV
   <a href="https://twitter.com/asch3tti" class="fa fa-twitter fa-2x">
   </a>
 </p>
-
-<!-- GITHUB -->
-<!-- 
-<p align="center">
-  <a href="https://github.com/aschetti" class="fa fa-github fa-2x" style="color:#000000;">
-  </a>
-</p>
- -->
  
 <!-- OSF -->
 <p align="center">

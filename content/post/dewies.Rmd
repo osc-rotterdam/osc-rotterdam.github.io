@@ -58,18 +58,6 @@ Click on the picture to send an email.
   </a>
 </p>
 
-<!-- CV
-<p align="center">
-  <a href="http://www.cognitive-psychology.eu/lindemann/" class="fa fa-file fa-2x" style="color:#00B969;">
-  </a>
-</p>
-
-<!-- TWITTER
-<p align="center">
-  <a href="https://twitter.com/Ol1909" class="fa fa-twitter fa-2x">
-  </a>
-</p>
-
 <!-- ORCID -->
 <p align="center">
   <a href="https://orcid.org/0000-0002-0576-2085" class="ai ai-orcid fa-2x" style="color:#000000;">
