@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/2020/07/malbecdevidts/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/07/granic/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url>
@@ -304,6 +309,12 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -413,7 +424,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -425,7 +436,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -443,7 +454,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -455,7 +466,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -521,7 +532,7 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
