@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Preregistration on Open Science Community Rotterdam</title>
+    <title>preregistration on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-    <description>Recent content in Preregistration on Open Science Community Rotterdam</description>
+    <description>Recent content in preregistration on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/07/granic/</guid>
-      <description>Description My research interests lie in the intersection of Economics, Political Science, and Psychology. I am currently doing research on how incentives influence survey responses, how voting affects political preferences, and how to design just-in-time adaptive nudges.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>Assistant Professor, ESE</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/aslanidou/</guid>
-      <description>Description I am a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. My research focuses on factors that influence how people generalize their fear across different objects/people/situations that they encounter in everyday life. I compare several psychophysiological and brain measures and the goal is to understand what makes fear generalization turn from a helpful trait to a maladaptive symptom.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/becht/</guid>
-      <description>Description Andrik Becht is a postdoctoral researcher in the SYNC lab and at the Youth &amp;amp; Family department, Utrecht University. His research is specifically aimed at understanding adolescents’ identity development from both a neurobiological and contextual perspective (for instance, examining the role of parents and peers). Andrik also investigates possible consequences of ongoing identity uncertainty in adolescence, to ultimately answer the question why some adolescents thrive whereas others don’t.</description>
+      <description>Postdoctoral Researcher, ESSB &amp;amp; Youth &amp;amp; Family department, Utrecht University</description>
     </item>
     
     <item>
@@ -45,8 +44,7 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</guid>
-      <description>Malte Dewies is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR (see his personal profile page), actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods.
-He recently preregistered an exploratory study for which existing templates were insufficient, so he decided to build his own.</description>
+      <description>Malte Dewies, PhD Candidate at ESSB, shares his experience in creating a customized preregistration template for his own research.</description>
     </item>
     
     <item>
@@ -55,8 +53,7 @@ He recently preregistered an exploratory study for which existing templates were
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/dewies/</guid>
-      <description>Description I am a PhD candidate at the Erasmus School of Social and Behavioural Sciences. My research focuses on the use of psychological insights for public policy (behavioural public policy). For this, I am part of the Behavioural Insights Group Rotterdam. In this group behavioural scientists like me work together with policy experts from the municipality of Rotterdam on case studies submitted by the municipality.
-I have experience with conducting field experiments and evaluation studies.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -65,8 +62,7 @@ I have experience with conducting field experiments and evaluation studies.</des
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/helmink/</guid>
-      <description>Description Fleur Helmink is a PhD Candidate at Erasmus MC-Sophia. She works on the Dutch Bipolar Offspring Study, a cohort study that follows adolescents of parents with bipolar disorder into adulthood. Fleur uses innovative methods, such as experience sampling method and digital phenotyping (with the use of smartphone sensors), to measure daily life functioning.
-She specifically focusses on how mental health and daily life functioning relate in high-risk individuals.</description>
+      <description>PhD Candidate, Erasmus MC-Sophia</description>
     </item>
     
     <item>
@@ -75,7 +71,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/vandegroep/</guid>
-      <description>Description Suzanne van de Groep is a PhD candidate studying the behavioral and neural development of prosocial behavior in adolescence. She is specifically interested in how social contextual factors (e.g., familiarity and audience effects) and individual differences influence giving and other forms of prosociality; and how this is reflected in adolescents’ brains. For her PhD project, Suzanne is involved in all stages (e.g., design, ethical approval, data collection, analyses, writing) of the Brainlinks study, a comprehensive longitudinal study on prosocial development.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -84,7 +80,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/huijser/</guid>
-      <description>Description I am a lab and data manager at a developmental psychology group at ESSB, meaning that I help researchers implement better data management and more open research practices. This can sometimes be a challenge, because we collect large amounts of data that are often also privacy-sensitive. I for example help our researchers with preregistration, data organization and data sharing and aim to develop a vision on open science for our group.</description>
+      <description>Lab and Data Manager for Open Science, ESSB</description>
     </item>
     
     <item>
@@ -93,8 +89,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/achterberg/</guid>
-      <description>Description Michelle Achterberg works on a large longitudinal twin study on brain development in childhood and emerging adolescence. Within this study Michelle specifically focusses on longitudinal brain development and it’s relation to social information processing and behavioral control. Additionally, she is expanding her knowledge of functional and structural brain connectivity and investigates how brain development is influenced by genes and the environment.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Postdoctoral Researcher, ESSB &amp;amp; Leiden Consortium Individual Development</description>
     </item>
     
     <item>
@@ -103,10 +98,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/verheyen/</guid>
-      <description> Description My work on individual differences in language use is positioned at the intersection of quantitative psychology, philosophy of language, and cognitive linguistics. I have expertise in the fields of concepts and categories, semantics, and psychometrics.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Expertise  </description>
+      <description>Assistant Professor, Cognitive Psychology, ESSB</description>
     </item>
     
     <item>
@@ -115,8 +107,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/paolacci/</guid>
-      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -125,8 +116,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/zwaan/</guid>
-      <description>Description My research is in the area of language processing and cognition. Current interests are conspiracy thinking and social media use.
-I conduct mostly behavioral research on language processing, memory, and learning. I have been an active participant in the open science movement for the past 6 years or so, focusing particularly on replication, on which I’ve written both theoretical and empirical papers as well as blog posts. My students and I routinely use preregistration for our experiments and always make our stimuli and data available.</description>
+      <description>Professor of Psychology, Chair of Brain &amp;amp; Cognition, ESSB</description>
     </item>
     
     <item>
@@ -135,7 +125,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/wieser/</guid>
-      <description>Description I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain.</description>
+      <description>Professor of Psychology, Director of Research (Psychology), ESSB</description>
     </item>
     
     <item>
@@ -144,8 +134,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/04/schettino/</guid>
-      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
-As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
+      <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
   </channel>

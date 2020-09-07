@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Open Science Community Rotterdam</title>
@@ -6,10 +6,19 @@
     <description>Recent content in News on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to the Brain Imaging Data Structure (BIDS)</title>
+      <link>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</guid>
+      <description>September 17th 2020, h. 14:00 CEST, Zoom</description>
+    </item>
     
     <item>
       <title>ReproducibiliTea Online: Beyond Bonferroni Revisited</title>
@@ -17,8 +26,7 @@
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/reproducibilitea-july2020/</guid>
-      <description>The ninth OSCR ReproducibiliTea journal club will take place on July 8th at 14:00. This is a special one, because it is a combined session between OSCR and Rotterdam R.I.O.T.S.. More information on this wonderful partnership can be found on this blog post.
-The discussant will be Dr. Tonya White from the Department of Child and Adolescent Psychiatry and the Department of Radiology &amp;amp; Nuclear Medicine at Erasmus MC.</description>
+      <description>July 8th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -27,8 +35,7 @@ The discussant will be Dr. Tonya White from the Department of Child and Adolesc
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</guid>
-      <description>Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With R, of course! 😄
-The OSCR is happy to announce an online workshop entitled A Tour Around the Tidyverse World.</description>
+      <description>June 24th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -37,9 +44,7 @@ The OSCR is happy to announce an online workshop entitled A Tour Around the Tidy
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/reproducibilitea-june2020/</guid>
-      <description>The eighth OSCR ReproducibiliTea journal club will take place on June 10th at 11:00. The discussants will be Dr. Ian Hussey and Prof. Sean Hughes, from the Department of Experimental-Clinical and Health Psychology at Ghent University (Belgium).
-Ian and Sean will guide us through one of their latest papers1:
- Hussey, I., &amp;amp; Hughes, S. (2020). Hidden Invalidity Among 15 Commonly Used Measures in Social and Personality Psychology. Advances in Methods and Practices in Psychological Science.</description>
+      <description>June 10th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -48,7 +53,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/introbayes-june2020/</guid>
-      <description>In the context of the ongoing debate about the replication crisis in psychology, methodologists have criticized the common practice of null-hypothesis testing using p-values. As a result, more and more researchers recently started using so-called Bayesian statistics to analyze their data. But what does this “new” approach to statistics really mean? What are the differences between Bayesian statistics and Frequentist statistics? What are the advantages (or disadvantages) of the estimation of the “subjective probability” of a model as compared to the usual practice to test a model based on the “objective probability” of the data under the null-hypothesis?</description>
+      <description>June 3rd 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -57,7 +62,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/opensampling-may2020/</guid>
-      <description>A huge proportion of participants in behavioral science studies are recruited from “open sampling” services, such as Amazon Mechanical Turk and Prolific. These services can accelerate and democratize the production of scientific knowledge. They also allow researches to collect larger samples compared to traditional samples in behavioral research (e.g., undergraduate students). However, open sampling also poses unique challenges to behavioral researchers. For example, participants have increasing research experience, which can affect experimental validity and replicability; researchers face a tradeoff between collecting larger samples and providing ethical payments to individuals who participate in research to earn a living wage.</description>
+      <description>May 26th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -66,8 +71,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</guid>
-      <description>Malte Dewies is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR (see his personal profile page), actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods.
-He recently preregistered an exploratory study for which existing templates were insufficient, so he decided to build his own.</description>
+      <description>Malte Dewies, PhD Candidate at ESSB, shares his experience in creating a customized preregistration template for his own research.</description>
     </item>
     
     <item>
@@ -76,9 +80,7 @@ He recently preregistered an exploratory study for which existing templates were
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/reproducibilitea-may2020/</guid>
-      <description>The seventh OSCR ReproducibiliTea journal club will take place on May 13th at 11:00. The discussants will be Elisabet Blok and Lorenza Dall’Aglio, PhD Candidates at Erasmus MC and co-founders of the Rotterdam R.I.O.T.S. Club (with which the OSCR has a synergic collaboration).
-We will talk about the following paper1:
- Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., Orben, A., Parsons, S.</description>
+      <description>May 13th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -87,8 +89,7 @@ We will talk about the following paper1:
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/intro-github-apr2020/</guid>
-      <description>Our first online ReproducibiliTea Rotterdam was a great success! Thirty people joined our Zoom meeting to discuss with Anne Scheel her preprint comparing the standard psychology literature with Registered Reports. The presentation was awesome, the questions insightful, and the atmosphere light and informal. Thanks to everyone involved!
-Given the strong interest and current relevance of open science as a set of tools to quickly disseminate knowledge, the OSCR will host an online webinar entitled Introduction to Git(Hub).</description>
+      <description>April 29th 2020, h. 10:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -97,8 +98,7 @@ Given the strong interest and current relevance of open science as a set of tool
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/reproducibilitea-apr2020/</guid>
-      <description>The worldwide spread of the SARS-CoV-2 virus – and subsequent increase in people affected by COVID-19 – is causing noticeable disruptions in our regular lifestyle. However, we are doing our best to translate OSCR initiatives online, not only to continue our mission to increase awareness on open science practices but also provide valuable support and human connection during this period of (self-)isolation.
-One of our first online events will be the sixth OSCR ReproducibiliTea journal club, which will take place on April 8th at 11:001.</description>
+      <description>April 8th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -107,9 +107,7 @@ One of our first online events will be the sixth OSCR ReproducibiliTea journal c
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/oscr-riots/</guid>
-      <description>The Open Science Community Rotterdam is part of a national (Dutch) network of communities created by researchers for researchers.
-All Open Science Communities in The Netherlands as of March 2020. Image by Anita Eerland, licensed under CC BY-ND 3.0
- We facilitate communication among scholars by giving them platforms to connect and share information on open science practices, for example our internal chat rooms on Matrix or the website on which this blog post is hosted.</description>
+      <description>Increasing the offer of training on open and reproducible science at EUR and ErasmusMC</description>
     </item>
     
     <item>
@@ -118,8 +116,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/reproducibilitea-mar2020/</guid>
-      <description>The fifth OSCR ReproducibiliTea journal club will take place on March 11th at 11:00 in room G2-35 (G building).
-We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the National University of Ireland and co-founder of the Open Scholarship Community Galway. Hardy is interested in how research is evaluated and how academics are assessed when it comes to job / grant applications and promotions. Hardy believes that research assessment is a topic all researchers should have a basic knowledge of, as it will determine their careers in academia.</description>
+      <description>March 11th 2020, h. 11:00, room G2-35</description>
     </item>
     
     <item>
@@ -128,8 +125,7 @@ We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the N
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/</guid>
-      <description>The fourth OSCR ReproducibiliTea journal club will take place on February 12th at 11:00 in room J7-55 (Bayle building).
-We will have two special guests: Max Bautista Perpinyà and Stefan Gaillard, two co-founders of the Journal of Trial and Error. In their talk1, Max and Stefan will focus on the importance of publishing negative and null results, as well as other research results that would traditionally be considered “failure” such as unsuccessful chemical syntheses.</description>
+      <description>February 12th 2020, h. 11:00, room J7-55</description>
     </item>
     
     <item>
@@ -138,12 +134,7 @@ We will have two special guests: Max Bautista Perpinyà and Stefan Gaillard, two
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/osfestival-wageningen-announcement/</guid>
-      <description>Website: https://opensciencefestival.nl/
-Deadlines:
-Open Call submission: March 10th, 2020
-Notification of acceptance or rejection: March 31st, 2020
-Registration opens: April 2nd, 2020
-The National Open Science Festival provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.</description>
+      <description>August 27th 2020, Campus Wageningen University &amp;amp; Research</description>
     </item>
     
     <item>
@@ -152,8 +143,7 @@ The National Open Science Festival provides researchers the opportunity to learn
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</guid>
-      <description>I am happy to announce that Daniël Lakens, Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology, will give a talk at the upcoming DPECS colloquium, which will take place on February 11th at 15:00 in room T13-67 (Mandeville building).
-Prof. Lakens is a long-standing adopter and proponent of open science practices. He is active on Twitter, has a very interesting blog called The 20% Statistician, and teaches two successful massive online open courses: Improving your statistical inferences and Improving Your Statistical Questions.</description>
+      <description>February 11th 2020, h. 15:00, room T13-67</description>
     </item>
     
     <item>
@@ -162,9 +152,7 @@ Prof. Lakens is a long-standing adopter and proponent of open science practices
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/</guid>
-      <description>The third OSCR ReproducibiliTea journal club will take place on January 22nd at 11:00 in room VB-02 (V building). I will be the discussant, and we will talk about the following paper1:
- Simmons, J. P., Nelson, L. D., &amp;amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
- This paper, now considered a classic reference when discussing open science in psychological research, shows how unreported flexible choices in data collection, analysis, and reporting can increase false-positive rates.</description>
+      <description>January 22nd 2020, h. 11:00, room VB-02</description>
     </item>
     
     <item>
@@ -173,7 +161,7 @@ Prof. Lakens is a long-standing adopter and proponent of open science practices
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/reproducibilitea-dec2019/</guid>
-      <description>As many of you know, OSCR recently started a ReproducibiliTea journal club (for details on the initiative, see a previous blog post). Seven people attended our first meeting (on November 13th): everyone was interested and engaged, thanks to a cozy and informal environment conducive of open debate… we could not have started in a better way! This nice atmosphere sparked very interesting discussions, one of which is the topic of our next meeting.</description>
+      <description>December 11th 2019, h. 11:00, room J7-55</description>
     </item>
     
     <item>
@@ -182,8 +170,7 @@ Prof. Lakens is a long-standing adopter and proponent of open science practices
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</guid>
-      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management (ESHPM).
-I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
+      <description>Upfront investment, tangible career benefits.</description>
     </item>
     
     <item>
@@ -192,9 +179,7 @@ I will first provide a brief introduction on open science and some active areas 
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/oscr-reproducibilitea/</guid>
-      <description>Exciting news! OSCR will organize monthly journal clubs following the ReproducibiliTea format!
-Here you will find a brief description of how the OSCR ReproducibiliTea will be organized. In brief, each month we will meet for an hour either in T (Mandeville) or J (Bayle) building to discuss a paper or blog post treating a specific open science topic. Some examples may include:
- does publishing open access have specific costs and benefits for the individual researcher?</description>
+      <description>A monthly journal club to discuss all things open science</description>
     </item>
     
     <item>
@@ -203,8 +188,7 @@ Here you will find a brief description of how the OSCR ReproducibiliTea will be 
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/09/osfworkshop-eshpm-sept2019/</guid>
-      <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
-I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
+      <description>September 24th 2019, h.14:30, room J7-43/J7-45</description>
     </item>
     
     <item>
@@ -213,9 +197,7 @@ I have already given a similar workshop at the Faculty of Economics and Business
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
-      <description>The official website of the Open Science Community Rotterdam is now live!
-Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
-Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
+      <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     
   </channel>

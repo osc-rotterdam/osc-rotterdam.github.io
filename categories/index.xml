@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Open Science Community Rotterdam</title>
@@ -6,34 +6,35 @@
     <description>Recent content in Categories on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Home</title>
-      <link>https://www.openscience-rotterdam.com/categories/home/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/categories/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>News</title>
       <link>https://www.openscience-rotterdam.com/categories/news/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>People</title>
+      <title>people</title>
       <link>https://www.openscience-rotterdam.com/categories/people/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/categories/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://www.openscience-rotterdam.com/categories/home/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/categories/home/</guid>
       <description></description>
     </item>
     

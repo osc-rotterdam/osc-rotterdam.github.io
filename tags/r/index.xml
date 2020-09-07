@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Open Science Community Rotterdam</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/blok/</guid>
-      <description>Description I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam R.I.O.T. Science Club, a community providing training in Reproducible, Interpretable, Open, and Transparent science.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -26,8 +26,7 @@
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/dallaglio/</guid>
-      <description>Description I am a PhD student at Erasmus MC investigating how brain structure and connectivity relate with behavioural and emotional problems in children and adolescents from the general population. I am also the co-funder of Rotterdam R.I.O.T. Science Club, a community providing training in Reproducible, Interpretable, Open, and Transparent science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/martinovici/</guid>
-      <description>Description I have a strong interest in methods that facilitate high quality research: reproducible, replicable, relevant, and communicated in a clear and responsible manner also to non-scientific audiences. In terms of substantive interests, my research focuses on dynamic aspects of consumer decision making, more specifically on how preferences evolve over time until a final choice is expressed. In order to gain access to these latent processes, I am using dynamic Bayesian models calibrated on eye-tracking data, building on research in neuroeconomics that supports a strong link between attention and decision making.</description>
+      <description>Assistant Professor, RSM</description>
     </item>
     
     <item>
@@ -45,8 +44,7 @@
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/joosen/</guid>
-      <description>Description I am a PhD candidate at the Department of Public Administration and Sociology. In my research, I look at interest groups and regulatory politics using quantitative text analysis and statistics. I am fairly new to open science. I have published in an open access journal and use open source software (R) for my analysis.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Department of Public Administration and Sociology, ESSB</description>
     </item>
     
     <item>
@@ -55,8 +53,7 @@
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/tenand/</guid>
-      <description>Description I am a post-doctoral researcher at Erasmus School of Health Policy &amp;amp; Management (ESHPM). My background is in social sciences and applied economics. My current research focuses on the economics aspects of population ageing, in particular on the provision of long-term care services to the elderly.
-I exploit individual-level data of different types: surveys conducted by Statistical Institutes, administrative register data, or client databases, which I access under confidentially agreements.</description>
+      <description>Post-Doctoral Researcher, ESPHM</description>
     </item>
     
     <item>
@@ -65,9 +62,7 @@ I exploit individual-level data of different types: surveys conducted by Statist
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/jongerling/</guid>
-      <description>Description I specialize in Multilevel Analysis, Bayesian statistics, Timeseries, Network Analysis, and Diary Studies. My research theme is “Inter-individual differences in intra-individual variability. How do individuals change over time, and how does this change differ between individuals?”.
-I mainly work on longitudinal modeling and simulation studies, but also collaborate with substantive researchers and PhD’s (mainly form the field of Psychology, Child- and Educational Sciences) whenever I can.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Assistant Professor of Methods &amp;amp; Statistics, ESSB</description>
     </item>
     
     <item>
@@ -76,8 +71,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</guid>
-      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -86,7 +80,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/lemmens/</guid>
-      <description>Description My current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -95,9 +89,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</guid>
-      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
-I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>PhD Candidate, ESPHM</description>
     </item>
     
   </channel>

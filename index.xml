@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Science Community Rotterdam</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to the Brain Imaging Data Structure (BIDS)</title>
+      <link>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</guid>
+      <description>September 17th 2020, h. 14:00 CEST, Zoom</description>
+    </item>
     
     <item>
       <title>OSCR Member: Marcelo Malbec De Vidts</title>
@@ -17,7 +26,7 @@
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/07/malbecdevidts/</guid>
-      <description>Description Marcelo Malbec De Vidts is a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. His research is about how different ways of responding to uncertainty affect individuals. These consequences could be present in cognitive as well as affective domains of human life. To do so, he uses EEG to analyse brain activity in different computer-based scenarios (decision-making; fear processing; error monitoring).</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -26,8 +35,7 @@
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/07/granic/</guid>
-      <description>Description My research interests lie in the intersection of Economics, Political Science, and Psychology. I am currently doing research on how incentives influence survey responses, how voting affects political preferences, and how to design just-in-time adaptive nudges.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>Assistant Professor, ESE</description>
     </item>
     
     <item>
@@ -36,8 +44,7 @@
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/reproducibilitea-july2020/</guid>
-      <description>The ninth OSCR ReproducibiliTea journal club will take place on July 8th at 14:00. This is a special one, because it is a combined session between OSCR and Rotterdam R.I.O.T.S.. More information on this wonderful partnership can be found on this blog post.
-The discussant will be Dr. Tonya White from the Department of Child and Adolescent Psychiatry and the Department of Radiology &amp;amp; Nuclear Medicine at Erasmus MC.</description>
+      <description>July 8th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -46,7 +53,7 @@ The discussant will be Dr. Tonya White from the Department of Child and Adolesc
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/aslanidou/</guid>
-      <description>Description I am a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. My research focuses on factors that influence how people generalize their fear across different objects/people/situations that they encounter in everyday life. I compare several psychophysiological and brain measures and the goal is to understand what makes fear generalization turn from a helpful trait to a maladaptive symptom.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -55,8 +62,7 @@ The discussant will be Dr. Tonya White from the Department of Child and Adolesc
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/ivandegroep/</guid>
-      <description>Description Ilse van de Groep is a PhD Candidate at the SYNC lab (Erasmus University Rotterdam) and the Child and Adolescent Psychiatry Department (Amsterdam UMC, location VUmc). In her PhD project, Ilse examines several mechanisms that underlie distinct developmental trajectories of social and antisocial behavior in emerging adulthood, with a specific focus on the neural correlates of self-concept, vicarious reward learning, social evaluation and aggression regulation.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -65,8 +71,7 @@ The discussant will be Dr. Tonya White from the Department of Child and Adolesc
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</guid>
-      <description>Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With R, of course! 😄
-The OSCR is happy to announce an online workshop entitled A Tour Around the Tidyverse World.</description>
+      <description>June 24th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -75,7 +80,7 @@ The OSCR is happy to announce an online workshop entitled A Tour Around the Tidy
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/becht/</guid>
-      <description>Description Andrik Becht is a postdoctoral researcher in the SYNC lab and at the Youth &amp;amp; Family department, Utrecht University. His research is specifically aimed at understanding adolescents’ identity development from both a neurobiological and contextual perspective (for instance, examining the role of parents and peers). Andrik also investigates possible consequences of ongoing identity uncertainty in adolescence, to ultimately answer the question why some adolescents thrive whereas others don’t.</description>
+      <description>Postdoctoral Researcher, ESSB &amp;amp; Youth &amp;amp; Family department, Utrecht University</description>
     </item>
     
     <item>
@@ -84,9 +89,7 @@ The OSCR is happy to announce an online workshop entitled A Tour Around the Tidy
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/reproducibilitea-june2020/</guid>
-      <description>The eighth OSCR ReproducibiliTea journal club will take place on June 10th at 11:00. The discussants will be Dr. Ian Hussey and Prof. Sean Hughes, from the Department of Experimental-Clinical and Health Psychology at Ghent University (Belgium).
-Ian and Sean will guide us through one of their latest papers1:
- Hussey, I., &amp;amp; Hughes, S. (2020). Hidden Invalidity Among 15 Commonly Used Measures in Social and Personality Psychology. Advances in Methods and Practices in Psychological Science.</description>
+      <description>June 10th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -95,7 +98,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/introbayes-june2020/</guid>
-      <description>In the context of the ongoing debate about the replication crisis in psychology, methodologists have criticized the common practice of null-hypothesis testing using p-values. As a result, more and more researchers recently started using so-called Bayesian statistics to analyze their data. But what does this “new” approach to statistics really mean? What are the differences between Bayesian statistics and Frequentist statistics? What are the advantages (or disadvantages) of the estimation of the “subjective probability” of a model as compared to the usual practice to test a model based on the “objective probability” of the data under the null-hypothesis?</description>
+      <description>June 3rd 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -104,7 +107,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/opensampling-may2020/</guid>
-      <description>A huge proportion of participants in behavioral science studies are recruited from “open sampling” services, such as Amazon Mechanical Turk and Prolific. These services can accelerate and democratize the production of scientific knowledge. They also allow researches to collect larger samples compared to traditional samples in behavioral research (e.g., undergraduate students). However, open sampling also poses unique challenges to behavioral researchers. For example, participants have increasing research experience, which can affect experimental validity and replicability; researchers face a tradeoff between collecting larger samples and providing ethical payments to individuals who participate in research to earn a living wage.</description>
+      <description>May 26th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -113,7 +116,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/klapwijk/</guid>
-      <description>Description Eduard is a postdoc in the SYNC lab. A central question in his research is: Why do most teenagers grow up to be kind to others while a proportion engage in harmful, antisocial and risky behaviors? He is very much interested in how we can address these questions using neuroimaging methods in a robust, reproducible way. His main focus as a postdoc at Erasmus University will be to determine the optimal sample size in developmental studies for a range of fMRI tasks.</description>
+      <description>Postdoctoral Researcher, ESSB</description>
     </item>
     
     <item>
@@ -122,8 +125,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/orlandi/</guid>
-      <description>Description Broadly speaking, my research interests lie in the field of strategic leadership and corporate governance. I am interested in developing our understanding of directors’ appointments and motivation to accept this job position. As an early stage scholar (PhD candidate), I am moving my first steps into open science and I look forward to seeing it developing while being a part of it.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>PhD Candidate, RSM</description>
     </item>
     
     <item>
@@ -132,8 +134,7 @@ Ian and Sean will guide us through one of their latest papers1:
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</guid>
-      <description>Malte Dewies is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR (see his personal profile page), actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods.
-He recently preregistered an exploratory study for which existing templates were insufficient, so he decided to build his own.</description>
+      <description>Malte Dewies, PhD Candidate at ESSB, shares his experience in creating a customized preregistration template for his own research.</description>
     </item>
     
     <item>
@@ -142,9 +143,7 @@ He recently preregistered an exploratory study for which existing templates were
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/reproducibilitea-may2020/</guid>
-      <description>The seventh OSCR ReproducibiliTea journal club will take place on May 13th at 11:00. The discussants will be Elisabet Blok and Lorenza Dall’Aglio, PhD Candidates at Erasmus MC and co-founders of the Rotterdam R.I.O.T.S. Club (with which the OSCR has a synergic collaboration).
-We will talk about the following paper1:
- Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., Orben, A., Parsons, S.</description>
+      <description>May 13th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -153,8 +152,7 @@ We will talk about the following paper1:
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/dewies/</guid>
-      <description>Description I am a PhD candidate at the Erasmus School of Social and Behavioural Sciences. My research focuses on the use of psychological insights for public policy (behavioural public policy). For this, I am part of the Behavioural Insights Group Rotterdam. In this group behavioural scientists like me work together with policy experts from the municipality of Rotterdam on case studies submitted by the municipality.
-I have experience with conducting field experiments and evaluation studies.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -163,8 +161,7 @@ I have experience with conducting field experiments and evaluation studies.</des
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/helmink/</guid>
-      <description>Description Fleur Helmink is a PhD Candidate at Erasmus MC-Sophia. She works on the Dutch Bipolar Offspring Study, a cohort study that follows adolescents of parents with bipolar disorder into adulthood. Fleur uses innovative methods, such as experience sampling method and digital phenotyping (with the use of smartphone sensors), to measure daily life functioning.
-She specifically focusses on how mental health and daily life functioning relate in high-risk individuals.</description>
+      <description>PhD Candidate, Erasmus MC-Sophia</description>
     </item>
     
     <item>
@@ -173,8 +170,7 @@ She specifically focusses on how mental health and daily life functioning relate
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/intro-github-apr2020/</guid>
-      <description>Our first online ReproducibiliTea Rotterdam was a great success! Thirty people joined our Zoom meeting to discuss with Anne Scheel her preprint comparing the standard psychology literature with Registered Reports. The presentation was awesome, the questions insightful, and the atmosphere light and informal. Thanks to everyone involved!
-Given the strong interest and current relevance of open science as a set of tools to quickly disseminate knowledge, the OSCR will host an online webinar entitled Introduction to Git(Hub).</description>
+      <description>April 29th 2020, h. 10:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -183,8 +179,7 @@ Given the strong interest and current relevance of open science as a set of tool
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/reproducibilitea-apr2020/</guid>
-      <description>The worldwide spread of the SARS-CoV-2 virus – and subsequent increase in people affected by COVID-19 – is causing noticeable disruptions in our regular lifestyle. However, we are doing our best to translate OSCR initiatives online, not only to continue our mission to increase awareness on open science practices but also provide valuable support and human connection during this period of (self-)isolation.
-One of our first online events will be the sixth OSCR ReproducibiliTea journal club, which will take place on April 8th at 11:001.</description>
+      <description>April 8th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -193,9 +188,7 @@ One of our first online events will be the sixth OSCR ReproducibiliTea journal c
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/oscr-riots/</guid>
-      <description>The Open Science Community Rotterdam is part of a national (Dutch) network of communities created by researchers for researchers.
-All Open Science Communities in The Netherlands as of March 2020. Image by Anita Eerland, licensed under CC BY-ND 3.0
- We facilitate communication among scholars by giving them platforms to connect and share information on open science practices, for example our internal chat rooms on Matrix or the website on which this blog post is hosted.</description>
+      <description>Increasing the offer of training on open and reproducible science at EUR and ErasmusMC</description>
     </item>
     
     <item>
@@ -204,7 +197,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/vandegroep/</guid>
-      <description>Description Suzanne van de Groep is a PhD candidate studying the behavioral and neural development of prosocial behavior in adolescence. She is specifically interested in how social contextual factors (e.g., familiarity and audience effects) and individual differences influence giving and other forms of prosociality; and how this is reflected in adolescents’ brains. For her PhD project, Suzanne is involved in all stages (e.g., design, ethical approval, data collection, analyses, writing) of the Brainlinks study, a comprehensive longitudinal study on prosocial development.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -213,7 +206,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/huijser/</guid>
-      <description>Description I am a lab and data manager at a developmental psychology group at ESSB, meaning that I help researchers implement better data management and more open research practices. This can sometimes be a challenge, because we collect large amounts of data that are often also privacy-sensitive. I for example help our researchers with preregistration, data organization and data sharing and aim to develop a vision on open science for our group.</description>
+      <description>Lab and Data Manager for Open Science, ESSB</description>
     </item>
     
     <item>
@@ -222,8 +215,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/achterberg/</guid>
-      <description>Description Michelle Achterberg works on a large longitudinal twin study on brain development in childhood and emerging adolescence. Within this study Michelle specifically focusses on longitudinal brain development and it’s relation to social information processing and behavioral control. Additionally, she is expanding her knowledge of functional and structural brain connectivity and investigates how brain development is influenced by genes and the environment.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Postdoctoral Researcher, ESSB &amp;amp; Leiden Consortium Individual Development</description>
     </item>
     
     <item>
@@ -232,7 +224,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/blok/</guid>
-      <description>Description I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam R.I.O.T. Science Club, a community providing training in Reproducible, Interpretable, Open, and Transparent science.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -241,8 +233,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/dallaglio/</guid>
-      <description>Description I am a PhD student at Erasmus MC investigating how brain structure and connectivity relate with behavioural and emotional problems in children and adolescents from the general population. I am also the co-funder of Rotterdam R.I.O.T. Science Club, a community providing training in Reproducible, Interpretable, Open, and Transparent science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -251,8 +242,7 @@ All Open Science Communities in The Netherlands as of March 2020. Image by Anita
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/reproducibilitea-mar2020/</guid>
-      <description>The fifth OSCR ReproducibiliTea journal club will take place on March 11th at 11:00 in room G2-35 (G building).
-We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the National University of Ireland and co-founder of the Open Scholarship Community Galway. Hardy is interested in how research is evaluated and how academics are assessed when it comes to job / grant applications and promotions. Hardy believes that research assessment is a topic all researchers should have a basic knowledge of, as it will determine their careers in academia.</description>
+      <description>March 11th 2020, h. 11:00, room G2-35</description>
     </item>
     
     <item>
@@ -261,7 +251,7 @@ We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the N
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/martinovici/</guid>
-      <description>Description I have a strong interest in methods that facilitate high quality research: reproducible, replicable, relevant, and communicated in a clear and responsible manner also to non-scientific audiences. In terms of substantive interests, my research focuses on dynamic aspects of consumer decision making, more specifically on how preferences evolve over time until a final choice is expressed. In order to gain access to these latent processes, I am using dynamic Bayesian models calibrated on eye-tracking data, building on research in neuroeconomics that supports a strong link between attention and decision making.</description>
+      <description>Assistant Professor, RSM</description>
     </item>
     
     <item>
@@ -270,8 +260,7 @@ We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the N
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/joosen/</guid>
-      <description>Description I am a PhD candidate at the Department of Public Administration and Sociology. In my research, I look at interest groups and regulatory politics using quantitative text analysis and statistics. I am fairly new to open science. I have published in an open access journal and use open source software (R) for my analysis.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Department of Public Administration and Sociology, ESSB</description>
     </item>
     
     <item>
@@ -280,10 +269,7 @@ We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the N
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/02/verheyen/</guid>
-      <description> Description My work on individual differences in language use is positioned at the intersection of quantitative psychology, philosophy of language, and cognitive linguistics. I have expertise in the fields of concepts and categories, semantics, and psychometrics.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Expertise  </description>
+      <description>Assistant Professor, Cognitive Psychology, ESSB</description>
     </item>
     
     <item>
@@ -292,8 +278,7 @@ We will have a special guest: Hardy Schwamm, Open Scholarship Librarian at the N
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/</guid>
-      <description>The fourth OSCR ReproducibiliTea journal club will take place on February 12th at 11:00 in room J7-55 (Bayle building).
-We will have two special guests: Max Bautista Perpinyà and Stefan Gaillard, two co-founders of the Journal of Trial and Error. In their talk1, Max and Stefan will focus on the importance of publishing negative and null results, as well as other research results that would traditionally be considered “failure” such as unsuccessful chemical syntheses.</description>
+      <description>February 12th 2020, h. 11:00, room J7-55</description>
     </item>
     
     <item>
@@ -302,12 +287,7 @@ We will have two special guests: Max Bautista Perpinyà and Stefan Gaillard, two
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/osfestival-wageningen-announcement/</guid>
-      <description>Website: https://opensciencefestival.nl/
-Deadlines:
-Open Call submission: March 10th, 2020
-Notification of acceptance or rejection: March 31st, 2020
-Registration opens: April 2nd, 2020
-The National Open Science Festival provides researchers the opportunity to learn about the benefits of different Open Science practices. It is a place to meet peers that are already working openly or that are interested to start doing so. Key to this day is sharing knowledge and best practices.</description>
+      <description>August 27th 2020, Campus Wageningen University &amp;amp; Research</description>
     </item>
     
     <item>
@@ -316,8 +296,7 @@ The National Open Science Festival provides researchers the opportunity to learn
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</guid>
-      <description>I am happy to announce that Daniël Lakens, Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology, will give a talk at the upcoming DPECS colloquium, which will take place on February 11th at 15:00 in room T13-67 (Mandeville building).
-Prof. Lakens is a long-standing adopter and proponent of open science practices. He is active on Twitter, has a very interesting blog called The 20% Statistician, and teaches two successful massive online open courses: Improving your statistical inferences and Improving Your Statistical Questions.</description>
+      <description>February 11th 2020, h. 15:00, room T13-67</description>
     </item>
     
     <item>
@@ -326,9 +305,7 @@ Prof. Lakens is a long-standing adopter and proponent of open science practices
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/</guid>
-      <description>The third OSCR ReproducibiliTea journal club will take place on January 22nd at 11:00 in room VB-02 (V building). I will be the discussant, and we will talk about the following paper1:
- Simmons, J. P., Nelson, L. D., &amp;amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
- This paper, now considered a classic reference when discussing open science in psychological research, shows how unreported flexible choices in data collection, analysis, and reporting can increase false-positive rates.</description>
+      <description>January 22nd 2020, h. 11:00, room VB-02</description>
     </item>
     
     <item>
@@ -337,8 +314,7 @@ Prof. Lakens is a long-standing adopter and proponent of open science practices
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/tenand/</guid>
-      <description>Description I am a post-doctoral researcher at Erasmus School of Health Policy &amp;amp; Management (ESHPM). My background is in social sciences and applied economics. My current research focuses on the economics aspects of population ageing, in particular on the provision of long-term care services to the elderly.
-I exploit individual-level data of different types: surveys conducted by Statistical Institutes, administrative register data, or client databases, which I access under confidentially agreements.</description>
+      <description>Post-Doctoral Researcher, ESPHM</description>
     </item>
     
     <item>
@@ -347,8 +323,7 @@ I exploit individual-level data of different types: surveys conducted by Statist
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/12/koyama/</guid>
-      <description>Description I am a PhD student and my research field is social epidemiology. My main interests is how social environment affects child mental health and development. Open science is new to me but I am sure that it improves the science quality as a whole and efficiency in research as well.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -357,9 +332,7 @@ I exploit individual-level data of different types: surveys conducted by Statist
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/jongerling/</guid>
-      <description>Description I specialize in Multilevel Analysis, Bayesian statistics, Timeseries, Network Analysis, and Diary Studies. My research theme is “Inter-individual differences in intra-individual variability. How do individuals change over time, and how does this change differ between individuals?”.
-I mainly work on longitudinal modeling and simulation studies, but also collaborate with substantive researchers and PhD’s (mainly form the field of Psychology, Child- and Educational Sciences) whenever I can.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Assistant Professor of Methods &amp;amp; Statistics, ESSB</description>
     </item>
     
     <item>
@@ -368,7 +341,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/reproducibilitea-dec2019/</guid>
-      <description>As many of you know, OSCR recently started a ReproducibiliTea journal club (for details on the initiative, see a previous blog post). Seven people attended our first meeting (on November 13th): everyone was interested and engaged, thanks to a cozy and informal environment conducive of open debate… we could not have started in a better way! This nice atmosphere sparked very interesting discussions, one of which is the topic of our next meeting.</description>
+      <description>December 11th 2019, h. 11:00, room J7-55</description>
     </item>
     
     <item>
@@ -377,8 +350,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</guid>
-      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -387,8 +359,7 @@ I mainly work on longitudinal modeling and simulation studies, but also collabor
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</guid>
-      <description>On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management (ESHPM).
-I will first provide a brief introduction on open science and some active areas of development. Afterwards, I will show examples from psychology, economy, and health sciences on how non-transparent scholarly output – combined with the current sluggish and cumbersome publication system – can lead to failed large-scale replications, computational errors, and delayed dissemination of information, with tangible societal consequences.</description>
+      <description>Upfront investment, tangible career benefits.</description>
     </item>
     
     <item>
@@ -397,7 +368,7 @@ I will first provide a brief introduction on open science and some active areas 
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/lemmens/</guid>
-      <description>Description My current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -406,9 +377,7 @@ I will first provide a brief introduction on open science and some active areas 
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/oscr-reproducibilitea/</guid>
-      <description>Exciting news! OSCR will organize monthly journal clubs following the ReproducibiliTea format!
-Here you will find a brief description of how the OSCR ReproducibiliTea will be organized. In brief, each month we will meet for an hour either in T (Mandeville) or J (Bayle) building to discuss a paper or blog post treating a specific open science topic. Some examples may include:
- does publishing open access have specific costs and benefits for the individual researcher?</description>
+      <description>A monthly journal club to discuss all things open science</description>
     </item>
     
     <item>
@@ -417,8 +386,7 @@ Here you will find a brief description of how the OSCR ReproducibiliTea will be 
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/badura/</guid>
-      <description>Description Throughout my Ph.D. studies and Postdoctoral Fellowships, my work had focused on unraveling the function of the cerebellum in health and disease, encompassing two research lines:
- Line-1. I have established that the modulation of cerebellar activity is essential for motor learning and helped to develop a computer model that reproduces experimental data and can predict motor impairments based on neural activity. Using intravital two-photon imaging, we discovered that granule cells acquire signals predictive of motor performance.</description>
+      <description>Assistant Professor, Erasmus MC</description>
     </item>
     
     <item>
@@ -427,9 +395,7 @@ Here you will find a brief description of how the OSCR ReproducibiliTea will be 
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/perryduxbury/</guid>
-      <description>Description My background is applied economics, specifically health economics. My work focuses on opportunity costs in the economic evaluation on health care interventions. I use predominantly pre-collected aggregate data sets, however I also have some experience with Big Data and Survey Data.
-I’m fairly new to the Open Science environment, and I am most interested in learning about data management, preregistration and reproducibility.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>PhD Candidate, ESPHM</description>
     </item>
     
     <item>
@@ -438,8 +404,7 @@ I’m fairly new to the Open Science environment, and I am most interested in le
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/09/osfworkshop-eshpm-sept2019/</guid>
-      <description>On September 24th I will give a workshop on how to use the Open Science Framework (OSF), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints.
-I have already given a similar workshop at the Faculty of Economics and Business Administration at Ghent University and the Erasmus Research Institute of Management here at EUR.</description>
+      <description>September 24th 2019, h.14:30, room J7-43/J7-45</description>
     </item>
     
     <item>
@@ -448,8 +413,7 @@ I have already given a similar workshop at the Faculty of Economics and Business
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/paolacci/</guid>
-      <description>Description My research considers both substantive and methodological questions in behavioral research. I conduct experiments to study whether and how people’s decisions (e.g., what to buy, whom to donate) deviate from the prescriptions of rational choice theory and consequentialist philosophy. I also do research into the methodology of data collection in the behavioral sciences, and in particular the use of online samples (e.g., MTurk).
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -458,8 +422,7 @@ I have already given a similar workshop at the Faculty of Economics and Business
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/zwaan/</guid>
-      <description>Description My research is in the area of language processing and cognition. Current interests are conspiracy thinking and social media use.
-I conduct mostly behavioral research on language processing, memory, and learning. I have been an active participant in the open science movement for the past 6 years or so, focusing particularly on replication, on which I’ve written both theoretical and empirical papers as well as blog posts. My students and I routinely use preregistration for our experiments and always make our stimuli and data available.</description>
+      <description>Professor of Psychology, Chair of Brain &amp;amp; Cognition, ESSB</description>
     </item>
     
     <item>
@@ -468,8 +431,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/roos/</guid>
-      <description>Description My research considers questions in the areas of entertainment and information goods, digital advertising, and other online phenomena. I am especially interested in settings where information, learning, and other types of adaptation affect choice. I am also interested in meta-science, and have an active research stream studying how behavioral scientists conduct experiments.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>Associate Professor of Marketing, RSM</description>
     </item>
     
     <item>
@@ -478,7 +440,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/wieser/</guid>
-      <description>Description I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain.</description>
+      <description>Professor of Psychology, Director of Research (Psychology), ESSB</description>
     </item>
     
     <item>
@@ -487,10 +449,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/mijnhardt/</guid>
-      <description> Description My role is institutional advancement of the business school at Erasmus University.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-     
- Expertise  </description>
+      <description>Policy Director, RSM</description>
     </item>
     
     <item>
@@ -499,9 +458,7 @@ I conduct mostly behavioral research on language processing, memory, and learnin
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/08/website-live/</guid>
-      <description>The official website of the Open Science Community Rotterdam is now live!
-Have you heard of this community but you don’t really know what we do? On the Home page you can find our mission and scope.
-Who are the members of our community? Click on People to find the member list and a brief description of their expertise. This section will rapidly be updated with new profiles, so make sure to check it out often!</description>
+      <description>A great resource to connect novices and experts on open science in Rotterdam.</description>
     </item>
     
     <item>
@@ -531,8 +488,7 @@ OSCR is part of a growing national network of communities including Amsterdam, U
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/07/lindemann/</guid>
-      <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
-I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
+      <description>Cognitive Psychologist, ESSB</description>
     </item>
     
     <item>
@@ -541,8 +497,7 @@ I’m actively promoting the idea of Open Science in all my research activities 
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/04/schettino/</guid>
-      <description>Description I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
-As Coordinator of the Open Science Community Rotterdam, I facilitate communications between members of the community, organize events and workshops, communicate such activities on social media, and personally support individual researchers and research groups with day-to-day activities related to open science.</description>
+      <description>Coordinator Open Science Community Rotterdam</description>
     </item>
     
   </channel>

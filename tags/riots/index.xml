@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Riots on Open Science Community Rotterdam</title>
+    <title>RIOTS on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/riots/</link>
-    <description>Recent content in Riots on Open Science Community Rotterdam</description>
+    <description>Recent content in RIOTS on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/oscr-riots/</guid>
-      <description>The Open Science Community Rotterdam is part of a national (Dutch) network of communities created by researchers for researchers.
-All Open Science Communities in The Netherlands as of March 2020. Image by Anita Eerland, licensed under CC BY-ND 3.0
- We facilitate communication among scholars by giving them platforms to connect and share information on open science practices, for example our internal chat rooms on Matrix or the website on which this blog post is hosted.</description>
+      <description>Increasing the offer of training on open and reproducible science at EUR and ErasmusMC</description>
     </item>
     
   </channel>

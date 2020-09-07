@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Science Enthusiast on Open Science Community Rotterdam</title>
+    <title>open science enthusiast on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</link>
-    <description>Recent content in Open Science Enthusiast on Open Science Community Rotterdam</description>
+    <description>Recent content in open science enthusiast on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/helmink/</guid>
-      <description>Description Fleur Helmink is a PhD Candidate at Erasmus MC-Sophia. She works on the Dutch Bipolar Offspring Study, a cohort study that follows adolescents of parents with bipolar disorder into adulthood. Fleur uses innovative methods, such as experience sampling method and digital phenotyping (with the use of smartphone sensors), to measure daily life functioning.
-She specifically focusses on how mental health and daily life functioning relate in high-risk individuals.</description>
+      <description>PhD Candidate, Erasmus MC-Sophia</description>
     </item>
     
   </channel>

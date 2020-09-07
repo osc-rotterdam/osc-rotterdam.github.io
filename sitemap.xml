@@ -1,6 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/07/malbecdevidts/</loc>
@@ -8,8 +63,38 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/07/granic/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-ese/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,6 +108,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/06/ivandegroep/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url>
@@ -30,6 +120,11 @@
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/05/opensampling-may2020/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -58,7 +158,17 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/baking/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/05/orlandi/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,8 +178,23 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/essb/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/04/reproducibilitea-may2020/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/bayesian-inference/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/harry-potter-love/</loc>
+    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,7 +203,17 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/04/helmink/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,6 +238,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/riots/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/03/huijser/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -113,8 +253,28 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/science-education/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/drinking-coffee/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/02/blok/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/academic-tweeting/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,7 +288,17 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/02/martinovici/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/packrat/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,13 +308,28 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2020/02/verheyen/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/replication/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/conference/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,8 +353,33 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-mindedness/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/12/koyama/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/latex/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/linux/</loc>
+    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -188,8 +398,23 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/eshpm/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/10/introos-eshpm-oct2019/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/business-open-science/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,6 +428,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/horses/</loc>
+    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/10/badura/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -213,8 +443,23 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/sushi-lover/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/09/osfworkshop-eshpm-sept2019/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/online-sampling/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -238,7 +483,17 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/tags/punkrock/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/08/mijnhardt/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/policy-analysis/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,6 +513,11 @@
   </url>
   
   <url>
+    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openscience-rotterdam.com/2019/07/lindemann/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url>
@@ -268,314 +528,7 @@
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/academic-tweeting/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/baking/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/bayesian-inference/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/business-open-science/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/conference/</loc>
-    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/drinking-coffee/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/eshpm/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/essb/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/harry-potter-love/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/horses/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/latex/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/linux/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/online-sampling/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-mindedness/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</loc>
-    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/packrat/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/policy-analysis/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/punkrock/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/replication/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/riots/</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
-    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-ese/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
-    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/science-education/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/sushi-lover/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
-    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

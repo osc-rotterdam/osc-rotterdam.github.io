@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essb on Open Science Community Rotterdam</title>
+    <title>ESSB on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/essb/</link>
-    <description>Recent content in Essb on Open Science Community Rotterdam</description>
+    <description>Recent content in ESSB on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/prereg-dewies/</guid>
-      <description>Malte Dewies is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR (see his personal profile page), actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods.
-He recently preregistered an exploratory study for which existing templates were insufficient, so he decided to build his own.</description>
+      <description>Malte Dewies, PhD Candidate at ESSB, shares his experience in creating a customized preregistration template for his own research.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ He recently preregistered an exploratory study for which existing templates were
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/01/dpecs-lakens-feb2020/</guid>
-      <description>I am happy to announce that Daniël Lakens, Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology, will give a talk at the upcoming DPECS colloquium, which will take place on February 11th at 15:00 in room T13-67 (Mandeville building).
-Prof. Lakens is a long-standing adopter and proponent of open science practices. He is active on Twitter, has a very interesting blog called The 20% Statistician, and teaches two successful massive online open courses: Improving your statistical inferences and Improving Your Statistical Questions.</description>
+      <description>February 11th 2020, h. 15:00, room T13-67</description>
     </item>
     
   </channel>

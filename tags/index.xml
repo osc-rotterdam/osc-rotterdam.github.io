@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Open Science Community Rotterdam</title>
@@ -6,67 +6,49 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic Tweeting</title>
-      <link>https://www.openscience-rotterdam.com/tags/academic-tweeting/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/academic-tweeting/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Baking</title>
-      <link>https://www.openscience-rotterdam.com/tags/baking/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <title>open source software</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Inference</title>
-      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business Open Science</title>
-      <link>https://www.openscience-rotterdam.com/tags/business-open-science/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <title>workshops</title>
+      <link>https://www.openscience-rotterdam.com/tags/workshops/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/business-open-science/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cat Lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>https://www.openscience-rotterdam.com/tags/conference/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cooking Without a Recipe</title>
+      <title>cooking without a recipe</title>
       <link>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
@@ -75,16 +57,61 @@
     </item>
     
     <item>
-      <title>Data Management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data Sharing</title>
+      <title>open access</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preregistration</title>
+      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-ese</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReproducibiliTea</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/reproducibilitea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-appointed master chef</title>
+      <link>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
       <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -93,34 +120,34 @@
     </item>
     
     <item>
-      <title>Drinking Coffee</title>
-      <link>https://www.openscience-rotterdam.com/tags/drinking-coffee/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <title>talks</title>
+      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/drinking-coffee/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eco Conscious/Eco Anxious</title>
-      <link>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <title>baking</title>
+      <link>https://www.openscience-rotterdam.com/tags/baking/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eshpm</title>
-      <link>https://www.openscience-rotterdam.com/tags/eshpm/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <title>school-rsm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/eshpm/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Essb</title>
+      <title>ESSB</title>
       <link>https://www.openscience-rotterdam.com/tags/essb/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -129,7 +156,16 @@
     </item>
     
     <item>
-      <title>Harry Potter Love</title>
+      <title>Bayesian inference</title>
+      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harry Potter love</title>
       <link>https://www.openscience-rotterdam.com/tags/harry-potter-love/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -138,16 +174,142 @@
     </item>
     
     <item>
-      <title>Horses</title>
-      <link>https://www.openscience-rotterdam.com/tags/horses/</link>
-      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <title>open science enthusiast</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/horses/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latex</title>
+      <title>school-erasmusmc</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIOTS</title>
+      <link>https://www.openscience-rotterdam.com/tags/riots/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/riots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science education</title>
+      <link>https://www.openscience-rotterdam.com/tags/science-education/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/science-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drinking coffee</title>
+      <link>https://www.openscience-rotterdam.com/tags/drinking-coffee/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/drinking-coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://www.openscience-rotterdam.com/tags/r/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic tweeting</title>
+      <link>https://www.openscience-rotterdam.com/tags/academic-tweeting/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/academic-tweeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cat lover</title>
+      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packrat</title>
+      <link>https://www.openscience-rotterdam.com/tags/packrat/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/packrat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiverse analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>replication</title>
+      <link>https://www.openscience-rotterdam.com/tags/replication/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://www.openscience-rotterdam.com/tags/conference/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-eshpm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://www.openscience-rotterdam.com/tags/music/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open mindedness</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-mindedness/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-mindedness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
       <link>https://www.openscience-rotterdam.com/tags/latex/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -165,7 +327,25 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
+      <title>ESHPM</title>
+      <link>https://www.openscience-rotterdam.com/tags/eshpm/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/eshpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business &amp; open science</title>
+      <link>https://www.openscience-rotterdam.com/tags/business-open-science/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/business-open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
       <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
@@ -174,223 +354,16 @@
     </item>
     
     <item>
-      <title>Multiverse Analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <title>horses</title>
+      <link>https://www.openscience-rotterdam.com/tags/horses/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/horses/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Music</title>
-      <link>https://www.openscience-rotterdam.com/tags/music/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Sampling</title>
-      <link>https://www.openscience-rotterdam.com/tags/online-sampling/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/online-sampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Mindedness</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-mindedness/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-mindedness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Science Enthusiast</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Source Software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Osf</title>
-      <link>https://www.openscience-rotterdam.com/tags/osf/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/osf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Packrat</title>
-      <link>https://www.openscience-rotterdam.com/tags/packrat/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/packrat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy Analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/policy-analysis/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/policy-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Punkrock</title>
-      <link>https://www.openscience-rotterdam.com/tags/punkrock/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/punkrock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.openscience-rotterdam.com/tags/r/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Replication</title>
-      <link>https://www.openscience-rotterdam.com/tags/replication/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducibilitea</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducibilitea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducible Analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Riots</title>
-      <link>https://www.openscience-rotterdam.com/tags/riots/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/riots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Erasmusmc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Ese</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Eshpm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science Education</title>
-      <link>https://www.openscience-rotterdam.com/tags/science-education/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/science-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self Appointed Master Chef</title>
-      <link>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sushi Lover</title>
+      <title>sushi lover</title>
       <link>https://www.openscience-rotterdam.com/tags/sushi-lover/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
@@ -399,20 +372,47 @@
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <title>OSF</title>
+      <link>https://www.openscience-rotterdam.com/tags/osf/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/osf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Workshops</title>
-      <link>https://www.openscience-rotterdam.com/tags/workshops/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <title>online sampling</title>
+      <link>https://www.openscience-rotterdam.com/tags/online-sampling/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/online-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>punkrock</title>
+      <link>https://www.openscience-rotterdam.com/tags/punkrock/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/punkrock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policy analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/policy-analysis/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/policy-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eco-conscious/eco-anxious</title>
+      <link>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</guid>
       <description></description>
     </item>
     

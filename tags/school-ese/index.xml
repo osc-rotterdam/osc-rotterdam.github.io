@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>School Ese on Open Science Community Rotterdam</title>
+    <title>school-ese on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
-    <description>Recent content in School Ese on Open Science Community Rotterdam</description>
+    <description>Recent content in school-ese on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/07/granic/</guid>
-      <description>Description My research interests lie in the intersection of Economics, Political Science, and Psychology. I am currently doing research on how incentives influence survey responses, how voting affects political preferences, and how to design just-in-time adaptive nudges.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>Assistant Professor, ESE</description>
     </item>
     
   </channel>

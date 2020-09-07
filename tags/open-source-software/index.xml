@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source Software on Open Science Community Rotterdam</title>
+    <title>open source software on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-    <description>Recent content in Open Source Software on Open Science Community Rotterdam</description>
+    <description>Recent content in open source software on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openscience-rotterdam.com/tags/open-source-software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to the Brain Imaging Data Structure (BIDS)</title>
+      <link>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/</guid>
+      <description>September 17th 2020, h. 14:00 CEST, Zoom</description>
+    </item>
     
     <item>
       <title>OSCR Member: Marcelo Malbec De Vidts</title>
@@ -17,7 +26,7 @@
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/07/malbecdevidts/</guid>
-      <description>Description Marcelo Malbec De Vidts is a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. His research is about how different ways of responding to uncertainty affect individuals. These consequences could be present in cognitive as well as affective domains of human life. To do so, he uses EEG to analyse brain activity in different computer-based scenarios (decision-making; fear processing; error monitoring).</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -26,8 +35,7 @@
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/ivandegroep/</guid>
-      <description>Description Ilse van de Groep is a PhD Candidate at the SYNC lab (Erasmus University Rotterdam) and the Child and Adolescent Psychiatry Department (Amsterdam UMC, location VUmc). In her PhD project, Ilse examines several mechanisms that underlie distinct developmental trajectories of social and antisocial behavior in emerging adulthood, with a specific focus on the neural correlates of self-concept, vicarious reward learning, social evaluation and aggression regulation.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>PhD Candidate, ESSB</description>
     </item>
     
     <item>
@@ -36,8 +44,7 @@
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/06/intro-tidyverse-june2020/</guid>
-      <description>Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With R, of course! 😄
-The OSCR is happy to announce an online workshop entitled A Tour Around the Tidyverse World.</description>
+      <description>June 24th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -46,7 +53,7 @@ The OSCR is happy to announce an online workshop entitled A Tour Around the Tidy
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/05/klapwijk/</guid>
-      <description>Description Eduard is a postdoc in the SYNC lab. A central question in his research is: Why do most teenagers grow up to be kind to others while a proportion engage in harmful, antisocial and risky behaviors? He is very much interested in how we can address these questions using neuroimaging methods in a robust, reproducible way. His main focus as a postdoc at Erasmus University will be to determine the optimal sample size in developmental studies for a range of fMRI tasks.</description>
+      <description>Postdoctoral Researcher, ESSB</description>
     </item>
     
     <item>
@@ -55,8 +62,7 @@ The OSCR is happy to announce an online workshop entitled A Tour Around the Tidy
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/04/intro-github-apr2020/</guid>
-      <description>Our first online ReproducibiliTea Rotterdam was a great success! Thirty people joined our Zoom meeting to discuss with Anne Scheel her preprint comparing the standard psychology literature with Registered Reports. The presentation was awesome, the questions insightful, and the atmosphere light and informal. Thanks to everyone involved!
-Given the strong interest and current relevance of open science as a set of tools to quickly disseminate knowledge, the OSCR will host an online webinar entitled Introduction to Git(Hub).</description>
+      <description>April 29th 2020, h. 10:00 CEST, Zoom</description>
     </item>
     
     <item>
@@ -65,8 +71,7 @@ Given the strong interest and current relevance of open science as a set of tool
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/rojassaunero/</guid>
-      <description>Description I am a PhD student at the Epidemiology Department of Erasmus MC, my research is focused on the application of causal inference methods in dementia research. I am also an R enthusiastic (R-Ladies R’dam organizer) and advocate of open science.
- CV and Contact Info Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.</description>
+      <description>PhD Candidate, Erasmus MC</description>
     </item>
     
     <item>
@@ -75,8 +80,7 @@ Given the strong interest and current relevance of open science as a set of tool
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/10/badura/</guid>
-      <description>Description Throughout my Ph.D. studies and Postdoctoral Fellowships, my work had focused on unraveling the function of the cerebellum in health and disease, encompassing two research lines:
- Line-1. I have established that the modulation of cerebellar activity is essential for motor learning and helped to develop a computer model that reproduces experimental data and can predict motor impairments based on neural activity. Using intravital two-photon imaging, we discovered that granule cells acquire signals predictive of motor performance.</description>
+      <description>Assistant Professor, Erasmus MC</description>
     </item>
     
     <item>
@@ -85,8 +89,7 @@ Given the strong interest and current relevance of open science as a set of tool
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/07/lindemann/</guid>
-      <description>Description I’m a psychologist and teaching statistics at the EUR. As an experimental psychologist, my research interest focuses on the cognitive representation of numbers and mental arithmetics, the role of sensorimotor codes in knowledge representations as well as Bayesian approaches to data analyses and computational modelling.
-I’m actively promoting the idea of Open Science in all my research activities and have been part of several large-scale replication projects. I’m especially interested in methodological issues and problems of data sharing and the question of data integrity in open science.</description>
+      <description>Cognitive Psychologist, ESSB</description>
     </item>
     
   </channel>

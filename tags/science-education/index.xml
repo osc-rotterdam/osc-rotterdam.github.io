@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science Education on Open Science Community Rotterdam</title>
+    <title>science education on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/science-education/</link>
-    <description>Recent content in Science Education on Open Science Community Rotterdam</description>
+    <description>Recent content in science education on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2020/03/huijser/</guid>
-      <description>Description I am a lab and data manager at a developmental psychology group at ESSB, meaning that I help researchers implement better data management and more open research practices. This can sometimes be a challenge, because we collect large amounts of data that are often also privacy-sensitive. I for example help our researchers with preregistration, data organization and data sharing and aim to develop a vision on open science for our group.</description>
+      <description>Lab and Data Manager for Open Science, ESSB</description>
     </item>
     
   </channel>

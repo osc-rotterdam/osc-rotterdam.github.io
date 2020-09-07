@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latex on Open Science Community Rotterdam</title>
+    <title>LaTeX on Open Science Community Rotterdam</title>
     <link>https://www.openscience-rotterdam.com/tags/latex/</link>
-    <description>Recent content in Latex on Open Science Community Rotterdam</description>
+    <description>Recent content in LaTeX on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,7 @@
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/2019/11/jongerling/</guid>
-      <description>Description I specialize in Multilevel Analysis, Bayesian statistics, Timeseries, Network Analysis, and Diary Studies. My research theme is “Inter-individual differences in intra-individual variability. How do individuals change over time, and how does this change differ between individuals?”.
-I mainly work on longitudinal modeling and simulation studies, but also collaborate with substantive researchers and PhD’s (mainly form the field of Psychology, Child- and Educational Sciences) whenever I can.
- CV and Contact Info Click on the picture to send an email.</description>
+      <description>Assistant Professor of Methods &amp;amp; Statistics, ESSB</description>
     </item>
     
   </channel>
