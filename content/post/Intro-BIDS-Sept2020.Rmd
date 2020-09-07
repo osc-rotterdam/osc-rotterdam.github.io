@@ -1,0 +1,89 @@
+---
+title: "Introduction to the Brain Imaging Data Structure (BIDS)"
+author: "Antonio Schettino"
+date: 2020-09-07
+slug: "Intro-BIDS-Sept2020"
+categories: ["News"]
+tags: ["workshops", "open source software", "reproducible analysis", "data management"]
+coverImage: /images/OSCR-BIDS-banner.png
+thumbnailImage: /images/OSCR-BIDS-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "September 17th 2020, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+On August 31st, EUR opened the Academic Year 2020-2021 with a [unique online event](https://www.eur.nl/en/about-eur/events/opening-academic-year) that, despite some technical hitches, was interesting and entertaining. It is time to (begrudgingly) leave the summer behind, but fear not! The OSCR is ready to accompany you through your academic struggles with lectures, webinars, and journal clubs focused on open and transparent research!
+
+To kick-off in style, we are proud to host an online webinar entitled **Introduction to the Brain Imaging Data Structure (BIDS)**.
+
+**WHAT**   
+Introduction to the Brain Imaging Data Structure (BIDS)
+
+**WHEN**   
+September 17th 2020, h. 14:00 CEST, duration 90’
+
+**INSTRUCTOR**   
+[Eduard Klapwijk](https://www.openscience-rotterdam.com/2020/05/klapwijk/), postdoctoral researcher at the [Erasmus School of Social and Behavioural Sciences](https://www.eur.nl/en/essb/)
+
+**COURSE SUMMARY**   
+Organizing research data in a standardized way makes it much easier to share and automatically process your data. When folder structure, file formats and filenames are recognizable for others, researchers not directly involved in data collection can also work with the data. When the structure is machine-readable, this will facilitate automated processing.
+ 
+The Brain Imaging Data Structure ([BIDS](https://bids.neuroimaging.io)) is a community-driven effort to standardize neuroimaging and behavioral data according to a common scheme. There are several BIDS converters that can be used to convert particular file formats and organizations into BIDS. 
+
+Here are some benefits of "BIDSifying" your data:
+
+- it will be easier for other researchers (including future you!) to work with the data, which will substantially lower the bar for reuse within and outside your lab
+- a growing number of data analysis software packages (e.g., [fMRIPrep](https://fmriprep.org/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/stable/), [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)) can understand data organized according to BIDS
+- if you like your files and folders to be clean and well-organized, BIDS will deliver `r emo::ji("wink")`
+
+**TARGET AUDIENCE**   
+Anyone who works with neuroimaging and/or behavioral data, who is interested in improving data management according to community standards
+
+**DESIRED OUTCOME**   
+During this workshop you will learn:
+
+- what is BIDS and why it is important
+- short overview of the BIDS specification
+- how to convert data into BIDS (this is the hard part, depending on the idiosyncrasies of your dataset)
+- how to use the [```bidsify```](https://github.com/NILAB-UvA/bidsify) converter on an example dataset
+  - Eduard will try to live-convert a real dataset during the workshop; the code can be found in [this Jupyter Notebook](https://github.com/eur-synclab/bidsification/blob/master/SYNClab_bidsify.ipynb)
+- possibilities for BIDS with your own data (MRI, EEG, MEG)
+
+**PREPARATION**   
+
+- No specific preparation is necessary. However, it might be helpful to scroll through the [BIDS website](https://bids.neuroimaging.io/index.html) and the [BIDS starter kit](https://github.com/bids-standard/bids-starter-kit)
+- If you have any particular questions that you would like to be discussed, please feel free to send an email to *e.klapwijk@essb.eur.nl* beforehand[^1]
+
+**REGISTRATION**   
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the mailing list but would like to join, please contact *schettino@eur.nl*.
+
+**MEETING RULES**   
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Antonio**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+Hope to see many of you!
+
+Take care,
+
+Eduard Klapwijk and Antonio Schettino
+
+***
+
+[^1]: Eduard does not consider himself a BIDS expert, so he might not be able to answer all questions... but he will do his best!
