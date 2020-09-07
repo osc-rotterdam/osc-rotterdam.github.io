@@ -30,7 +30,7 @@ Introduction to the Brain Imaging Data Structure (BIDS)
 September 17th 2020, h. 14:00 CEST, duration 90’
 
 **INSTRUCTOR**   
-[Eduard Klapwijk](https://www.openscience-rotterdam.com/2020/05/klapwijk/), postdoctoral researcher at the [Erasmus School of Social and Behavioural Sciences](https://www.eur.nl/en/essb/)
+[Dr. Eduard Klapwijk](https://www.openscience-rotterdam.com/2020/05/klapwijk/), postdoctoral researcher at the [Erasmus School of Social and Behavioural Sciences](https://www.eur.nl/en/essb/)
 
 **COURSE SUMMARY**   
 Organizing research data in a standardized way makes it much easier to share and automatically process your data. When folder structure, file formats and filenames are recognizable for others, researchers not directly involved in data collection can also work with the data. When the structure is machine-readable, this will facilitate automated processing.
