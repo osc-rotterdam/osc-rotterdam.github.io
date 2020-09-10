@@ -1,5 +1,5 @@
 ---
-date: 2019-07-31
+date: 2020-09-10
 categories: [home]
 tags: []
 showMeta: false
@@ -15,9 +15,12 @@ showActions: false
 
 The Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Code of Conduct**](/coc/).
 
-**OSCR** is part of a growing national network of communities including [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://twitter.com/OSCMaastricht), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), and [Groningen](https://twitter.com/OSCGroningen).
+OSCR is part of the *International Network of Open Science & Scholarship Communities* (***ICOSC***), including:
 
-![All Open Science Communities in The Netherlands. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/OSC-NL.png)
+* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), Delft, [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://twitter.com/OSCMaastricht), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), Twente, [Groningen](https://twitter.com/OSCGroningen)
+* outside the Netherlands: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/)
+
+![All Open Science Communities. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/ICOSC.png)
 
 ## About this website
 
