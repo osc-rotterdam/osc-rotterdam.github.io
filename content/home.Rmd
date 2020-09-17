@@ -20,7 +20,7 @@ OSCR is part of the *International Network of Open Science & Scholarship Communi
 * in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), Delft, [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Groningen](https://twitter.com/OSCGroningen)
 * outside the Netherlands: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/)
 
-![All Open Science Communities. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/ICOSC.png)
+![All Open Science Communities. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/INOSC.png)
 
 ## About this website
 
