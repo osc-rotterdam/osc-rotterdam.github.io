@@ -7,29 +7,7 @@ comments: false
 showActions: false
 ---
 
-<p><center>
-  <img border="0" alt="OSCR" src="/images/OSCR_banner.png" width="100%" align="center">
-</center></p>
-
-
-
-
-Open Science Community Rotterdam (**OSCR**) is part of the International Network of Open Science and Scholarship Communities (**INOSC**). While every community is unique, we share a set of **Guiding Principles** and adhere to a **Code of Conduct**. Please find **version 1.0** below.
-
-# Guiding Principles
-
-* Open Science/Scholarship Communities (OSCs) are bottom-up platforms by and for researchers to exchange knowledge and know-how on open science practices
-* OSCs are inclusive
-    * Researchers are the target audience of OSCs, but students, researcher supporters, and others that are interested in (conducting) research are also welcome to join the community
-    * No prior knowledge is required to be part of the community, nor are members in any way required to commit to certain open science/scholarship practices
-* OSCs organize, promote, and facilitate open science/scholarship events to (1) learn about and discuss open science/scholarship practices; (2) share open science/scholarship knowledge; and (3) build professional networks
-    * Events are open to members and non-members and, if possible, are free-of-charge
-    * Attendees and organizers of events organized by OSCs should adhere to the **Code of Conduct** (see below)
-* OSCs promote critical discussions of pro’s and con’s of open science/scholarship practices. We refrain from being normative or condescending, and do not tell others what to do. Respect for each others’ workflows and decisions in this regard is critical
-
-If there is no local OSC that you can join, we encourage you to start your own OSC by following our [Starter Kit](https://doi.org/10.17605/OSF.IO/7VEZ3).
-
-# Code of Conduct
+## Code of Conduct
 
 OSCs organize, promote, and facilitate open science events to enable all participants, members and non-members, to learn about, share, and discuss open science practices. The purpose of this Code of Conduct (**CoC**) is to enable an environment in which diverse individuals can collaborate and interact in mutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.
 
@@ -49,25 +27,30 @@ unacceptable behaviors
 
 Critical examination of beliefs and viewpoints does not, by itself, constitute hostile conduct or harassment. Similarly, use of sexual imagery or language in the context of a professional discussion might not constitute hostile conduct or harassment if necessary to the topic of discussion.
 
-## Reporting
+### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically (with the option to remain anonymous).
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form]().
 
-If the person you should report to is the target of the complaint, you may contact the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
+If the person you should report to is the target of the complaint, you may contact the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
 
-## Enforcement
+### Enforcement
 
-Participants who are asked to stop any unacceptable behavior are expected to comply immediately. Community Coordinators and event organizers retain the right to take appropriate actions, including:
+Participants who are asked to stop any unacceptable behavior are expected to comply immediately. The Community Coordinator and event organizers retain the right to take appropriate actions, including:
 
-* mediation between complainant and alleged perpetrator(s), to reach an amicable resolution
+* mediation between complainant(s) and alleged perpetrator(s), to reach an amicable resolution
 * issue a verbal warning
-* expel the offender(s) from the event (particularly if a participant's immediate safety is threatened)
+* expel the offender(s) from the event (particularly if participants' immediate safety is threatened)
 * expel the offender(s) from the OSC
 
-Community Coordinator(s) and event organizers will also discuss with the complainant whether they wish to contact the confidential advisor(s) at the affiliated University. The alleged perpetrator(s) will be notified of a complaint as soon as possible, and be given a chance to respond to the complaint.
+The Community Coordinator and event organizers will also discuss with the complainant(s) whether they wish to contact the confidential advisor(s) at the affiliated University. The alleged perpetrator(s) will be notified of a complaint as soon as possible, and be given a chance to respond to the complaint.
 
-## Acknowledgements
+### Acknowledgements
 
-This Code of Conduct was adapted from the following sources: [Society for the Improvement of Psychological Science code of conduct](https://improvingpsych.org/sipsinaction/code/), [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy), [American Library Association code of conduct](http://www.ala.org/conferencesevents/statement_appropriate_conduct), [Community Covenant v1.0](https://community-covenant.net/version/1/0/).
+This Code of Conduct was adapted from the following sources: 
+
+* [Society for the Improvement of Psychological Science code of conduct](https://improvingpsych.org/sipsinaction/code/)
+* [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)
+* [American Library Association code of conduct](http://www.ala.org/conferencesevents/statement_appropriate_conduct)
+* [Community Covenant v1.0](https://community-covenant.net/version/1/0/)
 
 
