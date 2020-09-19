@@ -29,7 +29,7 @@ Critical examination of beliefs and viewpoints does not, by itself, constitute h
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form]().
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Dr. Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form](https://docs.google.com/forms/d/1FVHfUxHNCtZgMdRWoM7AUiR8r7CjuX3CFiCW2ZwWAtI/edit).
 
 If the person you should report to is the target of the complaint, you may contact the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
 
