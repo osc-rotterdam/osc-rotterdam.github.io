@@ -11,7 +11,7 @@ showActions: false
 
 OSCs organize, promote, and facilitate open science events to enable all participants, members and non-members, to learn about, share, and discuss open science practices. The purpose of this Code of Conduct (**CoC**) is to enable an environment in which diverse individuals can collaborate and interact in mutual respect. We recognize a shared responsibility to create and maintain that environment for the benefit of all.
 
-Some behaviors, therefore, are specifically prohibited:
+Some behaviors, therefore, are specifically prohibited **both in person and online**:
 
 * Discriminating, racist, intimidating, harassing, lewd, demeaning, bullying, stalking, or threatening speech or
 actions
@@ -29,9 +29,9 @@ Critical examination of beliefs and viewpoints does not, by itself, constitute h
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Dr. Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form](https://docs.google.com/forms/d/1FVHfUxHNCtZgMdRWoM7AUiR8r7CjuX3CFiCW2ZwWAtI/edit).
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Dr. Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form](https://docs.google.com/forms/d/1FVHfUxHNCtZgMdRWoM7AUiR8r7CjuX3CFiCW2ZwWAtI/edit), which is received by the OSCR Coordinator/.
 
-If the person you should report to is the target of the complaint, you may contact the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every code of conduct violation report will be treated with seriousness and care.
+If you do not feel comfortable discussing your complaint with the OSCR Coordinator, you could approach the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every CoC violation report will be treated with seriousness and care.
 
 ### Enforcement
 
@@ -40,7 +40,7 @@ Participants who are asked to stop any unacceptable behavior are expected to com
 * mediation between complainant(s) and alleged perpetrator(s), to reach an amicable resolution
 * issue a verbal warning
 * expel the offender(s) from the event (particularly if participants' immediate safety is threatened)
-* expel the offender(s) from the OSC
+* expel the offender(s) from OSCR
 
 The Community Coordinator and event organizers will also discuss with the complainant(s) whether they wish to contact the confidential advisor(s) at the affiliated University. The alleged perpetrator(s) will be notified of a complaint as soon as possible, and be given a chance to respond to the complaint.
 
