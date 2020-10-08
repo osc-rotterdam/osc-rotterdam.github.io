@@ -55,7 +55,7 @@ You can access and use the materials for this workshop in two ways:
    - download the workshop materials from [this GitHub repository](https://github.com/palolili23/tidyverse_workshop_oscr)
 
 **REGISTRATION**   
-An invitation has been sent to researchers in the OSCR mailing list. This email includes the link, meeting ID, and password of the video call on [Zoom](https://zoom.us/). If you are not part of the OSCR mailing list but would like to join, please contact *schettino@eur.nl*.
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the link, meeting ID, and password of the video call on [Zoom](https://zoom.us/). If you are not part of the OSCR mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
 
 **MEETING RULES**   
 

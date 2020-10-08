@@ -27,7 +27,7 @@ In this context, we will look at the blog post [**Introducing SCOPE – a proces
 
 In preparation for this meeting, have a look at the [SCOPE blog post](https://thebibliomagician.wordpress.com/2019/12/11/introducing-scope-aprocess-for-evaluating-responsibly/) and think about how research is currently evaluated at EUR and other universities you know.
 
-An invitation on _Outlook_ calendar has been sent to researchers in the ReproducibiliTea mailing list (if you want to be included, contact _schettino@eur.nl_). Please explicitly **Accept** or **Decline** the invitation, so that catering and room capacity can be evaluated accordingly.
+An invitation on _Outlook_ calendar has been sent to researchers in the ReproducibiliTea mailing list (if you want to be included, contact [Antonio](mailto:schettino@eur.nl). Please explicitly **Accept** or **Decline** the invitation, so that catering and room capacity can be evaluated accordingly.
 
 ## Next Meeting
 

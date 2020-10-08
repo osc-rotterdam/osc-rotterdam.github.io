@@ -60,7 +60,7 @@ By the end of the webinar, you will be able to:
 * create a [**GitHub account**](https://github.com/join?source=header-home), which will allow you to have unlimited *public* repositories. If you prefer to keep your work private, you can [apply for an academic account](https://help.github.com/en/github/teaching-and-learning-with-github-education/applying-for-an-educator-or-researcher-discount).
 
 **REGISTRATION**   
-An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the ReproducibiliTea mailing list but would like to join, please contact *schettino@eur.nl*.
+An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the ReproducibiliTea mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
 
 **MEETING RULES**   
 
@@ -77,8 +77,8 @@ An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing 
 **ADDITIONAL NOTES**   
 
 * In this webinar, we will be using RStudio only as an easy way to commit and push changes to the GitHub repository. These operations can be done outside of RStudio, for example in Matlab, SPSS, or other software;
-* if you want to learn how to use Git but using RStudio is the only reason why you will not join this webinar, please notify Antonio (*schettino@eur.nl*). We are considering having a similar webinar where we use a Git GUI (e.g., [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/git-client)) instead of RStudio;
-* this webinar is organized by the [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/). Join the community to propose topics for courses and journal club and interact with like-minded people. If interested, send an email to the OSCR coordinator, Dr. Antonio Schettino (*schettino@eur.nl*)
+* if you want to learn how to use Git but using RStudio is the only reason why you will not join this webinar, please notify [Antonio](mailto:schettino@eur.nl). We are considering having a similar webinar where we use a Git GUI (e.g., [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/git-client)) instead of RStudio;
+* this webinar is organized by the [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/). Join the community to propose topics for courses and journal club and interact with like-minded people. If interested, send an email to [Antonio](mailto:schettino@eur.nl)
 
 Hope to see many of you!
 

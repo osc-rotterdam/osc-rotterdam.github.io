@@ -27,7 +27,7 @@ This paper, now considered a classic reference when discussing open science in p
 
 Although this paper was written with psychologists as the main target audience, researchers' degrees of freedom are ubiquitous in most areas of quantitative inquiry. During our session, the attendees will be encouraged to examine such practices in their own field of study, as well as possible solutions to mitigate their negative effects.
 
-An invitation on _Outlook_ calendar has been sent to researchers in the ReproducibiliTea mailing list (if you want to be included, contact schettino@eur.nl). Please explicitly **Accept** or **Decline** the invitation, so that catering and room capacity can be evaluated accordingly.
+An invitation on _Outlook_ calendar has been sent to researchers in the ReproducibiliTea mailing list (if you want to be included, contact [Antonio](mailto:schettino@eur.nl)). Please explicitly **Accept** or **Decline** the invitation, so that catering and room capacity can be evaluated accordingly.
 
 ## Next Meeting
 

@@ -28,7 +28,7 @@ Exciting news! **_OSCR_** will organize monthly journal clubs following the [Rep
 - is pre-publication peer-review an efficient and effective system to separate the wheat (valuable scientific contributions) from the chaff (pseudoscience)?
 - how can confirmation bias be reduced when running empirical studies?
 
-The materials of each session will be uploaded beforehand on our [OSF page](https://osf.io/yk9pf/). Each session will be led by a different discussant, who will quickly summarize the main message of the document before the open discussion. If you want to propose a paper, please contact me (schettino@eur.nl).
+The materials of each session will be uploaded beforehand on our [OSF page](https://osf.io/yk9pf/). Each session will be led by a different discussant, who will quickly summarize the main message of the document before the open discussion. If you want to propose a paper, please [contact me](mailto:schettino@eur.nl).
 
 The first ReproducibiliTea meet-up will take place on November 13th. I will be the discussant, and we will talk about the following paper:
 

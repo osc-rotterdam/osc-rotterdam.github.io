@@ -51,6 +51,6 @@ Antonio Schettino
 
 [^1]: The slide deck will be available on our [OSF repository](https://osf.io/yk9pf/).
 [^2]: For an in-depth analysis of researchers' degrees of freedom, read the paper by Simmons *et al.* discussed at our [third ReproducibiliTea journal club](https://www.openscience-rotterdam.com/2020/01/reproducibilitea-jan2020/).
-[^3]: If you are not part of the OSCR mailing lists but would like to join, please contact *schettino@eur.nl*.
+[^3]: If you are not part of the OSCR mailing lists but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
 
 

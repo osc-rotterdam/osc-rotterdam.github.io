@@ -42,7 +42,7 @@ During the Zoom meeting, please follow these guidelines:
 * avoid talking over each other and make sure that everyone can have their opportunity to speak
 * arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
 
-If you are not part of the ReproducibiliTea mailing list but would like to join the call, please contact *schettino@eur.nl*.
+If you are not part of the ReproducibiliTea mailing list but would like to join the call, please contact [Antonio](mailto:schettino@eur.nl).
 
 Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
 

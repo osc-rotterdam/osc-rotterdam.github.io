@@ -59,10 +59,10 @@ During this workshop you will learn:
 **PREPARATION**   
 
 - No specific preparation is necessary. However, it might be helpful to scroll through the [BIDS website](https://bids.neuroimaging.io/index.html) and the [BIDS starter kit](https://github.com/bids-standard/bids-starter-kit)
-- If you have any particular questions that you would like to be discussed, please feel free to send an email to *e.klapwijk@essb.eur.nl* beforehand[^1]
+- If you have any particular questions that you would like to be discussed, please feel free to send an email to [Eduard](mailto:e.klapwijk@essb.eur.nl) beforehand[^1]
 
 **REGISTRATION**   
-An invitation has been sent to researchers in the OSCR mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the mailing list but would like to join, please contact *schettino@eur.nl*.
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
 
 **MEETING RULES**   
 
