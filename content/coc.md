@@ -29,9 +29,9 @@ Critical examination of beliefs and viewpoints does not, by itself, constitute h
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Dr. Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form](https://docs.google.com/forms/d/1FVHfUxHNCtZgMdRWoM7AUiR8r7CjuX3CFiCW2ZwWAtI/edit), which is received by the OSCR Coordinator/.
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a harassment problem exists, please report it as soon as possible to the OSCR Coordinator, [**Dr. Antonio Schettino**](mailto:schettino@eur.nl), either in person or electronically. If you prefer to remain anonymous, please use [this form](https://docs.google.com/forms/d/1FVHfUxHNCtZgMdRWoM7AUiR8r7CjuX3CFiCW2ZwWAtI/edit), which will be read by the OSCR Coordinator.
 
-If you do not feel comfortable discussing your complaint with the OSCR Coordinator, you could approach the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every CoC violation report will be treated with seriousness and care.
+If you do not feel comfortable discussing your complaint with the OSCR Coordinator, you could approach the confidential advisor at EUR, [Mr. Martin Blok](mailto:blok@iss.nl), or any other confidential advisor in the [EUR network](https://my.eur.nl/en/eur-employee/hr/safe-and-healthy-work-environment/unwanted-conduct/contact). The target(s) of the complaint will not be involved in handling or resolving the incident. Every CoC violation report will be treated with seriousness and care.
 
 ### Enforcement
 
