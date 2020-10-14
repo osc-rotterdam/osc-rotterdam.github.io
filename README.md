@@ -16,7 +16,7 @@ create a website with this software.
 Please only work in the `development`-branch. To publish your last changes 
 perform the following steps:
 
-1. `blogdown::build_site()` in `R` to build the new public folder 
+1. `blogdown::build_site(build_rmd = TRUE)` in `R` to build the new public folder 
 2. `commit` your changes in development folder(!)
 3. `push` all changes and resolve all merge conflicts
 4. run `deploy.sh`
