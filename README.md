@@ -7,6 +7,10 @@ This website is developed using [_R_](https://cran.r-project.org/) and
 [this book](https://bookdown.org/yihui/blogdown/) for details on how to 
 create a website with this software.
 
+*Hint for Linux user*
+
+Don't install Hugo not via apt or snap and use `blogdown::install_hugo` in _R_ instead. 
+
 ## Usage
 
 Please only work in the `development`-branch. To publish your last changes 
