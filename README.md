@@ -2,6 +2,8 @@
 
 Source code of the website of the Open Science Community Rotterdam.
 
+http://www.openscience-rotterdam.com
+
 This website is developed using [_R_](https://cran.r-project.org/) and 
 [`blogdown`](https://github.com/rstudio/blogdown). See 
 [this book](https://bookdown.org/yihui/blogdown/) for details on how to 
