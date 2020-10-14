@@ -6,11 +6,7 @@
     <description>Recent content in data management on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openscience-rotterdam.com/tags/data-management/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/data-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to sharing brain MRI data</title>
       <link>https://www.openscience-rotterdam.com/2020/10/sharing-mri-oct2020/</link>
