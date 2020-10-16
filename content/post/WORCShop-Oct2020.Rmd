@@ -1,0 +1,78 @@
+---
+title: "Writing a Reproducible Paper in R with WORCS"
+author: "Antonio Schettino"
+date: 2020-10-16
+slug: "WORCShop-Oct2020"
+categories: ["News"]
+tags: ["workshops", "open source software", "reproducible paper", "R"]
+coverImage: /images/WORCSflow.png
+thumbnailImage: /images/OSCR-WORCS-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "October 26th 2020, h. 15:00 CET, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+OSCR is proud to announce the online workshop **Writing a Reproducible Paper in R with WORCS**, in collaboration with Utrecht University. Below the announcement:
+
+**WHAT**   
+Writing a Reproducible Paper in R with WORCS
+
+**WHEN**   
+October 26th 2020 h. 15:00 CET, duration 90'
+
+**INSTRUCTORS**   
+
+* [Dr. Caspar van Lissa](https://www.uu.nl/staff/CJvanLissa), Assistant Professor of Methods & Statistics at Utrecht University, Open Science faculty ambassador for the [Open Science Community Utrecht](https://openscience-utrecht.com/), and author of the WORCS package
+* [Dr. Barbara Vreede](https://www.uu.nl/staff/BMIVreede), Scientific Information Specialist at Utrecht University library
+
+**TARGET AUDIENCE**   
+Anyone who would like to get started with an open and reproducible workflow, without dealing with a mountain of new tools and platforms. 
+The workflow is written in *R*, but you do not need to have prior programming experience to join this workshop. Having the motivation to step out of your comfort zone — and into a new one — is the most important prerequisite.
+
+**COURSE SUMMARY**   
+Open Science is becoming increasingly popular and relevant, and a world of opportunity is opening up to make research fully reproducible. This is not without its challenges: best practices for reproducible science include a number of tools that you may never have used or even heard of before. In this workshop we will introduce [**WORCS**](https://github.com/cjvanlissa/worcs), a ***W***orkflow for ***O***pen ***R***eproducible ***C***ode in ***S***cience. **WORCS** is an *R* package that takes you from data to published paper in a single streamlined workflow, making the entire process of your analysis, up to the submission of your manuscript, reproducible. The WORCS workflow optionally facilitates pre-registration, sharing your code and your data (safely!), and the submission of a pre-print.
+
+**DESIRED OUTCOME**   
+The instructors will give an overview of the workflow and introduce its practical implementation, so that attendees will be able to get started on their own reproducible project by the end of the workshop.
+
+**PROGRAM**   
+
+* In the first part, Dr. van Lissa will introduce the WORCS package and how it facilitates the creation of a reproducible workflow in order to increase the adoption of open science practices
+* In the second part, Dr. Vreede will demonstrate how to practically use WORCS, from study design to submission and publication
+
+**PREPARATION**   
+
+* Follow the vignette [Setting up your computer for WORCS](https://cjvanlissa.github.io/worcs/articles/setup.html) (note that the setup can take around **1 hour**... prepare in advance!)
+* For the practical demonstration, download [Allison Horst's Penguin dataset](https://github.com/allisonhorst/palmerpenguins). The *.csv* file can be downloaded from [this link](https://raw.githubusercontent.com/bvreede/worcshop/master/data/penguins.csv)
+
+**REGISTRATION**   
+An invitation has been sent to researchers in the OSCR ReproducibiliTea mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the ReproducibiliTea mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+**MEETING RULES**   
+
+* wear headphones;
+* mute your microphone;
+* video is optional, useful in case of troubleshooting;
+* pay attention to the moderator (which will be **Antonio**);
+* if you have questions:
+  * click on the **Raise Hand** button and the moderator will unmute you, or;
+  * write down your question in the chat and the moderator will read it;
+* avoid talking over each other and make sure that everyone can have their opportunity to speak;
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment.
+
+Hope to see many of you!
+
+Take care,
+
+Caspar van Lissa, Barbara Vreede, and Antonio Schettino
+
+***
+
+
