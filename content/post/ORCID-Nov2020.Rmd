@@ -2,7 +2,7 @@
 title: "Get recognized. Get the most out of your ORCID iD!"
 author: "Antonio Schettino"
 date: 2020-10-30
-slug: "ORCID-Oct2020"
+slug: "ORCID-Nov2020"
 categories: ["News"]
 tags: ["workshops", "open science", "ORCID"]
 coverImage: /images/OSCR-ORCID-banner.jpg
