@@ -14,7 +14,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: "November 25th 2020, h. 11:00 CEST, Zoom"
+summary: "November 25th 2020, h. 11:00 CET, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
