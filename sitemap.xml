@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/2020/12/eur-oa/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/2021/01/failurescience-jan2021/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/2020/12/eur-oa/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,21 +49,6 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -254,11 +264,6 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/05/introbayes-june2020/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
   
