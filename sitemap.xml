@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/home/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -180,16 +190,6 @@
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/10/sharing-mri-oct2020/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/home/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
