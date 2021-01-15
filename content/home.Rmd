@@ -1,5 +1,5 @@
 ---
-date: 2020-09-10
+date: 2021-01-15
 categories: [home]
 tags: []
 showMeta: false
@@ -13,26 +13,37 @@ showActions: false
 
 ## Who are we?
 
-The Open Science Community Rotterdam (_**OSCR**_) comprises of academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to promote and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Guiding Principles**](/principles/) and [**Code of Conduct**](/coc/).
+The Open Science Community Rotterdam (_**OSCR**_) comprises academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to discuss, promote, and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Guiding Principles**](/principles/).
 
 OSCR is part of the *International Network of Open Science & Scholarship Communities* (***INOSC***), including:
 
-* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), Delft, [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Groningen](https://twitter.com/OSCGroningen)
+* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Groningen](https://twitter.com/OSCGroningen)
 * outside the Netherlands: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/)
 
 ![All Open Science Communities. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/INOSC.png)
 
-## About this website
+## Who can join OSCR?
 
-Check out [**News**](/categories/news) to find recent posts on different topics and announcements. Click on [**People**](/categories/people/) or browse through the [**Tags**](/tags) to discover the members of the community and their expertise.
+All students and employees of [_**EUR**_](https://www.eur.nl/en) and [_**ErasmusMC**_](https://www.erasmusmc.nl/) -- at all career stages -- are welcome! To keep a nice atmosphere, we ask you to abide by our [**Code of Conduct**](/coc/).
 
-## Contact
+## Why would you join OSCR?
 
-The coordinator of the **OSCR** is [Dr. Antonio Schettino](https://asch3tti.netlify.app/). For inquiries, please contact us via email at info@openscience-rotterdam.com. 
+Benefits include:
+
+* learn about open science practices by participating in our lectures and workshops (see [**News**](/categories/news))
+* practical support to create *your own* event or initiative, have your expertise recognized, and increase your visibility 
+* your own personal profile page (see [**People**](/categories/people/))
+* discover other members' expertise and collaborate with them (see [**Tags**](/tags))
+* sign-up to the OSCR mailing list, where we announce our events (approximately two per month)
+* access to our community on [Element](https://element.io/)
+
+## How can you join OSCR?
+
+Thanks for your interest! Please [**send us an email**](mailto:info@openscience-rotterdam.com) with your request and we will give you instructions on how to join.
 
 <hr>
 
-Feel free to follow us on [Twitter](https://twitter.com/OSCRotterdam).
+Follow us on [Twitter](https://twitter.com/OSCRotterdam)!
 
 <p><center><a class="twitter-timeline" data-width="70%"  data-height="600" data-theme="light" href="https://twitter.com/OSCRotterdam">Tweets by OSCRotterdam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </center></p>
@@ -40,7 +51,7 @@ Feel free to follow us on [Twitter](https://twitter.com/OSCRotterdam).
 <hr>
 
 <small><small>
-This website is maintained by [Antonio Schettino](https://asch3tti.netlify.app/) and [Oliver Lindemann](http://www.cognitive-psychology.eu/lindemann/). It is developed in [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [Hugo](https://themes.gohugo.io/) using [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme/) theme. Find the source code on [GitHub](https://github.com/osc-rotterdam/osc-rotterdam.github.io/tree/development). 
+This website is maintained by [Antonio Schettino](https://antonio-schettino.com/) and [Oliver Lindemann](http://www.cognitive-psychology.eu/lindemann/). It is developed in [R](https://www.r-project.org/) and [Hugo](https://themes.gohugo.io/) using [Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme/) theme. To report a problem or suggest an enhancement, please open an issue on the [GitHub repository](https://github.com/osc-rotterdam/osc-rotterdam.github.io/tree/master).
 </small></small>
 
 
