@@ -1,0 +1,53 @@
+---
+title: "Data Stewards join EUR Research Support"
+author: "Antonio Schettino"
+date: 2021-01-20
+slug: "Data-Stewards-Jan2021"
+categories: ["News"]
+tags: ["workshops", "open science", "data sharing", "school-rsm", "school-ese", "school-eshpm", "school-eshcc", "school-esphil"]
+coverImage: /images/people.svg
+thumbnailImage: /images/DS-Jan2021.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!"
+editor_options: 
+  chunk_output_type: console
+---
+
+Since the beginning of the new year, Erasmus University Rotterdam offers extended support for research data management (RDM). A newly appointed team of Data Stewards is working together to assist researchers with the implementation of best practices of RDM across all schools at EUR.
+
+## Who are we?  
+
+[Nils Arlinghaus](mailto:arlinghaus@eur.nl) will be the dedicated data steward for the Erasmus School of Philosophy and the Erasmus School of History, Culture and Communication. Additionally, he will work for Erasmus Research Services.
+
+[Anna Volkova](mailto:volkova@eur.nl) is the appointed data steward for Erasmus School of Health Policy & Management and she will also be working as part of the Erasmus Research Services.  
+
+[Liz Guzman-Ramirez](mailto:data@erim.eur.nl) will be supporting the Erasmus Research Institute of Management (comprised of the Rotterdam School of Management and the Erasmus School of Economics) as well as cooperating with the Erasmus Research Services.  
+
+A data steward for the International Institute of Social Studies and the Erasmus School of Law will start at the beginning of February. A data steward for the Erasmus School of Social and Behavioural Sciences is in the process of being hired.
+
+## What do we do?
+
+We can provide support and advice with:
+
+* data management plans (DMPs)
+* RDM tools and storage solutions
+* file handling (formats, naming conventions, versioning, and documentation)
+* help researchers make your data FAIR (Findable, Accessible, Interoperable, Reusable) -- an important step in promoting Open Science practices
+
+**If you are curious or unsure** about what DMP is and how it might be relevant to your research, you are in luck! We will give an overview of our services at the EUR Research Funding Days next week and there are still spaces available. You can [**sign up**](https://eur-rfd.iseated.com/session/57656) for our session on **Wednesday, 27 January at 13:30 CET**.  
+
+We hope to see many of you there, and if you have any questions, do not hesitate to contact us. 
+
+Take care,
+
+Nils Arlinghaus, Anna Volkova, Liz Guzman-Ramirez, and Antonio Schettino
+
+***
+
+
