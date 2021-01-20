@@ -6,7 +6,79 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-science/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-ese</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-eshcc</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-eshcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-eshpm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-esphil</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-esphil/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-esphil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-rsm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://www.openscience-rotterdam.com/tags/workshops/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>R</title>
       <link>https://www.openscience-rotterdam.com/tags/r/</link>
@@ -22,24 +94,6 @@
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-ese</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
-      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>
     </item>
     
@@ -67,15 +121,6 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-science/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-science/</guid>
       <description></description>
     </item>
     
@@ -152,15 +197,6 @@
     </item>
     
     <item>
-      <title>workshops</title>
-      <link>https://www.openscience-rotterdam.com/tags/workshops/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reproducible paper</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducible-paper/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
@@ -197,29 +233,11 @@
     </item>
     
     <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>baking</title>
       <link>https://www.openscience-rotterdam.com/tags/baking/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESSB</title>
-      <link>https://www.openscience-rotterdam.com/tags/essb/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/essb/</guid>
       <description></description>
     </item>
     
@@ -323,15 +341,6 @@
     </item>
     
     <item>
-      <title>school-eshpm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>music</title>
       <link>https://www.openscience-rotterdam.com/tags/music/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
@@ -364,15 +373,6 @@
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/tags/eshpm/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/eshpm/</guid>
       <description></description>
     </item>
     
