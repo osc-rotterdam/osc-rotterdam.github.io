@@ -4,7 +4,7 @@ author: "Antonio Schettino"
 date: 2021-01-12
 slug: "ROARR-2021"
 categories: ["News"]
-tags: ["RIOTS"]
+tags: ["RIOTS", "talks", "ROARR2021"]
 coverImage: /images/ROARR2021-banner.png
 thumbnailImage: /images/RIOTS_OSCR.png
 thumbnailImagePosition: left
