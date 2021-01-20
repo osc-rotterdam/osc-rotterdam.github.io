@@ -1,0 +1,101 @@
+---
+title: "OSCR Member: Eduard Klapwijk"
+date: 2020-05-14
+slug: "klapwijk"
+categories: ["people"]
+tags: ["data management", "reproducible analysis", "open source software", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Klapwijk.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Postdoctoral Researcher, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+Eduard is a postdoc in the [SYNC lab](https://erasmus-synclab.nl/). A central question in his research is: Why do most teenagers grow up to be kind to others while a proportion engage in harmful, antisocial and risky behaviors? He is very much interested in how we can address these questions using neuroimaging methods in a robust, reproducible way. His main focus as a postdoc at Erasmus University will be to determine the optimal sample size in developmental studies for a range of fMRI tasks.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:e.klapwijk@essb.eur.nl">
+  <img border="0" alt="Eduard Klapwijk" src="/images/Klapwijk.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://erasmus-synclab.nl/eduard-klapwijk/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/etklapwijk" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- GITHUB -->
+<p align="center">
+  <a href="https://github.com/eduardklap" class="fa fa-github fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+```{r radarPlot}
+
+member_name <- "Eduard Klapwijk"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("open source software", "data management", "data sharing", "reproducible analysis", "preregistration", "open access"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
