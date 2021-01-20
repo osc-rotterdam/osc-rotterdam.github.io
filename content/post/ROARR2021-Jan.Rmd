@@ -1,5 +1,5 @@
 ---
-title: "ROARR2021 -- Introduction to Open Research"
+title: "ROARR2021 -- Introduction to Open Research, Preregistration, and Registered Reports"
 author: "Antonio Schettino"
 date: 2021-01-21
 slug: "ROARR2021-Jan"
