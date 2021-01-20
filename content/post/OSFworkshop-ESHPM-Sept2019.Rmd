@@ -4,7 +4,7 @@ author: "Antonio Schettino"
 date: 2019-09-22
 slug: "OSFworkshop-ESHPM-Sept2019"
 categories: ["News"]
-tags: ["workshops", "OSF", "ESHPM"]
+tags: ["workshops", "OSF", "school-eshpm"]
 coverImage: /images/OSF_ESHPM.png
 thumbnailImage: /images/ESHPM_logo.png
 thumbnailImagePosition: left

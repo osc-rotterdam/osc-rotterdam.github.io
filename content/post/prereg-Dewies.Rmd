@@ -4,7 +4,7 @@ author: "Antonio Schettino"
 date: 2020-04-27
 slug: "prereg-dewies"
 categories: ["News"]
-tags: ["preregistration", "ESSB"]
+tags: ["preregistration", "school-essb"]
 coverImage: /images/dewies_banner.png
 thumbnailImage: /images/dewies-prereg.png
 thumbnailImagePosition: left
