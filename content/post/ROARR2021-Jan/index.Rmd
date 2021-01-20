@@ -1,7 +1,7 @@
 ---
 title: "ROARR2021 -- Introduction to Open Research, Preregistration, and Registered Reports"
 author: "Antonio Schettino"
-date: 2021-01-21
+date: 2021-01-20
 slug: "ROARR2021-Jan"
 categories: ["News"]
 tags: ["RIOTS", "talks", "ROARR2021", "open science"]
