@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.76.3 with theme Tranquilpeak 0.4.3-SNAPSHOT">
+<meta name="author" content="Open Science Community Rotterdam">
+<meta name="keywords" content="">
+<meta name="description" content="October 26th 2020, h. 15:00 CET, Zoom">
+
+
+<meta property="og:description" content="October 26th 2020, h. 15:00 CET, Zoom">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Writing a Reproducible Paper in R with WORCS">
+<meta name="twitter:title" content="Writing a Reproducible Paper in R with WORCS">
+<meta property="og:url" content="https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/">
+<meta property="twitter:url" content="https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/">
+<meta property="og:site_name" content="Open Science Community Rotterdam">
+<meta property="og:description" content="October 26th 2020, h. 15:00 CET, Zoom">
+<meta name="twitter:description" content="October 26th 2020, h. 15:00 CET, Zoom">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2020-10-16T00:00:00">
+  
+  
+    <meta property="article:modified_time" content="2020-10-16T00:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="News">
+    
+  
+  
+    
+      <meta property="article:tag" content="workshops">
+    
+      <meta property="article:tag" content="open source software">
+    
+      <meta property="article:tag" content="reproducible paper">
+    
+      <meta property="article:tag" content="R">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+  <meta name="twitter:site" content="@OSCRotterdam">
+
+
+  <meta name="twitter:creator" content="@OSCRotterdam">
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.openscience-rotterdam.com/images/OSCR-WORCS-thumbnail.png">
+  <meta property="twitter:image" content="https://www.openscience-rotterdam.com/images/OSCR-WORCS-thumbnail.png">
+
+
+  <meta property="og:image" content="https://www.openscience-rotterdam.com/images/WORCSflow.png">
+  <meta property="twitter:image" content="https://www.openscience-rotterdam.com/images/WORCSflow.png">
+
+
+
+
+  <meta property="og:image" content="https://www.openscience-rotterdam.com/images/OSCR_thumbnail.png">
+  <meta property="twitter:image" content="https://www.openscience-rotterdam.com/images/OSCR_thumbnail.png">
+
+
+    <title>Writing a Reproducible Paper in R with WORCS</title>
+
+    <link rel="icon" href="https://www.openscience-rotterdam.com/images/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+    
+    <link rel="stylesheet" href="https://www.openscience-rotterdam.com/css/style-nnm2spxvve8onlujjlegkkytaehyadd4ksxc1hyzzq9a2wvtrgbljqyulomn.min.css" />
+    
+    
+      
+        <link rel="stylesheet"  href="https://www.openscience-rotterdam.com/css/OSCR.css">
+      
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://www.openscience-rotterdam.com/">Open Science Community Rotterdam</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://www.openscience-rotterdam.com/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.openscience-rotterdam.com/images/OSCR_thumbnail.png" alt="" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://www.openscience-rotterdam.com/#about">
+          <img class="sidebar-profile-picture" src="https://www.openscience-rotterdam.com/images/OSCR_thumbnail.png" alt="" />
+        </a>
+        <h4 class="sidebar-profile-name">Open Science Community Rotterdam</h4>
+        
+          <h5 class="sidebar-profile-bio">Official website of the <br/> Open Science Community of <br/> <a href="https://www.eur.nl/en">Erasmus Universiteit Rotterdam</a> and <br/> <a href="https://www.erasmusmc.nl/">Erasmus Medical Center</a>. <br/> Email: <a href="mailto:info@openscience-rotterdam.com">info@openscience-rotterdam.com</a></h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.openscience-rotterdam.com/home">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.openscience-rotterdam.com/categories/news">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-newspaper-o"></i>
+      
+      <span class="sidebar-button-desc">News</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.openscience-rotterdam.com/categories/people">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-child"></i>
+      
+      <span class="sidebar-button-desc">People</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.openscience-rotterdam.com/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.openscience-rotterdam.com/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-center
+              post-header-cover--partial"
+       style="background-image:url('/images/WORCSflow.png')"
+       data-behavior="5">
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaOut
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-center">
+  
+    <h1 class="post-title" itemprop="headline">
+      Writing a Reproducible Paper in R with WORCS
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-10-16T00:00:00Z">
+        
+  
+  
+  
+  
+    2020-10-16
+  
+
+      </time>
+    
+    
+  
+  
+    <span></span>
+    
+      <a class="category-link" href="https://www.openscience-rotterdam.com/categories/news">News</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              
+<script src="https://www.openscience-rotterdam.com/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>OSCR is proud to announce the online workshop <strong>Writing a Reproducible Paper in R with <code>worcs</code></strong>, in collaboration with Utrecht University. Below the announcement:</p>
+<p><strong>WHAT</strong><br />
+Writing a Reproducible Paper in R with <code>worcs</code></p>
+<p><strong>WHEN</strong><br />
+October 26th 2020 h. 15:00 CET, duration 120’ (including a 15’-break)</p>
+<p><strong>INSTRUCTORS</strong></p>
+<ul>
+<li><a href="https://www.uu.nl/staff/CJvanLissa">Dr. Caspar van Lissa</a>, Assistant Professor of Methods &amp; Statistics at Utrecht University, Open Science faculty ambassador for the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>, and author of the <code>worcs</code> package</li>
+<li><a href="https://www.uu.nl/staff/BMIVreede">Dr. Barbara Vreede</a>, Scientific Information Specialist at Utrecht University library</li>
+</ul>
+<p><strong>TARGET AUDIENCE</strong><br />
+Anyone who would like to get started with an open and reproducible workflow, without dealing with a mountain of new tools and platforms.
+The workflow is written in <em>R</em>, but you do not need to have prior programming experience to join this workshop. Having the motivation to step out of your comfort zone — and into a new one — is the most important prerequisite.</p>
+<p><strong>COURSE SUMMARY</strong><br />
+Open Science is becoming increasingly popular and relevant, and a world of opportunity is opening up to make research fully reproducible. This is not without its challenges: best practices for reproducible science include a number of tools that you may never have used or even heard of before. In this workshop we will introduce <a href="https://github.com/cjvanlissa/worcs"><strong><code>worcs</code></strong></a>, a <strong><em>W</em></strong>orkflow for <strong><em>O</em></strong>pen <strong><em>R</em></strong>eproducible <strong><em>C</em></strong>ode in <strong><em>S</em></strong>cience. <strong><code>worcs</code></strong> is an <em>R</em> package that takes you from data to published paper in a single streamlined workflow, making the entire process of your analysis, up to the submission of your manuscript, reproducible. The <code>worcs</code> workflow optionally facilitates pre-registration, sharing your code and your data (safely!), and the submission of a pre-print.</p>
+<p><strong>DESIRED OUTCOME</strong><br />
+The instructors will give an overview of the workflow and introduce its practical implementation, so that attendees will be able to get started on their own reproducible project by the end of the workshop.</p>
+<p><strong>PROGRAM</strong></p>
+<ul>
+<li>In the first part, Dr. van Lissa will introduce the <code>worcs</code> package and how it facilitates the creation of a reproducible workflow in order to increase the adoption of open science practices</li>
+<li>In the second part, Dr. Vreede will demonstrate how to practically use <code>worcs</code>, from study design to submission and publication</li>
+</ul>
+<p><strong>PREPARATION</strong></p>
+<p>You will need:</p>
+<ul>
+<li>the programming language <a href="https://cran.r-project.org/"><strong>R</strong></a></li>
+<li>the interface <a href="https://rstudio.com/"><strong>RStudio</strong></a></li>
+<li>the version control software <a href="https://git-scm.com/downloads"><strong>Git</strong></a></li>
+<li>an account on the cloud storage site <a href="https://github.com/"><strong>GitHub</strong></a></li>
+<li>the R package <a href="https://github.com/cjvanlissa/worcs"><code>worcs</code></a> and its dependencies</li>
+<li><a href="https://github.com/allisonhorst/palmerpenguins">Allison Horst’s Penguin dataset</a> (<em>.csv</em> file available from <a href="https://raw.githubusercontent.com/bvreede/worcshop/master/data/penguins.csv">this link</a>)</li>
+</ul>
+<p>Installation:</p>
+<ul>
+<li>follow the vignette <a href="https://cjvanlissa.github.io/worcs/articles/setup.html">Setting up your computer for <code>worcs</code></a> (note that the setup can take around <strong>1 hour</strong>… prepare in advance!)</li>
+<li>additional notes to the vignette:
+<ul>
+<li>if you already have R, check what version you have. Consider upgrading to <strong>R 4.0</strong> by downloading and installing R as instructed</li>
+<li>for Windows operating system, consider using <a href="https://gitforwindows.org/">Git for Windows</a> instead of <a href="https://git-scm.com/"><em>git-scm.com</em></a></li>
+<li>a GitHub academic upgrade is <strong>not necessary</strong> for this workshop</li>
+<li>no seriously, <strong>do not enter a passphrase!</strong></li>
+</ul></li>
+</ul>
+<p><strong>REGISTRATION</strong><br />
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the mailing list but would like to join, please contact <a href="mailto:schettino@eur.nl">Antonio</a>.</p>
+<p><strong>MEETING RULES</strong></p>
+<p>During the Zoom meeting, please follow these guidelines:</p>
+<ul>
+<li>wear headphones</li>
+<li>mute your microphone</li>
+<li>video is optional (in case of connection issues, you may be asked to turn it off)</li>
+<li>pay attention to the moderator (which will be <strong>Antonio</strong>)</li>
+<li>if you have questions
+<ul>
+<li>click on the <strong>Raise Hand</strong> button and the moderator will unmute you; or</li>
+<li>write down your question in the chat and the moderator will read it</li>
+</ul></li>
+<li>avoid talking over each other and make sure that everyone can have their opportunity to speak</li>
+<li>arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues</li>
+</ul>
+<p>Hope to see many of you!</p>
+<p>Take care,</p>
+<p>Caspar van Lissa, Barbara Vreede, and Antonio Schettino</p>
+<hr />
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small"></span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://www.openscience-rotterdam.com/tags/workshops/">workshops</a>
+
+  <a class="tag tag--primary tag--small" href="https://www.openscience-rotterdam.com/tags/open-source-software/">open source software</a>
+
+  <a class="tag tag--primary tag--small" href="https://www.openscience-rotterdam.com/tags/reproducible-paper/">reproducible paper</a>
+
+  <a class="tag tag--primary tag--small" href="https://www.openscience-rotterdam.com/tags/r/">R</a>
+
+                  </div>
+                
+              
+            
+            <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://www.openscience-rotterdam.com/2020/10/14/sweijen/" data-tooltip="OSCR Member: Sophie Sweijen">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/" data-tooltip="Distinguish yourself and get recognized with ORCID!">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2021 Open Science Community Rotterdam. 
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        <div class="post-actions-wrap">
+  
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://www.openscience-rotterdam.com/2020/10/14/sweijen/" data-tooltip="OSCR Member: Sophie Sweijen">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/" data-tooltip="Distinguish yourself and get recognized with ORCID!">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  
+</div>
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.openscience-rotterdam.com%2F2020%2F10%2F16%2Fworcshop-oct2020%2F">
+          <i class="fa fa-twitter"></i><span>%!(EXTRA string=Twitter)</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.openscience-rotterdam.com/images/OSCR_thumbnail.png" alt="" />
+    
+    <h4 id="about-card-name">Open Science Community Rotterdam</h4>
+    
+      <div id="about-card-bio">Official website of the <br/> Open Science Community of <br/> <a href="https://www.eur.nl/en">Erasmus Universiteit Rotterdam</a> and <br/> <a href="https://www.erasmusmc.nl/">Erasmus Medical Center</a>. <br/> Email: <a href="mailto:info@openscience-rotterdam.com">info@openscience-rotterdam.com</a></div>
+    
+    
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center"></div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/">
+                <h3 class="media-heading">Data Stewards join EUR Research Support</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2021/01/18/guzman-ramirez/">
+                <h3 class="media-heading">OSCR Member: Lizette Guzman Ramirez</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Research Data Steward, ERIM</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/">
+                <h3 class="media-heading">ROARR!</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Announcing the 2021 Rotterdam Open and Reproducible Research (ROARR) programme.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2021/01/11/failurescience-jan2021/">
+                <h3 class="media-heading">Discussing Failures in Science</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2021
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">January 19th 2021, h. 15:00 CET, Zoom</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/12/03/eur-oa/">
+                <h3 class="media-heading">A Researcher’s Guide to Open Access Publishing</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Dec 12, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">A short but comprehensive guide to Open Access publishing for EUR and ErasmusMC researchers.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/11/30/vietze/">
+                <h3 class="media-heading">OSCR Member: Jana Vietze</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Nov 11, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Postdoctoral Researcher, ESSB</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/11/26/takeaway-orcid-nov2020/">
+                <h3 class="media-heading">Take-away OSCR-ORCID workshop</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Nov 11, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Missed out on the workshop? Catch up by following these steps!</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/10/30/orcid-nov2020/">
+                <h3 class="media-heading">Get recognized. Get the most out of your ORCID iD!</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Oct 10, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">November 18th 2020, h. 14:00 CET, Zoom</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/10/30/defina/">
+                <h3 class="media-heading">OSCR Member: Serena Defina</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Oct 10, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">PhD Candidate, Erasmus MC</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/">
+                <h3 class="media-heading">Distinguish yourself and get recognized with ORCID!</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Oct 10, 2020
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">A university-wide campaign to raise awareness on the importance, benefits, and use of ORCID for researchers.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero=""
+         data-message-one=""
+         data-message-other="">
+         55 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('https://www.openscience-rotterdam.com/images/green-background.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://www.openscience-rotterdam.com/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/www.openscience-rotterdam.com\/2020\/10\/16\/worcshop-oct2020\/';
+          
+            this.page.identifier = '\/2020\/10\/16\/worcshop-oct2020\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'https-openscience-rotterdam-com';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+
+    
+  </body>
+</html>
+
