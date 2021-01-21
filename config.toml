@@ -11,7 +11,7 @@
 # But if you want to add local images, you can put your images directly in `source/assets/images` folder
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
-  
+
 baseURL = "https://www.openscience-rotterdam.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
