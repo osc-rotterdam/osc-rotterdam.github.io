@@ -14,7 +14,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: "ROARR2021 kicks off with an overview of open research."
+summary: "January 28th 2021, h. 15:00 CET, Zoom"
 editor_options: 
   chunk_output_type: inline
 ---
