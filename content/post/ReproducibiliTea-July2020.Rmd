@@ -21,7 +21,7 @@ editor_options:
 
 The ninth [**OSCR ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **July 8th** at **14:00**. This is a special one, because it is a combined session between OSCR and [Rotterdam R.I.O.T.S.](https://rdam-riot-science-club.github.io/). More information on this wonderful partnership can be found on [this blog post](https://www.openscience-rotterdam.com/2020/03/oscr-riots/).
 
-The discussant will be [Dr. Tonya White](https://www.erasmusmc.nl/en/sophia/research/researchers/white-tonya) from the [Department of Child and Adolescent Psychiatry](https://www.erasmusmc.nl/en/sophia/research/departments-and-centers/child-psychiatry) and the [Department of Radiology & Nuclear Medicine](https://www.erasmusmc.nl/en/research/departments/radiology-and-nuclear-medicine) at Erasmus MC. 
+The discussant will be [Prof. Dr. Tonya White](https://www.erasmusmc.nl/en/sophia/research/researchers/white-tonya) from the [Department of Child and Adolescent Psychiatry](https://www.erasmusmc.nl/en/sophia/research/departments-and-centers/child-psychiatry) and the [Department of Radiology & Nuclear Medicine](https://www.erasmusmc.nl/en/research/departments/radiology-and-nuclear-medicine) at Erasmus MC. 
 
 Tonya will discuss her work on multiple testing correction[^1]: 
 
