@@ -4,12 +4,37 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/2021/02/reproducibilitea-feb2021/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,23 +48,8 @@
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -185,11 +195,6 @@
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/11/takeaway-orcid-nov2020/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
-    <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
