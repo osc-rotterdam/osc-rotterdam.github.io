@@ -4,26 +4,76 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/guitar/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/himmler/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/2021/02/mari/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/2021/02/magnee/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/science-communication/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openscience-rotterdam.com/2021/02/himmler/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,11 +140,6 @@
   <url>
     <loc>https://www.openscience-rotterdam.com/2021/01/roarr2021-jan/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,11 +203,6 @@
   </url>
   
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.openscience-rotterdam.com/tags/ul/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url>
@@ -189,11 +219,6 @@
   
   <url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -245,11 +270,6 @@
   <url>
     <loc>https://www.openscience-rotterdam.com/2020/10/worcshop-oct2020/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
