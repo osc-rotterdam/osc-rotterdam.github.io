@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience sampling methods</title>
+      <link>https://www.openscience-rotterdam.com/tags/experience-sampling-methods/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/experience-sampling-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preregistration</title>
+      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
@@ -49,15 +76,6 @@
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
@@ -202,15 +220,6 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
       <description></description>
     </item>
     
