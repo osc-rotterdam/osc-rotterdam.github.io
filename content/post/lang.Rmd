@@ -52,7 +52,7 @@ Click on the picture to send an email. The icon on the right redirects to social
 
 <!-- EMAIL -->
 <p>
-  <a href="zhongyu.lang@eshpm.eur.nl">
+  <a href="mailto:zhongyu.lang@eshpm.eur.nl">
   <img border="0" alt="Zhongyu Lang" src="/images/Lang.jpg" width="150" height="150" align="left">
   </a>
 </p>
@@ -69,8 +69,8 @@ Click on the picture to send an email. The icon on the right redirects to social
 
 ```{r radarPlot, eval = FALSE}
 
-member_name <- "Lang"
-special_skill <- c("", "")
+member_name <- "Zhongyu Lang"
+special_skill <- NULL
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
