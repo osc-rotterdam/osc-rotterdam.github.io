@@ -3,7 +3,7 @@ title: "OSCR Member: Amy van der List"
 date: 2021-02-09
 slug: "vanderlist"
 categories: ["people"]
-tags: ["school-eshpm"] # top 3 categories + unique + school
+tags: ["school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/vanderList.jpg
 thumbnailImagePosition: left
