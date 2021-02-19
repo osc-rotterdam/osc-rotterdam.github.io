@@ -35,7 +35,7 @@ Benefits include:
 * your own personal profile page (see [**People**](/categories/people/))
 * discover other members' expertise and collaborate with them (see [**Tags**](/tags))
 * sign-up to the OSCR mailing list, where we announce our events (approximately two per month)
-* access to our community on [Element](https://element.io/)
+* access to our community on [Element](https://element.io/), soon to be moved to Microsoft Teams (work in progress) 
 
 ## How can you join OSCR?
 

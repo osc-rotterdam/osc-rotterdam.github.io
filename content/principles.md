@@ -18,6 +18,6 @@ showActions: false
     * Attendees and organizers of events organized by OSCs must adhere to the [**Code of Conduct**](/coc/)
 * OSCs promote critical discussions of pro’s and con’s of open science/scholarship practices. We refrain from being normative or condescending, and do not tell others what to do. Respect for each others’ workflows and decisions in this regard is critical
 
-If there is no local OSC that you can join, we encourage you to start your own by following our [Starter Kit](https://doi.org/10.17605/OSF.IO/7VEZ3).
+If there is no local OSC that you can join, we encourage you to start your own by following our [Starter Kit](http://www.startyourosc.com/).
 
 
