@@ -34,7 +34,7 @@ This workshop will provide an introduction to Rmarkdown websites and how to host
 For the practical, Oliver suggests using [R](https://cran.r-project.org/), [RStudio](https://rstudio.com/products/rstudio/), and [GitHub Desktop](https://desktop.github.com/), but he will also provide instructions using R and Git on the command line. This is best hosted on your local computer. You will also need a [GitHub account](https://github.com/join?source=header-home) and to download the [workshop materials](https://drive.google.com/file/d/1x_ZW5LjilAYdVmwqZzgNw2UPw6tNsssz/view) in advance.
 
 **REGISTRATION**   
-The event will be hosted via [Microsoft Teams live event](bit.ly/3ufZst2). An invitation email has also been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+The event will be hosted via [Microsoft Teams live event](https://bit.ly/3ufZst2). An invitation email has also been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
 
 Hope to see many of you!
 
