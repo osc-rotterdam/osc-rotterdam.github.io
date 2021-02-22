@@ -1,5 +1,5 @@
 ---
-title: "Rotterdam R.I.O.T.S. -- R Markdown & Github"
+title: "Rotterdam R.I.O.T.S. Club -- R Markdown & Github"
 author: "Antonio Schettino"
 date: 2021-02-19
 slug: "RIOTS-advanced-Feb2021"
@@ -40,7 +40,7 @@ Hope to see many of you!
 
 Take care,
 
-Oliver Pain, Lorenza Dall'Aglio, and Antonio Schettino
+Oliver Pain, Lorenza Dall'Aglio, Elisabet Blok, Bing Xu, and Antonio Schettino
 
 ***
 
