@@ -52,7 +52,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- EMAIL -->
 <p>
-  <a href="mailto:svdgroep70@gmail.com">
+  <a href="mailto:s.vandegroep@essb.eur.nl">
   <img border="0" alt="Suzanne van de Groep" src="/images/vandeGroep.jpg" width="150" height="150" align="left">
   </a>
 </p>
