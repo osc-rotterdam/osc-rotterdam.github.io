@@ -21,8 +21,8 @@
 *.utf8.md
 *.knit.md
 
-#blogdown
-public/
+# blogdown
+/public/
 content/post/*.html
 content/*.html
 static/post/
