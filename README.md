@@ -1,15 +1,12 @@
 # Website OSCRotterdam
 
-Source code of the website of the Open Science Community Rotterdam.
+Source code of the [website of the Open Science Community Rotterdam](http://www.openscience-rotterdam.com) (OSCR).
 
-http://www.openscience-rotterdam.com
-
-This website is developed using [_R_](https://cran.r-project.org/) and 
-[`blogdown`](https://github.com/rstudio/blogdown). See 
+This website is developed using [_R_](https://cran.r-project.org/), [`blogdown v1.1`](https://github.com/rstudio/blogdown), and [Hugo v0.81.0](https://gohugo.io/). See 
 [this book](https://bookdown.org/yihui/blogdown/) for details on how to 
 create a website with this software.
 
-*Hint for Linux user*: Do **not** install Hugo via apt or snap, use `blogdown::install_hugo` in _R_ instead. 
+*Hint for Linux user*: Do **not** install Hugo via apt or snap, use `blogdown::install_hugo()` in _R_ instead. 
 
 ## Usage
 
