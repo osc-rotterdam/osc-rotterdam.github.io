@@ -27,3 +27,7 @@ content/post/*.html
 content/*.html
 static/post/
 .Rproj.user
+
+# suggested by blogdown::check_site()
+.DS_Store
+Thumbs.db
