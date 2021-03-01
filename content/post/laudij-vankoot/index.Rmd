@@ -44,7 +44,7 @@ opts_chunk$set(
 
 # Description
 
-As project manager for the [ADAPT](https://projectadapt.nl/) project at ESSB, I coordinate the organizational aspects of the research project. The focus of my role is on project management, but I am also involved in data management, supporting processes like getting ERB approval, protecting personal data, etc. In our day-to-day practices, we encourage collaboration and always seek to have maximum impact, but my knowledge about open science is not very extended. I am curious and very motivated to learn more about this.
+As project manager for the [ADAPT](https://projectadapt.nl/) project at ESSB, I coordinate the organizational aspects of the research project. The focus of my role is on project management, but I am also involved in data management and supporting processes (e.g., getting ERB approval, protecting personal data, etc.). In our day-to-day practices, we encourage collaboration and always seek to have maximum impact, but my knowledge about open science is not very extended. I am curious and very motivated to learn more about this.
  
 # CV and Contact Info
 
