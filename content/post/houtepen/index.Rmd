@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: Policy & Project officer *Evaluating societal impact*
+summary: Policy & Project officer, Academic Affairs
 editor_options: 
   chunk_output_type: console
 ---
