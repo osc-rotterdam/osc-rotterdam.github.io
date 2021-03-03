@@ -1,5 +1,5 @@
 ---
-title: "OSCR Member: Lizette Guzman Ramirez"
+title: "OSCR Member: Lizette Guzman-Ramirez"
 date: 2021-01-18
 slug: "guzman-ramirez"
 categories: ["people"]
@@ -53,7 +53,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 <!-- EMAIL -->
 <p>
   <a href="mailto:guzmanramirez@rsm.nl">
-  <img border="0" alt="Lizette Guzman Ramirez" src="/images/Guzman-Ramirez.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Lizette Guzman-Ramirez" src="/images/Guzman-Ramirez.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
@@ -81,7 +81,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 ```{r radarPlot}
 
-member_name <- "Lizette Guzman Ramirez"
+member_name <- "Lizette Guzman-Ramirez"
 special_skill <- c("python", "dog lover")
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
