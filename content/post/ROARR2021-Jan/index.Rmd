@@ -1,6 +1,6 @@
 ---
 title: "ROARR2021 -- Introduction to Open Research, Preregistration, and Registered Reports"
-author: "Antonio Schettino"
+author: ["Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
 date: 2021-01-21
 slug: "ROARR2021-Jan"
 categories: ["News"]

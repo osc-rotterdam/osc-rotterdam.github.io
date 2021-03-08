@@ -1,6 +1,6 @@
 ---
 title: ReproducibiliTea for qualitative researchers
-author: "Antonio Schettino"
+author: ["Rik Joosen", "Antonio Schettino"]
 date: 2019-11-26
 slug: "ReproducibiliTea-Dec2019"
 categories: ["News"]
@@ -39,7 +39,7 @@ The next meeting will take place after the Christmas holidays, on **January 22nd
 
 Greetings,
 
-Antonio Schettino and Rik Joosen
+Rik Joosen and Antonio Schettino
 
 ***
 

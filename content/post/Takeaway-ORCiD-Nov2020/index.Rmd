@@ -1,6 +1,6 @@
 ---
 title: "Take-away OSCR-ORCID workshop"
-author: "Antonio Schettino"
+author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-11-26
 slug: "takeaway-orcid-nov2020"
 categories: ["News"]

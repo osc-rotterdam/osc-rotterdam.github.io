@@ -1,6 +1,6 @@
 ---
 title: "ReproducibiliTea Online: Making Replication Mainstream"
-author: "Antonio Schettino"
+author: ["Rolf Zwaan", "Antonio Schettino"]
 date: 2021-02-02
 slug: "ReproducibiliTea-Feb2021"
 categories: ["News"]

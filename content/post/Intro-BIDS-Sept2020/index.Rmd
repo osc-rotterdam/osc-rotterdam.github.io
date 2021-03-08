@@ -1,6 +1,6 @@
 ---
 title: "Introduction to the Brain Imaging Data Structure (BIDS)"
-author: "Antonio Schettino"
+author: ["Eduard Klapwijk", "Antonio Schettino"]
 date: 2020-09-07
 slug: "Intro-BIDS-Sept2020"
 categories: ["News"]

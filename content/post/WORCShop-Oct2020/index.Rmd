@@ -1,6 +1,6 @@
 ---
 title: "Writing a Reproducible Paper in R with WORCS"
-author: "Antonio Schettino"
+author: ["Caspar van Lissa", "Barbara Vreede", "Antonio Schettino"]
 date: 2020-10-16
 slug: "WORCShop-Oct2020"
 categories: ["News"]

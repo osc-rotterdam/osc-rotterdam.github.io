@@ -1,6 +1,6 @@
 ---
 title: "Get recognized. Get the most out of your ORCID iD!"
-author: "Antonio Schettino"
+author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-10-30
 slug: "ORCID-Nov2020"
 categories: ["News"]
@@ -68,7 +68,7 @@ Hope to see you all on November 18th!
 
 Best regards,
 
-Josien Dümmer, Judith Gulpers, and Antonio Schettino
+Erasmus Library ORCID Team and Antonio Schettino
 
 ***
 

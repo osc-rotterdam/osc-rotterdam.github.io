@@ -1,6 +1,6 @@
 ---
 title: "ReproducibiliTea: Meet the Journal of Trial and Error"
-author: "Antonio Schettino"
+author: ["Max Bautista Perpinyà", "Stefan Gaillard", "Antonio Schettino"]
 date: 2020-01-29
 slug: "ReproducibiliTea-Feb2020"
 categories: ["News"]

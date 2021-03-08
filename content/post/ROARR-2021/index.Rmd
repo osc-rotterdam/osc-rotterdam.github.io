@@ -1,6 +1,6 @@
 ---
 title: "ROARR!"
-author: "Antonio Schettino"
+author: ["Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
 date: 2021-01-12
 slug: "ROARR-2021"
 categories: ["News"]

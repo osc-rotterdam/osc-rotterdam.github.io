@@ -1,6 +1,6 @@
 ---
 title: "ROARR2021 -- Introduction to Git"
-author: "Antonio Schettino"
+author:  ["Eloy Geenjaar", "Elisabet Blok", "Antonio Schettino"]
 date: 2021-02-10
 slug: "ROARR2021-Feb"
 categories: ["News"]

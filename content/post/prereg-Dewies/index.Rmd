@@ -1,6 +1,6 @@
 ---
 title: "A flexible use of preregistration templates"
-author: "Antonio Schettino"
+author: ["Malte Dewies", "Antonio Schettino"]
 date: 2020-04-27
 slug: "prereg-dewies"
 categories: ["News"]

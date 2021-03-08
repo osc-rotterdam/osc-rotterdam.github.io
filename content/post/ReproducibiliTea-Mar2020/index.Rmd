@@ -1,6 +1,6 @@
 ---
 title: "ReproducibiliTea: Responsible Research Evaluation"
-author: "Antonio Schettino"
+author: ["Hardy Schwamm", "Antonio Schettino"]
 date: 2020-02-26
 slug: "ReproducibiliTea-Mar2020"
 categories: ["News"]

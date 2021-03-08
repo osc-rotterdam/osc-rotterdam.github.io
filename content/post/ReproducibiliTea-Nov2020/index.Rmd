@@ -1,6 +1,6 @@
 ---
 title: "ReproducibiliTea Online: Replicable social-behavioral findings are achievable"
-author: "Antonio Schettino"
+author: ["Lorenza Dall'Aglio", "Antonio Schettino"]
 date: 2020-11-17
 slug: "ReproducibiliTea-Nov2020"
 categories: ["News"]
