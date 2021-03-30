@@ -61,7 +61,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- CV -->
 <p align="center">
-  <a href="https://asch3tti.netlify.com/cv/schettino_academic.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
+  <a href="https://antonio-schettino.com/cv/Schettino_academic.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
@@ -71,9 +71,9 @@ Click on the picture to send an email. The icons on the right redirect to the CV
   </a>
 </p>
  
-<!-- OSF -->
+<!-- PERSONAL WEBSITE -->
 <p align="center">
-  <a href="https://osf.io/zbv65/"> <i class="ai ai-osf ai-2x"  style="color:#000000;"></i>
+  <a href="https://antonio-schettino.com/" class="fa fa-link fa-2x" style="color:#000000;">
   </a>
 </p>
 
