@@ -6,22 +6,58 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>elite rower</title>
-      <link>https://www.openscience-rotterdam.com/tags/elite-rower/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/elite-rower/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obscure historic facts</title>
+      <link>https://www.openscience-rotterdam.com/tags/obscure-historic-facts/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/obscure-historic-facts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-eshpm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elite rower</title>
+      <link>https://www.openscience-rotterdam.com/tags/elite-rower/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/elite-rower/</guid>
       <description></description>
     </item>
     
@@ -134,29 +170,11 @@
     </item>
     
     <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>school-eshcc</title>
       <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-eshcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
@@ -283,15 +301,6 @@
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/procrastination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-eshpm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
-      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
       <description></description>
     </item>
     
