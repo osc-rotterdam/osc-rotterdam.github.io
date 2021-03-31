@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/riots/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/roarr2021/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2021/03/31/roarr2021-apr/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
@@ -14,25 +44,16 @@
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/03/30/stoeckel/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/elite-rower/</loc>
@@ -44,19 +65,7 @@
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/qrp/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/riots/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/roarr2021/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/03/08/roarr2021-mar/</loc>
@@ -135,9 +144,6 @@
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/02/19/riots-advanced-feb2021/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/02/10/roarr2021-feb/</loc>
@@ -448,9 +454,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/sushi-lover/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2019/09/22/osfworkshop-eshpm-sept2019/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
