@@ -1,5 +1,5 @@
 ---
-title: "Empowering researchers from all disciplines through the use of research software"
+title: "The eScience Center offers free and open research programming workshops"
 author:  ["Lieke de Boer", "Antonio Schettino"]
 date: 2021-04-19
 slug: "nlesc"
@@ -14,7 +14,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: "The Netherlands eScience Center promotes reproducible research through free and open digital skills workshops"
+summary: "Empowering researchers from all disciplines through the use of research software"
 editor_options: 
   chunk_output_type: inline
 ---
