@@ -1,0 +1,48 @@
+---
+title: "ROARR2021 -- Hidden flexibility and p-values"
+author: ["Marjan Bakker", "Antonio Schettino"]
+date: 2021-05-04
+slug: "ROARR2021-May"
+categories: ["News"]
+tags: ["RIOTS", "talks", "ROARR2021", "open science", "stats"]
+coverImage: /images/ROARR2021-banner.png
+thumbnailImage: /images/RIOTS_OSCR.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "May 11th 2021, h. 15:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: inline
+---
+
+A researcher has to make many choices when analyzing data. Examples of these choices are which analysis method to use, which covariates to include, and what to do with outliers in the data. In this talk, we will take a closer look at this flexibility, the consequences of this flexibility on statistical results, and how we can limit the influence of this flexibility.
+
+This talk will be given by [Dr. Marjan Bakker](http://www.marjanbakker.eu/), assistant professor at Tilburg University at the methodology and statistics department and part of the [meta-research group](https://metaresearch.nl/). Her research interests include scientific integrity, errors in statistics, statistical power, publication bias, psychometrics, preregistration, and game theory. Dr. Bakker contributed to the discussion on the credibility revolution in psychological science with her PhD work entitled [Good science, bad science: Questioning research practices in psychological research](https://dare.uva.nl/search?identifier=ed0c89aa-8bf3-48d1-9191-f3dee565140e).
+
+The event will take place on **May 11th 2021** at **15:00 CEST** and will last 60'. An invitation email, including the Zoom link, meeting ID, and password, has been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Elisabet**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Hope to see many of you!
+
+Take care,
+
+Marjan Bakker and Antonio Schettino
+
+
