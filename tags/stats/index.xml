@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stats on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/stats/</link>
+    <description>Recent content in stats on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROARR2021 -- Hidden flexibility and p-values</title>
+      <link>https://www.openscience-rotterdam.com/2021/05/04/roarr2021-may/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2021/05/04/roarr2021-may/</guid>
+      <description>May 11th 2021, h. 15:00 CEST, Zoom</description>
+    </item>
+    
+  </channel>
+</rss>
