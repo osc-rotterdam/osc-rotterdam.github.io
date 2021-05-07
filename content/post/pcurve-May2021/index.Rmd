@@ -23,7 +23,7 @@ It is unfortunate that most of our scientific fields have to deal with **publica
 
 Publication bias taints our field: it imbalances findings (null results are not published) despite our thorough attempts to improve theories, methods, experimental designs, and analyses. It also influences our behavior as researchers: it could lead to questionable research practices (e.g. *p*-hacking) that scientists (unconsciously) perform to increase their chances of getting significant results. This is, of course, unethical.
 
-By compiling studies in systematic reviews and meta-analyses, we are able to examine and account for publication bias. A relative new statistical tool to investigate selective reporting of significant results is ***p*-curve analysis**. In this talk, [Miranda Lutz-Landesbergen](https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/) (third year PhD candidate in clinical psychology at ESSB) will give a talk about publication bias and how to investigate it in meta-analyses. Also, she will introduce and demonstrate *p*-curve analysis with a publication and her own data, in R and with an online tool. She will provide relevant literature and recommendations for you as a researcher to combat publication bias. With this talk, she hopes you will become familiar to this analysis and be encouraged to think critically about selective reporting of *p*-values in your field of research.
+By compiling studies in systematic reviews and meta-analyses, we are able to examine and account for publication bias. A relative new statistical tool to investigate selective reporting of significant results is ***p*-curve analysis**. In this talk, [Miranda Lutz-Landesbergen](https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/) (third year PhD candidate in clinical psychology at ESSB) will give a talk about publication bias and how to investigate it in meta-analyses. Also, she will introduce and demonstrate *p*-curve analysis with a publication and her own data, in R and with an online tool. She will provide relevant literature and recommendations for you as a researcher to combat publication bias. With this talk, she hopes you will become familiar to this analysis and be encouraged to think critically about selective reporting of *p*-values in your field of research[^1].
 
 If you want to do a little reading beforehand, here are two suggestions:
 
@@ -54,5 +54,7 @@ Take care,
 Miranda Lutz-Landesbergen and Antonio Schettino
 
 ***
+
+[^1]: The slides are available on the [OSF](https://osf.io/gkra3/).
 
 
