@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/home/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/05/10/tang/</loc>
@@ -247,12 +253,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/01/18/guzman-ramirez/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/home/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
