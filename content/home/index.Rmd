@@ -1,5 +1,5 @@
 ---
-date: 2021-01-15
+date: 2021-05-20
 categories: [home]
 tags: []
 showMeta: false
@@ -17,10 +17,13 @@ The Open Science Community Rotterdam (_**OSCR**_) comprises academics and suppor
 
 OSCR is part of the *International Network of Open Science & Scholarship Communities* (***INOSC***), including:
 
-* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Groningen](https://twitter.com/OSCGroningen)
-* outside the Netherlands: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/)
+* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), Wageningen (coming soon), [Groningen](https://twitter.com/OSCGroningen)
 
-![All Open Science Communities. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en). OSCR logo adapted from the OSCU logo created by [Anita Eerland](http://www.anitaeerland.com/about/).](/images/INOSC.png)
+![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2021_May_OSCs_NL.png){width=1000px}
+
+* in the world: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/), [Saudi Arabia](https://twitter.com/OpenSciSaudi)
+
+![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2021_May_INOSC.png)
 
 ## Who can join OSCR?
 
@@ -35,7 +38,7 @@ Benefits include:
 * your own personal profile page (see [**People**](/categories/people/))
 * discover other members' expertise and collaborate with them (see [**Tags**](/tags))
 * sign-up to the OSCR mailing list, where we announce our events (approximately two per month)
-* access to our community on [Element](https://element.io/), soon to be moved to Microsoft Teams (work in progress) 
+* access to our community on Microsoft Teams
 
 ## How can you join OSCR?
 
