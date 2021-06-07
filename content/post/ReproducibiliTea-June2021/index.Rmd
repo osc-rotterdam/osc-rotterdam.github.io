@@ -23,7 +23,7 @@ The seventeenth [**OSCR ReproducibiliTea journal club**](https://www.openscience
 
 Remco will guide us through one of his papers[^1]:
 
-> Heesen, R., & Bright, L. K. (2020). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science. https://doi.org/10/ggkwvx
+> Heesen, R., & Bright, L. K. (2020). Is Peer Review a Good Idea? The British Journal for the Philosophy of Science. https://doi.org/10.1093/bjps/axz029
 
 In this paper[^2], the authors discuss benefits and downsides of prepublication and postpublication peer review and argue that the latter is preferable. Reasoning from the perspective of epistemic consequentialism, the effects that abolishing prepublication peer review may have on the social structure of science -- in particular the incentive structure and its effects on the behavior of individual scientists -- are either positive or neutral. Based on present evidence, abolishing peer review weakly dominates the status quo.
 
