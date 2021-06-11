@@ -3,7 +3,7 @@ title: "OSCR Member: Ashley van Delden"
 date: 2021-06-11
 slug: "vandelden"
 categories: ["people"]
-tags: ["data management", "reproducible analysis", "open source software", "school-essb"] # top 3 categories + unique + school
+tags: ["data sharing", "puzzle lover", "eating enthusiast", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/vanDelden.jpg
 thumbnailImagePosition: left
