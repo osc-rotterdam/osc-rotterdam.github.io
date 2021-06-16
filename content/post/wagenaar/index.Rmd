@@ -77,12 +77,12 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 ```{r radarPlot, eval = FALSE}
 
-member_name <- "Lotte Houtepen"
+member_name <- "Max Wagenaar"
 special_skill <- NULL
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c("reproducible analysis", "open source software", all_of(special_skill), "data management", "open access", "data sharing"))
+  dplyr::select(c("reproducible analysis", "open source software", all_of(special_skill), "data management", "open access", "data sharing", "preregistration"))
 
 # custom radar plot
 radarchart(OS_skills,
