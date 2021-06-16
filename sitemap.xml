@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/conceptual-analysis/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2021/06/16/dejager/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-esphil/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/transdisciplinary-collaboration/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
@@ -20,25 +50,13 @@
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/06/11/vandelden/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/project-management/</loc>
@@ -57,9 +75,6 @@
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/science-communication/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
@@ -146,9 +161,6 @@
     <loc>https://www.openscience-rotterdam.com/tags/bicycle-mechanic/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/04/08/alfons/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -201,9 +213,6 @@
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/plant-lover/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-esphil/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/networker/</loc>
