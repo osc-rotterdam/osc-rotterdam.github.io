@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: inline
 ---
 
-As a worthy conclusion of our successful [ROARR2021 programme](https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/), OSCR and the [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/) want to give you (yes, **you**) the center stage!
+As a worthy conclusion of our successful [ROARR2021 programme](https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/), OSCR and the [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/) want to give you (yes, **you**!) the center stage!
 
 <BR>
 
