@@ -1,0 +1,86 @@
+---
+title: "Open Science Concerns addressed during the ROARR2021 July session"
+author: ["Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
+date: 2021-07-06
+slug: "ROARR2021-July-summary"
+categories: ["News"]
+tags: ["RIOTS", "talks", "ROARR2021", "open science"]
+coverImage: /images/ROARR2021-banner.png
+thumbnailImage: /images/RIOTS_OSCR.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "A summary of the Q&A session of the ROARR2021 programme."
+editor_options: 
+  chunk_output_type: inline
+---
+
+The [last session of the ROARR2021 programme](https://www.openscience-rotterdam.com/2021/06/22/roarr2021-july/) was centered around questions provided by attendees. It was an informal and lively discussion that touched upon several aspects of open and responsible research, so we thought that it would be useful to provide a brief summary to interested people who could not attend the event[^1]. This summary also allows us to provide additional information (in *italics*) that we feel is relevant but could not not mention during the meeting due to lack of time. 
+
+## Is open research always better than closed research?
+
+There are multiple forms of open research. 
+For example, open data has clear benefits for replication purposes or to address a wider range of research questions. Despite these benefits, there are factors like privacy which should take precedence over open data. Options as always are available to find a balance between openness and privacy.
+
+Moreover, it is a time-consuming process to make sure data and materials are shared in a responsible manner. Institutions might not always be willing to spend resources training staff on the issue of responsible open science.
+
+
+
+## How do researchers engage with open data? Do they see value in and conduct their own research (re)using open data?
+
+The difference is in flexibility – own collected data provides a much higher sense of control over how the data can answer the research question at hand. Secondary data only allows the use of whatever the researchers originally decided.
+
+The flexibility comes with price – own collected data is typically much more limited in scope, resources and participants and therefore power. Large public datasets are typically powered to a more than adequate level.
+
+Finally, there is the added benefit of having other people work on your data, meaning they could double check your analyses and results.
+
+
+## How do you feel about preregistering analyses when you already have the data (secondary data)?
+
+There are templates that are hugely helpful in guiding you through what should be considered before conducting the analysis of data you already have, e.g. taking into account knowledge of the data you might already have, through data exploration or otherwise. If you have information about a certain measure that affects decisions for your paper, you have to make a statement, so you are still transparent. 
+
+A template for preregistration of secondary data can be found at: https://osf.io/v4z3x/
+
+
+## How can I protect myself from supervisor’s requests to conduct questionable research practices (QRPs)?
+
+If supervisors want to change analyses, add more covariates post-hoc or engage in other QRPs, you are protected (or you can use it as an argument) if you preregistered your analyses plans. If you want to deviate from the plan, you can change your project, but you need to specify this deviation and the rationale for it. It will be hard to justify changes that stem from questionable research practices. 
+
+## What happens if my research team does not care about open science and would prefer I do not waste my time on it?
+
+One enticing angle to bring senior researchers’ attention to is to discuss how more and more funding agencies have criteria for open research practices (e.g. Horizon Europe https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf). Engaging in open research actually provides a competitive edge to new research ideas. This is one example of how open science can be related to incentives that researchers already care deeply about (e.g. funding, publications). 
+
+There are ongoing debates around what would be the appropriate response to categorical refusal to open research practices. Some say leaving is a perfectly valid option, others point out that to avoid negative selection of researchers in science, one should stay until given the chance to change things for the better.
+
+Some tips and tricks to convince your supervisors are shared here https://twitter.com/BrianNosek/status/1411304239842971652
+And here https://repub.eur.nl/pub/133263/
+
+
+## Having done the analyses, and making your code available, doesn’t necessarily make it transparent (because there are personal preferences of formatting, making it understandable for others takes a lot of work). If we add it to a submission, are reviewers really going to read to code? Is making the code readable worth the time?
+
+At least make it readable for the future you: it will benefit you (and your team). Next you may also help others. From there on, it is up to the editor of the journal to identify individuals who can read and review the code. Should the journal not make that effort, it could be a reflection of the journal’s priorities about transparent research. Some reviewers do not want to review your paper if there is no code (https://www.opennessinitiative.org/). As a reviewer you can ask for code, as you are investing time in the review.
+ On that note, it cannot be emphasized enough how important sharing code is for the transparency of the analysis. 
+ 
+## What if your data is skewed after analyses, but you did not know it during preregistration?
+
+There are decision trees that can help you plan steps to do in case you find your that your data is skewed (there are simple templates but also very elaborate templates of preregistration). But if you did not predict it beforehand, you can still adjust your analyses. Preregistration is about increasing transparency: It is ok to say you deviated from it in light of noticing the variables were skewed.  
+ 
+
+
+
+
+
+Take care,
+
+Elisabet Blok, Bing Xu, Lorenza Dall'Aglio, and "Antonio Schettino
+
+
+***
+
+[^1]: We are grateful to [Dr. Nikita Setiaman](http://linkedin.com/in/nikita-setiaman-32b42a92) and [Milan Zarchev](https://www.linkedin.com/in/milan-zarchev/) for their invaluable help in taking notes during the meeting!
+
+
