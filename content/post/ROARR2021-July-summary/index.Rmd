@@ -19,7 +19,7 @@ editor_options:
   chunk_output_type: inline
 ---
 
-The [last session of the ROARR2021 programme](https://www.openscience-rotterdam.com/2021/06/22/roarr2021-july/) was centered around questions provided by attendees. It was an informal and lively discussion that touched upon several aspects of open and responsible research, so we thought that it would be useful to provide a brief summary to interested people who could not attend the event. We are grateful to [Dr. Nikita Setiaman](http://linkedin.com/in/nikita-setiaman-32b42a92) and [Milan Zarchev](https://www.linkedin.com/in/milan-zarchev/) who, during the meeting, took the notes that are included in this blog post (in *italics*). We also provide additional information that we feel is relevant but could not be mentioned during the meeting due to lack of time.
+The [last session of the ROARR2021 programme](https://www.openscience-rotterdam.com/2021/06/22/roarr2021-july/) was centered around questions provided by attendees. It was an informal and lively discussion that touched upon several aspects of open and responsible research, so we thought that it would be useful to provide a brief summary to interested people who could not attend the event. We are grateful to [Nikita Setiaman](http://linkedin.com/in/nikita-setiaman-32b42a92) and [Milan Zarchev](https://www.linkedin.com/in/milan-zarchev/) who, during the meeting, took the notes that are included in this blog post (in *italics*). We also provide additional information that we feel is relevant but could not be mentioned during the meeting due to lack of time.
 
 ## Is open research always better than closed research?
 
