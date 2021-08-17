@@ -57,11 +57,11 @@ Click on the picture to send an email. The icons on the right redirect to the CV
   </a>
 </p>
 
-<!-- <!-- CV -->
-<!-- <p align="center"> -->
-<!--   <a href="https://www.linkedin.com/in/asimina-aslanidou-a13174150" class="fa fa-file fa-2x" style="color:#00B969;"> -->
-<!--   </a> -->
-<!-- </p> -->
+<!-- CV -->
+<p align="center">
+  <a href="https://mwelz.github.io/assets/pdf/mwelz-cv.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
 
 <!-- ORCID -->
 <p align="center">
