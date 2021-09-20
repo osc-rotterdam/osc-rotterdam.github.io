@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/board-games/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2021/09/20/weeland/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/board-games/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
@@ -17,19 +38,10 @@
     <loc>https://www.openscience-rotterdam.com/2021/08/10/welz/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-ese/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
@@ -62,9 +74,6 @@
     <loc>https://www.openscience-rotterdam.com/tags/running/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/citizen-science/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,9 +102,6 @@
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/eating-enthusiast/</loc>
@@ -132,9 +138,6 @@
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/ballroom-dancing/</loc>
-    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/05/31/harrewijn/</loc>
