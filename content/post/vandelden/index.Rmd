@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: PhD Candidate, Connecting Our Future (Outreach), Dversity and Inclusion, ESSB
+summary: PhD Candidate, Connecting Our Future (Outreach), Diversity and Inclusion, ESSB
 editor_options: 
   chunk_output_type: console
 ---
