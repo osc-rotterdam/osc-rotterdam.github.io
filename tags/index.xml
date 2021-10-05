@@ -8,11 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>cat lover</title>
+      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>code review</title>
       <link>https://www.openscience-rotterdam.com/tags/code-review/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/code-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
     </item>
     
@@ -53,6 +71,15 @@
     </item>
     
     <item>
+      <title>school-ese</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
@@ -62,29 +89,11 @@
     </item>
     
     <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dog lover</title>
       <link>https://www.openscience-rotterdam.com/tags/dog-lover/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/dog-lover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-ese</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
       <description></description>
     </item>
     
@@ -346,15 +355,6 @@
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/bicycle-mechanic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cat lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
       <description></description>
     </item>
     
