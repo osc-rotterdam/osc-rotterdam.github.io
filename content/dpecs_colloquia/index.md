@@ -11,9 +11,9 @@ showActions: false
 
 ### Team science for psychological theory: a many modelers approach
 
-**Speaker**: [Noah van Dongen](https://nnnvd.wordpress.com/), University of Amsterdam
+**Speaker**: [**Noah van Dongen**](https://nnnvd.wordpress.com/), University of Amsterdam
 
-**Time**: **Tuesday 7 December 2021, 13:00 - 14:00**
+**Time**: *Tuesday 7 December 2021, 13:00 - 14:00*
 
 **Location**: T13-67 (hybrid event)
 
