@@ -35,9 +35,6 @@ opts_chunk$set(
 
 ```
 
-
-
-
 My name is Eirini Botsari and I am from Athens, Greece. From a very young age I would get lost in novel books that explored relationships and canvassed the human psyche. Growing up and through my life and work experiences, I came to one conclusion: 
 
 > “Individually, we are one drop. Together, we are an ocean.”   
@@ -53,4 +50,4 @@ I want to state that my door is always open and that I would be more than happy 
 
 Eirini Botsari
 
-
+***
