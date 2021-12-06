@@ -18,4 +18,4 @@ To publish your last changes, perform the following steps:
 3. `push` all changes and resolve all merge conflicts
 4. run `deploy.sh`
 
-To serve the site locally, perform step 1 and then `blogdown::serve_site()`
+To serve the site locally, perform step 1 and then `blogdown::serve_site()`:
