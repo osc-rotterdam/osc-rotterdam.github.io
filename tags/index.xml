@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERS</title>
+      <link>https://www.openscience-rotterdam.com/tags/ers/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/ers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information management</title>
+      <link>https://www.openscience-rotterdam.com/tags/information-management/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/information-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UL</title>
+      <link>https://www.openscience-rotterdam.com/tags/ul/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/ul/</guid>
       <description></description>
     </item>
     
@@ -76,15 +103,6 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>erasmus-research-services</title>
-      <link>https://www.openscience-rotterdam.com/tags/erasmus-research-services/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/erasmus-research-services/</guid>
       <description></description>
     </item>
     
@@ -544,15 +562,6 @@
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/procrastination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UL</title>
-      <link>https://www.openscience-rotterdam.com/tags/ul/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ul/</guid>
       <description></description>
     </item>
     

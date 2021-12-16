@@ -3,21 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/ers/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/information-management/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/06/porru/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/2021/12/16/verwijmeren/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/ul/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2021/12/06/porru/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/quoting-movies/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/science-communication/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/12/03/new-oscr-community-manager/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/erasmus-research-services/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
@@ -399,9 +408,6 @@
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2020/12/03/eur-oa/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ul/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2020/11/30/vietze/</loc>
