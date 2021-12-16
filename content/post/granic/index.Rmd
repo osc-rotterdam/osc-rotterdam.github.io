@@ -85,7 +85,7 @@ member_name <- "Georg Granic"
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c("data management", "data sharing", "reproducible analysis", "open source software", "open access"))
+  dplyr::select(c("reproducible analysis", "data sharing", "preregistration", "open source software", "open access", "data management"))
 
 # custom radar plot
 radarchart(OS_skills,
