@@ -3,7 +3,7 @@ title: "OSCR Member: Nils Arlinghaus"
 date: 2021-03-02
 slug: "arlinghaus"
 categories: ["people"]
-tags: ["school-esphil", "school-eshcc"] # top 3 categories + unique + school
+tags: ["school-esphil", "school-eshcc", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/Arlinghaus.jpg
 thumbnailImagePosition: left
