@@ -1,5 +1,5 @@
 ---
-date: 2021-05-20
+date: 2022-01-18
 categories: [home]
 tags: []
 showMeta: false
@@ -34,7 +34,7 @@ Benefits include:
 * practical support to create *your own* event or initiative, have your expertise recognized, and increase your visibility 
 * your own personal profile page (see [**People**](/categories/people/))
 * discover other members' expertise and collaborate with them (see [**Tags**](/tags))
-* sign-up to the OSCR mailing list, where we announce our events (approximately two per month)
+* sign-up to the OSCR mailing list, where we announce our events
 * access to our community on Microsoft Teams
 
 ## How can you join OSCR?
