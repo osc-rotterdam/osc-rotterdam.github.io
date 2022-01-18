@@ -1,7 +1,7 @@
 ---
 title: "An example of open software and innovative academic publication in econometrics"
 author: ["Andreas Alfons", "Antonio Schettino"]
-date: 2022-06-11
+date: 2022-01-18
 slug: "innovative-publication-alfons"
 categories: ["News"]
 tags: ["open science", "open access", "open source software", "r", "school-ese"]
