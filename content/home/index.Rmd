@@ -13,17 +13,14 @@ showActions: false
 
 ## Who are we?
 
-The Open Science Community Rotterdam (_**OSCR**_) comprises academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to discuss, promote, and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Guiding Principles**](/principles/).
+The Open Science Community Rotterdam (_**OSCR**_) comprises academics and support staff working at Erasmus University Rotterdam ([_**EUR**_](https://www.eur.nl/en)) and Erasmus Medical Center ([_**ErasmusMC**_](https://www.erasmusmc.nl/)). Our common goal is to discuss, learn, promote, and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our [**Guiding Principles**](/principles/).
 
 OSCR is part of the *International Network of Open Science & Scholarship Communities* (***INOSC***), including:
 
-* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), Wageningen (coming soon), [Groningen](https://twitter.com/OSCGroningen)
-
-![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2021_May_OSCs_NL.png){width=1000px}
-
+* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Wageningen](https://twitter.com/oscwageningen), [Groningen](https://twitter.com/OSCGroningen)
 * in the world: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/), [Saudi Arabia](https://twitter.com/OpenSciSaudi)
 
-![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2021_May_INOSC.png)
+![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2022_Jan_INOSC.png)
 
 ## Who can join OSCR?
 
