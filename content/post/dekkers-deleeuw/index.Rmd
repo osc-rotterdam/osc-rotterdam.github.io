@@ -71,7 +71,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
  
 <BR><BR>
 
-<!-- # Expertise
+# Expertise
 
 ```{r radarPlot}
 
@@ -90,8 +90,6 @@ radarchart(OS_skills,
 )
 
 ```
-
--->
 
 ***
 
