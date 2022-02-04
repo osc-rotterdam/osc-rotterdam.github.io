@@ -6,7 +6,16 @@
     <description>Recent content in open access on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSCR Member: Maartje Luijk</title>
+      <link>https://www.openscience-rotterdam.com/2022/02/03/luijk/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2022/02/03/luijk/</guid>
+      <description>Full Professor, ESSB</description>
+    </item>
+    
     <item>
       <title>OSCR Member: Angelica Maineri</title>
       <link>https://www.openscience-rotterdam.com/2022/01/28/maineri/</link>
@@ -230,15 +239,6 @@
       
       <guid>https://www.openscience-rotterdam.com/2019/08/06/mijnhardt/</guid>
       <description>Policy Director, RSM</description>
-    </item>
-    
-    <item>
-      <title>OSCR Member: Maartje Luijk</title>
-      <link>https://www.openscience-rotterdam.com/2019/02/03/luijk/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/02/03/luijk/</guid>
-      <description>Full Professor, ESSB</description>
     </item>
     
   </channel>

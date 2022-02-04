@@ -6,7 +6,16 @@
     <description>Recent content on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSCR Member: Maartje Luijk</title>
+      <link>https://www.openscience-rotterdam.com/2022/02/03/luijk/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2022/02/03/luijk/</guid>
+      <description>Full Professor, ESSB</description>
+    </item>
+    
     <item>
       <title>A Beginner’s Tutorial to Power Analysis using jamovi</title>
       <link>https://www.openscience-rotterdam.com/2022/02/02/jamovi-power-feb2022/</link>
@@ -1089,15 +1098,6 @@ OSCR is part of the International Network of Open Science &amp;amp; Scholarship 
     </item>
     
     <item>
-      <title>OSCR Member: Joran Jongerling</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/26/jongerling/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/11/26/jongerling/</guid>
-      <description>Assistant Professor of Methods &amp;amp; Statistics, ESSB</description>
-    </item>
-    
-    <item>
       <title>ReproducibiliTea for qualitative researchers</title>
       <link>https://www.openscience-rotterdam.com/2019/11/26/reproducibilitea-dec2019/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
@@ -1269,15 +1269,6 @@ Students or non-DPECS members who wish to be informed about upcoming colloquia m
       
       <guid>https://www.openscience-rotterdam.com/2019/04/01/schettino/</guid>
       <description>Coordinator Open Science, ERS</description>
-    </item>
-    
-    <item>
-      <title>OSCR Member: Maartje Luijk</title>
-      <link>https://www.openscience-rotterdam.com/2019/02/03/luijk/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/02/03/luijk/</guid>
-      <description>Full Professor, ESSB</description>
     </item>
     
   </channel>

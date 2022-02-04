@@ -6,7 +6,52 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design thinking</title>
+      <link>https://www.openscience-rotterdam.com/tags/design-thinking/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/design-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parenting studies</title>
+      <link>https://www.openscience-rotterdam.com/tags/parenting-studies/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/parenting-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preregistration</title>
+      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>jamovi</title>
       <link>https://www.openscience-rotterdam.com/tags/jamovi/</link>
@@ -62,29 +107,11 @@
     </item>
     
     <item>
-      <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reproducible analysis</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
@@ -157,15 +184,6 @@
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
       <description></description>
     </item>
     
@@ -773,24 +791,6 @@
     </item>
     
     <item>
-      <title>LaTeX</title>
-      <link>https://www.openscience-rotterdam.com/tags/latex/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/latex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://www.openscience-rotterdam.com/tags/linux/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>business &amp; open science</title>
       <link>https://www.openscience-rotterdam.com/tags/business-open-science/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
@@ -854,20 +854,11 @@
     </item>
     
     <item>
-      <title>design thinking</title>
-      <link>https://www.openscience-rotterdam.com/tags/design-thinking/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Linux</title>
+      <link>https://www.openscience-rotterdam.com/tags/linux/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/design-thinking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parenting studies</title>
-      <link>https://www.openscience-rotterdam.com/tags/parenting-studies/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/parenting-studies/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
       <description></description>
     </item>
     

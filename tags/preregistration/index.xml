@@ -6,7 +6,16 @@
     <description>Recent content in preregistration on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/preregistration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSCR Member: Maartje Luijk</title>
+      <link>https://www.openscience-rotterdam.com/2022/02/03/luijk/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2022/02/03/luijk/</guid>
+      <description>Full Professor, ESSB</description>
+    </item>
+    
     <item>
       <title>OSCR Member: Jan Luca Pletzer</title>
       <link>https://www.openscience-rotterdam.com/2022/01/14/pletzer/</link>
@@ -212,15 +221,6 @@
       
       <guid>https://www.openscience-rotterdam.com/2019/04/01/schettino/</guid>
       <description>Coordinator Open Science, ERS</description>
-    </item>
-    
-    <item>
-      <title>OSCR Member: Maartje Luijk</title>
-      <link>https://www.openscience-rotterdam.com/2019/02/03/luijk/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/02/03/luijk/</guid>
-      <description>Full Professor, ESSB</description>
     </item>
     
   </channel>
