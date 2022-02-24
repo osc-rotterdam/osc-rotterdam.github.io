@@ -74,7 +74,7 @@ special_skill <- NULL
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
-  dplyr::select(c(all_of(special_skill), "open access", "open source software", "reproducible analysis", "data sharing", "data management"))
+  dplyr::select(c(all_of(special_skill), "open access", "open source software", "reproducible analysis", "data sharing", "data management", "preregistration"))
 
 # custom radar plot
 radarchart(OS_skills,
