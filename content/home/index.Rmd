@@ -1,5 +1,5 @@
 ---
-date: 2022-01-18
+date: 2022-03-28
 categories: [home]
 tags: []
 showMeta: false
@@ -17,8 +17,9 @@ The Open Science Community Rotterdam (_**OSCR**_) comprises academics and suppor
 
 OSCR is part of the *International Network of Open Science & Scholarship Communities* (***INOSC***), including:
 
-* in the Netherlands: [Amsterdam](https://twitter.com/OSCAmsterdam), [Utrecht](https://twitter.com/OpenSciUtrecht), [Leiden](https://twitter.com/OSCLeiden), [Delft](https://osc-delft.github.io/), [Tilburg](https://twitter.com/OpenTilburg), [Maastricht](https://www.openscience-maastricht.nl/), [Eindhoven](https://twitter.com/OSCEindhoven), [Nijmegen](https://twitter.com/OSCNijmegen), [Twente](https://www.openscience-twente.com/), [Wageningen](https://twitter.com/oscwageningen), [Groningen](https://twitter.com/OSCGroningen)
-* in the world: [Galway](http://osc-galway.ie/), [Sweden](https://www.opensciencesweden.org/), [Saudi Arabia](https://twitter.com/OpenSciSaudi)
+* in the Netherlands: [Amsterdam](https://openscience-amsterdam.com/), [Delft](https://osc-delft.github.io/), [Eindhoven](https://osceindhoven.github.io/), [Groningen](https://openscience-groningen.nl/), [Leiden](https://www.universiteitleiden.nl/open-science-community-leiden/), [Maastricht](https://www.openscience-maastricht.nl/), [Nijmegen](https://openscience-nijmegen.nl/), [Tilburg](https://www.tilburguniversity.edu/research/open-science-community/), [Twente](https://www.openscience-twente.com/), [Utrecht](https://openscience-utrecht.com/), [Wageningen](https://openscience-wageningen.com/)
+
+* in the world: [Galway](https://osc-galway.ie/), [Sweden](https://opensciencesweden.org/), [Saudi Arabia](https://twitter.com/OpenSciSaudi)
 
 ![Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).](/images/2022_Jan_INOSC.png)
 
