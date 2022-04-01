@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>citizen science</title>
+      <link>https://www.openscience-rotterdam.com/tags/citizen-science/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-esl</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-esphil</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-esphil/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-esphil/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ReproducibiliTea</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
@@ -31,15 +85,6 @@
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/design-thinking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
       <description></description>
     </item>
     
@@ -103,15 +148,6 @@
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
@@ -193,15 +229,6 @@
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
     </item>
     
@@ -386,29 +413,11 @@
     </item>
     
     <item>
-      <title>citizen science</title>
-      <link>https://www.openscience-rotterdam.com/tags/citizen-science/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>responsible research and innovation</title>
       <link>https://www.openscience-rotterdam.com/tags/responsible-research-and-innovation/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/responsible-research-and-innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-esphil</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-esphil/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-esphil/</guid>
       <description></description>
     </item>
     
