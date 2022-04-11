@@ -1,5 +1,5 @@
 ---
-title: "OSCR Member: Max Mulder"
+title: "OSCR Member: Mark Mulder"
 date: 2022-04-11
 slug: "mulder"
 categories: ["people"]
@@ -53,7 +53,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 <!-- EMAIL -->
 <p>
   <a href="mailto:mulder@essb.eur.nl">
-  <img border="0" alt="Max Mulder" src="/images/Mulder.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Mark Mulder" src="/images/Mulder.jpg" width="150" height="150" align="left">
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 ```{r radarPlot, eval = FALSE}
 
-member_name <- "Max Mulder"
+member_name <- "Mark Mulder"
 special_skill <- "coding"
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
