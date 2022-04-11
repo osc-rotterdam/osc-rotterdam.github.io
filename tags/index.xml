@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>citizen science</title>
-      <link>https://www.openscience-rotterdam.com/tags/citizen-science/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <title>cat lover</title>
+      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://www.openscience-rotterdam.com/tags/coding/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>data sharing</title>
       <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
@@ -37,9 +46,45 @@
     <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source software</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-eshcc</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-eshcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citizen science</title>
+      <link>https://www.openscience-rotterdam.com/tags/citizen-science/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
       <description></description>
     </item>
     
@@ -107,29 +152,11 @@
     </item>
     
     <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>jamovi</title>
       <link>https://www.openscience-rotterdam.com/tags/jamovi/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/jamovi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
@@ -337,15 +364,6 @@
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/edis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cat lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
       <description></description>
     </item>
     
@@ -589,15 +607,6 @@
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/networker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-eshcc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshcc/</guid>
       <description></description>
     </item>
     
