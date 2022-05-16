@@ -59,7 +59,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- CV -->
 <p align="center">
-  <a href=" https://www.eur.nl/en/people/jana-vietze" class="fa fa-file fa-2x" style="color:#00B969;">
+  <a href="https://www.eur.nl/en/people/jana-vietze" class="fa fa-file fa-2x" style="color:#00B969;">
   </a>
 </p>
 
