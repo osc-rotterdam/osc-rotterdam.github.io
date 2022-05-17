@@ -3,15 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2022/05/17/intro-osf-june2022/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/05/16/serres/</loc>
@@ -20,17 +41,8 @@
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
@@ -116,9 +128,6 @@
     <loc>https://www.openscience-rotterdam.com/tags/power-analysis/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/knitting/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,9 +153,6 @@
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/01/18/innovative-publication-alfons/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
@@ -373,9 +379,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/04/01/introbayes-april2021/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/03/31/roarr2021-apr/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
