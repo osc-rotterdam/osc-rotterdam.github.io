@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/2022/08/10/vua-art-june2022/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/05/23/roza/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
@@ -29,9 +41,6 @@
     <loc>https://www.openscience-rotterdam.com/tags/statistics/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/flexibility/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,9 +48,6 @@
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/05/17/intro-osf-june2022/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
@@ -220,9 +226,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/sea-lover/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
-    <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/11/30/2021-convergence-or-awards-winners/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
