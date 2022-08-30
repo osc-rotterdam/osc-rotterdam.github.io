@@ -6,22 +6,67 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>talks</title>
-      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <title>dancing</title>
+      <link>https://www.openscience-rotterdam.com/tags/dancing/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/dancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature search</title>
+      <link>https://www.openscience-rotterdam.com/tags/literature-search/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/literature-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-erasmusmc</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -98,15 +143,6 @@
     </item>
     
     <item>
-      <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>school-rsm</title>
       <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
@@ -139,15 +175,6 @@
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
     </item>
     
@@ -337,15 +364,6 @@
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/quoting-movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-erasmusmc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
       <description></description>
     </item>
     
