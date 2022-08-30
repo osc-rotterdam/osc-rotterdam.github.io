@@ -3,7 +3,7 @@ title: "OSCR Member: Elise Krabbendam"
 date: 2022-08-30
 slug: "krabbendam"
 categories: ["people"]
-tags: ["data management", "data sharing", "open access", "literature searching", "school-erasmusmc"] # top 3 categories + unique + school
+tags: ["data management", "data sharing", "open access", "literature search", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/Krabbendam.jpg
 thumbnailImagePosition: left
@@ -13,7 +13,7 @@ metaAlignment: center
 showMeta: true
 comments: true
 showActions: true
-summary: Biomedical Information Specialist
+summary: Biomedical Information Specialist, Erasmus MC
 editor_options: 
   chunk_output_type: console
 ---
@@ -64,7 +64,7 @@ Click on the picture to send an email.
 ```{r radarPlot}
 
 member_name <- "Elise Krabbendam"
-special_skill <- "literature searching"
+special_skill <- "literature search"
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
