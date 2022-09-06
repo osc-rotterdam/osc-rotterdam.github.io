@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://www.openscience-rotterdam.com/tags/r/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-rsm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>talks</title>
       <link>https://www.openscience-rotterdam.com/tags/talks/</link>
@@ -143,15 +170,6 @@
     </item>
     
     <item>
-      <title>school-rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ReproducibiliTea</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
@@ -278,15 +296,6 @@
     </item>
     
     <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>grant preparation</title>
       <link>https://www.openscience-rotterdam.com/tags/grant-preparation/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
@@ -310,15 +319,6 @@
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/policy-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.openscience-rotterdam.com/tags/r/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
       <description></description>
     </item>
     
