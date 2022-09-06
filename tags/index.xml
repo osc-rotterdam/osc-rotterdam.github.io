@@ -8,11 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>R</title>
-      <link>https://www.openscience-rotterdam.com/tags/r/</link>
+      <title>bridge player</title>
+      <link>https://www.openscience-rotterdam.com/tags/bridge-player/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/bridge-player/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creativity</title>
+      <link>https://www.openscience-rotterdam.com/tags/creativity/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curiosity</title>
+      <link>https://www.openscience-rotterdam.com/tags/curiosity/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/curiosity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ErasmusX</title>
+      <link>https://www.openscience-rotterdam.com/tags/erasmusx/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/erasmusx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source software</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
@@ -49,15 +94,6 @@
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/dancing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
@@ -197,15 +233,6 @@
     </item>
     
     <item>
-      <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>school-eshcc</title>
       <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
@@ -319,6 +346,15 @@
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/policy-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://www.openscience-rotterdam.com/tags/r/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
       <description></description>
     </item>
     
