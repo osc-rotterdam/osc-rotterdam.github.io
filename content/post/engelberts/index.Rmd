@@ -3,7 +3,7 @@ title: "OSCR Member: Jeroen Engelberts"
 date: 2022-09-06
 slug: "engelberts"
 categories: ["people"]
-tags: ["R", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
+tags: ["reproducible analysis", "open source software", "bridge player", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/Engelberts.jpg
 thumbnailImagePosition: left
@@ -71,7 +71,7 @@ Click on the picture to send an email. The icons on the right redirect to the so
 
 <BR><BR>
 
-# Expertise
+<!-- # Expertise -->
 
 ```{r radarPlot, eval = FALSE}
 
