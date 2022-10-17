@@ -26,11 +26,11 @@
     </item>
     
     <item>
-      <title>reproucible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproucible-analysis/</link>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/reproucible-analysis/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
@@ -112,15 +112,6 @@
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/erasmusx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
@@ -809,24 +800,6 @@
     </item>
     
     <item>
-      <title>Bayesian inference</title>
-      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harry Potter love</title>
-      <link>https://www.openscience-rotterdam.com/tags/harry-potter-love/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/harry-potter-love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>open science enthusiast</title>
       <link>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
@@ -868,6 +841,15 @@
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/packrat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference</title>
+      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
       <description></description>
     </item>
     

@@ -23,7 +23,7 @@
     <loc>https://www.openscience-rotterdam.com/post/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproucible-analysis/</loc>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
@@ -63,9 +63,6 @@
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/09/06/lara/</loc>
-    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/08/31/2022-eur-ors-awards/</loc>
@@ -650,15 +647,6 @@
     <loc>https://www.openscience-rotterdam.com/2020/04/27/reproducibilitea-may2020/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/bayesian-inference/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/harry-potter-love/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/04/26/dewies/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -706,6 +694,9 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/packrat/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/bayesian-inference/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2020/02/10/joosen/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
