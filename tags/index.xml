@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research quality assurance</title>
+      <link>https://www.openscience-rotterdam.com/tags/research-quality-assurance/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/research-quality-assurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-esl</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
       <description></description>
     </item>
     
@@ -85,15 +112,6 @@
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/medical-information/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
       <description></description>
     </item>
     
@@ -274,15 +292,6 @@
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-esl</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
       <description></description>
     </item>
     
