@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business  Open Science on Open Science Community Rotterdam</title>
+    <link>https://www.openscience-rotterdam.com/tags/business--open-science/</link>
+    <description>Recent content in Business  Open Science on Open Science Community Rotterdam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.openscience-rotterdam.com/tags/business--open-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OSCR Member: Aurélie Lemmens</title>
+      <link>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</guid>
+      <description>}}index_files/header-attrs/header-attrs.js&#34;DescriptionMy current research focuses on the development of predictive and prescriptive analytics to address key business decisions. I am particularly interested in the design of new methodologies that can guide organizations in their customer-centric decision making. My research portfolio has been organized according to the three fundamental stages of the customer lifecycle: (i) customer acquisition and new product introduction, (ii) customer development and engagement, and (iii) customer retention. A substantial part of my research involves machine learning and large-scale cluster and grid computing.</description>
+    </item>
+    
+  </channel>
+</rss>
