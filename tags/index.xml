@@ -6,20 +6,29 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pop culture references</title>
+      <link>https://www.openscience-rotterdam.com/tags/pop-culture-references/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/pop-culture-references/</guid>
       <description></description>
     </item>
     
     <item>
       <title>preregistration</title>
       <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
       <description></description>
@@ -28,9 +37,36 @@
     <item>
       <title>reproducible analysis</title>
       <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-ese</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-rsm</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source software</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
@@ -143,15 +179,6 @@
     </item>
     
     <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>morning person</title>
       <link>https://www.openscience-rotterdam.com/tags/morning-person/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
@@ -175,15 +202,6 @@
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/empathy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>
     </item>
     
@@ -427,15 +445,6 @@
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/policy-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-ese</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
       <description></description>
     </item>
     
