@@ -1,6 +1,6 @@
 # Website OSCRotterdam
 
-Source code of the [website of the Open Science Community Rotterdam](http://www.openscience-rotterdam.com) (OSCR), distributed under [GNU General Public License v. 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
+Source code of the [website of the Open Science Community Rotterdam](http://www.openscience-rotterdam.com) (OSCR).
 
 This website is developed using [_R_](https://cran.r-project.org/), [`blogdown v1.1`](https://github.com/rstudio/blogdown), and [Hugo v0.81.0](https://gohugo.io/). See 
 [this book](https://bookdown.org/yihui/blogdown/) for details on how to 
