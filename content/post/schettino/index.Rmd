@@ -44,14 +44,10 @@ opts_chunk$set(
 
 # Description
 
-I have a background in experimental psychology, cognitive and affective electrophysiology. During my academic career, I investigated the relationship between emotions and visual perception using a wide range of methodological and statistical tools. I adopted transparent and open science practices at every stage of the research cycle, from the preregistration of the initial idea to the publication of the final manuscript in peer-reviewed open access journals.
-
-As Coordinator Open Science, I organize events and workshops and personally support individual researchers and research groups with day-to-day activities related to open science.
-
-
 I have a background in experimental psychology, cognitive, and affective electrophysiology. Founder and former coordinator of the Open Science Community Rotterdam ([OSCR](https://www.openscience-rotterdam.com/)).
 
-As *ad interim* Head of Open and Responsible Science (ORS) at Erasmus Research Services (Erasmus University Rotterdam), my responsibilities include:
+As *ad interim* Head of Open and Responsible Science (ORS) at Erasmus Research Services, my responsibilities include:
+
 - leading the development of vision, strategy, and mid-term goals of the ORS team;
 - ensuring connection and collaboration with other departments, within Erasmus Research Services and the university at large;
 - organizing, directing, and conducting everyday and existing activities of the department and managing its human and material resources.
