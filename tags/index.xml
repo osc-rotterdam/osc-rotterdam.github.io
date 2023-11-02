@@ -8,38 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perseverance</title>
-      <link>https://www.openscience-rotterdam.com/tags/perseverance/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/perseverance/</guid>
       <description></description>
     </item>
     
@@ -71,9 +44,36 @@
     </item>
     
     <item>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perseverance</title>
+      <link>https://www.openscience-rotterdam.com/tags/perseverance/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/perseverance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>school-rsm</title>
       <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
       <description></description>
