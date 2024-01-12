@@ -5,13 +5,25 @@
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/deep-learning/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2024/01/12/roshchupkin/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2024/01/12/vandergaag/</loc>
@@ -29,6 +41,9 @@
     <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -43,12 +58,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2023/11/01/garrido/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
@@ -843,9 +852,6 @@
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/business-open-science/</loc>
-    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</loc>
