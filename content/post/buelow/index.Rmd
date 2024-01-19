@@ -3,7 +3,7 @@ title: "OSCR Member: Anne Bülow"
 date: 2021-02-09
 slug: "buelow"
 categories: ["people"]
-tags: ["data management", "preregistration", "experience sampling methods", "school-essb"] # top 3 categories + unique + school
+tags: ["data management", "preregistration", "experience sampling", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 thumbnailImage: /images/Buelow.jpg
 thumbnailImagePosition: left
@@ -82,7 +82,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 ```{r radarPlot}
 
 member_name <- "Anne Bülow"
-special_skill <- "experience sampling methods"
+special_skill <- "experience sampling"
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
   dplyr::filter(name %in% c("max", "min", member_name)) %>%
