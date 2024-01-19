@@ -1,0 +1,102 @@
+---
+title: "OSCR Member: Robin Achterhof"
+date: 2024-01-19
+slug: "achterhof"
+categories: ["people"]
+tags: ["preregistration", "reproducible analysis", "open source software", "experience sampling", "driving", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Achterhof.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Assistant Professor, Department of Psychology, Education & Child Studies, ESSB  
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+As a researcher that mainly uses the experience sampling methodology (ESM) to study social processes and mental health in youth, I aim to make my work as open as possible. During my PhD and postdoc at KU Leuven, I have been involved in finding ways to optimally implement Open Science practices when working with complex (pre-existing) data sets. Practically, I pre- (or post-)register my studies, preprint them, and make my code and materials available.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:achterhof@essb.eur.nl">
+  <img border="0" alt="Robin Achterhof" src="/images/Achterhof.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0002-3269-2270" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- GOOGLE SCHOLAR -->
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=7YIEaSAAAAAJ&hl=nl" class="ai ai-google-scholar fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Robin-Achterhof" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Robin Achterhof"
+special_skill <- c("experience sampling", "driving")
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("reproducible analysis", "open source software", "data sharing", "data management", all_of(special_skill), "open access", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
