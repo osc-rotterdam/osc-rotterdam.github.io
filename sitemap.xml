@@ -3,7 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/driving/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/experience-sampling/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2024/01/19/achterhof/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
@@ -17,46 +50,22 @@
     <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/2024/01/12/roshchupkin/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2024/01/12/vandergaag/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/qualitative-methods/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2023/11/02/van-houtum/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2023/11/01/garrido/</loc>
@@ -610,9 +619,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/02/10/roarr2021-feb/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/experience-sampling-methods/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2021/02/09/vanderlist/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
