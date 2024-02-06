@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/collaboration/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2024/02/06/pridmore/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-eshcc/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/driving/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
@@ -11,19 +41,10 @@
     <loc>https://www.openscience-rotterdam.com/tags/experience-sampling/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2024/01/19/achterhof/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
@@ -34,15 +55,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/deep-learning/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
@@ -61,9 +73,6 @@
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2023/11/02/van-houtum/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
@@ -147,9 +156,6 @@
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2022/12/02/balan/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-eshcc/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/law/</loc>
