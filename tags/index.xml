@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cat lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data sharing</title>
       <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
@@ -28,9 +19,45 @@
     <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publishing</title>
+      <link>https://www.openscience-rotterdam.com/tags/publishing/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science communication</title>
+      <link>https://www.openscience-rotterdam.com/tags/science-communication/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/science-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UB</title>
+      <link>https://www.openscience-rotterdam.com/tags/ub/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/ub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cat lover</title>
+      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
       <description></description>
     </item>
     
@@ -283,15 +310,6 @@
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UB</title>
-      <link>https://www.openscience-rotterdam.com/tags/ub/</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ub/</guid>
       <description></description>
     </item>
     
@@ -661,15 +679,6 @@
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/quoting-movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science communication</title>
-      <link>https://www.openscience-rotterdam.com/tags/science-communication/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/science-communication/</guid>
       <description></description>
     </item>
     
