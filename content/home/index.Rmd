@@ -1,5 +1,5 @@
 ---
-date: 2022-03-28
+date: 2024-09-08
 categories: [home]
 tags: []
 showMeta: false
@@ -44,7 +44,7 @@ Thanks for your interest! Please [**fill out this form**](https://erasmusunivers
 
 <hr>
 
-Follow us on [Twitter](https://twitter.com/OSCRotterdam)!
+Follow us on [Twitter/X](https://x.com/OSCRotterdam)!
 
 <p><center><a class="twitter-timeline" data-width="70%"  data-height="600" data-theme="light" href="https://twitter.com/OSCRotterdam">Tweets by OSCRotterdam</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 </center></p>
