@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>curiosity</title>
+      <link>https://www.openscience-rotterdam.com/tags/curiosity/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/curiosity/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-ihs</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-ihs/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-ihs/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-ihs</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ihs/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ihs/</guid>
       <description></description>
     </item>
     
@@ -490,15 +499,6 @@
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/creativity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>curiosity</title>
-      <link>https://www.openscience-rotterdam.com/tags/curiosity/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/curiosity/</guid>
       <description></description>
     </item>
     
