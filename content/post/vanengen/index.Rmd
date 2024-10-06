@@ -57,7 +57,6 @@ Click on the picture to send an email. The icons on the right redirect to the CV
   </a>
 </p>
 
-
 <!-- CV -->
 <p align="center">
   <a href="https://www.ihs.nl/en/about/ihs-staff/ihs-professional-services-staff/annette-van-engen" class="fa fa-file fa-2x" style="color:#00B969;">
