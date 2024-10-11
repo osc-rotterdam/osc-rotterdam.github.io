@@ -85,7 +85,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 # Expertise
 
-```{r radarPlot}
+```{r radarPlot, eval = TRUE}
 
 member_name <- "Fabio Porru"
 special_skill <- c("quoting movies", "science communication")

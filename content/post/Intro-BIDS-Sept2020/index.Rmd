@@ -41,7 +41,7 @@ Here are some benefits of "BIDSifying" your data:
 
 - it will be easier for other researchers (including future you!) to work with the data, which will substantially lower the bar for reuse within and outside your lab
 - a growing number of data analysis software packages (e.g., [fMRIPrep](https://fmriprep.org/en/stable/), [MRIQC](https://mriqc.readthedocs.io/en/stable/), [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)) can understand data organized according to BIDS
-- if you like your files and folders to be clean and well-organized, BIDS will deliver `r emo::ji("wink")`
+- if you like your files and folders to be clean and well-organized, BIDS will deliver
 
 **TARGET AUDIENCE**   
 Anyone who works with neuroimaging and/or behavioral data, who is interested in improving data management according to community standards

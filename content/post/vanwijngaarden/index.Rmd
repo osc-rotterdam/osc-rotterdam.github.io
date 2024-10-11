@@ -67,7 +67,7 @@ Click on the picture to send an email. The icon on the right redirects to the CV
 
 # Expertise
 
-```{r radarPlot}
+```{r radarPlot, eval = TRUE}
 
 member_name <- "Wout van Wijngaarden"
 special_skill <- NULL

@@ -79,9 +79,9 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 # Expertise
 
-```{r radarPlot}
+```{r radarPlot, eval = TRUE}
 
-member_name <- "Lorenza Dall’Aglio"
+member_name <- "Lorenza Dall'Aglio"
 special_skill <- c("academic tweeting", "R")
 
 OS_skills <- read_csv(here("static/OS_skills.csv")) %>%

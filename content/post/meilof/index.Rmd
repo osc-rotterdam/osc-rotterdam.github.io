@@ -79,7 +79,7 @@ Click on the picture to send an email. The icon on the right redirects to social
 
 # Expertise
 
-```{r radarPlot}
+```{r radarPlot, eval = TRUE}
 
 member_name <- "Marlies Meilof"
 special_skill <- "communication"

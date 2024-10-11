@@ -82,7 +82,7 @@ https://www.researchgate.net/profile/Rolf_Zwaan" class="ai ai-google-scholar fa-
 
 # Expertise
 
-```{r radarPlot}
+```{r radarPlot, eval = TRUE}
 
 member_name <- "Rolf Zwaan"
 
