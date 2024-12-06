@@ -6,31 +6,49 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>baking</title>
-      <link>https://www.openscience-rotterdam.com/tags/baking/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data management</title>
       <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>data sharing</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-esl</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baking</title>
+      <link>https://www.openscience-rotterdam.com/tags/baking/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
       <description></description>
     </item>
     
@@ -49,15 +67,6 @@
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
       <description></description>
     </item>
     
@@ -292,15 +301,6 @@
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/inclusiveness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-esl</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
       <description></description>
     </item>
     
