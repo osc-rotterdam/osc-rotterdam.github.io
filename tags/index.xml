@@ -6,22 +6,58 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>information literacy</title>
-      <link>https://www.openscience-rotterdam.com/tags/information-literacy/</link>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/information-literacy/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preregistration</title>
+      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information literacy</title>
+      <link>https://www.openscience-rotterdam.com/tags/information-literacy/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/information-literacy/</guid>
       <description></description>
     </item>
     
@@ -40,15 +76,6 @@
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
@@ -89,15 +116,6 @@
     </item>
     
     <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matlab</title>
       <link>https://www.openscience-rotterdam.com/tags/matlab/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
@@ -112,24 +130,6 @@
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
     
