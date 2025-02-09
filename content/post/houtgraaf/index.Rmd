@@ -1,0 +1,90 @@
+---
+title: "OSCR Member: Glenn Houtgraaf"
+date: 2025-02-09
+slug: "houtgraaf"
+categories: ["people"]
+tags: ["preregistration", "open access", "data management", "reproducible analysis", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Houtgraaf.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Postdoctoral Researcher, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+Multi-methods study on public sector creativity, innovation and other individual public servants' performance aspects / behavioural public administration.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icon on the right redirects to social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:houtgraaf@essb.eur.nl">
+  <img border="0" alt="Glenn Houtgraaf" src="/images/Houtgraaf.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dr-glenn-houtgraaf-929791133/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+# Expertise
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Glenn Houtgraaf"
+special_skill <- NULL
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c(all_of(special_skill), "open source software", "open access", "data sharing", "reproducible analysis", "data management", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
