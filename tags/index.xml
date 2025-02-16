@@ -6,22 +6,49 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <title>literature search</title>
+      <link>https://www.openscience-rotterdam.com/tags/literature-search/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <guid>https://www.openscience-rotterdam.com/tags/literature-search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open access</title>
       <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qualitative methods</title>
+      <link>https://www.openscience-rotterdam.com/tags/qualitative-methods/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/qualitative-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-essb</title>
+      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
       <description></description>
     </item>
     
@@ -40,15 +67,6 @@
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
       <description></description>
     </item>
     
@@ -157,15 +175,6 @@
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/curiosity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literature search</title>
-      <link>https://www.openscience-rotterdam.com/tags/literature-search/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/literature-search/</guid>
       <description></description>
     </item>
     
@@ -373,15 +382,6 @@
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>qualitative methods</title>
-      <link>https://www.openscience-rotterdam.com/tags/qualitative-methods/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/qualitative-methods/</guid>
       <description></description>
     </item>
     
