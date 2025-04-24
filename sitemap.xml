@@ -2,43 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/categories/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/2025/04/24/marz/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/sleeping/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2025/03/28/prifti/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/school-esl/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.openscience-rotterdam.com/2025/03/14/hiralal/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/citizen-science/</loc>
@@ -69,9 +78,6 @@
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/tags/information-literacy/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.openscience-rotterdam.com/2025/02/07/ros/</loc>
