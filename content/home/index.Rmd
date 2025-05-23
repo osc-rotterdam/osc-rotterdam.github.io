@@ -19,7 +19,7 @@ OSCR is part of the *International Network of Open Science & Scholarship Communi
 
 </br>
 
-![*Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*](/images/2024_September_INOSC.jpg)
+![*Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*](/images/2025_May_INOSC.jpg)
 
 For more information, check out our [introductory video](https://vimeo.com/510808878) and [whitepaper](https://doi.org/10.1093/scipol/scab039). If you want to start a community at your institution, browse our [Starter Kit](https://www.startyourosc.com).
 
