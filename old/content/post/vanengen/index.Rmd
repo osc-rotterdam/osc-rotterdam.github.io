@@ -1,0 +1,96 @@
+---
+title: "OSCR Member: Annette van Engen"
+date: 2024-10-06
+slug: "vanengen"
+categories: ["people"]
+tags: ["data management", "curiosity", "school-ihs"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/vanEngen.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Research Programme Manager, IHS
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+As research programme manager at IHS my efforts include creating awareness and knowledge about research principles like open science.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:vanengen@ihs.nl">
+  <img border="0" alt="Annette van Engen" src="/images/vanEngen.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.ihs.nl/en/about/ihs-staff/ihs-professional-services-staff/annette-van-engen" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/annettevanengen/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+<!-- # Expertise -->
+
+```{r radarPlot, eval = FALSE}
+
+member_name <- "Annette van Engen"
+special_skill <- "curiosity"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("reproducible analysis", "open source software", "data sharing", all_of(special_skill), "preregistration", "open access", "data management"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

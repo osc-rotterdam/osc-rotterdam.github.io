@@ -1,0 +1,52 @@
+---
+title: "OSCR Member: Kamil Hiralal"
+date: 2025-03-14
+slug: "hiralal"
+categories: ["people"]
+tags: ["open access", "reproducible analysis", "preregistration", "school-erasmusmc"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Hiralal.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, Erasmus MC
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I work as a PhD candidate at the Department of Child and Adolescent Psychiatry/Psychology and am involved in the Erasmus MC Center of Expertise for Neurodevelopmental Disorders (ENCORE) through the UNIEK study. In my work, I focus on the heterogeneity of autistic characteristics.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icon on the right redirects to social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:k.hiralal@erasmusmc.nl">
+  <img border="0" alt="Kamil Hiralal" src="/images/Hiralal.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamil-hiralal-452115141/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

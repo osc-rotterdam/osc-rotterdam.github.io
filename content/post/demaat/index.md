@@ -1,0 +1,66 @@
+---
+title: "OSCR Member: Donna de Maat"
+date: 2021-06-30
+slug: "demaat"
+categories: ["people"]
+tags: ["preregistration", "open access", "running", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/deMaat.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a PhD candidate at the Department of Psychology, Education and Child Studies at ESSB. My research focuses on risk and resilience factors in children exposed to stress. More specifically, I try to unravel why some children develop problems after being exposed to stressful circumstances, such as socio-economic strains or negative life events, while other children keep functioning well. I am particularly interested in what characteristics of children (e.g., personality, executive functions) and of their environments (e.g., parenting, peer relations) facilitate resilience to stress.
+
+In my research I practice open science by, for example, preregistering studies with secondary data analysis and publishing open access. I am interested in science communication and looking forward to communicate my findings to society, parents, professionals working with children and families, and everyone else who may be interested in my research topic.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:demaat@essb.eur.nl">
+  <img border="0" alt="Donna de Maat" src="/images/deMaat.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1sm3lQdllIjpoBXsohxTqkdmCrAYJahQq/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Donna-De-Maat-2" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/donnademaat/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

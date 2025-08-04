@@ -5,7 +5,7 @@ slug: "breijer"
 categories: ["people"]
 tags: ["open access", "data management", "data sharing", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Breijer.jpg
+banner: /images/Breijer.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

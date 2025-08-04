@@ -5,7 +5,7 @@ slug: "savvopoulou"
 categories: ["people"]
 tags: ["data management", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Savvopoulou.jpg
+banner: /images/Savvopoulou.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

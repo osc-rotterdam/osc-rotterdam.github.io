@@ -5,7 +5,7 @@ slug: "peeters-daan"
 categories: ["people"]
 tags: ["obscure philosophy", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Peeters_Daan.jpg
+banner: /images/Peeters_Daan.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

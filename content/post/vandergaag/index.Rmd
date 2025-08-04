@@ -5,7 +5,7 @@ slug: "vandergaag"
 categories: ["people"]
 tags: ["reproducible analysis", "open source software", "data sharing", "qualitative methods", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/vanderGaag.jpg
+banner: /images/vanderGaag.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,93 @@
+---
+title: "OSCR Member: Somaye Dehban"
+date: 2021-04-26
+slug: "dehban"
+categories: ["people"]
+tags: ["R", "data management", "development aid", "fusion Iranian food", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Dehban.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, RSM
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I want a world in which everyone has the equal opportunity to thrive -- we can thrive when we are a harmonious collective -- this is the **WHY** of my life. 
+I have pledged to dedicate the next decade of my life to bring unlikely allies to upscale their impact to achieve SDGs by 2030 -- this is my **I WILL** statement 
+
+My PhD research at RSM is titled *Embracing the Complexity (Wickedness) of Our Collective "Verbinding [dutch term for (inter) connection]" -- Upscaling (Enhancing) the Impact of Cross-Sectoral Partnerships of Civil Society Organizations to Accelerate the Collective Progress towards 2030 Agenda*. It consists of 4 inter-related models:
+
+* Getting all the Motives Right -- Model 4
+  1. How and to what extent does the role of CSOs (as defined above) influence the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  2. How and to what extent, does the positioning of CSOs (located/originated in donor country vs located/originated in recipient country) influence the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  3. How and to what extent, does the organizational structure of CSOs influence the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  4. How and to what extent, does the size of CSOs influence the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  5. How and to what extent does the (type and form of) leadership (perhaps in combination with organizational structure) in CSOs influence their motives for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+
+* Great by Choice -- Model 3
+  6. How and to what extent do the motives of CSOs to engage in (cross-sectoral) partnerships influence the type, their organizational structure and leadership of these (cross-sectoral) partnerships?
+  7. How and to what extent do the types, organizational structure, and leadership of (cross-sectoral) partnerships influence the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  8. (If/) How and to what extent is a strategic nexus observable/identifiable between the (internal) motives of CSOs and their motives for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+  9. (If/) How and to what extent are/were the appropriate forms of engagement coupled with the intents/motives of parties in the Strategic Partnership of the Dutch Ministry of Foreign Affairs during Dialogue & Dissent as well as Power of Voices?
+  10. (If/) How and to what extent the pursual of “SDG Logics” by an institutional donor such as the Dutch Ministry of Foreign Policy can influence (and change) the nature (frequency, type, organizational structure, leadership) of (Cross-Sectoral) Partnerships as well as impact the motives of CSOs for initiating, forming, and participating in (Cross-Sectoral) Partnerships?
+
+* Into the Woods - Model 2
+  11. How and to what extent there is a match between the complexity of Problem and the complexity of the Partnering Configuration (i.e. Complexity Sensitive Theory of Change) among the ToCs used by the CSOs funded by the Dutch Ministry of Foreign Affairs under Strategic Partnership Dialogue and Dissent (2015-2019)?
+  12. How and to what extent this match has led to systematic change envisioned by ToC?
+  13. How and to what extent (Roles & Positioning & Organizational Structure & Leadership of) Civil Society Organizations influences/predicts the match between Complexity of Problem and the Complexity of Partnering Configuration (i.e. Complexity Sensitive Theory of Change)?
+  14. How and to what extent this match influences the enhanced impact of cross-sectoral partnerships?
+  15. How and to what extent the Ministries Strategic Partnership is aligning with Impact (/Global) Value Chain? How this (lack of) alignment influences the grantees of Strategic Partnerships?
+
+* Now, Discover Your Strength - Model 1
+  16. What has been the interaction between the (social and economic) activities conducted under Strategic Partnership – Dialogue and Dissent - and Sustainable Development Goals?
+  17. How can the identified positive interactions be optimized, and negative interactions be minimized, to create co-benefits and reduce trade-offs?
+  18. How and to what extent can the findings of questions 12 and 13 be applied to the current Strategic Partnership – Power of Voices?
+  19. How and to what extent can the findings of the last 3 questions (and the rest of this research) be applied by the Dutch Ministry of Foreign Affairs to move towards a nexus-based governance? 
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:dehban@rsm.nl">
+  <img border="0" alt="Somaye Dehban" src="/images/Dehban.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.dropbox.com/s/cp1pknuazi7mhae/Somaye%20Dehban%20CV.pdf?dl=0" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/somayedehban/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/SomayeDehban" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+

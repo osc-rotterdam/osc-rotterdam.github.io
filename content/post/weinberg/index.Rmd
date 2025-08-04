@@ -5,7 +5,7 @@ slug: "weinberg"
 categories: ["people"]
 tags: ["open source software", "reproducible analysis", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Weinberg.jpg
+banner: /images/Weinberg.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

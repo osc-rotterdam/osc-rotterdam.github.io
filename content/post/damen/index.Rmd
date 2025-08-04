@@ -5,7 +5,7 @@ slug: "damen"
 categories: ["people"]
 tags: ["plant lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Damen.jpg
+banner: /images/Damen.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

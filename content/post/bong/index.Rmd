@@ -5,7 +5,7 @@ slug: "bong"
 categories: ["people"]
 tags: ["data management", "open access", "bibliophile", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Bong.jpg
+banner: /images/Bong.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

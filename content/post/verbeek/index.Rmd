@@ -5,7 +5,7 @@ slug: "verbeek"
 categories: ["people"]
 tags: ["data sharing", "preregistration", "cat lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Verbeek.jpg
+banner: /images/Verbeek.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

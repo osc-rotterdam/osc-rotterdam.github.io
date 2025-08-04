@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Klaus Garrido"
+date: 2023-11-01
+slug: "garrido"
+categories: ["people"]
+tags: ["reproducible analysis", "data management", "data sharing", "perseverance", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Garrido.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, RSM
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am part of the Technology and Operations Management department at Erasmus University.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:garridotenorio@rsm.nl">
+  <img border="0" alt="Klaus Garrido" src="/images/Garrido.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1vgngYYqI4vUy3XJx1F-TOxJ_fTtWyYE0/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/klausgarrido/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

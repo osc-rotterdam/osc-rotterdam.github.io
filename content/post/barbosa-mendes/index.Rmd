@@ -5,7 +5,7 @@ slug: "barbosa-mendes"
 categories: ["people"]
 tags: ["open access", "citizen science", "responsible research and innovation", "school-esphil"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Barbosa-Mendes.jpg
+banner: /images/Barbosa-Mendes.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

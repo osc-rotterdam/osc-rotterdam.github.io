@@ -1,0 +1,75 @@
+---
+title: "ROARR2021 -- Introduction to the Open Science Framework"
+author: ["Antonio Schettino"]
+date: 2021-03-31
+slug: "ROARR2021-Apr"
+categories: ["News"]
+tags: ["RIOTS", "workshops", "ROARR2021", "open science", "OSF"]
+coverImage: /images/ROARR2021-banner.png
+thumbnailImage: /images/RIOTS_OSCR.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "April 14th 2021, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: inline
+---
+
+As part of the [ROARR2021 programme](https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/) -- a wonderful collaboration between OSCR and the [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/) -- we will host an online workshop entitled **Introduction to the Open Science Framework**. Below the announcement:
+
+**WHAT**   
+Introduction to the Open Science Framework.
+
+**WHEN**   
+April 14th 2021 h. 14:00 CEST, duration 90'.
+
+**INSTRUCTOR**   
+[Dr. Antonio Schettino](https://antonio-schettino.com/), experimental psychologist with a background in cognitive and affective electrophysiology, Coordinator Open Science at [Erasmus Research Services](https://www.eur.nl/en/research/research-services) and founder of the Open Science Community Rotterdam.
+
+**TARGET AUDIENCE**   
+Researchers from all disciplines and career stages who wish to learn how to use the Open Science Framework for their own work.
+
+**WORKSHOP SUMMARY**   
+To promote transparency and trustworthiness of research, an increasing number of [funding agencies](https://www.nwo.nl/en/research-data-management) and [journals](https://doi.org/10.1126/science.aab2374) encourage or require data, materials, and analysis scripts associated with each publication. Consequently, researchers are turning to comprehensive services that facilitate collaborative workflows with colleagues and evaluators. One of the most popular is the [Open Science Framework](https://osf.io/) (OSF), a free online platform developed by the non-profit organization [Center for Open Science](https://www.cos.io/). The OSF allows researchers to manage, document, and share all the products of their workflow, from the preregistration of the initial idea to the preprint of the final report.
+
+**DESIRED OUTCOME**   
+By the end of the workshop, you will be able to:
+
+- set up a project;
+- invite other contributors;
+- add components;
+- fill out the wiki;
+- upload files directly or by connecting an external cloud service;
+- make the project public.
+
+**PREPARATION**   
+An active OSF account is required (see [registration page](https://osf.io/register?campaign=&next=https%3A%2F%2Fosf.io%2F&view_only=)). The slide deck with a description of the features explored during the workshop can be found [here](https://osf.io/r5wsd/).
+
+**REGISTRATION**   
+An invitation email, including the Zoom link, meeting ID, and password, has been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+**MEETING RULES**   
+
+* wear headphones;
+* mute your microphone;
+* video is optional, useful in case of troubleshooting;
+* pay attention to the moderator;
+* if you have questions:
+  * click on the **Raise Hand** button and the moderator will unmute you, or;
+  * write down your question in the chat and the moderator will read it;
+* avoid talking over each other and make sure that everyone can have their opportunity to speak;
+* arrive a few minutes before the beginning of the call, to familiarize with the online environment.
+
+Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Hope to see many of you!
+
+Take care,
+
+Antonio Schettino
+
+

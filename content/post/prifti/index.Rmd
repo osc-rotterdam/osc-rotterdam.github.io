@@ -5,7 +5,7 @@ slug: "prifti"
 categories: ["people"]
 tags: ["open access", "cat lover", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Prifti.jpg
+banner: /images/Prifti.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,349 @@
+baseurl: http://localhost:4593/
+title: OSCR
+theme: hugo-universal-theme
+languageCode: en-us
+defaultContentLanguage: en
+summaryLength: 70
+pluralizelisttitles: no
+#services:
+#  disqus:
+#    shortname: ''
+#  googleAnalytics:
+#    id: ''
+pagination:
+  pagerSize: 20
+menu:
+  main:
+    - identifier: menu.home
+      name: Home
+      url: /
+      weight: 1
+    - name: 'Guiding Principles'
+      parent: section.about
+      url: /guide
+      weight: 1
+    - name: 'Code of Conduct'
+      parent: section.about
+      weight: 2
+      url: /conduct
+    #- name: 'Option 5: Portfolio'
+    #  parent: menu.home
+    #  url: /
+    #  weight: 5
+    - name: 'News'
+      url: /categories/news/
+      weight: 2
+    - name: 'Community'
+      url: /categories/people/
+      weight: 3
+    #- identifier: section.shortcodes
+    #  name: Shortcodes
+    #  parent: menu.features
+    #  post: 1
+    #  url: ''
+    #  weight: 1
+    #- identifier: section.headervariations
+    #  name: Header variations
+    #  parent: menu.features
+    #  post: 2
+    #  url: ''
+    #  weight: 2
+    #- name: Accordions
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 1
+    #- name: Alerts
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 2
+    #- name: Buttons
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 3
+    #- name: Content Boxes
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 4
+    #- name: Horizontal Blocks
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 5
+    #- name: Pagination
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 6
+    #- name: Tabs
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 7
+    #- name: Typography
+    #  parent: section.shortcodes
+    #  url: ''
+    #  weight: 8
+    #- name: Default Sticky Header
+    #  parent: section.headervariations
+    #  url: ''
+    #  weight: 1
+    #- name: No Sticky Header
+    #  parent: section.headervariations
+    #  url: ''
+    #  weight: 2
+    #- name: Light Header
+    #  parent: section.headervariations
+    #  url: ''
+    #  weight: 3
+    #- identifier: menu.portfolio
+    #  name: Portfolio
+    #  url: /img/template-homepage.png
+    #  weight: 3
+    #- identifier: section.portfolio
+    #  name: Portfolio
+    #  parent: menu.portfolio
+    #  post: 1
+    #  url: ''
+    #  weight: 1
+    #- name: 2 Columns
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 1
+    #- name: 2 Columns With Negative Space
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 2
+    #- name: 3 Columns
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 3
+    #- name: 3 Columns With Negative Space
+    # parent: section.portfolio
+    #  url: ''
+    #  weight: 4
+    #- name: 4 Columns
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 5
+    #- name: 4 Columns With Negative Space
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 6
+    #- name: Portfolio - detail
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 7
+    #- name: Portfolio - detail 2
+    #  parent: section.portfolio
+    #  url: ''
+    #  weight: 8
+    - identifier: section.about
+      name: About
+      post: 2
+      url: ''
+      weight: 2
+    #- name: New initiatives
+    #  parent: section.about
+    #  url: /about/
+    #  weight: 1
+    - name: Coordinators
+      parent: section.about
+      url: ''
+      weight: 3
+    #- identifier: section.marketing
+    #  name: Marketing
+    #  parent: menu.portfolio
+    #  post: 2
+    #  url: ''
+    #  weight: 3
+    #- name: Packages
+    #  parent: section.marketing
+    #  url: ''
+    #  weight: 1
+    #- name: Post Listing Big
+    #  parent: section.ap-post
+    #  url: /post/
+    #  weight: 1
+    #- identifier: menu.post
+    #  name: Post
+    #  url: /post/
+    #  weight: 5
+    #- identifier: menu.faq
+    #  name: FAQ
+    #  url: /faq/
+    #  weight: 6
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 7
+  topbar:
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/osc-rotterdam/osc-rotterdam.github.io
+      weight: 2
+    - name: X
+      pre: <i class='fab fa-2x fa-x-twitter'></i>
+      url: https://x.com/OSCRotterdam
+      weight: 4
+    - name: Email
+      pre: <i class='fas fa-2x fa-envelope'></i>
+      url: mailto:info@openscience-rotterdam.com
+      weight: 5
+params:
+  about_us: <p>The Open Science Community Rotterdam comprises academics and support staff working at Erasmus University Rotterdam and Erasmus Medical Center.</p>
+  address: "<p class=\"text-uppercase\"><strong>Erasmus University Rotterdam</strong>\n<br>Burgemeester Oudlaan 50\n<br>3062 PA Rotterdam\n
+    \       <br>\n<strong>Netherlands</strong>\n</p>\n"
+  author: Helena Wedig
+  carouselCustomers:
+    auto_play: no
+    enable: no
+    items: 6
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselHomepage:
+    auto_play: no
+    enable: yes
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselTestimonials:
+    auto_play: no
+    items: 4
+    pagination_speed: 1000
+    slide_speed: 2000
+  clients:
+    enable: no
+    subtitle: ''
+    title: Our Clients
+  contact_form_ajax: no
+  contact_url: /contact
+  copyright: "&copy; 2025 Open Science Community Rotterdam. All rights reserved."
+  date_format: January 2, 2006
+  default_sharing_image: /images/favicon.png
+  defaultDescription: Website of the Open Science community rotterdam
+  defaultKeywords:
+    - OSCR
+    - Rotterdam
+  disabled_logo: no
+  dropdown_mouse_over: no
+  enableGoogleMaps: no
+  enableRecaptchaInContactForm: no
+  facebook_site: ''
+  features:
+    cols: 3
+    enable: no
+  footer:
+    recent_posts:
+      enable: yes
+  formspree_action: https://formspree.io/sample/of/endpoint
+  googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
+  googleRecaptchaKey: site_key_for_google_recaptcha
+  latitude: '-12.043333'
+  logo: images/OSCR_thumbnail.png
+  logo_small: images/favicon.png
+  logo_text: OSCR
+  longitude: '-77.028333'
+  mainSections: post
+  recent_posts:
+    enable: yes
+    hide_summary: no
+    subtitle: See here the newest members and posts of our community!
+    title: Recent updates
+  see_more:
+    enable: yes
+    icon: fa-brands fa-readme
+    link_text: See more
+    link_url: https://osc-international.com/open-science-community-the-netherlands/
+    subtitle: Here you can find an overview of the Open Science Communities 
+    title: Want to know more about the Open Science Communities in the Netherlands?
+  style: turquoise
+  testimonials:
+    enable: yes
+    subtitle: Get to know some of our community members and how Open Science influences their work!
+    title: Spotlight
+  topbar:
+    enable: yes
+    text: ""
+  twitter_site: OSCRotterdam
+  viewMorePostLink: /post/
+  widgets:
+    categories: no
+    search: no
+    tags: yes
+permalinks:
+  post: /post/:year/:month/:day/:contentbasename/
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags
+markup:
+  asciidocExt:
+    attributes: {}
+    backend: html5
+    extensions: []
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    preserveTOC: false
+    safeMode: safe
+    sectionNumbers: false
+    trace: false
+    verbose: false
+    workingFolderCurrent: false
+  goldmark:
+    duplicateResourceFiles: false
+    extensions:
+      cjk:
+        eastAsianLineBreaks: false
+        eastAsianLineBreaksStyle: simple
+        enable: false
+        escapedSpace: false
+      definitionList: true
+      extras:
+        delete:
+          enable: false
+        insert:
+          enable: false
+        mark:
+          enable: false
+        subscript:
+          enable: false
+        superscript:
+          enable: false
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      passthrough:
+        delimiters:
+          block: []
+          inline: []
+        enable: false
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoDefinitionTermID: false
+      autoHeadingID: true
+      autoIDType: github
+      wrapStandAloneimageWithinParagraph: true
+    renderHooks:
+      image:
+        enableDefault: false
+        useEmbedded: auto
+      link:
+        enableDefault: false
+        useEmbedded: auto
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false

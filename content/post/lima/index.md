@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Giovanna Lima"
+date: 2023-04-29
+slug: "lima"
+categories: ["people"]
+tags: ["open access", "data management", "reproducible analysis", "societal impact", "strategy-office"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Lima.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Impact Project Officer, Strategy Office
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am an open scholarship and (societal) impact enthusiast.
+ 
+# CV and Contact Info
+
+Click on the picture to send an email. The icon on the right redirects to social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:giovanna.lima@eur.nl">
+  <img border="0" alt="Giovanna Lima" src="/images/Lima.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovannalima" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0003-2797-0034" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

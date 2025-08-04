@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Leonie Maatz"
+date: 2021-04-19
+slug: "maatz"
+categories: ["people"]
+tags: ["data management", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Maatz.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Master Student, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am very interested in research in the domain of legal and forensic psychology. I a particularly interested in (false) memories, witness Statements, (false) confessions, and deception.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:572908lm@student.eur.nl">
+  <img border="0" alt="Leonie Maatz" src="/images/Maatz.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://docs.google.com/document/d/1XbHMjrjL3WSr5gMWHwCTY4jJFFefJflKr3-3jBid55c/edit?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonie-maatz-000" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

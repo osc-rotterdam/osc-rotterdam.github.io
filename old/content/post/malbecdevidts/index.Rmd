@@ -1,0 +1,90 @@
+---
+title: "OSCR Member: Marcelo Malbec De Vidts"
+date: 2020-07-27
+slug: "malbecdevidts"
+categories: ["people"]
+tags: ["open source software", "cooking without a recipe", "school-essb"] # top categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/MalbecDeVidts.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: True
+comments: True
+showActions: true
+summary: PhD Candidate, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+Marcelo Malbec De Vidts is a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. His research is about how different ways of responding to uncertainty affect individuals. These consequences could be present in cognitive as well as affective domains of human life. To do so, he uses EEG to analyse brain activity in different computer-based scenarios (decision-making; fear processing; error monitoring).
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:malbecdevidts@essb.eur.nl">
+  <img border="0" alt="Marcelo Malbec De Vidts" src="/images/MalbecDeVidts.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Marcelo_Malbec" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+# Expertise
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Marcelo Malbec De Vidts"
+special_skill <- "cooking without a recipe"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c(all_of(special_skill), "reproducible analysis", "open access", "preregistration", "open source software", "data sharing", "data management"))
+  
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

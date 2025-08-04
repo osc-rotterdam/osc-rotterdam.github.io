@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+  <style>
+    .myDiv {
+      width:70%;
+      margin:auto;
+      text-align: justify
+    }
+    img {
+  border-radius: 8px;
+}
+  </style>
+
+  <body>
+
+
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "carousel.html" . }}
+        
+        <div id="who-are-we" class="myDiv" >
+          <h2>Who are we?</h2>
+            <p>The Open Science Community Rotterdam (<em><strong>OSCR</strong></em>) comprises academics and support staff working at Erasmus University Rotterdam (<a href="https://www.eur.nl/en"><em><strong>EUR</strong></em></a>) and Erasmus Medical Center (<a href="https://www.erasmusmc.nl/"><em><strong>ErasmusMC</strong></em></a>). Our common goal is to discuss, learn, promote, and adopt open and transparent scientific practices at every stage of the research cycle, from the initial idea to the final product. For further details, please check out our <a href="/principles/"><strong>Guiding Principles</strong></a>.</p>
+            <p>OSCR is part of the <em>International Network of Open Science &amp; Scholarship Communities</em> (<strong><em>INOSC</em></strong>), which embraces communities from many parts of the world.</p>
+            <p></br></p>
+            </br>
+            <div style="text-align: center;">
+            <img src="/images/2025_May_INOSC.jpg" alt="Italian Trulli" width="80%" height="80%">
+            <p>Image by <a href=http://www.anitaeerland.com/about/>Anita Eerland</a>, licensed under <a href=https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en)>CC BY-ND 3.0</a>.</p>
+            </div>
+            <br>
+            <p>For more information, check out our <a href="https://vimeo.com/510808878">introductory video</a> and <a href="https://doi.org/10.1093/scipol/scab039">whitepaper</a>. If you want to start a community at your institution, browse our <a href="https://www.startyourosc.com">Starter Kit</a>.</p>
+        </div>
+
+        <div id="who-can-join-oscr" class="myDiv">
+          <h2>Who can join OSCR?</h2>
+          <p>All students and employees of <a href="https://www.eur.nl/en"><em><strong>EUR</strong></em></a> and <a href="https://www.erasmusmc.nl/"><em><strong>ErasmusMC</strong></em></a> – at all career stages – are welcome! To keep a nice atmosphere, we ask you to abide by our <a href="/coc/"><strong>Code of Conduct</strong></a>.</p>
+          </div>
+        <div id="why-would-you-join-oscr" class="myDiv">
+          <h2>Why would you join OSCR?</h2>
+          <p>Benefits include:</p>
+          <ul>
+            <li>learn about open science practices by participating in our lectures and workshops (see <a href="/categories/news"><strong>News</strong></a>)</li>
+            <li>practical support to create <em>your own</em> event or initiative, have your expertise recognized, and increase your visibility</li>
+            <li>your own personal profile page (see <a href="/categories/people/"><strong>People</strong></a>)</li>
+            <li>discover other members’ expertise and collaborate with them</li>
+            <li>sign-up to the OSCR mailing list, where we announce our events</li>
+            <li>access to our community on Microsoft Teams</li>
+          </ul>
+        </div>
+        
+        <div id="how-can-you-join-oscr" class="myDiv">
+          <h2>How can you join OSCR?</h2>
+          <p>Thanks for your interest! Please <a href="https://erasmusuniversity.eu.qualtrics.com/jfe/form/SV_4THxJCcm4HKB9vo"><strong>fill out this form</strong></a> with instructions on how to join. If you have any questions, don’t hesitate to <a href="mailto:info@openscience-rotterdam.com"><strong>contact us</strong></a>!</p>
+          </p>
+          <br>
+        </div>
+
+        {{ partial "features.html" . }}
+
+        {{ partial "testimonials.html" . }}
+
+        {{ partial "see_more.html" . }}
+
+        {{ partial "recent_posts.html" . }}
+
+        {{ partial "clients.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

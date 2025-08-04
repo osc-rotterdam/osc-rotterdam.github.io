@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Dorien Huijser"
+date: 2020-03-03
+slug: "huijser"
+categories: ["people"]
+tags: ["preregistration", "open access", "data management", "science education", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Huijser.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Lab and Data Manager for Open Science, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a lab and data manager at a developmental psychology group at ESSB, meaning that I help researchers implement better data management and more open research practices. This can sometimes be a challenge, because we collect large amounts of data that are often also privacy-sensitive. I for example help our researchers with preregistration, data organization and data sharing and aim to develop a vision on open science for our group. Besides open science, I have a great interest in science communication and education, as I think society should not be seen as a separate entity and could be involved a lot more in scientific research than it is now.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:huijser@essb.eur.nl">
+  <img border="0" alt="Dorien Huijser" src="/images/Huijser.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dorienhuijser/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/DorienHuijser" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- GITHUB -->
+<p align="center">
+  <a href="https://github.com/DorienHuijser" class="fa fa-github fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

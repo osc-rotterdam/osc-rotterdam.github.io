@@ -6,7 +6,7 @@ slug: "OpenSampling-May2020"
 categories: ["News"]
 tags: ["talks"]
 coverImage: /images/OSCR-sampling-logos.png
-thumbnailImage: /images/OSCR-sampling-thumbnail.png
+banner: /images/OSCR-sampling-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,95 @@
+---
+title: "Writing a Reproducible Paper in R with WORCS"
+author: ["Caspar van Lissa", "Barbara Vreede", "Antonio Schettino"]
+date: 2020-10-16
+slug: "WORCShop-Oct2020"
+categories: ["News"]
+tags: ["workshops", "open source software", "reproducible paper", "R"]
+coverImage: /images/WORCSflow.png
+thumbnailImage: /images/OSCR-WORCS-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "October 26th 2020, h. 15:00 CET, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+OSCR is proud to announce the online workshop **Writing a Reproducible Paper in R with `worcs`**, in collaboration with Utrecht University. Below the announcement:
+
+**WHAT**   
+Writing a Reproducible Paper in R with `worcs`
+
+**WHEN**   
+October 26th 2020 h. 15:00 CET, duration 120' (including a 15'-break)
+
+**INSTRUCTORS**   
+
+* [Dr. Caspar van Lissa](https://www.uu.nl/staff/CJvanLissa), Assistant Professor of Methods & Statistics at Utrecht University, Open Science faculty ambassador for the [Open Science Community Utrecht](https://openscience-utrecht.com/), and author of the `worcs` package
+* [Dr. Barbara Vreede](https://www.uu.nl/staff/BMIVreede), Scientific Information Specialist at Utrecht University library
+
+**TARGET AUDIENCE**   
+Anyone who would like to get started with an open and reproducible workflow, without dealing with a mountain of new tools and platforms. 
+The workflow is written in *R*, but you do not need to have prior programming experience to join this workshop. Having the motivation to step out of your comfort zone — and into a new one — is the most important prerequisite.
+
+**COURSE SUMMARY**   
+Open Science is becoming increasingly popular and relevant, and a world of opportunity is opening up to make research fully reproducible. This is not without its challenges: best practices for reproducible science include a number of tools that you may never have used or even heard of before. In this workshop we will introduce [**`worcs`**](https://github.com/cjvanlissa/worcs), a ***W***orkflow for ***O***pen ***R***eproducible ***C***ode in ***S***cience. **`worcs`** is an *R* package that takes you from data to published paper in a single streamlined workflow, making the entire process of your analysis, up to the submission of your manuscript, reproducible. The `worcs` workflow optionally facilitates pre-registration, sharing your code and your data (safely!), and the submission of a pre-print.
+
+**DESIRED OUTCOME**   
+The instructors will give an overview of the workflow and introduce its practical implementation, so that attendees will be able to get started on their own reproducible project by the end of the workshop.
+
+**PROGRAM**   
+
+* In the first part, Dr. van Lissa will introduce the `worcs` package and how it facilitates the creation of a reproducible workflow in order to increase the adoption of open science practices
+* In the second part, Dr. Vreede will demonstrate how to practically use `worcs`, from study design to submission and publication
+
+**PREPARATION**   
+
+You will need:
+
+* the programming language [**R**](https://cran.r-project.org/)
+* the interface [**RStudio**](https://rstudio.com/)
+* the version control software [**Git**](https://git-scm.com/downloads)
+* an account on the cloud storage site [**GitHub**](https://github.com/)
+* the R package [`worcs`](https://github.com/cjvanlissa/worcs) and its dependencies
+* [Allison Horst's Penguin dataset](https://github.com/allisonhorst/palmerpenguins) (*.csv* file available from [this link](https://raw.githubusercontent.com/bvreede/worcshop/master/data/penguins.csv))
+
+Installation:
+
+* follow the vignette [Setting up your computer for `worcs`](https://cjvanlissa.github.io/worcs/articles/setup.html) (note that the setup can take around **1 hour**... prepare in advance!)
+* additional notes to the vignette:
+    * if you already have R, check what version you have. Consider upgrading to **R 4.0** by downloading and installing R as instructed
+    * for Windows operating system, consider using [Git for Windows](https://gitforwindows.org/) instead of [*git-scm.com*](https://git-scm.com/)
+    * a GitHub academic upgrade is **not necessary** for this workshop
+    * no seriously, **do not enter a passphrase!**
+
+**REGISTRATION**   
+An invitation has been sent to researchers in the OSCR mailing list. This email includes the Zoom link, meeting ID, and password. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+**MEETING RULES**   
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Antonio**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+Hope to see many of you!
+
+Take care,
+
+Caspar van Lissa, Barbara Vreede, and Antonio Schettino
+
+***
+
+

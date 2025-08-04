@@ -1,0 +1,90 @@
+---
+title: "OSCR Member: Zhongyu Lang"
+date: 2021-02-01
+slug: "lang"
+categories: ["people"]
+tags: ["school-eshpm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Lang.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, ESPHM
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+Zhongyu Lang has a master degree of public health from the University of Edinburgh, qualitative and quantitative skills obtained. His PhD program of health economics in the department of Health Policy and Management at Erasmus University started in Jan 2021, which mainly involve research of QALY and equity weighting. As a rookie PhD candidate, he believes OSCR is an amazing organization which can bring great value to scientific research.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icon on the right redirects to social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:zhongyu.lang@eshpm.eur.nl">
+  <img border="0" alt="Zhongyu Lang" src="/images/Lang.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/winston-zhongyu-lang-523240190/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+<!-- # Expertise -->
+
+```{r radarPlot, eval = FALSE}
+
+member_name <- "Zhongyu Lang"
+special_skill <- NULL
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c(all_of(special_skill), "data sharing", "open source software", "data management", "reproducible analysis", "open access", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

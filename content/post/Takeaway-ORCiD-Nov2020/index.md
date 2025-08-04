@@ -1,0 +1,51 @@
+---
+title: "Take-away OSCR-ORCID workshop"
+author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
+date: 2020-11-26
+slug: "takeaway-orcid-nov2020"
+categories: ["News"]
+tags: ["open science", "ORCID", "UL"]
+coverImage: /images/ORCID-banner.jpg
+banner: /images/ORCID-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "Missed out on the workshop? Catch up by following these steps!"
+editor_options: 
+  chunk_output_type: inline
+---
+
+<img border="0" alt="" src="/images/news/ORCID-banner.jpg" width="70%" height="200" align="center">
+<BR>
+
+On November 18th, OSCR hosted a fruitful workshop with the Erasmus Library ORCID Team. During the workshop we discussed what ORCID is, its benefits, and -- more importantly -- how to get the most out of your ORCID iD. Participants were encouraged to actively go through their own ORCID record and incorporate tips and tricks that would allow them to reap the benefits of ORCID.
+
+Missed out on the workshop and would want to improve your own ORCID record? Follow the steps below!
+
+## ORCID step-by-step guide
+
+1. **Visibility.** Make your record as visible as possible. Make *'Everyone'* the default setting by going to *'Account settings'* > *‘Visibility preferences’*. 
+2. **Emails.** Enter at least two email addresses to maintain easy access to your account. The visibility settings can be adjusted for each. Wish to keep details private? The recommended visibility setting would be: *'Trusted parties'*.
+3. **Name variants.** Add possible name variations (e.g., your maiden name or initials) to *'Also known as'* in order to increase your findability.
+4. **Affiliation.** Add at least your current affiliation. Choose: *'Erasmus University Rotterdam'*. In the *'Department'* field, add the name of the school (and department) and their abbreviations. 
+5. [**Add works.**](https://libguides.eur.nl/ORCID/addpublications)
+   - Use the *Search & Link* wizards to add your works from the following databases: (1) Scopus; (2) CrossRef Metadata Search; and (3) DataCite.
+   - Add works manually by going to: *'Add works'* > *'+ Add manually'*. ORCID supports a wide range of work types, including datasets, lectures, software, patents and conference posters. 
+6. **Authorize auto-updates.**
+   - Use your ORCID iD when submitting your next article -- look out for the green ORCID logo. When the article is published, CrossRef will ask your permission to auto-update your ORCID record.
+   - Add your ORCID iD to your [EUR Data Repository](https://datarepository.eur.nl/) profile and grant DataCite permission to auto-update your record.
+7. **Open Access.** Add personal website and/or repository author page links to *'Websites & Social links'* to guide the visitor to the Open Access full text of your publications.
+
+Need help? Check out the *Erasmus Library ORCID Team* services, including: the [ORCID LibGuide](https://libguides.eur.nl/ORCID), bi-weekly [ORCID workshops](https://eur-nl.libcal.com/calendar/ORCID-workshop?cid=7596&t=d&d=0000-00-00&cal=7596&inc=0) and online [individual support](https://eur-nl.libcal.com/appointments/ORCID-appointment). For questions, please contact [orcid.library@eur.nl](mailto:orcid.library@eur.nl).
+
+Take care,
+
+Erasmus Library ORCID Team and Antonio Schettino
+
+***
+
+

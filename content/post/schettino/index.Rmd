@@ -5,7 +5,7 @@ slug: "schettino"
 categories: ["people"]
 tags: ["cat lover", "data sharing", "reproducible analysis", "preregistration", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Schettino.jpg
+banner: /images/Schettino.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

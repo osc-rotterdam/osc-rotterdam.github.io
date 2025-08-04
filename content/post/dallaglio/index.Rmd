@@ -5,7 +5,7 @@ slug: "dallaglio"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "academic tweeting", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/DallAglio.jpg
+banner: /images/DallAglio.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

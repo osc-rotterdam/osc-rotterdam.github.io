@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Elena Marie Enseñado"
+date: 2024-12-06
+slug: "ensenado"
+categories: ["people"]
+tags: ["data management", "open access", "data sharing", "school-ihs"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Ensenado.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Researcher, IHS
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+Elena Marie Enseñado currently works as an urban environment, sustainability, and climate change specialist. Her interests include climate change and environmental planning, learning for socio-technical transitions and social-ecological resilience, ecosystem services and nature-based solutions, and participatory tools and methods.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:ensenado@ihs.nl">
+  <img border="0" alt="Elena Marie Enseñado" src="/images/Ensenado.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/emensenado/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0003-3131-1306" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR><BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

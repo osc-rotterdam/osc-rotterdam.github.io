@@ -5,7 +5,7 @@ slug: "van-houtum"
 categories: ["people"]
 tags: ["open access", "reproducible analysis", "preregistration", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/vanHoutum.jpg
+banner: /images/vanHoutum.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

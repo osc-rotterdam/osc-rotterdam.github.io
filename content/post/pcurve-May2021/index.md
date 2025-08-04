@@ -1,0 +1,62 @@
+---
+title: "Introduction to p-curve analysis for meta-analysis"
+author: ["Miranda Lutz-Landesbergen", "Antonio Schettino"]
+date: 2021-04-23
+slug: "pcurve-May2021"
+categories: ["News"]
+tags: ["talks"]
+coverImage: /images/pcurve-banner.png
+banner: /images/news/pcurve-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "May 4th 2021, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+<img border="0" alt="" src="/images/news/pcurve-banner.png" width="70%" height="200" align="center">
+
+<BR></BR>
+It is unfortunate that most of our scientific fields have to deal with **publication bias**, a phenomenon that occurs when the results of a study influences the chances of being published. In other words, when you find significant results (e.g., significant *p*-values from your statistical analysis), there is a higher chance of publication. This has implications for our professional career: when you have more and interesting publications, you have higher chances of fruitful collaborations or receive more funding, better academic positions, etc.
+
+Publication bias taints our field: it imbalances findings (null results are not published) despite our thorough attempts to improve theories, methods, experimental designs, and analyses. It also influences our behavior as researchers: it could lead to questionable research practices (e.g. *p*-hacking) that scientists (unconsciously) perform to increase their chances of getting significant results. This is, of course, unethical.
+
+By compiling studies in systematic reviews and meta-analyses, we are able to examine and account for publication bias. A relative new statistical tool to investigate selective reporting of significant results is ***p*-curve analysis**. In this talk, [Miranda Lutz-Landesbergen](https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/) (third year PhD candidate in clinical psychology at ESSB) will give a talk about publication bias and how to investigate it in meta-analyses. Also, she will introduce and demonstrate *p*-curve analysis with a publication and her own data, in R and with an online tool. She will provide relevant literature and recommendations for you as a researcher to combat publication bias. With this talk, she hopes you will become familiar to this analysis and be encouraged to think critically about selective reporting of *p*-values in your field of research[^1].
+
+If you want to do a little reading beforehand, here are two suggestions:
+
+> Simonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). P-curve: A key to the file-drawer. Journal of Experimental Psychology: General, 143(2), 534–547. https://doi.org/10.1037/a0033242 (preprint available at https://ssrn.com/abstract=2256237), **in particular p. 534-536**
+
+> Simonsohn, U., Nelson, L. D., & Simmons, J. P. (2014). p-Curve and Effect Size: Correcting for Publication Bias Using Only Significant Results. Perspectives on Psychological Science, 9(6), 666–681. https://doi.org/10.1177/1745691614553988 (preprint available at https://dx.doi.org/10.2139/ssrn.2377290, **in particular p. 665-670 (until section details)**
+
+The event will take place on **May 4th 2021** at **14:00 CEST** and will last 60'. An invitation email, including the Zoom link, meeting ID, and password, has been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Antonio**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive a few minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+Please remember to read and follow the [OSCR Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Hope to see many of you!
+
+Take care,
+
+Miranda Lutz-Landesbergen and Antonio Schettino
+
+***
+
+[^1]: The slides are available on the [OSF](https://osf.io/gkra3/).
+
+

@@ -5,7 +5,7 @@ slug: "stoeckel"
 categories: ["people"]
 tags: ["data management", "open access", "reproducible analysis", "obscure historic facts", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Stoeckel.jpg
+banner: /images/Stoeckel.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

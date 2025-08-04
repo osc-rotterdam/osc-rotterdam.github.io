@@ -5,7 +5,7 @@ slug: "granic"
 categories: ["people"]
 tags: ["open access", "preregistration", "reproducible analysis", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Granic.jpg
+banner: /images/Granic.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

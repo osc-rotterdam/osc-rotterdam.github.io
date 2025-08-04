@@ -1,0 +1,47 @@
+---
+title: "Rotterdam R.I.O.T.S. Club -- R Markdown & Github"
+author:  ["Oliver Pain", "Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
+date: 2021-02-19
+slug: "RIOTS-advanced-Feb2021"
+categories: ["News"]
+tags: ["RIOTS", "open science", "workshops", "open source software", "reproducible analysis"]
+coverImage: /images/RIOTS_Roffa.png
+thumbnailImage: /images/RIOTS_OSCR.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "February 25th 2021, h. 15:00 CET, Zoom"
+editor_options: 
+  chunk_output_type: inline
+---
+
+The [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/), an [OSCR Member initiative](https://www.openscience-rotterdam.com/2020/03/oscr-riots/), will host a talk entitled **R Markdown & Github: A walkthrough for sharing code and results**, part of a series of events on open research organized by the [R.I.O.T. Science Club](http://riotscience.co.uk/) global team[^1].
+
+**WHEN**   
+February 25th 2021 h. 15:00 CET, duration 60'
+
+**INSTRUCTOR**   
+[Dr. Oliver Pain](https://www.kcl.ac.uk/people/oliver-pain), postdoctoral research associate at the Social Genetic and Developmental Psychiatry (SGDP) Centre, King’s College London. His work uses statistical genetics to understand and predict outcomes related to mental health.
+
+**WORKSHOP SUMMARY**   
+This workshop will provide an introduction to Rmarkdown websites and how to host them online using GitHub pages. Oliver will take you through a few exercises to create a Rmarkdown website online. You can find an example [here](https://opain.github.io/MDD-TWAS/).
+
+**PREPARATION**   
+For the practical, Oliver suggests using [R](https://cran.r-project.org/), [RStudio](https://rstudio.com/products/rstudio/), and [GitHub Desktop](https://desktop.github.com/), but he will also provide instructions using R and Git on the command line. This is best hosted on your local computer. You will also need a [GitHub account](https://github.com/join?source=header-home) and to download the [workshop materials](https://drive.google.com/file/d/1x_ZW5LjilAYdVmwqZzgNw2UPw6tNsssz/view) in advance.
+
+**REGISTRATION**   
+The event will be hosted via [Microsoft Teams live event](https://bit.ly/3ufZst2). An invitation email has also been sent via the OSCR mailing list. If you are not part of the mailing list but would like to join, please contact [Antonio](mailto:schettino@eur.nl).
+
+Hope to see many of you!
+
+Take care,
+
+Oliver Pain, Lorenza Dall'Aglio, Elisabet Blok, Bing Xu, and Antonio Schettino
+
+***
+
+[^1]: The talk will be recorded and uploaded to [the R.I.O.T.S. Club YouTube channel](https://www.youtube.com/c/RIOTScienceClub/videos).

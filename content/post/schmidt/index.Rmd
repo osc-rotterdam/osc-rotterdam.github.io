@@ -5,7 +5,7 @@ slug: "schmidt"
 categories: ["people"]
 tags: ["reproducible analysis", "data sharing", "cat lover", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Schmidt.jpg
+banner: /images/Schmidt.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

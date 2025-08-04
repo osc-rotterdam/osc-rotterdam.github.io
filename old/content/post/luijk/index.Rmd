@@ -1,0 +1,102 @@
+---
+title: "OSCR Member: Maartje Luijk"
+date: 2022-02-03
+slug: "luijk"
+categories: ["people"]
+tags: ["open access", "preregistration", "design thinking", "parenting studies", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Luijk.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Full Professor, ESSB  
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+I study parenting and its influence on the development of children. My research combines perspectives of child and family studies, developmental psychology, child and adolescent psychiatry, pediatrics, epidemiology and anthropology. I am fascinated by day-to-day parenting practices, and focus on how parenting and sleep affect child development. I am curious to find predictors of parenting strategies and to learn why some children are more sensitive than others to the parenting they receive. My work aims at supporting parents in everyday parenting choices through evidence-based advice.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:luijk@essb.eur.nl">
+  <img border="0" alt="Maartje Luijk" src="/images/Luijk.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://pure.eur.nl/en/persons/pcm-maartje-luijk" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/maartjeluijk/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Maartje_Luijk/" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Maartje Luijk"
+special_skill <- c("design thinking", "parenting studies")
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("reproducible analysis", "open source software", "data sharing", "data management", all_of(special_skill), "open access", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

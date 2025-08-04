@@ -1,0 +1,60 @@
+---
+title: "OSCR Member: Miranda Lutz-Landesbergen"
+date: 2021-03-03
+slug: "lutz-landesbergen"
+categories: ["people"]
+tags: ["preregistration", "reproducible analysis", "open source software", "R", "networker", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Lutz-Landesbergen.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, ESSB and VU Amsterdam
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a PhD candidate at the Department of Psychology, Education and Child Studies at ESSB and Clinical Developmental Psychology, Faculty of Behavioural and Movement Sciences, at VU Amsterdam. I am also a wife and mother of two girls, and proud owner of two lazy cats.
+ 
+My PhD topic is the role of cognitive control in the development of externalizing psychopathology, part of the [Erasmus Initiative Vital Cities and Citizens](https://www.eur.nl/en/research/erasmus-initiatives/vital-cities-and-citizens). I am also a PhD representative for my department, member of the [Dutch Society of Developmental Psychology](https://vnop.nl/) and member of Peer Relation Research group at EUR. I am a strong advocate of making use of already collected data (e.g., use of DANS) and open science: I am in the process of become more and more 'open science-y'.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:lutz@essb.eur.nl">
+  <img border="0" alt="Miranda Lutz-Landesbergen" src="/images/Lutz-Landesbergen.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mirandaclutz/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- OSF -->
+<p align="center">
+  <a href="https://osf.io/s6mte/"> <i class="ai ai-osf ai-2x"  style="color:#000000;"></i>
+  </a>
+</p>
+
+<BR><BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

@@ -5,7 +5,7 @@ slug: "woeckel"
 categories: ["people"]
 tags: ["data management", "data sharing", "preregistration", "FAIR data", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Woeckel.jpg
+banner: /images/Woeckel.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

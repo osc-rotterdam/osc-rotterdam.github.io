@@ -5,7 +5,7 @@ slug: "metzger"
 categories: ["people"]
 tags: ["preregistration", "reproducible analysis", "data management", "football", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Metzger.jpg
+banner: /images/Metzger.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

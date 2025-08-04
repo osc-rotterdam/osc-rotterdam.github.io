@@ -5,7 +5,7 @@ slug: "himmler"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "procrastination", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Himmler.jpg
+banner: /images/Himmler.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

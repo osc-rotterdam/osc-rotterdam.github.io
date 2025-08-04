@@ -1,0 +1,59 @@
+---
+title: "ReproducibiliTea Online: Beyond Bonferroni Revisited"
+author: ["Tonya White", "Elisabet Blok", "Antonio Schettino"]
+date: 2020-06-30
+slug: "ReproducibiliTea-July2020"
+categories: ["News"]
+tags: ["ReproducibiliTea"]
+coverImage: /images/ReproducibiliTeaPot.jpeg
+thumbnailImage: /images/ReproducibiliTea.jpeg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "July 8th 2020, h. 14:00 CEST, Zoom"
+editor_options: 
+  chunk_output_type: console
+---
+
+The ninth [**OSCR ReproducibiliTea journal club**](https://www.openscience-rotterdam.com/2019/10/announcement-reproducibilitea/) will take place on **July 8th** at **14:00**. This is a special one, because it is a combined session between OSCR and [Rotterdam R.I.O.T.S.](https://rdam-riot-science-club.github.io/). More information on this wonderful partnership can be found on [this blog post](https://www.openscience-rotterdam.com/2020/03/oscr-riots/).
+
+The discussant will be [Prof. Dr. Tonya White](https://www.erasmusmc.nl/en/sophia/research/researchers/white-tonya) from the [Department of Child and Adolescent Psychiatry](https://www.erasmusmc.nl/en/sophia/research/departments-and-centers/child-psychiatry) and the [Department of Radiology & Nuclear Medicine](https://www.erasmusmc.nl/en/research/departments/radiology-and-nuclear-medicine) at Erasmus MC. 
+
+Tonya will discuss her work on multiple testing correction[^1]: 
+
+> White, T., van der Ende, J. & Nichols, T.E. Beyond Bonferroni revisited: concerns over inflated false positive research findings in the fields of conservation genetics, biology, and medicine. Conserv Genet 20, 927–937 (2019). https://doi.org/10.1007/s10592-019-01178-0
+
+With increasingly large datasets, we as researchers are able to test many hypotheses. However, with the testing of an increasing number of hypotheses, comes an increased chance of having a significant finding by chance alone. False positives are termed *Type I* errors, where the null hypothesis is incorrectly rejected. When testing for multiple hypotheses, we can correct our *p*-values so that the number of Type I errors does not increase with the number of hypotheses tested. There are different approaches to apply multiple testing correction, depending on the nature of the data.
+
+During this session Tonya will share her story of how she came across an error in a methodological paper on multiple testing correction. The paper had been cited over 600 times and presented an error in an equation attributed to the Benjamini and Yekutieli procedure for multiple testing correction. She will explain how differences in the equation posed in the paper and in the original equation led to differences in how stringent the correction applied was. She will then more broadly cover different types of multiple testing correction and when they can be applied. We will end the session focusing on two points. First, she will invite participants to think together about examples and which forms of multiple testing correction would be appropriate for specific examples. Second, she will discuss how challenging it is to correct errors that have been embedded in science.
+
+An invitation via *Outlook* calendar has been sent to researchers in the OSCR mailing list. This email includes a link to join the meeting remotely using [**Zoom**](https://zoom.us/), a popular online conferencing service. Click on the link, insert the password provided in the invitation mail, and you will join the call.
+
+During the Zoom meeting, please follow these guidelines:
+
+* wear headphones
+* mute your microphone
+* video is optional (in case of connection issues, you may be asked to turn it off)
+* pay attention to the moderator (which will be **Elisabet**)
+* if you have questions
+  - click on the **Raise Hand** button and the moderator will unmute you; or
+  - write down your question in the chat and the moderator will read it
+* avoid talking over each other and make sure that everyone can have their opportunity to speak
+* arrive 5 minutes before the beginning of the call, to familiarize with the online environment and solve possible technical issues
+
+If you are not part of the OSCR or Rotterdam R.I.O.T.S. mailing lists, but would like to join, please contact [Antonio](mailto:schettino@eur.nl) or [Elisabet](mailto:e.blok@erasmusmc.nl).
+
+Please remember that attendees of every OSCR event (in-person or online) are required to follow our [Code of Conduct](https://www.openscience-rotterdam.com/coc/).
+
+Take care,
+
+Tonya White, Elisabet Blok, and Antonio Schettino
+
+***
+[^1]: Paper and slide deck available on our [OSF repository](https://osf.io/yk9pf/).
+
+

@@ -5,7 +5,7 @@ slug: "sunami"
 categories: ["people"]
 tags: ["data sharing", "reproducible analysis", "preregistration", "pop culture references", "school-rsm", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Sunami.jpg
+banner: /images/Sunami.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Anne Kathrin Klesse"
+date: 2021-10-20
+slug: "klesse"
+categories: ["people"]
+tags: ["preregistration", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Klesse.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Associate Professor of Marketing, RSM
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I conduct experiments to understand what influences consumers in their decisions and how we can nudge them to make better decisions (e.g., healthier food choices). A great share of my research intends to understand the impact of digital technologies (e.g., voice-interfaces, smartphone, and AI) on consumer judgment and decision making.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:klesse@rsm.nl">
+  <img border="0" alt="Anne Kathrin Klesse" src="/images/Klesse.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.dropbox.com/s/pi3kn7l3z3ur1cc/CV_Klesse_Oct2021.docx?dl=0" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anne-kathrin-klesse-20772a1/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0002-1725-0693" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

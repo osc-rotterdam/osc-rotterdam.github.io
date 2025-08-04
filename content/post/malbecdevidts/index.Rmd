@@ -5,7 +5,7 @@ slug: "malbecdevidts"
 categories: ["people"]
 tags: ["open source software", "cooking without a recipe", "school-essb"] # top categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/MalbecDeVidts.jpg
+banner: /images/MalbecDeVidts.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

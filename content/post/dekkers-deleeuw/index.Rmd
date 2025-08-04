@@ -5,7 +5,7 @@ slug: "dekkers-deleeuw"
 categories: ["people"]
 tags: ["policy development", "grant preparation", "data management", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Dekkers-deLeeuw.jpg
+banner: /images/Dekkers-deLeeuw.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

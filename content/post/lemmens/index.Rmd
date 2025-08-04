@@ -5,7 +5,7 @@ slug: "lemmens"
 categories: ["people"]
 tags: ["R", "machine learning", "business & open science", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Lemmens.jpg
+banner: /images/Lemmens.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

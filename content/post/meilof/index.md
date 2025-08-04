@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Marlies Meilof"
+date: 2022-02-24
+slug: "meilof"
+categories: ["people"]
+tags: ["ERS"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Meilof.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Communication Advisor, ERS
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+Finding solutions for society's complex transitional challenges requires open and responsible science. I aim to increase research transparency, visibility, and engagement. As a communication advisor within Erasmus Research Services (ERS), I try to find ways to make available research support within the EUR more visible. I love connecting with new people and highlighting fascinating research (practices).
+ 
+# CV and Contact Info
+
+Click on the picture to send an email. The icon on the right redirects to social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:marlies.meilof@eur.nl">
+  <img border="0" alt="Marlies Meilof" src="/images/Meilof.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1wGBrFLZ_r0u061m9_clxxJk4HKvizf6O/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/marlies-meilof-12969217/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/marliesmeilof" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

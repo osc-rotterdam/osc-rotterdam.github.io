@@ -5,7 +5,7 @@ slug: "vandegroep"
 categories: ["people"]
 tags: ["data management", "open access", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/vandeGroep.jpg
+banner: /images/vandeGroep.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

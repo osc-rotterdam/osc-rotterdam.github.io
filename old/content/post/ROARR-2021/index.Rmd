@@ -1,0 +1,50 @@
+---
+title: "ROARR!"
+author: ["Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
+date: 2021-01-12
+slug: "ROARR-2021"
+categories: ["News"]
+tags: ["RIOTS", "talks", "ROARR2021"]
+coverImage: /images/ROARR2021-banner.png
+thumbnailImage: /images/RIOTS_OSCR.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "Announcing the 2021 Rotterdam Open and Reproducible Research (ROARR) programme."
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include = FALSE}
+
+library(here)
+library(knitr)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+We are delighted to announce that, in 2021, we will organize the **Rotterdam Open And Reproducible Research** (**ROARR**) programme in collaboration with the [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/). Within the ROARR programme, researchers from different fields will give introductory lectures and practical sessions on open research along the research cycle: from how pre-registration and registered reports aid our hypothesis testing to how publishing can be reimagined in an open research culture.
+
+![The ROARR2021 program. Image by [Lorenza Dall'Aglio](https://www.openscience-rotterdam.com/2020/02/dallaglio/), created with [Slidesgo](https://slidesgo.com/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)](/images/ROARR2021-program.png)
+
+These seminars are open to everyone. More information on the upcoming sessions will be available on the [OSCR](https://www.openscience-rotterdam.com/) and [R'dam R.I.O.T.S. Club](https://www.riotsciencenl.com/) websites.
+
+The topics covered in the sessions match key concepts and skills in open research, which can be useful to obtain the Rotterdam R.I.O.T. Science Club prizes for MSc (monetary) and PhD students and postdocs (non-monetary). More information, including eligibility criteria, will be available in the upcoming weeks.
+
+Importantly, ECTs ([European Credit Transfer and Accumulation system](https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System)) can be obtained for participation. The responsibility for the ECTs to get accepted by a given study programme lies with the applicant. For further information, contact [Lorenza Dall’Aglio](mailto:l.dallaglio@erasmusmc.nl).
+
+Lorenza Dall'Aglio, Elisabet Blok, Bing Xu, and Antonio Schettino
+
+

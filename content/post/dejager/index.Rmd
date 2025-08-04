@@ -5,7 +5,7 @@ slug: "dejager"
 categories: ["people"]
 tags: ["open source software", "open access", "conceptual analysis", "transdisciplinary collaboration", "school-esphil"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/deJager.jpg
+banner: /images/deJager.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -6,7 +6,7 @@ slug: "sharing-MRI-Oct2020"
 categories: ["News"]
 tags: ["workshops", "reproducible analysis", "data management"]
 coverImage: /images/open-MRI-banner.png
-thumbnailImage: /images/open-MRI-thumbnail.png
+banner: /images/open-MRI-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

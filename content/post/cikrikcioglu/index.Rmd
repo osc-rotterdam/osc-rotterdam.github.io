@@ -5,7 +5,7 @@ slug: "cikrikcioglu"
 categories: ["people"]
 tags: ["R", "open source software", "cat lover", "piano", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Cikrikcioglu.jpg
+banner: /images/Cikrikcioglu.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

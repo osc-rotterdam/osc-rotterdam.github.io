@@ -1,0 +1,104 @@
+---
+title: "OSCR Member: Matthias Wieser"
+date: 2019-08-14
+slug: "wieser"
+categories: ["people"]
+tags: ["punkrock", "open access", "preregistration", "data sharing", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Wieser.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Professor of Psychology, Director of Research (Psychology), ESSB  
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+I am a psychologist with a strong background in experimental and biological psychology. Using human electrophysiology and affective psychophysiology, I am trying to figure out the (neuro-)cognitive and affective processes underlying core aspects of social vision, aversive learning, cognition-emotion interactions, emotional reactivity, and pain perception. In the context of experimental psychopathology, I apply this basic knowledge obtained from studies of healthy populations to better delineate the dysfunctions of (neuro-)cognitive and affective processes in pathological fear, anxiety, and pain. 
+
+As the director of research of the psychology programme of the DPECS, I aim to promote and incorporate Open Science practices into the DNA of the research activities of the department.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:wieser@essb.eur.nl">
+  <img border="0" alt="Matthias Wieser" src="/images/Wieser.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.eur.nl/people/matthias-wieser" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/theweezer76" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0002-0429-1541" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Matthias Wieser"
+special_skill <- "punkrock"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("reproducible analysis", "open source software", "data sharing", "data management", all_of(special_skill), "open access", "preregistration"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

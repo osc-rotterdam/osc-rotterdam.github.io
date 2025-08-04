@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Rik Joosen"
+date: 2020-02-10
+slug: "joosen"
+categories: ["people"]
+tags: ["Bayesian inference", "R", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Joosen.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, Department of Public Administration and Sociology, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a PhD candidate at the Department of Public Administration and Sociology. In my research, I look at interest groups and regulatory politics using quantitative text analysis and statistics. I am fairly new to open science. I have published in an open access journal and use open source software (R) for my analysis.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:joosen@essb.eur.nl">
+  <img border="0" alt="Rik Joosen" src="/images/Joosen.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rik-joosen-34041531/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Rik_Joosen" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0002-0047-6098" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

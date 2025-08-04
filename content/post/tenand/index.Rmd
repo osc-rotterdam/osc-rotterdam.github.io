@@ -5,7 +5,7 @@ slug: "tenand"
 categories: ["people"]
 tags: ["R", "open access", "data management", "eco-conscious/eco-anxious", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Tenand.jpg
+banner: /images/Tenand.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

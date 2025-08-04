@@ -5,7 +5,7 @@ slug: "ivandegroep"
 categories: ["people"]
 tags: ["data management", "reproducible analysis", "open source software", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/IvandeGroep.jpg
+banner: /images/IvandeGroep.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

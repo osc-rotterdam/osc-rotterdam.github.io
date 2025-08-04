@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Asimina Aslanidou"
+date: 2020-06-29
+slug: "aslanidou"
+categories: ["people"]
+tags: ["preregistration", "open access", "self-appointed master chef", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Aslanidou.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a PhD candidate in Experimental Psychopathology at the Department of Psychology, Education and Child Studies at Erasmus University Rotterdam. My research focuses on factors that influence how people generalize their fear across different objects/people/situations that they encounter in everyday life. I compare several psychophysiological and brain measures and the goal is to understand what makes fear generalization turn from a helpful trait to a maladaptive symptom.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:aslanidou@essb.eur.nl">
+  <img border="0" alt="Asimina Aslanidou" src="/images/Aslanidou.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/asimina-aslanidou-a13174150" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Asimina_Aslanidou" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

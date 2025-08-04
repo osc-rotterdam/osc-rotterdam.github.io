@@ -5,7 +5,7 @@ date: 2019-08-05
 slug: "website-live"
 categories: ["News"]
 coverImage: /images/ErasmusLogos.png # ErasmusLogo.svg does not work
-thumbnailImage: /images/OSCR_thumbnail.svg
+banner: /images/OSCR_thumbnail.svg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

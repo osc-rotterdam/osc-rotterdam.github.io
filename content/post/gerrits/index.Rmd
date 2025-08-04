@@ -5,7 +5,7 @@ slug: "gerrits"
 categories: ["people"]
 tags: ["heavy metal guitar", "open access", "data management", "open source software", "school-ihs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Gerrits.jpg
+banner: /images/Gerrits.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Amarilys Abreu"
+date: 2024-03-02
+slug: "abreu"
+categories: ["people"]
+tags: ["open access", "data management", "data sharing", "inclusiveness", "school-esl"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Abreu.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, ESL
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+Experienced finance professional. PhD Candidate. Sovereign Debt Legal Research.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:abreusantana@law.eur.nl">
+  <img border="0" alt="Amarilys Abreu" src="/images/Abreu.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- PERSONAL WEBSITE -->
+<p align="center">
+  <a href="https://amarilysabreu.com/" class="fa fa-link fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0001-8786-3834" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

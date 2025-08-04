@@ -1,0 +1,101 @@
+---
+title: "OSCR Member: Dom Weinberg"
+date: 2022-12-19
+slug: "weinberg"
+categories: ["people"]
+tags: ["open source software", "reproducible analysis", "preregistration", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Weinberg.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Assistant Professor, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+I started at ESSB (Clinical Child and Family Studies) as an assistant professor in November 2022. My PhD research (completed at Utrecht University) explored the relationship between socioeconomic status (SES) and adolescent mental health. I am committed to opening up science and believe that making science more inclusive should be central to the open science movement. I am also passionate about teaching, science communication, and the engagement of adolescents in research.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:weinberg@essb.eur.nl">
+  <img border="0" alt="Dom Weinberg" src="/images/Weinberg.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://drive.google.com/file/d/1j8IU9AwrwLSs0CHwrLl8hSYnmHWUIXz5/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/domweinberg" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0003-3422-9500" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+<!-- # Expertise -->
+
+```{r radarPlot, eval = FALSE}
+
+member_name <- "Dom Weinberg"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("open source software", "data management", "data sharing", "reproducible analysis", "preregistration", "open access"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+

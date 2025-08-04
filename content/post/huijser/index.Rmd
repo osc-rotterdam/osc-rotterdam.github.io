@@ -5,7 +5,7 @@ slug: "huijser"
 categories: ["people"]
 tags: ["preregistration", "open access", "data management", "science education", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Huijser.jpg
+banner: /images/Huijser.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Anita Harrewijn"
+date: 2021-05-31
+slug: "harrewijn"
+categories: ["people"]
+tags: ["preregistration", "open access", "data sharing", "ballroom dancing", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Harrewijn.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Post-Doctoral Researcher, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I am a post-doctoral researcher in the Department of Psychology, Education & Child Studies at ESSB. I am interested in why some children develop anxiety disorders, while others do not. I focus on neural and behavioral correlates of attention bias and social stress in relation to anxiety. More specifically, I study social and neural moderators of the temperament-anxiety association using Generation R data, as part of my Marie Sklodowska-Curie Actions Individual Fellowship. Before, I was a post-doctoral researcher at the National Institute of Mental Health in the USA with Dr. Daniel Pine and Prof. Nathan Fox. I led several fMRI and behavioral studies with children with and without anxiety disorders and analyzed data from a 16-year longitudinal fMRI study. I have received my PhD in Developmental Psychology from Leiden University. My dissertation focused on delineating electrophysiological endophenotypes of social anxiety disorder.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:harrewijn@essb.eur.nl">
+  <img border="0" alt="Anita Harrewijn" src="/images/Harrewijn.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anitaharrewijn/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/Anitaharrewijn" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0001-9938-4048" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

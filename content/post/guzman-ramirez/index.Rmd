@@ -5,7 +5,7 @@ slug: "guzman-ramirez"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "school-rsm", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Guzman-Ramirez.jpg
+banner: /images/Guzman-Ramirez.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

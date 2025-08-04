@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Ana Martinovici"
+date: 2020-02-25
+slug: "martinovici"
+categories: ["people"]
+tags: ["R", "packrat", "cat lover", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Martinovici.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Assistant Professor, RSM
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+I have a strong interest in methods that facilitate high quality research: reproducible, replicable, relevant, and communicated in a clear and responsible manner also to non-scientific audiences. In terms of substantive interests, my research focuses on dynamic aspects of consumer decision making, more specifically on how preferences evolve over time until a final choice is expressed. In order to gain access to these latent processes, I am using dynamic Bayesian models calibrated on eye-tracking data, building on research in neuroeconomics that supports a strong link between attention and decision making. These models combine features of machine learning, multilevel latent growth, and choice models to infer the build-up of preferences from changes in attention. The aim is to understand how consumers make decisions, and to be able to predict future choices before they are implemented.
+ 
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:martinovici@rsm.nl">
+  <img border="0" alt="Ana Martinovici" src="/images/Martinovici.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://anamartinovici.com/files/cv.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- GITHUB -->
+<p align="center">
+  <a href="https://github.com/anamartinovici" class="fa fa-github fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- PERSONAL WEBSITE -->
+<p align="center">
+  <a href="https://anamartinovici.com/" class="fa fa-link fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

@@ -5,7 +5,7 @@ slug: "lindemann"
 categories: ["people"]
 tags: ["Linux", "open source software", "reproducible analysis", "data sharing", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Lindemann.jpg
+banner: /images/Lindemann.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

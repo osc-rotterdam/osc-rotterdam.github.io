@@ -5,7 +5,7 @@ slug: "porru"
 categories: ["people"]
 tags: ["data management", "reproducible analysis", "quoting movies", "science communication", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Porru.jpg
+banner: /images/Porru.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

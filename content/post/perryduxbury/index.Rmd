@@ -5,7 +5,7 @@ slug: "perryduxbury"
 categories: ["people"]
 tags: ["R", "open access", "reproducible analysis", "sushi lover", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/PerryDuxbury.jpg
+banner: /images/PerryDuxbury.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

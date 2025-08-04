@@ -6,7 +6,7 @@ slug: "ORCID-Nov2020"
 categories: ["News"]
 tags: ["workshops", "open science", "ORCID"]
 coverImage: /images/OSCR-ORCID-banner.jpg
-thumbnailImage: /images/OSCR-ORCID-thumbnail.jpg
+banner: /images/OSCR-ORCID-thumbnail.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -5,7 +5,7 @@ slug: "stenico"
 categories: ["people"]
 tags: ["citizen science", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Stenico.jpg
+banner: /images/Stenico.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

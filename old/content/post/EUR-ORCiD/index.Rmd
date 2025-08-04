@@ -1,0 +1,54 @@
+---
+title: "Distinguish yourself and get recognized with ORCID!"
+author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
+date: 2020-10-27
+slug: "eur-orcid"
+categories: ["News"]
+tags: ["open science", "ORCID", "UL"]
+coverImage: /images/ORCID-banner.jpg
+thumbnailImage: /images/ORCID-thumbnail.png
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: "A university-wide campaign to raise awareness on the importance, benefits, and use of ORCID for researchers."
+editor_options: 
+  chunk_output_type: inline
+---
+
+The Open Science (OS) movement is changing the foundations of traditional research. In this new, increasingly digital environment of open publishing models, an author identification tool is required that is persistent and guarantees interoperability.
+
+[ORCID](https://orcid.org/) -- ***O***pen ***R***esearcher and ***C***ontributor ***ID*** -- is a central registry of persistent unique identifiers for researchers. ORCID iD prevents name ambiguity and reliably connects publications, datasets, and affiliations under a researcher’s record.
+
+## Library roll-out
+
+As of this month the Erasmus ORCID Library Team has launched a university-wide campaign to raise awareness on the importance, benefits and use of ORCID for researchers[^1]. By engaging faculties, graduate schools, funding officers and more, the University Library aims to promote ORCID usage and embed it within researcher workflows, ultimately to promote ORCID as the standard researcher identifier across the University.
+
+## Why is ORCID significant for EUR-researchers?
+
+ORCID is an open-source and not-for-profit tool for scholarship. It is internationally recognized and is increasingly adopted in the workflows of scholarly systems -- such as manuscript submissions and grant applications.
+
+Further benefits of registering for an ORCID iD and keeping your ORCID record up to date include:
+
+* Avoiding author name confusion;
+* Increasing the visibility and discoverability of research output and activities regardless of the publication outlet;
+* Simplifying the process of grant application and manuscript submission;
+* Displaying your peer-review activities;
+* Link your research datasets, patents, and more. 
+
+## Workshop
+
+Did this spark your interest for ORCID and would you want to know more? Join us on **November 18th at 14:00 CET** for an ORCID workshop!
+
+In this workshop we will discuss how you can reap the benefits of ORCID by making your ORCID record fully up to date. Stay tuned, further info will follow!
+
+Erasmus Library ORCID Team and Antonio Schettino
+
+***
+
+[^1]: Read more: [EUR ORCID webpage](https://www.eur.nl/en/library/research-support/orcid), [ORCID LibGuide](https://libguides.eur.nl/ORCID).
+
+

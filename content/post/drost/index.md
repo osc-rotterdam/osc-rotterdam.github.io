@@ -1,0 +1,58 @@
+---
+title: "OSCR Member: Valérie Drost"
+date: 2022-11-04
+slug: "drost"
+categories: ["people"]
+tags: ["data management", "data sharing", "morning person", "school-erasmusmc"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Drost.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: PhD Candidate, Erasmus MC
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+Health scientist committed to improving access to care and the quality of life of patients with heart failure.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:v.drost@erasmusmc.nl">
+  <img border="0" alt="Valérie Drost" src="/images/Drost.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- PERSONAL WEBSITE -->
+<p align="center">
+  <a href="https://about.me/valeriedrost" class="fa fa-link fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Valerie-Drost-3" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+<!-- # Expertise -->
+
+
+
+***
+
+

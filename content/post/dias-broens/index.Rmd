@@ -5,7 +5,7 @@ slug: "dias-broens"
 categories: ["people"]
 tags: ["open access", "qualitative methods", "literature search", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Dias-Broens.jpg
+banner: /images/Dias-Broens.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

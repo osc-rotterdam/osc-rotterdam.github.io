@@ -5,7 +5,7 @@ slug: "wada"
 categories: ["people"]
 tags: ["open access", "reproducible analysis", "preregistration", "literature search", "school-euc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Wada.jpg
+banner: /images/Wada.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

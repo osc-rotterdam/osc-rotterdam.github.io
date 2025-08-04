@@ -6,7 +6,7 @@ slug: "WORCShop-Oct2020"
 categories: ["News"]
 tags: ["workshops", "open source software", "reproducible paper", "R"]
 coverImage: /images/WORCSflow.png
-thumbnailImage: /images/OSCR-WORCS-thumbnail.png
+banner: /images/OSCR-WORCS-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

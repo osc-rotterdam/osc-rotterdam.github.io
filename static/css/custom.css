@@ -1,0 +1,101 @@
+/* your styles go here */
+/* Example site test */
+
+.box-image-text .image {
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.box-image-text .image img {
+    max-height: 200px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+/* font size */
+#post-content {
+  font-size: 18px
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+p{
+  font-size: 18px;
+}
+
+body{
+  font-size: 180%;
+}
+
+/* OSCR banner and carousel design*/
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 0;
+  position: relative;
+  background: url('/images/carousel/OSCR_banner.png') center center no-repeat;
+  background-size: contain;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.home-carousel {
+  position: relative;
+  top: 0;
+  left: 0;
+  background: url('/images/carousel/OSCR_banner.png') center center no-repeat;
+  background-size: contain;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.home-carousel .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--primary-accent);
+  opacity: 0.0;
+  filter: alpha(opacity=90);
+}
+.home-carousel .owl-carousel {
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+
+/* background color */
+.bar.background-image-fixed-1 {
+  background: var(--primary-accent);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bar.background-image-fixed-2 {
+  background: var(--primary-accent);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* main bar color */
+#heading-breadcrumbs {
+  background: var(--button-border);
+  padding: 20px 0;
+  margin-bottom: 40px;
+}
+
+.bar.background-pentagon {
+  background: var(--button-border);
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
+

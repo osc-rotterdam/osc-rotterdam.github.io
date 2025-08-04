@@ -1,0 +1,64 @@
+---
+title: "OSCR Member: Wilfred Mijnhardt"
+date: 2019-08-06
+slug: "mijnhardt"
+categories: ["people"]
+tags: ["policy analysis", "open access", "data management", "data sharing", "school-rsm"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/Mijnhardt.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: True
+comments: True
+showActions: true
+summary: Policy Director, RSM
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Description
+
+My role is institutional advancement of the business school at Erasmus University.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:wmijnhardt@rsm.nl">
+  <img border="0" alt="Wilfred Mijnhardt" src="/images/Mijnhardt.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilfredmijnhardt/" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- TWITTER -->
+<p align="center">
+  <a href="https://twitter.com/wmijnhardt" class="fa fa-twitter fa-2x">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0001-9066-0798" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+ 
+<BR>
+
+# Expertise
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+
+***
+
+

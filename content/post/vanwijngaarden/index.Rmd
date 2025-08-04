@@ -5,7 +5,7 @@ slug: "vanwijngaarden"
 categories: ["people"]
 tags: ["open source software", "edis"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/vanWijngaarden.jpg
+banner: /images/vanWijngaarden.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

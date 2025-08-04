@@ -5,7 +5,7 @@ slug: "serres"
 categories: ["people"]
 tags: ["open access", "music", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-thumbnailImage: /images/Serres.jpg
+banner: /images/Serres.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

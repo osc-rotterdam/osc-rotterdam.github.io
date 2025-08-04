@@ -6,7 +6,7 @@ slug: "OSfestival-Wageningen-announcement"
 categories: ["News"]
 tags: ["conference"]
 coverImage: /images/OSfestival_Wageningen.jpg
-thumbnailImage: /images/WUR_logo.jpeg
+banner: /images/WUR_logo.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
