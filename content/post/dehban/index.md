@@ -5,7 +5,7 @@ slug: "dehban"
 categories: ["people"]
 tags: ["R", "data management", "development aid", "fusion Iranian food", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Dehban.jpg
+banner: /images/people/Dehban.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,57 @@ editor_options:
   chunk_output_type: console
 ---
 
+<!-- EMAIL -->
+<p>
+  <a href="mailto:dehban@rsm.nl">
+  <img border="0" alt="Somaye Dehban" src="/images/people/Dehban.jpg" width="200" height="200" align="center">
+  </a>
+</p>
 
 
-# Description
+<p align="center">
+<!--  CV-->
+  <a href="https://www.dropbox.com/s/cp1pknuazi7mhae/Somaye%20Dehban%20CV.pdf?dl=0" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   -->
+  <a href="https://twitter.com/SomayeDehban" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
+  </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/somayedehban/" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
+</p>
+
+
+
+
+
+
+# About me
 
 I want a world in which everyone has the equal opportunity to thrive -- we can thrive when we are a harmonious collective -- this is the **WHY** of my life. 
 I have pledged to dedicate the next decade of my life to bring unlikely allies to upscale their impact to achieve SDGs by 2030 -- this is my **I WILL** statement 
@@ -54,34 +102,6 @@ My PhD research at RSM is titled *Embracing the Complexity (Wickedness) of Our C
   18. How and to what extent can the findings of questions 12 and 13 be applied to the current Strategic Partnership – Power of Voices?
   19. How and to what extent can the findings of the last 3 questions (and the rest of this research) be applied by the Dutch Ministry of Foreign Affairs to move towards a nexus-based governance? 
 
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
-<!-- EMAIL -->
-<p>
-  <a href="mailto:dehban@rsm.nl">
-  <img border="0" alt="Somaye Dehban" src="/images/Dehban.jpg" width="150" height="150" align="left">
-  </a>
-</p>
-
-<!-- CV -->
-<p align="center">
-  <a href="https://www.dropbox.com/s/cp1pknuazi7mhae/Somaye%20Dehban%20CV.pdf?dl=0" class="fa fa-file fa-2x" style="color:#00B969;">
-  </a>
-</p>
-
-<!-- LINKEDIN -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/somayedehban/" class="fa fa-linkedin fa-2x" style="color:#000000;">
-  </a>
-</p>
-
-<!-- TWITTER -->
-<p align="center">
-  <a href="https://twitter.com/SomayeDehban" class="fa fa-twitter fa-2x">
-  </a>
-</p>
 
 <BR>
 

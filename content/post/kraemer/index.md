@@ -5,7 +5,7 @@ slug: "kraemer"
 categories: ["people"]
 tags: ["data management", "open source software", "R", "python", "webscraping", "law", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Kraemer.jpg
+banner: /images/people/Kraemer.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,36 +18,57 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I am a PhD candidate at Erasmus School of Law (ESL). My research focuses on the quantitative analysis of law and explores whether and how platforms are able to implement and foster the goals of privacy regulation.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:j.k.kramer@law.eur.nl">
-  <img border="0" alt="Julia Krämer" src="/images/Kraemer.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Julia Krämer" src="/images/people/Kraemer.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://pure.eur.nl/en/persons/julia-kr%C3%A4mer/" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV-->  
+  <a href="https://pure.eur.nl/en/persons/julia-kr%C3%A4mer/" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN -->  
+  <a href="https://nl.linkedin.com/in/julia-krämer-708342171/" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- LINKEDIN -->
-<p align="center">
-  <a href="https://nl.linkedin.com/in/julia-krämer-708342171/" class="fa fa-linkedin fa-2x" style="color:#000000;">
-  </a>
-</p>
 
-<BR><BR>
+# About me
+
+I am a PhD candidate at Erasmus School of Law (ESL). My research focuses on the quantitative analysis of law and explores whether and how platforms are able to implement and foster the goals of privacy regulation.
+
+<BR>
 
 # Expertise
 

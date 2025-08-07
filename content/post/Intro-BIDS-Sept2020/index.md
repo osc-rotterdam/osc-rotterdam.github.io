@@ -6,7 +6,7 @@ slug: "Intro-BIDS-Sept2020"
 categories: ["News"]
 tags: ["workshops", "open source software", "reproducible analysis", "data management"]
 coverImage: /images/OSCR-BIDS-banner.png
-banner: /images/OSCR-BIDS-thumbnail.png
+banner: /images/news/OSCR-BIDS-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,8 @@ summary: "September 17th 2020, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
+<img border="0" alt="" src="/images/news/OSCR-BIDS-thumbnail.png" width="70%" height="200" align="center">
+
 
 On August 31st, EUR opened the Academic Year 2020-2021 with a [unique online event](https://www.eur.nl/en/about-eur/events/opening-academic-year) that, despite some technical hitches, was interesting and entertaining. It is time to (begrudgingly) leave the summer behind, but fear not! The OSCR is ready to accompany you through your academic struggles with lectures, webinars, and journal clubs focused on open and transparent research!
 

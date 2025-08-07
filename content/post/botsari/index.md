@@ -5,7 +5,7 @@ slug: "botsari"
 categories: ["people"]
 tags: ["open access", "data sharing", "sea lover", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Botsari.jpg
+banner: /images/people/Botsari.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,40 +18,64 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I am passionate about the open science and open scholarship movements. With a background in clinical psychology, I have worked with open science practices, focusing on human interactions. I greatly value human connections and a sense of community. I love discussions and continuous learning, and I stand for “only with each other can we move forward and develop”. As community manager, I organize events on open science practices, discuss and promote these activities on social media, and support and facilitate open science in our community. My door is always open, and I am more than happy to discuss any topic.
- 
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:eirini.botsari@eur.nl">
-  <img border="0" alt="Eirini Botsari" src="/images/Botsari.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Eirini Botsari" src="/images/people/Botsari.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1TyKAEmYo7S01dpLjhkoAUnDvcwRlf1R2/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV-->
+  <a href="https://drive.google.com/file/d/1TyKAEmYo7S01dpLjhkoAUnDvcwRlf1R2/view?usp=sharing" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN -->  
+  <a href="https://www.linkedin.com/in/eirinibotsari/" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- LINKEDIN -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/eirinibotsari/" class="fa fa-linkedin fa-2x" style="color:#000000;">
-  </a>
-</p>
 
-<BR><BR>
+# About me
+
+I am passionate about the open science and open scholarship movements. With a background in clinical psychology, I have worked with open science practices, focusing on human interactions. I greatly value human connections and a sense of community. I love discussions and continuous learning, and I stand for “only with each other can we move forward and develop”. As community manager, I organize events on open science practices, discuss and promote these activities on social media, and support and facilitate open science in our community. My door is always open, and I am more than happy to discuss any topic.
+ 
+
+<BR>
 
 <!-- # Expertise -->
 
+# Expertise
 
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
 
 ***
 

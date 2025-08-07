@@ -5,7 +5,7 @@ slug: "garrido"
 categories: ["people"]
 tags: ["reproducible analysis", "data management", "data sharing", "perseverance", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Garrido.jpg
+banner: /images/people/Garrido.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,36 +18,62 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I am part of the Technology and Operations Management department at Erasmus University.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:garridotenorio@rsm.nl">
-  <img border="0" alt="Klaus Garrido" src="/images/Garrido.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Klaus Garrido" src="/images/people/Garrido.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vgngYYqI4vUy3XJx1F-TOxJ_fTtWyYE0/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV -->  
+  <a href="https://drive.google.com/file/d/1vgngYYqI4vUy3XJx1F-TOxJ_fTtWyYE0/view?usp=sharing" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN -->  
+  <a href="https://www.linkedin.com/in/klausgarrido/" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- LINKEDIN -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/klausgarrido/" class="fa fa-linkedin fa-2x" style="color:#000000;">
-  </a>
-</p>
 
-<BR><BR>
+
+
+
+
+# About me
+
+I am part of the Technology and Operations Management department at Erasmus University.
+
+
+<BR>
 
 # Expertise
 

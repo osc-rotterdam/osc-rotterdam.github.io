@@ -5,7 +5,7 @@ slug: "breijer"
 categories: ["people"]
 tags: ["open access", "data management", "data sharing", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Breijer.jpg
+banner: /images/people/Breijer.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,34 +18,64 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-As programme manager of the Sectorplan SSH-Breed 'The Influence of Digitalisation on Work, Prosperity and Entrepreneurship', but also as Pure Key User at Erasmus School of Law I raise awareness of Open Science among researchers and encourage to involve in initiatives on Open Science.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icon on the right redirects to the CV.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:breijer@law.eur.nl">
-  <img border="0" alt="Marianne Breijer" src="/images/Breijer.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Marianne Breijer" src="/images/people/Breijer.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://www.eur.nl/en/research/research-groups-initiatives/sectorplan-ssh-breed" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV
+  <a href="" class="fa-solid fa-file" style="color:#000000;">
+  </a> -->
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN 
+  <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> -->  
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE -->
+  <a href="https://www.eur.nl/en/research/research-groups-initiatives/sectorplan-ssh-breed" class="fa-solid fa-link" style="color:#000000;">
+  </a> 
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<BR><BR><BR>
+
+
+# About me
+
+As programme manager of the Sectorplan SSH-Breed 'The Influence of Digitalisation on Work, Prosperity and Entrepreneurship', but also as Pure Key User at Erasmus School of Law I raise awareness of Open Science among researchers and encourage to involve in initiatives on Open Science.
+
+<BR>
 
 <!-- # Expertise -->
 
+# Expertise
 
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
 
 ***
 

@@ -5,7 +5,7 @@ slug: "blok"
 categories: ["people"]
 tags: ["R", "data sharing", "drinking coffee", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Blok.jpg
+banner: /images/people/Blok.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,40 +18,55 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam [R.I.O.T. Science Club](https://rdam-riot-science-club.github.io/), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:e.blok@erasmusmc.nl">
-  <img border="0" alt="Elisabet Blok" src="/images/Blok.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Elisabet Blok" src="/images/people/Blok.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://www.dropbox.com/s/y28n23aw6grcwzk/CV_Elisabet_Blok.pdf?dl=0" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV-->
+  <a href="https://www.dropbox.com/s/y28n23aw6grcwzk/CV_Elisabet_Blok.pdf?dl=0" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   -->
+  <a href="https://twitter.com/elisabetbl" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE  --> 
+  <a href="https://www.researchgate.net/profile/Elisabet_Blok" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+  
+  
+<!-- LINKEDIN 
+  <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> -->  
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- TWITTER -->
-<p align="center">
-  <a href="https://twitter.com/elisabetbl" class="fa fa-twitter fa-2x">
-  </a>
-</p>
 
-<!-- RESEARCHGATE -->
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Elisabet_Blok" class="ai ai-researchgate fa-2x" style="color:#000000;">
-  </a>
-</p>
+# About me
+
+I am a PhD student at ErasmusMC-Sophia, focusing on children with a combination of anxiety, depression, attention problems and aggressive behavior, defined as the Dysregulation Phenotype (DP). I am looking at symptom and brain development and the bidirectional relationship between the two over time in children and adolescents drawn from the general population. I am also the co-funder of Rotterdam [R.I.O.T. Science Club](https://rdam-riot-science-club.github.io/), a community providing training in **R**eproducible, **I**nterpretable, **O**pen, and **T**ransparent science.
 
 <BR>
 

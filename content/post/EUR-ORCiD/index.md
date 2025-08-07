@@ -5,8 +5,8 @@ date: 2020-10-27
 slug: "eur-orcid"
 categories: ["News"]
 tags: ["open science", "ORCID", "UL"]
-coverImage: /images/ORCID-banner.jpg
-banner: /images/ORCID-thumbnail.png
+coverImage: /images/news/ORCID-banner.jpg
+banner: /images/news/ORCID-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,8 @@ summary: "A university-wide campaign to raise awareness on the importance, benef
 editor_options: 
   chunk_output_type: inline
 ---
+<img border="0" alt="" src="/images/news/ORCID-banner.jpg" width="70%" height="300" align="center">
+<BR>
 
 The Open Science (OS) movement is changing the foundations of traditional research. In this new, increasingly digital environment of open publishing models, an author identification tool is required that is persistent and guarantees interoperability.
 

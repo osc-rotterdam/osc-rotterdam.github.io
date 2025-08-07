@@ -6,7 +6,7 @@ slug: "jamovi-power-Feb2022"
 categories: ["News"]
 tags: ["workshops", "open source software", "power analysis", "jamovi"]
 coverImage: /images/OSCR-jamovi-banner.png
-banner: /images/OSCR-jamovi-thumbnail.png
+banner: /images/news/OSCR-jamovi-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -21,6 +21,8 @@ output:
   blogdown::html_page:
     toc: true
 ---
+
+<img border="0" alt="" src="/images/news/OSCR-jamovi-banner.png" width="70%" height="200" align="center">
 
 ### Introduction
 

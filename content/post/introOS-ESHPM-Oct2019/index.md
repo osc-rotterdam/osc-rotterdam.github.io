@@ -6,7 +6,7 @@ slug: "introOS-ESHPM-Oct2019"
 categories: ["News"]
 tags: ["talks", "school-eshpm"]
 coverImage: /images/OSCR_ESHPM.png
-banner: /images/ESHPM_logo.png
+banner: /images/news/ESHPM_logo.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,8 @@ summary: "Upfront investment, tangible career benefits."
 editor_options: 
   chunk_output_type: console
 ---
+
+<img border="0" alt="" src="/images/news/ESHPM_logo.png" width="70%" height="200" align="center">
 
 On October 31st I will discuss the benefits of open science (and open data in particular) with researchers working at the Erasmus School of Health Policy and Management ([ESHPM](https://www.eur.nl/eshpm/)). 
 

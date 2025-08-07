@@ -6,7 +6,7 @@ slug: "2021-Convergence-OR-Awards"
 categories: ["News"]
 tags: ["talks"]
 coverImage: /images/2021-Convergence-OR-Awards-banner.png
-banner: /images/2021-Convergence-OR-Awards-thumbnail.png
+banner: /images/news/2021-Convergence-OR-Awards-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,9 @@ summary: "Open Research Prizes for students and early-career researchers!"
 editor_options: 
   chunk_output_type: console
 ---
+<img border="0" alt="" src="/images/news/2021-Convergence-OR-Awards-thumbnail.png" width="70%" height="200" align="center">
+
+<BR>
 
 #### *Are you a Master student or an Early Career Researcher working in the field of health and technology?*   
 

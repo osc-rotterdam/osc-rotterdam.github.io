@@ -6,7 +6,7 @@ slug: "2021-Convergence-OR-Awards-Winners"
 categories: ["News"]
 tags: ["talks"]
 coverImage: /images/2021-Convergence-OR-Awards-banner.png
-banner: /images/2021-Convergence-OR-Awards-thumbnail.png
+banner: /images/news/2021-Convergence-OR-Awards-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,8 @@ summary: "Announcing the winners of the 2021 Open Research Prizes!"
 editor_options: 
   chunk_output_type: console
 ---
+<img border="0" alt="" src="/images/news/2021-Convergence-OR-Awards-thumbnail.png" width="70%" height="200" align="center">
+<BR>
 
 In 2021 we launched the [**Convergence Health and Technology Open Research Award**](https://www.openscience-rotterdam.com/2021/06/21/2021-convergence-or-awards/), which was a collaborative effort between the [Convergence Alliance](http://www.convergencealliance.nl), [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com), [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/), and [Open Science Community Delft](https://osc-delft.github.io). These awards are aimed at rewarding researchers who are adopting open research practices in healthcare and technology. Open research practices improve transparency, openness, reproducibility, and replicability, essential to achieving quality research.
 

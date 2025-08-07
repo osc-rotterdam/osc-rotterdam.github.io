@@ -5,7 +5,7 @@ slug: "harder"
 categories: ["people"]
 tags: ["open access", "data sharing", "preregistration", "cat lover", "review studies", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Harder.jpg
+banner: /images/people/Harder.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,40 +18,60 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I am professor by special appointment in the Horizon-chair "Evidence-based youth care and education" at the Clinical Child and Family Studies section. The main focus of my research is: What works, for whom, when and why? My expertise and areas of interest are youth with behavioral problems, antisocial or delinquent behaviour, their families, out-of-home care, treatment relationships between youth and care workers, professionalization and training of social workers in youth care, Motivational Interviewing (MI), effect studies, longitudinal follow-up studies, interview and observational studies.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:harder@essb.eur.nl">
-  <img border="0" alt="Annemiek Harder" src="/images/Harder.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Annemiek Harder" src="/images/people/Harder.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://www.eur.nl/people/annemiek-harder" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV-->  
+  <a href="https://www.eur.nl/people/annemiek-harder" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE -->  
+  <a href="https://www.researchgate.net/profile/Annemiek-Harder" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+ 
+  
+<!-- LINKEDIN -->  
+  <a href="https://www.linkedin.com/in/annemiek-harder-8b3916122" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- LINKEDIN -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/annemiek-harder🍀👀-8b3916122/" class="fa fa-linkedin fa-2x" style="color:#000000;">
-  </a>
-</p>
 
-<!-- RESEARCHGATE -->
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Annemiek-Harder" class="ai ai-researchgate fa-2x" style="color:#000000;">
-  </a>
-</p>
+
+
+
+
+# About me
+
+I am professor by special appointment in the Horizon-chair "Evidence-based youth care and education" at the Clinical Child and Family Studies section. The main focus of my research is: What works, for whom, when and why? My expertise and areas of interest are youth with behavioral problems, antisocial or delinquent behaviour, their families, out-of-home care, treatment relationships between youth and care workers, professionalization and training of social workers in youth care, Motivational Interviewing (MI), effect studies, longitudinal follow-up studies, interview and observational studies.
+
 
 <BR>
 

@@ -5,7 +5,7 @@ slug: "de-groot"
 categories: ["people"]
 tags: ["open access", "preregistration", "data management", "ethics", "school-ese", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/deGroot.jpg
+banner: /images/people/deGroot.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,40 +18,54 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-My research is divided into two streams: methodological EEG-related lab research on risk-taking, and longitudinal survey research on student mental health. I have recently ventured into the realm of open science research, and am actively trying to learn more about how to make my own work more open and transparent.
-
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:k.degroot@ese.eur.nl">
-  <img border="0" alt="Kristel de Groot" src="/images/deGroot.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Kristel de Groot" src="/images/people/deGroot.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1zY8Q0g-tkMgXhjVbylmh1FoZAOsNRaCg" class="fa fa-file fa-2x" style="color:#00B969;">
+<!--  CV --> 
+  <a href="https://drive.google.com/file/d/1zY8Q0g-tkMgXhjVbylmh1FoZAOsNRaCg" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE  --> 
+  <a href="https://www.researchgate.net/profile/Kristel-De-Groot" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+  
+  
+<!-- LINKEDIN 
+  <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> -->  
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE  --> 
+  <a href="https://pure.eur.nl/en/persons/kristel-de-groo" class="fa-solid fa-link" style="color:#000000;">
+  </a> 
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- RESEARCHGATE -->
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Kristel-De-Groot" class="ai ai-researchgate fa-2x" style="color:#000000;">
-  </a>
-</p>
+# About me
 
-<!-- PERSONAL WEBSITE -->
-<p align="center">
-  <a href="https://pure.eur.nl/en/persons/kristel-de-groot" class="fa fa-link fa-2x" style="color:#000000;">
-  </a>
-</p>
+My research is divided into two streams: methodological EEG-related lab research on risk-taking, and longitudinal survey research on student mental health. I have recently ventured into the realm of open science research, and am actively trying to learn more about how to make my own work more open and transparent.
 
 <BR>
 

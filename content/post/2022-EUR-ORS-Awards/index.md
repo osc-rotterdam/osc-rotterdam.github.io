@@ -6,7 +6,7 @@ slug: "2022-EUR-ORS-Awards"
 categories: ["News"]
 tags: ["talks"]
 coverImage: /images/EUR_ORS_Awards_2022-banner.png
-banner: /images/EUR_ORS_Awards_2022-thumbnail.png
+banner: /images/news/EUR_ORS_Awards_2022-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,7 +18,8 @@ summary: "Awards are coming your way!"
 editor_options: 
   chunk_output_type: console
 ---
-
+<img border="0" alt="" src="/images/news/EUR_ORS_Awards_2022-thumbnail.png" width="70%" height="200" align="center">
+<BR>
 The new academic year is just about to begin, and we are coming with some exciting news!
 
 We are happy to announce that the [Open and Responsible Science program](https://my.eur.nl/en/eur-employee/research/research-services/open-responsible-science) (ORS) has launched the **ORS Awards**, to celebrate projects led by researchers and support staff within EUR and Erasmus MC adopting open research practices.

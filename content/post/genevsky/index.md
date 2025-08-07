@@ -5,7 +5,7 @@ slug: "genevsky"
 categories: ["people"]
 tags: ["school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Genevsky.jpg
+banner: /images/people/Genevsky.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,46 +18,68 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-My research explores the social and emotional influences that shape consumer decisions and behavior. Using behavioral experimentation, market-level data analysis, and neuroimaging, I probe emotional and cognitive reactions to decision-making scenarios and subsequent influences on preference and choice. Relatedly, current projects explore the potential to scale what we learn in the lab to develop models that more accurately describe and predict market-level behavior in the real world.
- 
-# CV and Contact Info
-
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:genevsky@rsm.nl">
-  <img border="0" alt="Alexander Genevsky" src="/images/Genevsky.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Alexander Genevsky" src="/images/people/Genevsky.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- CV -->
-<p align="center">
-  <a href="https://drive.google.com/file/d/0B2FZGy16BEmsNEdsN0Q2X015c1U/view?usp=sharing" class="fa fa-file fa-2x" style="color:#00B969;">
-  </a>
-</p>
 
-<!-- TWITTER -->
 <p align="center">
-  <a href="https://twitter.com/genevsky" class="fa fa-twitter fa-2x">
-  </a>
-</p>
+<!--  CV -->
+  <a href="https://drive.google.com/file/d/0B2FZGy16BEmsNEdsN0Q2X015c1U/view?usp=sharing" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER    -->
+  <a href="https://twitter.com/genevsky" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>  
+
 
 <!-- GOOGLE SCHOLAR -->
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=GPx6as0AAAAJ&hl=en" class="ai ai-google-scholar fa-2x" style="color:#000000;">
+  <a href="https://scholar.google.com/citations?user=GPx6as0AAAAJ&hl=en" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+ 
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN 
+  <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> -->  
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
+
+
+
+
+
+
+# About me
+
+My research explores the social and emotional influences that shape consumer decisions and behavior. Using behavioral experimentation, market-level data analysis, and neuroimaging, I probe emotional and cognitive reactions to decision-making scenarios and subsequent influences on preference and choice. Relatedly, current projects explore the potential to scale what we learn in the lab to develop models that more accurately describe and predict market-level behavior in the real world.
+ 
 
 <BR>
 
-<!-- # Expertise -->
+<!-- # Expertise 
 
+# Expertise
 
+<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" /> -->
 
 ***
 

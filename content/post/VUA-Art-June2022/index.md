@@ -6,7 +6,7 @@ slug: "VUA-Art-June2022"
 categories: ["News"]
 tags: ["talks"]
 coverImage: /images/news/VUA-Art-June2022/VUA-Art-banner.png
-banner: /images/news/VUA-Art-June2022/VUA-Art-banner.png
+banner: /images/news/VUA-Art-June2022/VUA-Art-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

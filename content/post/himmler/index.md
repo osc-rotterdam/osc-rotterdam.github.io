@@ -5,7 +5,7 @@ slug: "himmler"
 categories: ["people"]
 tags: ["R", "reproducible analysis", "procrastination", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Himmler.jpg
+banner: /images/people/Himmler.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,57 @@ editor_options:
   chunk_output_type: console
 ---
 
+<!-- EMAIL -->
+<p>
+  <a href="mailto:himmler@eshpm.eur.nl">
+  <img border="0" alt="Sebastian Himmler" src="/images/people/Himmler.jpg" width="200" height="200" align="center">
+  </a>
+</p>
 
 
-# Description
+<p align="center">
+<!--  CV -->
+  <a href="https://www.sebastianhimmler.com/media/resume.pdf" class="fa-solid fa-file" style="color:#000000;">
+  </a> 
+
+<!-- TWITTER    -->
+  <a href="https://twitter.com/Sebastian_Him" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
+  </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN 
+  <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> -->  
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE  -->
+  <a href="https://www.sebastianhimmler.com/" class="fa-solid fa-link" style="color:#000000;">
+  </a>
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
+</p>
+
+
+
+
+
+
+# About me
 
 I am a health economics PhD candidate at the Erasmus School of Health Policy & Management in Rotterdam and hold a master degree in health economics (University of Bayreuth and UNC Chapel Hill). I am also part of a European PhD training network (Improving Quality of Care in Europe), and am funded through a Marie-Curie fellowship, awarded by the European Commission.
 
@@ -28,34 +76,7 @@ In my doctorate, I am applying economic and statistical tools, including applied
 
 My aim is to improve the reproducibility of ongoing research and adhere to the open science principals also in future projects.
 
-# CV and Contact Info
 
-Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
-
-<!-- EMAIL -->
-<p>
-  <a href="mailto:himmler@eshpm.eur.nl">
-  <img border="0" alt="Sebastian Himmler" src="/images/Himmler.jpg" width="150" height="150" align="left">
-  </a>
-</p>
-
-<!-- CV -->
-<p align="center">
-  <a href="https://www.sebastianhimmler.com/media/resume.pdf" class="fa fa-file fa-2x" style="color:#00B969;">
-  </a>
-</p>
-
-<!-- TWITTER -->
-<p align="center">
-  <a href="https://twitter.com/Sebastian_Him" class="fa fa-twitter fa-2x">
-  </a>
-</p>
-
-<!-- PERSONAL WEBSITE -->
-<p align="center">
-  <a href="https://www.sebastianhimmler.com/" class="fa fa-link fa-2x" style="color:#000000;">
-  </a>
-</p>
 
 <BR>
 

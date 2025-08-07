@@ -6,7 +6,7 @@ slug: "Intro-GitHub-Apr2020"
 categories: ["News"]
 tags: ["workshops", "open source software", "reproducible analysis"]
 coverImage: /images/OSCR-git-logos.png
-banner: /images/OSCR-git-thumbnail.png
+banner: /images/news/OSCR-git-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,7 @@ summary: "April 29th 2020, h. 10:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
+<img border="0" alt="" src="/images/news/OSCR-git-logos.png" width="70%" height="200" align="center">
 
 Our first [online ReproducibiliTea Rotterdam](https://www.openscience-rotterdam.com/2020/03/reproducibilitea-apr2020/) was a great success! Thirty people joined our Zoom meeting to discuss with [Anne Scheel](https://research.tue.nl/en/persons/anne-m-scheel) her preprint comparing the standard psychology literature with Registered Reports. The presentation was awesome, the questions insightful, and the atmosphere light and informal. Thanks to everyone involved!
 

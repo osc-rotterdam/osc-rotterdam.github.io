@@ -6,7 +6,7 @@ slug: "intro-OSF-june2022"
 categories: ["News"]
 tags: ["workshops", "open science", "OSF"]
 coverImage: /images/OSCR-OSF-banner.jpg
-banner: /images/OSCR-OSF.jpg
+banner: /images/news/OSCR-OSF.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,6 +18,8 @@ summary: "June 1st 2022, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: inline
 ---
+<img border="0" alt="" src="/images/news/OSCR-OSF-banner.jpg" width="100%" height="100%" align="center">
+
 
 The Open Science Community Rotterdam is happy to announce an online hands-on workshop entitled **Introduction to the Open Science Framework**[^1]. Below the announcement:
 

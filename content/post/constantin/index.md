@@ -5,7 +5,7 @@ slug: "constantin"
 categories: ["people"]
 tags: ["open access", "data sharing", "science communication", "publishing", "UB"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Constantin.jpg
+banner: /images/people/Constantin.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,36 +18,57 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-
-# Description
-
-I have a Ph.D. in Plant Pathology from the University of Amsterdam and I worked as Scientific Editor for Data in Brief, one of the largest OA journals at Elsevier. I am interested in an equitable and sustainable Open Access models with a specific focus on Diamond Open Access.
- 
-# CV and Contact Info
-
-Click on the picture to send an email. The icon on the right redirects to social media.
-
 <!-- EMAIL -->
 <p>
   <a href="mailto:maria.constantin@eur.nl">
-  <img border="0" alt="Maria Constantin" src="/images/Constantin.jpg" width="150" height="150" align="left">
+  <img border="0" alt="Maria Constantin" src="/images/people/Constantin.jpg" width="200" height="200" align="center">
   </a>
 </p>
 
-<!-- LINKEDIN -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariaermioniconstantin/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+<!--  CV
+  <a href="" class="fa-solid fa-file" style="color:#000000;">
+  </a> -->
+
+<!-- TWITTER   -->
+  <a href="https://twitter.com/meconstantin001" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   
+
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
   </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN -->  
+  <a href="https://www.linkedin.com/in/mariaermioniconstantin/" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a> 
+  
+  <!-- ORCID   
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE 
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a> -->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
 </p>
 
-<!-- TWITTER -->
-<p align="center">
-  <a href="https://twitter.com/meconstantin001" class="fa fa-twitter fa-2x">
-  </a>
-</p>
 
-<BR><BR>
+# About me
+
+I have a Ph.D. in Plant Pathology from the University of Amsterdam and I worked as Scientific Editor for Data in Brief, one of the largest OA journals at Elsevier. I am interested in an equitable and sustainable Open Access models with a specific focus on Diamond Open Access.
+ 
+<BR>
 
 # Expertise
 
