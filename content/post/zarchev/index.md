@@ -5,7 +5,7 @@ slug: "zarchev"
 categories: ["people"]
 tags: ["preregistration", "open access", "reproducible analysis", "code review", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Zarchev.jpg
+banner: /images/people/Zarchev.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -6,7 +6,7 @@ slug: "takeaway-orcid-nov2020"
 categories: ["News"]
 tags: ["open science", "ORCID", "UL"]
 coverImage: /images/ORCID-banner.jpg
-banner: /images/ORCID-thumbnail.png
+banner: /images/news/ORCID-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

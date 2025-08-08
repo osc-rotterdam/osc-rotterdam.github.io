@@ -8,11 +8,6 @@
   <style>
   img {
   border-radius: 8px;
-  }
-  .pagination a.active {
-  background-color: #4CAF50;
-  color: white;
-}
 </style>
 
   <body>
@@ -28,26 +23,34 @@
         <div id="content">
             <div class="container">
                 <div class="row">
-                    <!-- *** LEFT COLUMN *** -->
+                  
+                     <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-2" id="blog-listing-medium">
+                    </div>
+                    <!-- /.col-md-1.5 -->
+                    <!-- *** LEFT COLUMN END *** -->
+                    
+                    <!-- *** MIDDLE COLUMN ***      
+      _________________________________________________________ -->
 
-                    <div class="col-md-9" id="blog-listing-medium">
+                    <div class="col-md-12" id="blog-listing-medium">
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                   <div class="image">
                                       <a href="{{ .Permalink }}">
                                           {{ if .Params.banner }}
                                           <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" />
                                           {{ else }}
-                                          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="" />
+                                          <img src="{{ "images/OSCR_thumbnail.png" | relURL }}" class="img-responsive" alt="" />
                                           {{ end }}
                                       </a>
                                   </div>
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-9">
                                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
@@ -84,38 +87,24 @@
                             </div>
                         </section>
                         {{ end }}
-
-                        <ul class="pager">
-                            {{ if .Paginator.HasPrev }}
-                            <li class="previous"><a href="{{ .Paginator.Prev.URL | relURL }}">&larr; {{ i18n "newer" }}</a></li>
-                            {{ else }}
-                            <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
-                            {{ end }}
-
-                            {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Paginator.Next.URL | relURL }}">{{ i18n "older" }} &rarr;</a></li>
-                            {{ else }}
-                            <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
-                            {{ end }}
-                        </ul>
-                    </div>
+                        
                     <!-- /.col-md-9 -->
 
-                    <!-- *** LEFT COLUMN END *** -->
+                    <!-- *** MIDDLE COLUMN END *** -->
 
                     <!-- *** RIGHT COLUMN ***
        _________________________________________________________ -->
 
-                    <div class="col-md-3">
+                    <div class="col-md-2">
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ partial "sidebar.html" . }}
+                        <!-- {{ partial "sidebar.html" . }} -->
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
                     </div>
-                    <!-- /.col-md-3 -->
+                    <!-- /.col-md-1 -->
 
                     <!-- *** RIGHT COLUMN END *** -->
 
@@ -123,6 +112,13 @@
                 <!-- /.row -->
             </div>
             <!-- /.container -->
+            
+            <!-- Pagination -->
+            <div align="center">
+                {{partial "pagination.html" .}}  
+            </div>
+            <!-- /.Pagination -->
+            
         </div>
         <!-- /#content -->
 

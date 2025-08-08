@@ -5,7 +5,7 @@ slug: "zampeta"
 categories: ["people"]
 tags: ["open access", "science communication", "music", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
-banner: /images/Zampeta.jpg
+banner: /images/people/Zampeta.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -40,6 +40,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 5
+    - identifier: Tags
+      name: 'Tags'
+      url: /tags/
+      weight: 5
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
@@ -130,7 +134,7 @@ params:
   twitter_site: OSCRotterdam
   viewMorePostLink: /post/
   widgets:
-    categories: yes
+    categories: no
     search: no
     tags: yes
 permalinks:
@@ -143,77 +147,6 @@ taxonomies:
   
   
 markup:
-  asciidocExt:
-    attributes: {}
-    backend: html5
-    extensions: []
-    failureLevel: fatal
-    noHeaderOrFooter: true
-    preserveTOC: false
-    safeMode: safe
-    sectionNumbers: false
-    trace: false
-    verbose: false
-    workingFolderCurrent: false
   goldmark:
-    duplicateResourceFiles: false
-    extensions:
-      cjk:
-        eastAsianLineBreaks: false
-        eastAsianLineBreaksStyle: simple
-        enable: false
-        escapedSpace: false
-      definitionList: true
-      extras:
-        delete:
-          enable: false
-        insert:
-          enable: false
-        mark:
-          enable: false
-        subscript:
-          enable: false
-        superscript:
-          enable: false
-      footnote: true
-      linkify: true
-      linkifyProtocol: https
-      passthrough:
-        delimiters:
-          block: []
-          inline: []
-        enable: false
-      strikethrough: true
-      table: true
-      taskList: true
-      typographer:
-        apostrophe: '&rsquo;'
-        disable: false
-        ellipsis: '&hellip;'
-        emDash: '&mdash;'
-        enDash: '&ndash;'
-        leftAngleQuote: '&laquo;'
-        leftDoubleQuote: '&ldquo;'
-        leftSingleQuote: '&lsquo;'
-        rightAngleQuote: '&raquo;'
-        rightDoubleQuote: '&rdquo;'
-        rightSingleQuote: '&rsquo;'
-    parser:
-      attribute:
-        block: false
-        title: true
-      autoDefinitionTermID: false
-      autoHeadingID: true
-      autoIDType: github
-      wrapStandAloneimageWithinParagraph: true
-    renderHooks:
-      image:
-        enableDefault: false
-        useEmbedded: auto
-      link:
-        enableDefault: false
-        useEmbedded: auto
     renderer:
-      hardWraps: false
       unsafe: true
-      xhtml: false
