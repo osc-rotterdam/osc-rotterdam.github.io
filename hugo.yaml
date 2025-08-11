@@ -39,7 +39,7 @@ menu:
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 5
+      weight: 6
     - identifier: Tags
       name: 'Tags'
       url: /tags/
