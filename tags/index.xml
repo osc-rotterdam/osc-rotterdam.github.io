@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Open Science Community Rotterdam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data management</title>
+      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERS</title>
+      <link>https://www.openscience-rotterdam.com/tags/ers/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/ers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source software</title>
+      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible analysis</title>
+      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>metaphorising research</title>
       <link>https://www.openscience-rotterdam.com/tags/metaphorising-research/</link>
@@ -35,15 +71,6 @@
     </item>
     
     <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>machine learning</title>
       <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
@@ -58,15 +85,6 @@
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
       <description></description>
     </item>
     
@@ -98,15 +116,6 @@
     </item>
     
     <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>preregistration</title>
       <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
@@ -130,15 +139,6 @@
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERS</title>
-      <link>https://www.openscience-rotterdam.com/tags/ers/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ers/</guid>
       <description></description>
     </item>
     
