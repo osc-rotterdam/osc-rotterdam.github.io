@@ -79,7 +79,7 @@ Click on the picture to send an email. The icons on the right redirect to the CV
 
 <!-- # Expertise -->
 
-```{r radarPlot, eval = TRUE}
+```{r radarPlot, eval = FALSE}
 
 member_name <- "Jason Pridmore"
 special_skill <- "collaboration"
