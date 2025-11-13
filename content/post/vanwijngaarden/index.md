@@ -2,7 +2,7 @@
 title: "OSCR Member: Wout van Wijngaarden"
 date: 2021-10-19
 slug: "vanwijngaarden"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "edis"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanWijngaarden.jpg

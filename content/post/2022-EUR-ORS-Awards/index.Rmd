@@ -3,7 +3,7 @@ title: "EUR Open & Responsible Science Awards"
 author: ["Eirini Botsari", "Antonio Schettino"]
 date: 2022-08-31
 slug: "2022-EUR-ORS-Awards"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
 coverImage: /images/EUR_ORS_Awards_2022-banner.png
 banner: /images/EUR_ORS_Awards_2022-thumbnail.png

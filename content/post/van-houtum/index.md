@@ -2,7 +2,7 @@
 title: "OSCR Member: Lisanne van Houtum"
 date: 2023-11-02
 slug: "van-houtum"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "reproducible analysis", "preregistration", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanHoutum.jpg

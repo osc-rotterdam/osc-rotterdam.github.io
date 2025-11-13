@@ -3,10 +3,10 @@ title: ReproducibiliTea for qualitative researchers
 author: ["Rik Joosen", "Antonio Schettino"]
 date: 2019-11-26
 slug: "ReproducibiliTea-Dec2019"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

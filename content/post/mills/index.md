@@ -2,7 +2,7 @@
 title: "OSCR Member: John Mills"
 date: 2023-09-15
 slug: "mills"
-categories: ["people"]
+categories: ["People"]
 tags: ["ethics", "registered reports", "open access", "preregistration", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Mills.jpg

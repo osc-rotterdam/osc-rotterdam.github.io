@@ -2,7 +2,7 @@
 title: "OSCR Member: Laura Dias"
 date: 2025-05-23
 slug: "dias"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "open source software", "machine learning", "cat lover", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Dias.jpg

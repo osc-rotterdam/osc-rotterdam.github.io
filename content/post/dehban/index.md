@@ -2,7 +2,7 @@
 title: "OSCR Member: Somaye Dehban"
 date: 2021-04-26
 slug: "dehban"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "data management", "development aid", "fusion Iranian food", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Dehban.jpg

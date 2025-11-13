@@ -2,7 +2,7 @@
 title: "OSCR Member: Annemiek Harder"
 date: 2024-03-22
 slug: "harder"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data sharing", "preregistration", "cat lover", "review studies", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Harder.jpg

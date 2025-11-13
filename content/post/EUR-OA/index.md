@@ -3,10 +3,10 @@ title: "A Researcher’s Guide to Open Access Publishing"
 author: ["Joy Dijksman", "Antonio Schettino"]
 date: 2020-12-03
 slug: "eur-oa"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "open access", "UL"]
-coverImage: /images/EUR-OA-banner.jpg
-banner: /images/news/EUR-OA-banner.jpg
+coverImage: /images/archive/EUR-OA-banner.jpg
+banner: /images/archive/EUR-OA-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "A short but comprehensive guide to Open Access publishing for EUR and 
 editor_options: 
   chunk_output_type: inline
 ---
-
-<img border="0" alt="" src="/images/news/EUR-OA-banner.jpg" width="70%" height="200" align="center">
-<BR>
 
 In recent years, Open Access has steadily gained momentum. Most journals and publishers today have Open Access channels and authors have the choice, or even the obligation, to publish Open Access. The academic landscape has adopted Open Access and it no longer seems necessary to convince researchers of the ideals and advantages of this publishing model. But the Open Access movement has developed so rapidly in recent years that it can be difficult navigating this new playing field. The language of Open Access is littered with so many colors, metals, and precious stones, that you would be forgiven for losing track. In this post, we will elaborate on the principles of Open Access publishing and provide an overview of your Open Access options. 
 

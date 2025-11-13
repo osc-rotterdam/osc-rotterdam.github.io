@@ -2,7 +2,7 @@
 title: "OSCR Member: Viola Woeckel"
 date: 2023-09-09
 slug: "woeckel"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "preregistration", "FAIR data", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Woeckel.jpg

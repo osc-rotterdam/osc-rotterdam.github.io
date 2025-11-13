@@ -2,7 +2,7 @@
 title: "OSCR Member: Wilfred Mijnhardt"
 date: 2019-08-06
 slug: "mijnhardt"
-categories: ["people"]
+categories: ["People"]
 tags: ["policy analysis", "open access", "data management", "data sharing", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Mijnhardt.jpg

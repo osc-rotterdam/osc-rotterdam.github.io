@@ -3,7 +3,7 @@ title: National Open Science Festival - Save the Date!
 author: "Antonio Schettino"
 date: 2020-01-28
 slug: "OSfestival-Wageningen-announcement"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["conference"]
 coverImage: /images/OSfestival_Wageningen.jpg
 banner: /images/WUR_logo.jpeg

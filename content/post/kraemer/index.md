@@ -2,7 +2,7 @@
 title: "OSCR Member: Julia Krämer"
 date: 2022-11-11
 slug: "kraemer"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open source software", "R", "python", "webscraping", "law", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Kraemer.jpg

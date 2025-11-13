@@ -3,10 +3,10 @@ title: "A Brief Introduction to Bayesian Hypothesis Testing"
 author: ["Oliver Lindemann", "Antonio Schettino"]
 date: 2021-04-01
 slug: "IntroBayes-April2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/OSCR-bayes-banner.png
-banner: /images/news/OSCR-bayes-thumbnail.png
+coverImage: /images/archive/OSCR-bayes-banner.png
+banner: /images/archive/OSCR-bayes-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,7 +18,6 @@ summary: "April 8th 2021, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/OSCR-bayes-thumbnail.png" width="70%" height="200" align="center">
 
 In the context of the ongoing debate about the replication crisis in psychology, methodologists have criticized the common practice of null-hypothesis testing using *p*-values. As a result, more and more researchers recently started using so-called Bayesian statistics to analyze their data. But what does this "new" approach to statistics really mean? What are the differences between Bayesian statistics and Frequentist statistics? What are the advantages (or disadvantages) of the estimation of the "subjective probability" of a model as compared to the usual practice to test a model based on the "objective probability" of the data under the null-hypothesis? What are the implications for our conclusions and interpretations of the results, if we switch from Frequentist to Bayesian statistics?
 

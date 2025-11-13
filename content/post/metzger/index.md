@@ -2,7 +2,7 @@
 title: "OSCR Member: Daniel Metzger"
 date: 2023-04-16
 slug: "metzger"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "reproducible analysis", "data management", "football", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Metzger.jpg

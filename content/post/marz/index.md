@@ -2,7 +2,7 @@
 title: "OSCR Member: Julius März"
 date: 2025-04-24
 slug: "marz"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "reproducible analysis", "open source software", "reproducible analysis", "open access", "sleeping", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Marz.jpg

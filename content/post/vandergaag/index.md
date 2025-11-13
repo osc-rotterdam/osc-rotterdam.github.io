@@ -2,7 +2,7 @@
 title: "OSCR Member: Renske van der Gaag"
 date: 2024-01-12
 slug: "vandergaag"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "open source software", "data sharing", "qualitative methods", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanderGaag.jpg

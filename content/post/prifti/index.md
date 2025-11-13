@@ -2,7 +2,7 @@
 title: "OSCR Member: Kostina Prifti"
 date: 2025-03-28
 slug: "prifti"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "cat lover", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Prifti.jpg

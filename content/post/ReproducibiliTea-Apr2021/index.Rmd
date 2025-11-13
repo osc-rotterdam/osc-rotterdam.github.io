@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Foundational Practices of Research Data Managem
 author: ["Nils Arlinghaus", "Eduard Klapwijk", "Antonio Schettino"]
 date: 2021-04-09
 slug: "ReproducibiliTea-Apr2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

@@ -2,7 +2,7 @@
 title: "OSCR Member: Jessica Dekkers-de Leeuw"
 date: 2022-01-25
 slug: "dekkers-deleeuw"
-categories: ["people"]
+categories: ["People"]
 tags: ["policy development", "grant preparation", "data management", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Dekkers-deLeeuw.jpg

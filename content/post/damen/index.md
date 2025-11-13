@@ -2,7 +2,7 @@
 title: "OSCR Member: Roxy Damen"
 date: 2021-03-05
 slug: "damen"
-categories: ["people"]
+categories: ["People"]
 tags: ["plant lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Damen.jpg

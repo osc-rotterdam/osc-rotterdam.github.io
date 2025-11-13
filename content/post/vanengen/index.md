@@ -2,7 +2,7 @@
 title: "OSCR Member: Annette van Engen"
 date: 2024-10-06
 slug: "vanengen"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "curiosity", "school-ihs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanEngen.jpg

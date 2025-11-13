@@ -2,7 +2,7 @@
 title: "OSCR Member: Bryan Bong"
 date: 2024-07-29
 slug: "bong"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "bibliophile", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Bong.jpg

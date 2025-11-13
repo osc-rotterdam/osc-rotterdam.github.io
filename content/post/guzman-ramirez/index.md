@@ -2,7 +2,7 @@
 title: "OSCR Member: Lizette Guzman-Ramirez"
 date: 2021-01-18
 slug: "guzman-ramirez"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "reproducible analysis", "school-rsm", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Guzman-Ramirez.jpg

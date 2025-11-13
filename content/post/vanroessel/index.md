@@ -2,7 +2,7 @@
 title: "OSCR Member: Maud van Roessel"
 date: 2024-02-23
 slug: "vanroessel"
-categories: ["people"]
+categories: ["People"]
 tags: ["strategy-office"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanRoessel.jpg

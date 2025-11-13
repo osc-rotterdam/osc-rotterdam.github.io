@@ -2,7 +2,7 @@
 title: "OSCR Member: Leonardo Wada"
 date: 2024-10-06
 slug: "wada"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "reproducible analysis", "preregistration", "literature search", "school-euc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Wada.jpg

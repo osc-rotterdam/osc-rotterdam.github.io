@@ -2,7 +2,7 @@
 title: "OSCR Member: Aishameriane Venes Schmidt"
 date: 2021-10-05
 slug: "schmidt"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "data sharing", "cat lover", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Schmidt.jpg

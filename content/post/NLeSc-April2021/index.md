@@ -3,10 +3,10 @@ title: "The eScience Center offers free and open research programming workshops"
 author:  ["Lieke de Boer", "Antonio Schettino"]
 date: 2021-04-19
 slug: "nlesc"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["NLeSc"]
-coverImage: /images/news/NLeSC_banner.jpg
-banner: /images/news/NLeSC_thumbnail.jpg
+coverImage: /images/archive/NLeSC_banner.jpg
+banner: /images/archive/NLeSC_thumbnail.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "Empowering researchers from all disciplines through the use of researc
 editor_options: 
   chunk_output_type: inline
 ---
-<img border="0" alt="" src="/images/news/NLeSC_banner.jpg" width="70%" height="200" align="center">
-
-<BR></BR>
 
 It's 9.00 am, a Monday morning in March 2021, and a group of academic researchers has just gathered in a Zoom meeting. Instructor Jens starts with an icebreaker: “What would you be doing if academia did not exist?”. The answers, collected in a collaborative document, cover a wide range of alternative careers, from cheesemaker to musician, through veterinarian and restaurateur. Evidently the 30 or so researchers in the meeting have had their share of “what-if” moments, but they have gathered there with the explicit goal of becoming better at what they are currently doing: research.
 

@@ -2,7 +2,7 @@
 title: "OSCR Member: Jeffrey Sweeney"
 date: 2021-12-01
 slug: "sweeney"
-categories: ["people"]
+categories: ["People"]
 tags: ["cooking", "data sharing", "reproducible analysis", "data management", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Sweeney.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Isabella Zampeta"
 date: 2021-06-11
 slug: "zampeta"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "science communication", "music", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Zampeta.jpg

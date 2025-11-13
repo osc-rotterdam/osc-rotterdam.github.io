@@ -2,7 +2,7 @@
 title: "OSCR Member: Donna de Maat"
 date: 2021-06-30
 slug: "demaat"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "running", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/deMaat.jpg

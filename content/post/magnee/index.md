@@ -2,7 +2,7 @@
 title: "OSCR Member: Tessa Magnée"
 date: 2021-02-08
 slug: "Magnee"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "data sharing", "science communication", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Magnee.jpg

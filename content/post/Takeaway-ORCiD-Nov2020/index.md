@@ -3,10 +3,10 @@ title: "Take-away OSCR-ORCID workshop"
 author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-11-26
 slug: "takeaway-orcid-nov2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "ORCID", "UL"]
-coverImage: /images/ORCID-banner.jpg
-banner: /images/news/ORCID-thumbnail.png
+coverImage: /images/archive/ORCID-banner.jpg
+banner: /images/archive/ORCID-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "Missed out on the workshop? Catch up by following these steps!"
 editor_options: 
   chunk_output_type: inline
 ---
-
-<img border="0" alt="" src="/images/news/ORCID-banner.jpg" width="70%" height="200" align="center">
-<BR>
 
 On November 18th, OSCR hosted a fruitful workshop with the Erasmus Library ORCID Team. During the workshop we discussed what ORCID is, its benefits, and -- more importantly -- how to get the most out of your ORCID iD. Participants were encouraged to actively go through their own ORCID record and incorporate tips and tricks that would allow them to reap the benefits of ORCID.
 

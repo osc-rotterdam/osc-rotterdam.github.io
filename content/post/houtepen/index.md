@@ -2,7 +2,7 @@
 title: "OSCR Member: Lotte Houtepen"
 date: 2021-02-25
 slug: "houtepen"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "societal impact", "science communication", "cat lover", "academic-affairs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Houtepen.jpg

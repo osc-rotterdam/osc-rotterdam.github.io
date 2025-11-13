@@ -2,7 +2,7 @@
 title: "OSCR Member: Marianne Tenand"
 date: 2020-01-08
 slug: "tenand"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "open access", "data management", "eco-conscious/eco-anxious", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Tenand.jpg

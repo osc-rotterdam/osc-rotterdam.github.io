@@ -2,7 +2,7 @@
 title: "OSCR Member: Kristel de Groot"
 date: 2024-06-21
 slug: "de-groot"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "preregistration", "data management", "ethics", "school-ese", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/deGroot.jpg

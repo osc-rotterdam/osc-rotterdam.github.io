@@ -3,7 +3,7 @@ title: "Winners of the Convergence Health and Technology Open Research Awards 20
 author: ["Bing Xu", "Elisabet Blok", "Lorenza Dall'Aglio", "Antonio Schettino"]
 date: 2021-11-30
 slug: "2021-Convergence-OR-Awards-Winners"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
 coverImage: /images/2021-Convergence-OR-Awards-banner.png
 banner: /images/2021-Convergence-OR-Awards-thumbnail.png

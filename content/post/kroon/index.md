@@ -2,7 +2,7 @@
 title: "OSCR Member: Emese Kroon"
 date: 2024-11-15
 slug: "kroon"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "preregistation", "open access", "baking", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Kroon.jpg

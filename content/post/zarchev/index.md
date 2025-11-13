@@ -2,7 +2,7 @@
 title: "OSCR Member: Milan Zarchev"
 date: 2021-10-05
 slug: "zarchev"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "reproducible analysis", "code review", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Zarchev.jpg

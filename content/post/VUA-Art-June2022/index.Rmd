@@ -3,7 +3,7 @@ title: "Art and science, the breakthrough"
 author: ["Eirini Botsari"]
 date: 2022-08-10
 slug: "VUA-Art-June2022"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
 coverImage: /images/VUA-Art-June2022/VUA-Art-banner.png
 banner: /images/VUA-Art-June2022/VUA-Art-thumbnail.png

@@ -3,7 +3,7 @@ title: "PhD candidates and Open Science in the Netherlands"
 author: ["Tess van Doorn", "Antonio Schettino"]
 date: 2021-01-22
 slug: "PNN-PhD-survey"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks", "open science"]
 coverImage: /images/PNN-PhD-survey-banner.png
 banner: /images/PNN-PhD-survey.png

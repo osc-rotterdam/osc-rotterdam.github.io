@@ -3,7 +3,7 @@ title: "Distinguish yourself and get recognized with ORCID!"
 author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-10-27
 slug: "eur-orcid"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "ORCID", "UL"]
 coverImage: /images/ORCID-banner.jpg
 banner: /images/ORCID-thumbnail.png

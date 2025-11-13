@@ -2,7 +2,7 @@
 title: "OSCR Member: Yaniv Morgenstern"
 date: 2024-11-08
 slug: "morgenstern"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "data sharing", "open access", "Matlab", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Morgenstern.jpg

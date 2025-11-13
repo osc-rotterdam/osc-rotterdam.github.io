@@ -2,7 +2,7 @@
 title: "OSCR Member: Andreas Alfons"
 date: 2021-04-08
 slug: "alfons"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "reproducible analysis", "open access", "bicycle mechanic", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Alfons.jpg

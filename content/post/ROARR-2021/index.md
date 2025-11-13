@@ -3,10 +3,10 @@ title: "ROARR!"
 author: ["Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
 date: 2021-01-12
 slug: "ROARR-2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS", "talks", "ROARR2021"]
-coverImage: /images/ROARR2021-banner.png
-banner: /images/news/RIOTS_OSCR.png
+coverImage: /images/archive/ROARR2021-banner.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -23,7 +23,7 @@ editor_options:
 
 We are delighted to announce that, in 2021, we will organize the **Rotterdam Open And Reproducible Research** (**ROARR**) programme in collaboration with the [Rotterdam R.I.O.T. Science Club](https://www.riotsciencenl.com/). Within the ROARR programme, researchers from different fields will give introductory lectures and practical sessions on open research along the research cycle: from how pre-registration and registered reports aid our hypothesis testing to how publishing can be reimagined in an open research culture.
 
-![The ROARR2021 program. Image by [Lorenza Dall'Aglio](https://www.openscience-rotterdam.com/2020/02/dallaglio/), created with [Slidesgo](https://slidesgo.com/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)](/images/ROARR2021-program.png)
+![The ROARR2021 program. Image by [Lorenza Dall'Aglio](https://www.openscience-rotterdam.com/2020/02/dallaglio/), created with [Slidesgo](https://slidesgo.com/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)](/images/archive/ROARR2021-program.png)
 
 These seminars are open to everyone. More information on the upcoming sessions will be available on the [OSCR](https://www.openscience-rotterdam.com/) and [R'dam R.I.O.T.S. Club](https://www.riotsciencenl.com/) websites.
 

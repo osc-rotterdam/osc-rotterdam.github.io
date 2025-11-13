@@ -2,7 +2,7 @@
 title: "OSCR Member: Rik Joosen"
 date: 2020-02-10
 slug: "joosen"
-categories: ["people"]
+categories: ["People"]
 tags: ["Bayesian inference", "R", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Joosen.jpg

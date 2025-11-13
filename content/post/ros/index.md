@@ -2,7 +2,7 @@
 title: "OSCR Member: Björn Ros"
 date: 2025-02-07
 slug: "ros"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "open source software", "information literacy", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Ros.jpg

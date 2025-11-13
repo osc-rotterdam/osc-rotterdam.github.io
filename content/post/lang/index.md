@@ -2,7 +2,7 @@
 title: "OSCR Member: Zhongyu Lang"
 date: 2021-02-01
 slug: "lang"
-categories: ["people"]
+categories: ["People"]
 tags: ["school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lang.jpg

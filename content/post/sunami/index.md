@@ -2,7 +2,7 @@
 title: "OSCR Member: Nami Sunami"
 date: 2023-01-25
 slug: "sunami"
-categories: ["people"]
+categories: ["People"]
 tags: ["data sharing", "reproducible analysis", "preregistration", "pop culture references", "school-rsm", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Sunami.jpg

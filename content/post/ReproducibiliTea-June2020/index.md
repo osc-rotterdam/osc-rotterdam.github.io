@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: v-hacking"
 author: ["Ian Hussey", "Sean Hughes", "Antonio Schettino"]
 date: 2020-05-27
 slug: "ReproducibiliTea-June2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

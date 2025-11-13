@@ -2,7 +2,7 @@
 title: "OSCR Member: Victoria Balan"
 date: 2022-12-02
 slug: "balan"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "qualitative methods", "cat lover", "school-eshcc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Balan.jpg

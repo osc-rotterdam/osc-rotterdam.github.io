@@ -2,7 +2,7 @@
 title: "OSCR Member: Sebastian Himmler"
 date: 2021-02-04
 slug: "himmler"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "reproducible analysis", "procrastination", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Himmler.jpg

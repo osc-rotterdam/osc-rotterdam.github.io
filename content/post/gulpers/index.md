@@ -2,7 +2,7 @@
 title: "OSCR Member: Judith Gulpers"
 date: 2024-06-14
 slug: "gulpers"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "ORCID", "UB"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Gulpers.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Emily Tang"
 date: 2021-05-10
 slug: "tang"
-categories: ["people"]
+categories: ["People"]
 tags: ["school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Tang.jpg

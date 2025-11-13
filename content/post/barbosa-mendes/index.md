@@ -2,7 +2,7 @@
 title: "OSCR Member: Ana Barbosa Mendes"
 date: 2021-06-22
 slug: "barbosa-mendes"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "citizen science", "responsible research and innovation", "school-esphil"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Barbosa-Mendes.jpg

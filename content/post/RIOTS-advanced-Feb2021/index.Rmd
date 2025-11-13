@@ -3,10 +3,10 @@ title: "Rotterdam R.I.O.T.S. Club -- R Markdown & Github"
 author:  ["Oliver Pain", "Lorenza Dall'Aglio", "Elisabet Blok", "Bing Xu", "Antonio Schettino"]
 date: 2021-02-19
 slug: "RIOTS-advanced-Feb2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS", "open science", "workshops", "open source software", "reproducible analysis"]
 coverImage: /images/RIOTS_Roffa.png
-banner: /images/news/RIOTS_OSCR.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

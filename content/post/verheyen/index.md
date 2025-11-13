@@ -2,7 +2,7 @@
 title: "OSCR Member: Steven Verheyen"
 date: 2020-02-07
 slug: "verheyen"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "data sharing", "multiverse analysis", "replication", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Verheyen.jpg

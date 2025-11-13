@@ -2,7 +2,7 @@
 title: "OSCR Member: Amarilys Abreu"
 date: 2024-03-02
 slug: "abreu"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "data sharing", "inclusiveness", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Abreu.jpg

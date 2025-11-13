@@ -2,7 +2,7 @@
 title: "OSCR Member: Ines Lucieer"
 date: 2022-05-22
 slug: "lucieer"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "preregistration", "flexibility", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lucieer.jpg

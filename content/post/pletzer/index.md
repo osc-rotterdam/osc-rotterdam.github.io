@@ -2,7 +2,7 @@
 title: "OSCR Member: Jan Luca Pletzer"
 date: 2022-01-14
 slug: "pletzer"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "data sharing", "open access", "watching soccer", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Pletzer.jpg

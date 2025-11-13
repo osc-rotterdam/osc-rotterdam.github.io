@@ -2,7 +2,7 @@
 title: "OSCR Member: Zhiqi Xu"
 date: 2024-03-08
 slug: "xu"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "preregistration", "data sharing", "fieldwork", "school-iss"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Xu.jpg

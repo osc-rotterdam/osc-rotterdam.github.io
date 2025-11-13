@@ -2,7 +2,7 @@
 title: "OSCR Member: Ana Martinovici"
 date: 2020-02-25
 slug: "martinovici"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "packrat", "cat lover", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Martinovici.jpg

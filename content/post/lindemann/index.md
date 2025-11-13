@@ -2,7 +2,7 @@
 title: "OSCR Member: Oliver Lindemann"
 date: 2019-07-30
 slug: "lindemann"
-categories: ["people"]
+categories: ["People"]
 tags: ["Linux", "open source software", "reproducible analysis", "data sharing", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lindemann.jpg

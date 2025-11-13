@@ -2,7 +2,7 @@
 title: "OSCR Member: Lasse Gerrits"
 date: 2024-09-20
 slug: "gerrits"
-categories: ["people"]
+categories: ["People"]
 tags: ["heavy metal guitar", "open access", "data management", "open source software", "school-ihs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Gerrits.jpg

@@ -3,10 +3,10 @@ title: "Data Stewards join EUR Research Support"
 author: ["Nils Arlinghaus", "Anna Volkova", "Liz Guzman-Ramirez", "Antonio Schettino"]
 date: 2021-01-20
 slug: "Data-Stewards-Jan2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open science", "data sharing", "school-rsm", "school-ese", "school-eshpm", "school-eshcc", "school-esphil"]
 coverImage: /images/people.svg
-banner: /images/news/DS-Jan2021.png
+banner: /images/archive/DS-Jan2021.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "Meet the newly appointed Data Stewards and come to the EUR Research Fu
 editor_options: 
   chunk_output_type: console
 ---
-
-<img border="0" alt="" src="/images/news/DS-Jan2021.png" width="70%" height="200" align="center">
-
 
 Since the beginning of the new year, Erasmus University Rotterdam offers extended support for research data management (RDM). A newly appointed team of Data Stewards is working together to assist researchers with the implementation of best practices of RDM across all schools at EUR.
 

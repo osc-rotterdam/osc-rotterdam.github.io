@@ -2,7 +2,7 @@
 title: "OSCR Member: Freya De Keyzer"
 date: 2022-04-11
 slug: "dekeyzer"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "open access", "cat lover", "school-eshcc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/DeKeyzer.jpg

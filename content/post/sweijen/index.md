@@ -2,7 +2,7 @@
 title: "OSCR Member: Sophie Sweijen"
 date: 2020-10-14
 slug: "sweijen"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "data management", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Sweijen.jpg

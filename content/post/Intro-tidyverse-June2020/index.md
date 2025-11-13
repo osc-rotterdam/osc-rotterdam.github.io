@@ -3,10 +3,10 @@ title: "A Tour Around the Tidyverse World"
 author: ["Paloma Rojas Saunero", "Antonio Schettino"]
 date: 2020-06-15
 slug: "intro-tidyverse-June2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open source software", "reproducible analysis"]
-coverImage: /images/OSCR-tidyverse-banner.png
-banner: /images/news/OSCR-tidyverse-thumbnail.png
+coverImage: /images/archive/OSCR-tidyverse-banner.png
+banner: /images/archive/OSCR-tidyverse-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,7 +18,6 @@ summary: "June 24th 2020, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/OSCR-tidyverse-banner.png" width="100%" height="100%" align="center">
 
 Broadly defined, Open Science aims to make the products of scholarly investigation accessible to as many people as possible. In empirical sciences, one of these products is data analysis. How can you build your analysis pipeline in a way that can easily be inspected, so that results can be reproduced both by novices and experts? With *R*, of course!
    

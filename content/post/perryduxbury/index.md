@@ -2,7 +2,7 @@
 title: "OSCR Member: Meg Perry-Duxbury"
 date: 2019-10-03
 slug: "perryduxbury"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "open access", "reproducible analysis", "sushi lover", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/PerryDuxbury.jpg

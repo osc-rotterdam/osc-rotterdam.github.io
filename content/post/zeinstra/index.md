@@ -2,7 +2,7 @@
 title: "OSCR Member: Lysbert Zeinstra"
 date: 2021-10-21
 slug: "zeinstra"
-categories: ["people"]
+categories: ["People"]
 tags: ["clinical practice", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Zeinstra.jpg

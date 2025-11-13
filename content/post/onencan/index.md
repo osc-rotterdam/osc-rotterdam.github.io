@@ -2,7 +2,7 @@
 title: "OSCR Member: Abby Onencan"
 date: 2022-03-31
 slug: "onencan"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "data sharing", "citizen science", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Onencan.jpg

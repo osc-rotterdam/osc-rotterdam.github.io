@@ -2,7 +2,7 @@
 title: "OSCR Member: Serena Defina"
 date: 2020-10-30
 slug: "defina"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "beer", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Defina.jpg

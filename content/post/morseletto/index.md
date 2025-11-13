@@ -2,7 +2,7 @@
 title: "OSCR Member: Piero Morseletto"
 date: 2023-08-04
 slug: "morseletto"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "discretion", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Morseletto.jpg

@@ -22,9 +22,9 @@ menu:
       identifier: section.about
       url: /about
       weight: 2
-    - name: 'Guiding Principles'
+    - name: 'Community Statement'
       parent: section.about
-      url: /guide
+      url: /community
       weight: 1
     - name: 'Code of Conduct'
       parent: section.about
@@ -33,6 +33,9 @@ menu:
     - name: 'News'
       url: /categories/news/
       weight: 3
+    - name: 'Archive'
+      url: /categories/archive/
+      weight: 5
     - name: 'Community'
       url: /categories/people/
       weight: 4
@@ -40,10 +43,6 @@ menu:
       name: Contact
       url: /contact/
       weight: 6
-    - identifier: Tags
-      name: 'Tags'
-      url: /tags/
-      weight: 5
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
@@ -101,7 +100,7 @@ params:
     enable: no
   footer:
     recent_posts:
-      enable: yes
+      enable: no
   formspree_action: https://formspree.io/sample/of/endpoint
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
@@ -112,9 +111,9 @@ params:
   #longitude: '-77.028333'
   mainSections: post
   recent_posts:
-    enable: yes
+    enable: no
     hide_summary: no
-    subtitle: See here the newest members and posts of our community!
+    subtitle: See here the newest events of our community!
     title: Recent updates
   see_more:
     enable: yes
@@ -123,9 +122,9 @@ params:
     link_url: https://osc-international.com/open-science-community-the-netherlands/
     subtitle: Here you can find an overview of the Open Science Communities 
     title: Want to know more about the Open Science Communities in the Netherlands?
-  style: turquoise
+  style: green
   testimonials:
-    enable: yes
+    enable: no
     subtitle: Get to know some of our community members and how Open Science influences their work!
     title: Spotlight
   topbar:
@@ -135,7 +134,7 @@ params:
   viewMorePostLink: /post/
   widgets:
     categories: no
-    search: no
+    search: yes
     tags: yes
 permalinks:
   post: /post/:year/:month/:day/:contentbasename/

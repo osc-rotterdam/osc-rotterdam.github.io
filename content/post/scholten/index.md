@@ -2,7 +2,7 @@
 title: "OSCR Member: Willem Scholten"
 date: 2022-01-11
 slug: "scholten"
-categories: ["people"]
+categories: ["People"]
 tags: ["ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Scholten.jpg

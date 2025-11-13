@@ -2,7 +2,7 @@
 title: "OSCR Member: Marcelo Malbec De Vidts"
 date: 2020-07-27
 slug: "malbecdevidts"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "cooking without a recipe", "school-essb"] # top categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/MalbecDeVidts.jpg

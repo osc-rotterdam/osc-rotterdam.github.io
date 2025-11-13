@@ -2,7 +2,7 @@
 title: "OSCR Member: Gennady Roshchupkin"
 date: 2024-01-12
 slug: "roshchupkin"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "open source software", "data management", "machine learning", "deep learning", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Roshchupkin.jpg

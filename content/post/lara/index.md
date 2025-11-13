@@ -2,7 +2,7 @@
 title: "OSCR Member: Macarena Lara"
 date: 2022-09-06
 slug: "lara"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "curiosity", "creativity", "ErasmusX"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lara.jpg

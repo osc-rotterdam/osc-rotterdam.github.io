@@ -2,7 +2,7 @@
 title: "OSCR Member: Michelle Achterberg"
 date: 2020-03-03
 slug: "achterberg"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Achterberg.jpg

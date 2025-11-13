@@ -2,7 +2,7 @@
 title: "OSCR Member: Joyce Weeland"
 date: 2021-09-20
 slug: "weeland"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Weeland.jpg

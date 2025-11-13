@@ -3,10 +3,10 @@ title: "Get recognized. Get the most out of your ORCID iD!"
 author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-10-30
 slug: "ORCID-Nov2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open science", "ORCID"]
-coverImage: /images/news/OSCR-ORCID-banner.jpg
-banner: /images/news/OSCR-ORCID-thumbnail.jpg
+coverImage: /images/archive/OSCR-ORCID-banner.jpg
+banner: /images/archive/OSCR-ORCID-thumbnail.jpg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "November 18th 2020, h. 14:00 CET, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/OSCR-ORCID-banner.jpg" width="70%" height="200" align="center">
-
-<BR></BR>
 
 OSCR will be hosting a workshop with the *Erasmus Library ORCID Team*. The workshop will show researchers how to reap the benefits of ORCID and make full use of their ORCID iD.
 

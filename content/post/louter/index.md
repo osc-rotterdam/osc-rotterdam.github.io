@@ -2,7 +2,7 @@
 title: "OSCR Member: Junior Louter"
 date: 2024-11-08
 slug: "louter"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "data sharing", "preregistration", "music", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Louter.jpg

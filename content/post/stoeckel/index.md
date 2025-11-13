@@ -2,7 +2,7 @@
 title: "OSCR Member: Jannis Stöckel"
 date: 2021-03-30
 slug: "stoeckel"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "reproducible analysis", "obscure historic facts", "school-eshpm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Stoeckel.jpg

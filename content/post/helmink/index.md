@@ -2,7 +2,7 @@
 title: "OSCR Member: Fleur Helmink"
 date: 2020-04-24
 slug: "helmink  "
-categories: ["people"]
+categories: ["People"]
 tags: ["open science enthusiast", "preregistration", "data management", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Helmink.jpg

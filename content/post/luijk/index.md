@@ -2,7 +2,7 @@
 title: "OSCR Member: Maartje Luijk"
 date: 2022-02-03
 slug: "luijk"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "preregistration", "design thinking", "parenting studies", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Luijk.jpg

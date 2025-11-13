@@ -2,7 +2,7 @@
 title: "OSCR Member: Matthias Wieser"
 date: 2019-08-14
 slug: "wieser"
-categories: ["people"]
+categories: ["People"]
 tags: ["punkrock", "open access", "preregistration", "data sharing", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Wieser.jpg

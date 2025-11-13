@@ -2,7 +2,7 @@
 title: "OSCR Member: Dom Weinberg"
 date: 2022-12-19
 slug: "weinberg"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "reproducible analysis", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Weinberg.jpg

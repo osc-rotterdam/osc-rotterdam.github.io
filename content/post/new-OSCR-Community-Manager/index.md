@@ -3,10 +3,10 @@ title: "A new addition to our team"
 author:  ["Eirini Botsari", "Antonio Schettino"]
 date: 2021-12-03
 slug: "new-OSCR-Community-Manager"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["OSCR"]
-coverImage: /images/news/Eirini-background.png
-banner: /images/news/OSCR_thumbnail.png
+coverImage: /images/archive/Eirini-background.png
+banner: /images/archive/OSCR_thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -19,9 +19,7 @@ editor_options:
   chunk_output_type: inline
 ---
 
-<img border="0" alt="" src="/images/news/OSCR_thumbnail.png" width="70%" height="200" align="center">
 
-<BR></BR>
 
 My name is Eirini Botsari and I am from Athens, Greece. From a very young age I would get lost in novel books that explored relationships and canvassed the human psyche. Growing up and through my life and work experiences, I came to one conclusion: 
 

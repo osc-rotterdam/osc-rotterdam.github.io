@@ -2,7 +2,7 @@
 title: "OSCR Member: Mirthe Verbeek"
 date: 2021-04-07
 slug: "verbeek"
-categories: ["people"]
+categories: ["People"]
 tags: ["data sharing", "preregistration", "cat lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Verbeek.jpg

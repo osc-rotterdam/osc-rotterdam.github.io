@@ -3,10 +3,10 @@ title: "ROARR2021 -- Reimagining Scientific Publishing"
 author: ["Samuel Westwood", "Antonio Schettino"]
 date: 2021-05-31
 slug: "ROARR2021-June"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS", "talks", "ROARR2021", "open science"]
-coverImage: /images/ROARR2021-banner.png
-banner: /images/news/RIOTS_OSCR.png
+coverImage: /images/archive/ROARR2021-banner.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

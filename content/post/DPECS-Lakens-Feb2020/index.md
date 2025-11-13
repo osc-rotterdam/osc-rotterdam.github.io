@@ -3,10 +3,10 @@ title: "Upcoming talk by Daniël Lakens"
 author: "Antonio Schettino"
 date: 2020-01-20
 slug: "DPECS-Lakens-Feb2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks", "school-essb"]
-coverImage: /images/ESSB.png
-banner: /images/news/ESSB_logo.png
+coverImage: /images/archive/ESSB.png
+banner: /images/archive/ESSB_logo.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "February 11th 2020, h. 15:00, room T13-67"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/ESSB_logo.png" width="70%" height="200" align="center">
-
-<BR>
 
 I am happy to announce that [Daniël Lakens](https://www.tue.nl/en/research/researchers/daniel-lakens/), Associate Professor in the Human-Technology interaction group at [Eindhoven University of Technology](https://www.tue.nl/en/), will give a talk at the upcoming [DPECS colloquium](https://docs.google.com/document/d/1AYpkmMLJz8ap6Zfo6Tm5740SZil_EO2kYy-MUhtS4cs/edit#), which will take place on February 11th at 15:00 in room T13-67 ([Mandeville building](https://www.eur.nl/en/campus/locations/spaces/mandeville-building)).
 

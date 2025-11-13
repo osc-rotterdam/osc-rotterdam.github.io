@@ -2,7 +2,7 @@
 title: "OSCR Member: Alexander Genevsky"
 date: 2020-09-08
 slug: "genevsky"
-categories: ["people"]
+categories: ["People"]
 tags: ["school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Genevsky.jpg

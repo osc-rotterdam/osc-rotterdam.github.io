@@ -3,7 +3,7 @@ title: "An example of applied Open Science practices in health economics"
 author: ["Jannis Stöckel", "Sebastian Himmler", "Antonio Schettino"]
 date: 2021-06-11
 slug: "benefits-os-stoeckel-himmler"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "project management", "school-eshpm"]
 coverImage: /images/banner_benefits_os_stoeckel_himmler.png
 banner: /images/benefits_os_stoeckel_himmler.png

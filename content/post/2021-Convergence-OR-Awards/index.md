@@ -3,10 +3,10 @@ title: "Convergence Health and Technology Open Research Awards 2021"
 author: ["Bing Xu", "Elisabet Blok", "Lorenza Dall'Aglio", "Antonio Schettino"]
 date: 2021-06-21
 slug: "2021-Convergence-OR-Awards"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/2021-Convergence-OR-Awards-banner.png
-banner: /images/news/2021-Convergence-OR-Awards-thumbnail.png
+coverImage: /images/archive/2021-Convergence-OR-Awards-banner.png
+banner: /images/archive/2021-Convergence-OR-Awards-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "Open Research Prizes for students and early-career researchers!"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/2021-Convergence-OR-Awards-thumbnail.png" width="70%" height="200" align="center">
-
-<BR>
 
 #### *Are you a Master student or an Early Career Researcher working in the field of health and technology?*   
 

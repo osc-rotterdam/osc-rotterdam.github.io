@@ -2,7 +2,7 @@
 title: "OSCR Member: Ibrahim Cikrikcioglu"
 date: 2021-02-26
 slug: "cikrikcioglu"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "open source software", "cat lover", "piano", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Cikrikcioglu.jpg

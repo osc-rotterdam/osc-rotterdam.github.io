@@ -2,7 +2,7 @@
 title: "OSCR Member: Maarten Engel"
 date: 2022-09-27
 slug: "engel"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "medical information", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/placeholder-profile.jpg

@@ -3,10 +3,10 @@ title: OSF Workshop at ESHPM
 author: "Antonio Schettino"
 date: 2019-09-22
 slug: "OSFworkshop-ESHPM-Sept2019"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "OSF", "school-eshpm"]
-coverImage: /images/OSF_ESHPM.png
-banner: /images/news/ESHPM_logo.png
+coverImage: /images/archive/OSF_ESHPM.png
+banner: /images/archive/ESHPM_logo.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,7 @@ summary: "September 24th 2019, h.14:30, room J7-43/J7-45"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/ESHPM_logo.png" width="70%" height="200" align="center">
 
-<BR></BR>
 On September 24th I will give a workshop on how to use the Open Science Framework ([OSF](https://osf.io)), a collaborative web tool allowing scholars from all disciplines to upload and share the products of their research, e.g., data, materials, analysis protocols, and article preprints. 
 
 I have already given a similar workshop at the [Faculty of Economics and Business Administration](https://www.ugent.be/eb/en) at Ghent University and the [Erasmus Research Institute of Management](https://www.erim.eur.nl) here at [EUR](https://www.eur.nl). This time I will be talking with researchers working at the Erasmus School of Health Policy and Management ([ESHPM](https://www.eur.nl/eshpm/)). I was invited by [Dr. Pieter van Baal](https://www.eur.nl/people/pieter-van-baal), associate professor of Health Economics and Research Director at ESHPM. I believe this is a strong message: Dr. van Baal not only recognizes the importance of transparency in research, but he understands how crucial it is to provide researchers with user-friendly tools and practical support to facilitate a quicker transition to open science.

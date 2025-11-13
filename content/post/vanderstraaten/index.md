@@ -2,7 +2,7 @@
 title: "OSCR Member: Khadija van der Straaten"
 date: 2023-06-19
 slug: "vanderstraaten"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "outreach", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanderStraaten.jpg

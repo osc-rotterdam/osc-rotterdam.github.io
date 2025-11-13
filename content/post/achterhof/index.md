@@ -2,7 +2,7 @@
 title: "OSCR Member: Robin Achterhof"
 date: 2024-01-19
 slug: "achterhof"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "reproducible analysis", "open source software", "experience sampling", "driving", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Achterhof.jpg

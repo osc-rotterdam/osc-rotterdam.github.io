@@ -3,10 +3,10 @@ title: "PhD candidates and Open Science in the Netherlands"
 author: ["Tess van Doorn", "Antonio Schettino"]
 date: 2021-01-22
 slug: "PNN-PhD-survey"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks", "open science"]
-coverImage: /images/PNN-PhD-survey-banner.png
-banner: /images/news/PNN-PhD-survey.png
+coverImage: /images/archive/PNN-PhD-survey-banner.png
+banner: /images/archive/PNN-PhD-survey.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,7 @@ summary: "February 3rd 2021, h. 14:00 CET, Zoom"
 editor_options: 
   chunk_output_type: inline
 ---
-<img border="0" alt="" src="/images/news/PNN-PhD-survey.png" width="70%" height="200" align="center">
 
-<BR></BR>
 Early-career researchers constitute the core of our community: they analyze and discuss papers at journal clubs, lead talks and workshops, and implement open science practices. They are important stakeholders in the current transition to [a new academic system of recognition and rewards](https://vsnu.nl/recognitionandrewards/recognition-and-rewards/index.html) -- one that values openness and transparency and promotes alternative career pathways --, and it is important for their voices to be heard.
 
 The **Promovendi Netwerk Nederland** ([PNN](https://hetpnn.nl/en/over-pnn/)) is the national interest group for PhD candidates in the Netherlands. Members are the local PhD Organizations within Dutch universities, medical centers and research institutions. PNN represents PhDs in conversations with several other stakeholders, including the Association of Universities in the Netherlands ([VSNU](https://vsnu.nl/en_GB)), the Royal Netherlands Academy of Arts and Sciences ([KNAW](https://www.knaw.nl/en)), the Dutch Research Council ([NWO](https://www.nwo.nl/en)), and the Ministry of Education, Culture and Science ([OC&W](https://www.government.nl/ministries/ministry-of-education-culture-and-science)).

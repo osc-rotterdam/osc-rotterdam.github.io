@@ -3,9 +3,9 @@ title: The OSCR website is live!
 author: "Antonio Schettino"
 date: 2019-08-05
 slug: "website-live"
-categories: ["News"]
-banner: /images/news/ErasmusLogos.png # ErasmusLogo.svg does not work
-thumbnailimage: /images/OSCR_thumbnail.svg
+categories: ["Archive"]
+coverImage: /images/archive/ErasmusLogos.png 
+banner: /images/OSCR_thumbnail.png 
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -17,7 +17,6 @@ summary: "A great resource to connect novices and experts on open science in Rot
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/ErasmusLogos.png" width="70%" height="200" align="center">
 
 The official website of the _**Open Science Community**_ Rotterdam is now live! 
 

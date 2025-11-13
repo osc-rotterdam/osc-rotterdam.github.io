@@ -2,7 +2,7 @@
 title: "OSCR Member: Fabio Porru"
 date: 2021-12-06
 slug: "porru"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "quoting movies", "science communication", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Porru.jpg

@@ -3,10 +3,10 @@ title: "Online data collection: The challenges of open samples (aka MTurk and th
 author: ["Gabriele Paolacci", "Antonio Schettino"]
 date: 2020-05-15
 slug: "OpenSampling-May2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/news/OSCR-sampling-logos.png
-banner: /images/news/OSCR-sampling-thumbnail.png
+coverImage: /images/archive/OSCR-sampling-logos.png
+banner: /images/archive/OSCR-sampling-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -19,9 +19,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-<img border="0" alt="" src="/images/news/OSCR-sampling-logos.png" width="70%" height="200" align="center">
-
-<BR></BR>
 A huge proportion of participants in behavioral science studies are recruited from “open sampling” services, such as [Amazon Mechanical Turk](https://www.mturk.com/) and [Prolific](https://www.prolific.co/). These services can accelerate and democratize the production of scientific knowledge. They also allow researches to collect larger samples compared to traditional samples in behavioral research (e.g., undergraduate students). However, open sampling also poses unique challenges to behavioral researchers. For example, participants have increasing research experience, which can affect experimental validity and replicability; researchers face a tradeoff between collecting larger samples and providing ethical payments to individuals who participate in research to earn a living wage.
 
 [Dr. Gabriele Paolacci](https://www.rsm.nl/people/gabriele-paolacci/), Associate Professor of Marketing Management at the [Rotterdam School of Management](https://www.rsm.nl/), will discuss the evidence underlying some of the issues related to open sampling, and provide recommendations for researchers to improve their survey and experimental practices.

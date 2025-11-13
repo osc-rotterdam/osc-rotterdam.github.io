@@ -2,7 +2,7 @@
 title: "OSCR Member: Leonie Maatz"
 date: 2021-04-19
 slug: "maatz"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Maatz.jpg

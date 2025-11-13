@@ -2,7 +2,7 @@
 title: "OSCR Member: Chiara Stenico"
 date: 2025-02-28
 slug: "stenico"
-categories: ["people"]
+categories: ["People"]
 tags: ["citizen science", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Stenico.jpg

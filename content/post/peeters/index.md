@@ -2,7 +2,7 @@
 title: "OSCR Member: Thomas Peeters"
 date: 2021-09-27
 slug: "peeters"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "reproducible analysis", "dog lover", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Peeters.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Rolf Zwaan"
 date: 2019-08-15
 slug: "zwaan"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data sharing", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Zwaan.jpg

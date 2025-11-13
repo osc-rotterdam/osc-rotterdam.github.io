@@ -1,6 +1,7 @@
 /* your styles go here */
-/* Example site test */
-
+:root {
+  --primary-accent: #37B969;
+}
 .box-image-text .image {
     min-height: 200px;
     max-height: 200px;
@@ -64,7 +65,7 @@ body{
   left: 0;
   width: 100%;
   height: 100%;
-  background: var(--primary-accent);
+  background: #999;
   opacity: 0.0;
   filter: alpha(opacity=90);
 }
@@ -73,6 +74,14 @@ body{
   padding-bottom: 100px;
 }
 
+.navbar ul.nav > li > a:hover {
+  border-top: solid 5px #999999;
+}
+.navbar ul.nav > li.active > a,
+.navbar ul.nav > li.open > a {
+  text-decoration: none !important;
+  border-top: solid 5px #999999;
+}
 
 /* background color */
 .bar.background-image-fixed-1 {
@@ -88,7 +97,7 @@ body{
 
 /* main bar color */
 #heading-breadcrumbs {
-  background: var(--button-border);
+  background: #37B969 ;
   padding: 20px 0;
   margin-bottom: 40px;
 }

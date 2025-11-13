@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Seven Easy Steps to Open Science"
 author: ["Elisabet Blok", "Lorenza Dall'Aglio", "Antonio Schettino"]
 date: 2020-04-27
 slug: "ReproducibiliTea-May2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

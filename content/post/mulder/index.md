@@ -2,7 +2,7 @@
 title: "OSCR Member: Mark Mulder"
 date: 2022-04-11
 slug: "mulder"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "open source software", "coding", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Mulder.jpg

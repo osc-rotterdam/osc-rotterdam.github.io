@@ -3,10 +3,10 @@ title: "A flexible use of preregistration templates"
 author: ["Malte Dewies", "Antonio Schettino"]
 date: 2020-04-27
 slug: "prereg-dewies"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["preregistration", "school-essb"]
 coverImage: /images/dewies_banner.png
-banner: /images/news/dewies-prereg.png
+banner: /images/dewies-prereg.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "Malte Dewies, PhD Candidate at ESSB, shares his experience in creating
 editor_options: 
   chunk_output_type: inline
 ---
-<img border="0" alt="" src="/images/news/dewies_banner.png" width="70%" height="200" align="center">
-
-<BR></BR>
 
 [Malte Dewies](https://www.linkedin.com/in/malte-dewies/) is a PhD candidate at the Erasmus School of Social and Behavioural Sciences and studies how psychological research can be used for public policy. He is a member of OSCR, actively participates in our events, and has been in contact with the community to discuss preregistration of research using mixed (quantitative/qualitative) methods. 
 

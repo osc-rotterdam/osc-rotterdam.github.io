@@ -2,7 +2,7 @@
 title: "OSCR Member: Max Welz"
 date: 2021-08-10
 slug: "welz"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "open source software", "board games", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Welz.jpg

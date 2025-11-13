@@ -3,10 +3,10 @@ title: "Writing a Reproducible Paper in R with WORCS"
 author: ["Caspar van Lissa", "Barbara Vreede", "Antonio Schettino"]
 date: 2020-10-16
 slug: "WORCShop-Oct2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open source software", "reproducible paper", "R"]
-coverImage: /images/WORCSflow.png
-banner: /images/news/OSCR-WORCS-thumbnail.png
+coverImage: /images/archive/WORCSflow.png
+banner: /images/archive/OSCR-WORCS-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -19,9 +19,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-<img border="0" alt="" src="/images/news/WORCSflow.png" width="70%" height="200" align="center">
-
-<BR></BR>
 OSCR is proud to announce the online workshop **Writing a Reproducible Paper in R with `worcs`**, in collaboration with Utrecht University. Below the announcement:
 
 **WHAT**   

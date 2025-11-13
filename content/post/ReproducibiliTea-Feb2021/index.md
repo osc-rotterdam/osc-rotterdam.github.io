@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Making Replication Mainstream"
 author: ["Rolf Zwaan", "Antonio Schettino"]
 date: 2021-02-02
 slug: "ReproducibiliTea-Feb2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

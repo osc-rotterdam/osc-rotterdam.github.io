@@ -2,7 +2,7 @@
 title: "OSCR Member: Coline Serres"
 date: 2022-05-16
 slug: "serres"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "music", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Serres.jpg

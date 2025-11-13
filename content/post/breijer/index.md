@@ -2,7 +2,7 @@
 title: "OSCR Member: Marianne Breijer"
 date: 2024-12-06
 slug: "breijer"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "data sharing", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Breijer.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Elena Marie Enseñado"
 date: 2024-12-06
 slug: "ensenado"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "data sharing", "school-ihs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Ensenado.jpg

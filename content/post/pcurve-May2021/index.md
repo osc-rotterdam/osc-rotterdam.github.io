@@ -3,10 +3,10 @@ title: "Introduction to p-curve analysis for meta-analysis"
 author: ["Miranda Lutz-Landesbergen", "Antonio Schettino"]
 date: 2021-04-23
 slug: "pcurve-May2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/pcurve-banner.png
-banner: /images/news/pcurve-thumbnail.png
+coverImage: /images/archive/pcurve-banner.png
+banner: /images/archive/pcurve-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,7 @@ summary: "May 4th 2021, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/pcurve-banner.png" width="70%" height="200" align="center">
 
-<BR></BR>
 It is unfortunate that most of our scientific fields have to deal with **publication bias**, a phenomenon that occurs when the results of a study influences the chances of being published. In other words, when you find significant results (e.g., significant *p*-values from your statistical analysis), there is a higher chance of publication. This has implications for our professional career: when you have more and interesting publications, you have higher chances of fruitful collaborations or receive more funding, better academic positions, etc.
 
 Publication bias taints our field: it imbalances findings (null results are not published) despite our thorough attempts to improve theories, methods, experimental designs, and analyses. It also influences our behavior as researchers: it could lead to questionable research practices (e.g. *p*-hacking) that scientists (unconsciously) perform to increase their chances of getting significant results. This is, of course, unethical.

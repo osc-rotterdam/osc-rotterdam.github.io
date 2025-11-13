@@ -2,7 +2,7 @@
 title: "OSCR Member: Anne Bülow"
 date: 2021-02-09
 slug: "buelow"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "preregistration", "experience sampling", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Buelow.jpg

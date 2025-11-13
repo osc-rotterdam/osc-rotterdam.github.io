@@ -3,7 +3,7 @@ title: "A Tour Around the Tidyverse World"
 author: ["Paloma Rojas Saunero", "Antonio Schettino"]
 date: 2020-06-15
 slug: "intro-tidyverse-June2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open source software", "reproducible analysis"]
 coverImage: /images/OSCR-tidyverse-banner.png
 banner: /images/OSCR-tidyverse-thumbnail.png

@@ -2,7 +2,7 @@
 title: "OSCR Member: René Verwijmeren"
 date: 2021-12-16
 slug: "verwijmeren"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "information management", "UL", "ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Verwijmeren.jpg

@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Beyond Bonferroni Revisited"
 author: ["Tonya White", "Elisabet Blok", "Antonio Schettino"]
 date: 2020-06-30
 slug: "ReproducibiliTea-July2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

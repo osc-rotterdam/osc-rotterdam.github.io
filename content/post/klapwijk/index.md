@@ -2,7 +2,7 @@
 title: "OSCR Member: Eduard Klapwijk"
 date: 2020-05-14
 slug: "klapwijk"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "open source software", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Klapwijk.jpg

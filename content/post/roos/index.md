@@ -2,7 +2,7 @@
 title: "OSCR Member: Jason Roos"
 date: 2019-08-14
 slug: "roos"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "data sharing", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Roos.jpg

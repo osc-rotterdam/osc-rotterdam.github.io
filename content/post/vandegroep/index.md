@@ -2,7 +2,7 @@
 title: "OSCR Member: Suzanne van de Groep"
 date: 2020-03-12
 slug: "vandegroep"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vandeGroep.jpg

@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Arrested theory development"
 author: ["Aba Szollosi", "Antonio Schettino"]
 date: 2021-05-10
 slug: "ReproducibiliTea-May2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

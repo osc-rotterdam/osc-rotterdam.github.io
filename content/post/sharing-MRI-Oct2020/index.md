@@ -3,10 +3,10 @@ title: "Introduction to sharing brain MRI data"
 author: ["Dorien Huijser", "Antonio Schettino"]
 date: 2020-10-07
 slug: "sharing-MRI-Oct2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "reproducible analysis", "data management"]
-coverImage: /images/open-MRI-banner.png
-banner: /images/news/open-MRI-thumbnail.png
+coverImage: /images/archive/open-MRI-banner.png
+banner: /images/archive/open-MRI-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,9 +18,6 @@ summary: "October 22th 2020, h. 14:00 CEST, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-
-<img border="0" alt="" src="/images/news/open-MRI-banner.png" width="70%" height="200" align="center">
-<BR>
 
 Following the great [webinar on BIDS](https://www.openscience-rotterdam.com/2020/09/intro-bids-sept2020/) led by [Dr. Eduard Klapwijk](https://www.openscience-rotterdam.com/2020/05/klapwijk/), we are happy to announce another workshop related to neuroimaging and open science! This time we'll be discussing responsible data sharing of brain data with Dorien Huijser.
 

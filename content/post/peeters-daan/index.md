@@ -2,7 +2,7 @@
 title: "OSCR Member: Daan Peeters"
 date: 2022-01-25
 slug: "peeters-daan"
-categories: ["people"]
+categories: ["People"]
 tags: ["obscure philosophy", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Peeters_Daan.jpg

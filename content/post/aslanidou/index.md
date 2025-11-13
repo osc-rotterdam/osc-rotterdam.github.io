@@ -2,7 +2,7 @@
 title: "OSCR Member: Asimina Aslanidou"
 date: 2020-06-29
 slug: "aslanidou"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "self-appointed master chef", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Aslanidou.jpg

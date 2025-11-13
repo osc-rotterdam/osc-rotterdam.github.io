@@ -2,7 +2,7 @@
 title: "OSCR Member: Sabrina Meertens-Gunput"
 date: 2022-08-30
 slug: "meertens-gunput"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "data sharing", "dancing", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Meertens-Gunput.jpg

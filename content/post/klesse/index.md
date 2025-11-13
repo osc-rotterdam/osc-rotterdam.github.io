@@ -2,7 +2,7 @@
 title: "OSCR Member: Anne Kathrin Klesse"
 date: 2021-10-20
 slug: "klesse"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "reproducible analysis", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Klesse.jpg

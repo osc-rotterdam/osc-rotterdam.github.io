@@ -2,7 +2,7 @@
 title: "OSCR Member: Maria Constantin"
 date: 2024-03-27
 slug: "constantin"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data sharing", "science communication", "publishing", "UB"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Constantin.jpg

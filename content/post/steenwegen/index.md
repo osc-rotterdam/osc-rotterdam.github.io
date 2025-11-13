@@ -2,7 +2,7 @@
 title: "OSCR Member: Julia Steenwegen"
 date: 2024-10-18
 slug: "steenwegen"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "cooking", "children participation", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Steenwegen.jpg

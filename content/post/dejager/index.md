@@ -2,7 +2,7 @@
 title: "OSCR Member: Sonia de Jager"
 date: 2021-06-16
 slug: "dejager"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "open access", "conceptual analysis", "transdisciplinary collaboration", "school-esphil"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/deJager.jpg

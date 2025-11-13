@@ -2,7 +2,7 @@
 title: "OSCR Member: Anita Harrewijn"
 date: 2021-05-31
 slug: "harrewijn"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "data sharing", "ballroom dancing", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Harrewijn.jpg

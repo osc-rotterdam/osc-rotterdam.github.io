@@ -2,7 +2,7 @@
 title: "OSCR Member: Mira Bückmann"
 date: 2023-05-18
 slug: "bueckmann"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "food", "ERS", "UB"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Bueckmann.jpg

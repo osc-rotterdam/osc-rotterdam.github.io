@@ -2,7 +2,7 @@
 title: "OSCR Member: Marianna Karachaliou"
 date: 2025-05-16
 slug: "karachaliou"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "reproducible analysis", "citizen science", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Karachaliou.jpg

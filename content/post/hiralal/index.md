@@ -2,7 +2,7 @@
 title: "OSCR Member: Kamil Hiralal"
 date: 2025-03-14
 slug: "hiralal"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "reproducible analysis", "preregistration", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Hiralal.jpg

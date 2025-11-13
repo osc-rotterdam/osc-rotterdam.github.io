@@ -2,7 +2,7 @@
 title: "OSCR Member: Angelica Maineri"
 date: 2022-01-28
 slug: "maineri"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "open access", "knitting", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Maineri.jpg

@@ -3,7 +3,7 @@ title: "Writing a Reproducible Paper in R with WORCS"
 author: ["Caspar van Lissa", "Barbara Vreede", "Antonio Schettino"]
 date: 2020-10-16
 slug: "WORCShop-Oct2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open source software", "reproducible paper", "R"]
 coverImage: /images/WORCSflow.png
 banner: /images/OSCR-WORCS-thumbnail.png

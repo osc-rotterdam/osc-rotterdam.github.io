@@ -2,7 +2,7 @@
 title: "OSCR Member: Elisabet Blok"
 date: 2020-02-27
 slug: "blok"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "data sharing", "drinking coffee", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Blok.jpg

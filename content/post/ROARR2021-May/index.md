@@ -3,10 +3,10 @@ title: "ROARR2021 -- Hidden flexibility and p-values"
 author: ["Marjan Bakker", "Antonio Schettino"]
 date: 2021-05-04
 slug: "ROARR2021-May"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS", "talks", "ROARR2021", "open science", "stats"]
-coverImage: /images/ROARR2021-banner.png
-banner: /images/news/RIOTS_OSCR.png
+coverImage: /images/archive/ROARR2021-banner.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

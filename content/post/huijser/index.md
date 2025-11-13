@@ -2,7 +2,7 @@
 title: "OSCR Member: Dorien Huijser"
 date: 2020-03-03
 slug: "huijser"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "data management", "science education", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Huijser.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Georg Granic"
 date: 2020-07-02
 slug: "granic"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "preregistration", "reproducible analysis", "school-ese"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Granic.jpg

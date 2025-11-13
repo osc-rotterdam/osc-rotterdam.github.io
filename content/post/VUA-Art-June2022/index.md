@@ -3,10 +3,10 @@ title: "Art and science, the breakthrough"
 author: ["Eirini Botsari"]
 date: 2022-08-10
 slug: "VUA-Art-June2022"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/news/VUA-Art-June2022/VUA-Art-banner.png
-banner: /images/news/VUA-Art-June2022/VUA-Art-thumbnail.png
+coverImage: /images/archive/VUA-Art-June2022/VUA-Art-banner.png
+banner: /images/archive/VUA-Art-June2022/VUA-Art-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -19,8 +19,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-<img border="0" alt="" src="/images/news/VUA-Art-June2022/VUA-Art-thumbnail.png" width="70%" height="70%" align="center">
-
 Until the 29th of October, at the [Vrije Universiteit Amsterdam ART Science Gallery](https://www.artsciencegallery.nl), there is an exhibition called *Symbioses*, where four different artists in collaboration with four scientists explore the boundaries and interactions between technology and organisms.
 
 I visited 4 projects:
@@ -30,16 +28,21 @@ I visited 4 projects:
 * Wanda Tuerlinckx: [**The world’s most innovative androids**](https://www.artsciencegallery.nl/artwork/wanda-tuerlinckx-androids/)
 * Christiaan Zwanikken: [**Hypergravity BIO Portal**](https://www.artsciencegallery.nl/artwork/christiaan-zwanikken-hypergravity-bio-portal/)
 
-<img border="0" alt="Image by Eirini Botsari" src="/images/news/VUA-Art-June2022/4timesgravity.jpg" width="70%" height="70%" align="center">
+<center>
+![Image by Eirini Botsari](/images/VUA-Art-June2022/4timesgravity.jpg)
+</center>
 
 I joined one of their open discussion days, where the aim was to sit in a circle with the scientists and artists while discussing and openly asking questions. Such format gave the opportunity to examine and confer many angles on the above mentioned topics. We were all given the chance to ask questions, conceptualize, and engage in the discussion. Offering the presence of both the artists and scientists was an astonishing experience. 
 
-<img border="0" alt="" src="/images/news/VUA-Art-June2022/Image1.jpg" width="70%" height="70%" align="center">
+<center>
+![Image by Eirini Botsari](/images/VUA-Art-June2022/Image1.jpg)
+</center>
 
 To clarify, I relished when discussing *the world’s most innovative androids*, there was the view from the scientist (e.g., the engineering behind AI, research, usage) but also from the artist (e.g., the empathetic and emotional projections on AI), as well as an interpretation of the project between the scientist and the artist (e.g., when AI’s and humans photographed together they both mentioned that they could only notice similarities). This gave the rest of us a lot of room and points to discourse further our interpretations and views on such multifaceted topics.
 
-<img border="0" alt="" src="/images/news/VUA-Art-June2022/image_6483441.jpg" width="70%" height="70%" align="center">
-
+<center>
+![Image by Eirini Botsari](/images/VUA-Art-June2022/image_6483441.jpg)
+</center>
 
 Stemming from that, one of the things that in general stood out to me was that scientists tend to work in more isolated settings, and there is a trend taking as factual 'reality' their research. A set up like the one shaped in the VU art gallery -- which was interpreted by me as a village from various fields -- worked in the same line as reviewers from open science. Hence, by questioning in a collective and collaborative way one’s research, many facets and insights arise. At moments, I felt something shifting and a realization was made: in solitude all may feel real, but when with others we question, and only with questioning we can go beyond. 
 
@@ -52,8 +55,10 @@ Some thoughts:
 * Nowadays, open science has been taking an active lead in discussions concerning science and research. One of the core values of open science concerns collaboration through peer review. When joining this art event, I experienced the irreplaceable power of human interaction. In my experience, I left the VU gallery with many insights, shifts in my thinking, and an urge to continue sharing the importance of human interaction and connection.
 * I believe that through art people connect and, with the use of words, this connection is established and made more accessible. One of my visions is to continue aiming at a strong and participatory community. **I trust in the power of the community as being the most powerful**. In the coming months we are aiming to create a space bringing community in academia together through art, where scientists, artists, students, and citizens are given the space to discuss and explore the topics posed via art.
 
-<img border="0" alt="" src="/images/VUA-Art-June2022/VU-art-video.gif" width="70%" height="70%" align="center">
-<BR>
+<center>
+![Image by Eirini Botsari](/images/VUA-Art-June2022/VU-art-video.gif)
+</center>
+
 Before closing this post I did some research exploring initiatives merging art and science, and with great surprise and excitement I found many of them. I thought of including them in this post for whoever is intrigued and curious to prospect: 
 
 * [Natural technology podcast series](https://www.artsciencegallery.nl/exhibition/natural-technology-welcome-to-the-symbiocene/podcasts)

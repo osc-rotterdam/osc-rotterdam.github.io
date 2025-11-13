@@ -3,7 +3,7 @@ title: "Take-away OSCR-ORCID workshop"
 author: ["Erasmus Library ORCID Team", "Antonio Schettino"]
 date: 2020-11-26
 slug: "takeaway-orcid-nov2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "ORCID", "UL"]
 coverImage: /images/ORCID-banner.jpg
 banner: /images/ORCID-thumbnail.png

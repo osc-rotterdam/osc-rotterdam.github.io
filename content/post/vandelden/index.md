@@ -2,7 +2,7 @@
 title: "OSCR Member: Ashley van Delden"
 date: 2021-06-11
 slug: "vandelden"
-categories: ["people"]
+categories: ["People"]
 tags: ["data sharing", "puzzle lover", "eating enthusiast", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vanDelden.jpg

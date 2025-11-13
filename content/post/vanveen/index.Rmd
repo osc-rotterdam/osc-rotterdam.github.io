@@ -1,0 +1,60 @@
+---
+title: "OSCR Member: Daudi van Veen"
+date: 2025-09-27
+slug: "vanveen"
+categories: ["people"]
+tags: ["data management", "data sharing", "preregistration", "public outreach", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/vanVeen.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Assistant Professor, Department of Psychology, Education and Child Studies (ESSB)  
+editor_options: 
+  chunk_output_type: console
+---
+
+# Description
+
+Daudi van Veen is an Assistant Professor in Youth & Family Studies at Erasmus University Rotterdam. He studies how people think, feel, and learn about culture-, ethnicity- and race-related topics throughout the lifespan. He is also a co-host of the podcast Joy in Academia.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the CV and social media pages.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:p.d.vanveen@essb.eur.nl">
+  <img border="0" alt="Daudi van Veen" src="/images/vanVeen.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- CV -->
+<p align="center">
+  <a href="https://www.daudivanveen.nl/curriculum-vitae" class="fa fa-file fa-2x" style="color:#00B969;">
+  </a>
+</p>
+
+<!-- LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dr-daudi-van-veen-670965131/" class="fa fa-linkedin fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- RESEARCHGATE -->
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Daudi-Van-Veen-2/research" class="ai ai-researchgate fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR>
+
+# Expertise
+
+***
+
+

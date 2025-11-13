@@ -2,7 +2,7 @@
 title: "OSCR Member: Rianne Kok"
 date: 2021-09-21
 slug: "kok"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "baking", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Kok.jpg

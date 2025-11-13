@@ -2,7 +2,7 @@
 title: "OSCR Member: Emma Roza"
 date: 2022-05-23
 slug: "roza"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "preregistration", "statistics", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Roza.jpg

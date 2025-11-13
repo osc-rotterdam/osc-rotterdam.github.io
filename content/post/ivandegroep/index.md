@@ -2,7 +2,7 @@
 title: "OSCR Member: Ilse van de Groep"
 date: 2020-06-22
 slug: "ivandegroep"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "open source software", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/IvandeGroep.jpg

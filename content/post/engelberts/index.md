@@ -2,7 +2,7 @@
 title: "OSCR Member: Jeroen Engelberts"
 date: 2022-09-06
 slug: "engelberts"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "open source software", "bridge player", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Engelberts.jpg

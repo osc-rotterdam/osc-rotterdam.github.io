@@ -2,7 +2,7 @@
 title: "OSCR Member: Miranda Lutz-Landesbergen"
 date: 2021-03-03
 slug: "lutz-landesbergen"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "reproducible analysis", "open source software", "R", "networker", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lutz-Landesbergen.jpg

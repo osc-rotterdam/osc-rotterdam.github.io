@@ -2,7 +2,7 @@
 title: "OSCR Member: Eddie Adelmund"
 date: 2022-03-30
 slug: "adelmund"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "school-esphil"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Adelmund.jpg

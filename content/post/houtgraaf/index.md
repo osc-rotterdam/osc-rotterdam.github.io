@@ -2,7 +2,7 @@
 title: "OSCR Member: Glenn Houtgraaf"
 date: 2025-02-09
 slug: "houtgraaf"
-categories: ["people"]
+categories: ["People"]
 tags: ["preregistration", "open access", "data management", "reproducible analysis", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Houtgraaf.jpg

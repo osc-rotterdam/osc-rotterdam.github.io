@@ -2,7 +2,7 @@
 title: "OSCR Member: L. Paloma Rojas Saunero"
 date: 2019-11-06
 slug: "rojassaunero"
-categories: ["people"]
+categories: ["People"]
 tags: ["R", "reproducible analysis", "open source software", "data management", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/RojasSaunero.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Valérie Drost"
 date: 2022-11-04
 slug: "drost"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "morning person", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Drost.jpg

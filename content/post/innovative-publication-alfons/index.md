@@ -3,10 +3,10 @@ title: "An example of open software and innovative academic publication in econo
 author: ["Andreas Alfons", "Antonio Schettino"]
 date: 2022-01-18
 slug: "innovative-publication-alfons"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "open access", "open source software", "r", "school-ese"]
-coverImage: /images/banner_benefits_os_stoeckel_himmler.png
-banner: /images/news/joss_alfons.png
+coverImage: /images/archive/banner_benefits_os_stoeckel_himmler.png
+banner: /images/archive/joss_alfons.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,8 +18,6 @@ summary: "Andreas Alfons, Associate Professor at ESE, shares his experience in p
 editor_options: 
   chunk_output_type: inline
 ---
-<img border="0" alt="" src="/images/news/joss_alfons.png" width="70%" height="200" align="center">
-
 
 OSCR Member [Andreas Alfons](https://www.openscience-rotterdam.com/2021/04/08/alfons/) is Associate Professor of Econometrics at the [Erasmus School of Economics](https://www.eur.nl/en/ese). His work focuses on the development of robust statistical methods, machine learning techniques, and their applications in the social and behavioral sciences.
 

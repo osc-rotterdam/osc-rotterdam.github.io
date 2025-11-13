@@ -2,7 +2,7 @@
 title: "OSCR Member: Ilaria Orlandi"
 date: 2020-05-13
 slug: "orlandi"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "baking", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Orlandi.jpg

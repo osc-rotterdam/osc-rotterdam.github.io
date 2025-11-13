@@ -2,7 +2,7 @@
 title: "OSCR Member: Giovanna Lima"
 date: 2023-04-29
 slug: "lima"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "reproducible analysis", "societal impact", "strategy-office"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Lima.jpg

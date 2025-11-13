@@ -2,7 +2,7 @@
 title: "OSCR Member: Fay Savvopoulou"
 date: 2021-05-31
 slug: "savvopoulou"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Savvopoulou.jpg

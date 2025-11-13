@@ -3,7 +3,7 @@ title: "A Brief Introduction to Bayesian Hypothesis Testing"
 author: ["Oliver Lindemann", "Antonio Schettino"]
 date: 2020-05-22
 slug: "IntroBayes-June2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
 coverImage: /images/OSCR-bayes-banner.png
 banner: /images/OSCR-bayes-thumbnail.png

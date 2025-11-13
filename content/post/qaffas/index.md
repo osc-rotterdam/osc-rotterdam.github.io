@@ -2,7 +2,7 @@
 title: "OSCR Member: Yasser Qaffas"
 date: 2024-10-11
 slug: "qaffas"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "open access", "data sharing", "school-ihs"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Qaffas.jpg

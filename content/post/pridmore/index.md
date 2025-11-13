@@ -2,7 +2,7 @@
 title: "OSCR Member: Jason Pridmore"
 date: 2024-02-06
 slug: "pridmore"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "data sharing", "open access", "collaboration", "school-eshcc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Pridmore.jpg

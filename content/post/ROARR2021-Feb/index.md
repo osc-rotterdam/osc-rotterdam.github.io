@@ -3,10 +3,10 @@ title: "ROARR2021 -- Introduction to Git"
 author:  ["Eloy Geenjaar", "Elisabet Blok", "Antonio Schettino"]
 date: 2021-02-10
 slug: "ROARR2021-Feb"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS", "ROARR2021", "open science", "workshops", "open source software", "reproducible analysis"]
-coverImage: /images/ROARR2021-banner.png
-banner: /images/news/RIOTS_OSCR.png
+coverImage: /images/archive/ROARR2021-banner.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

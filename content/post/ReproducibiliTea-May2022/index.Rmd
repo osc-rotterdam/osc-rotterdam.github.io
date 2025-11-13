@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Value Pluralism in Research Integrity"
 author: ["Jeroen de Ridder", "Tamarinde Haven", "Eirini Botsari", "Antonio Schettino"]
 date: 2022-05-03
 slug: "ReproducibiliTea-May2022"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
 coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

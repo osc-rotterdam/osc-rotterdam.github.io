@@ -3,10 +3,10 @@ title: "An example of applied Open Science practices in health economics"
 author: ["Jannis Stöckel", "Sebastian Himmler", "Antonio Schettino"]
 date: 2021-06-11
 slug: "benefits-os-stoeckel-himmler"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["open science", "project management", "school-eshpm"]
-coverImage: /images/banner_benefits_os_stoeckel_himmler.png
-banner: /images/news/benefits_os_stoeckel_himmler.png
+coverImage: /images/archive/banner_benefits_os_stoeckel_himmler.png
+banner: /images/archive/benefits_os_stoeckel_himmler.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,7 +18,6 @@ summary: "Jannis Stöckel and Sebastian Himmler, PhD Candidates at ESHPM, share 
 editor_options: 
   chunk_output_type: inline
 ---
-<img border="0" alt="" src="/images/news/benefits_os_stoeckel_himmler.png" width="50%" height="100" align="center">
 
 OSCR Members [Jannis Stöckel](https://www.openscience-rotterdam.com/2021/03/30/stoeckel/) and [Sebastian Himmler](https://www.openscience-rotterdam.com/2021/02/04/himmler/) are PhD candidates at the [Erasmus School of Health Policy & Management](https://www.eur.nl/eshpm) and study how to efficiently use health care resources. They recently applied open science practices on a collaborative project and I asked them to share their experience with the community:
 

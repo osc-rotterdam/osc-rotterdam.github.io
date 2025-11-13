@@ -2,7 +2,7 @@
 title: "OSCR Member: Marlies Meilof"
 date: 2022-02-24
 slug: "meilof"
-categories: ["people"]
+categories: ["People"]
 tags: ["ERS"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Meilof.jpg

@@ -3,10 +3,10 @@ title: "OSCR & R.I.O.T.S.: by researchers, for researchers"
 author:  ["Lorenza Dall'Aglio", "Elisabet Blok", "Antonio Schettino"]
 date: 2020-03-12
 slug: "OSCR-RIOTS"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["RIOTS"]
-coverImage: /images/RIOTS_Roffa.png
-banner: /images/news/RIOTS_OSCR.png
+coverImage: /images/archive/RIOTS_Roffa.png
+banner: /images/archive/RIOTS_OSCR.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -23,7 +23,7 @@ editor_options:
 
 The Open Science Community Rotterdam is part of a national (Dutch) network of communities created *by* researchers *for* researchers.
 
-![All Open Science Communities in The Netherlands as of March 2020. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en)](/images/OSC-NL.png)
+![All Open Science Communities in The Netherlands as of March 2020. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en)](/images/archive/OSC-NL.png)
 
 We facilitate communication among scholars by giving them platforms to connect and share information on open science practices, for example our internal chat rooms on [Matrix](https://matrix.to/#/+osc-rotterdam:matrix.org) or the [website](https://www.openscience-rotterdam.com/home/) on which this blog post is hosted. We organize events, for example [infosessions on open science](https://osf.io/2zuas/), [workshops on reproducible data analysis](https://osf.io/tgqfe/), and [journal clubs](https://www.openscience-rotterdam.com/2019/10/oscr-reproducibilitea/). We provide one-on-one support to individual researchers and give tailored advice on open science practices such as preregistration and data/code sharing.
 

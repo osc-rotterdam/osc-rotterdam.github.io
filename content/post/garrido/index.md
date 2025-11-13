@@ -2,7 +2,7 @@
 title: "OSCR Member: Klaus Garrido"
 date: 2023-11-01
 slug: "garrido"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "data management", "data sharing", "perseverance", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Garrido.jpg

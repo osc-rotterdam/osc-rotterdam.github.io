@@ -2,7 +2,7 @@
 title: "OSCR Member: Gabriele Paolacci"
 date: 2019-08-27
 slug: "paolacci"
-categories: ["people"]
+categories: ["People"]
 tags: ["online sampling", "preregistration", "reproducible analysis", "data management", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Paolacci.jpg

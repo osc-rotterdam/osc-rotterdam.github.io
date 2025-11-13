@@ -3,7 +3,7 @@ title: "Discussing Failures in Science"
 author: ["Sean Devine", "Stefan Gaillard", "Kristel De Groot", "Antonio Schettino"]
 date: 2021-01-11
 slug: "FailureScience-Jan2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
 coverImage: /images/OSCR-JOTE-banner.png
 banner: /images/OSCR-JOTE-thumbnail.png

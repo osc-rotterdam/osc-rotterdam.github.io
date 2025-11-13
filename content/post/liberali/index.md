@@ -2,7 +2,7 @@
 title: "OSCR Member: Gui Liberali"
 date: 2022-10-04
 slug: "liberali"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "reproducible analysis", "empathy", "school-rsm"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Liberali.jpg

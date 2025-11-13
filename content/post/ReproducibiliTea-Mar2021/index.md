@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: The Generalizability Crisis"
 author: ["Luisa Fassi", "Antonio Schettino"]
 date: 2021-02-26
 slug: "ReproducibiliTea-Mar2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

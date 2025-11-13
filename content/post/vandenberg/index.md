@@ -2,7 +2,7 @@
 title: "OSCR Member: Hans van den Berg"
 date: 2021-03-10
 slug: "vandenberg"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "elite rower", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/vandenBerg.jpg

@@ -2,7 +2,7 @@
 title: "OSCR Member: Yuna Koyama"
 date: 2019-12-16
 slug: "koyama"
-categories: ["people"]
+categories: ["People"]
 tags: ["music", "open mindedness", "data management", "school-erasmusmc"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Koyama.jpg

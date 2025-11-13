@@ -3,7 +3,7 @@ title: "Introduction to the Open Science Framework"
 author: ["Antonio Schettino", "Eirini Botsari"]
 date: 2022-05-17
 slug: "intro-OSF-june2022"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["workshops", "open science", "OSF"]
 coverImage: /images/OSCR-OSF-banner.jpg
 banner: /images/OSCR-OSF.jpg

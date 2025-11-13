@@ -3,10 +3,10 @@ title: "ReproducibiliTea Online: Comparing the standard Psychology literature wi
 author: ["Anne Scheel", "Antonio Schettino"]
 date: 2020-03-30
 slug: "ReproducibiliTea-Apr2020"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["ReproducibiliTea"]
-coverImage: /images/ReproducibiliTeaPot.jpeg
-banner: /images/news/ReproducibiliTea.jpeg
+coverImage: /images/archive/ReproducibiliTeaPot.jpeg
+banner: /images/archive/ReproducibiliTea.jpeg
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out

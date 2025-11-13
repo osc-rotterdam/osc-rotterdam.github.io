@@ -3,10 +3,10 @@ title: "Discussing Failures in Science"
 author: ["Sean Devine", "Stefan Gaillard", "Kristel De Groot", "Antonio Schettino"]
 date: 2021-01-11
 slug: "FailureScience-Jan2021"
-categories: ["News"]
+categories: ["Archive"]
 tags: ["talks"]
-coverImage: /images/OSCR-JOTE-banner.png
-banner: /images/news/OSCR-JOTE-thumbnail.png
+coverImage: /images/archive/OSCR-JOTE-banner.png
+banner: /images/archive/OSCR-JOTE-thumbnail.png
 thumbnailImagePosition: left
 coverSize: partial
 coverMeta: out
@@ -18,8 +18,6 @@ summary: "January 19th 2021, h. 15:00 CET, Zoom"
 editor_options: 
   chunk_output_type: console
 ---
-<img border="0" alt="" src="/images/news/OSCR-JOTE-banner.png" width="70%" height="200" align="center">
-
 
 The winter holidays are over, but fear not! OSCR comes back from a well-deserved break with the webinar **Discussing Failures in Science**. Following up a previous [OSCR ReproducibiliTea](https://www.openscience-rotterdam.com/2020/01/reproducibilitea-feb2020/) talk, the [Journal of Trial and Error](https://www.jtrialerror.com/) (JOTE) returns to discuss the importance of recognizing and discussing failure in science.
 

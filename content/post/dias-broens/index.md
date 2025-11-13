@@ -2,7 +2,7 @@
 title: "OSCR Member: Aike Dias-Broens"
 date: 2025-02-16
 slug: "dias-broens"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "qualitative methods", "literature search", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Dias-Broens.jpg

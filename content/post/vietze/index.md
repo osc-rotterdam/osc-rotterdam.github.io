@@ -2,7 +2,7 @@
 title: "OSCR Member: Jana Vietze"
 date: 2020-11-30
 slug: "vietze"
-categories: ["people"]
+categories: ["People"]
 tags: ["open source software", "preregistration", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Vietze.jpg

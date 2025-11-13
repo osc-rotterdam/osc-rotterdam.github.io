@@ -2,7 +2,7 @@
 title: "OSCR Member: Gabriele Mari"
 date: 2021-02-08
 slug: "mari"
-categories: ["people"]
+categories: ["People"]
 tags: ["data management", "reproducible analysis", "open access", "guitar", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Mari.jpg

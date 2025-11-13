@@ -2,7 +2,7 @@
 title: "OSCR Member: Petra Olsthoorn"
 date: 2024-04-12
 slug: "olsthoorn"
-categories: ["people"]
+categories: ["People"]
 tags: ["VR and AI", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Olsthoorn.jpg
