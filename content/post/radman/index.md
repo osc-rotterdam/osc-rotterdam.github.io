@@ -67,8 +67,6 @@ editor_options:
 # About me
 
 I've been hands-on solving engineering problems with data, statistical, and deep learning methods during my previous tenures as Data Scientist, R&D Engineer, and Design Engineer in energy efficiency and smart city domains.
- 
-Click on the picture to send an email. The icon on the right redirects to social media.
 
 
 <!-- # Expertise -->
