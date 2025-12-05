@@ -1,7 +1,7 @@
 ---
 title: "OSCR Member: Phuong Hoan Le"
 date: 2025-12-05
-slug: "verheyen"
+slug: "le"
 categories: ["people"]
 tags: ["reproducible analysis", "open source software", "cat lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
