@@ -1,0 +1,96 @@
+---
+title: "OSCR Member: Phuong Hoan Le"
+date: 2025-12-05
+slug: "verheyen"
+categories: ["people"]
+tags: ["reproducible analysis", "open source software", "cat lover", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+thumbnailImage: /images/Le.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Assistant Professor, ESSB  
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+# Description
+
+Phuong Hoan Le is an Assistant Professor of HR, Organization, and Management in the Department of Public Administration and Sociology at Erasmus University Rotterdam. With a background in organizational communication and management studies, her research focuses on the impact of digitalization on employees and organizations, covering topics ranging from social media use in public relations to algorithmic management in the platform economy. She is a co-founder of the research group Responsible Organizations: Communication, Change and Society (ROCCS), coordinator of the Platform Labor Group at Erasmus University Rotterdam, and a Reshaping Work fellow.
+
+# CV and Contact Info
+
+Click on the picture to send an email. The icons on the right redirect to the personal website and social media.
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:p.h.le@essb.eur.nl">
+  <img border="0" alt="Phuong Hoan Le" src="/images/Le.jpg" width="150" height="150" align="left">
+  </a>
+</p>
+
+<!-- PERSONAL WEBSITE -->
+<p align="center">
+  <a href="https://phuonghoanle.com/" class="fa fa-link fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<!-- ORCID -->
+<p align="center">
+  <a href="https://orcid.org/0000-0002-5406-1373" class="ai ai-orcid fa-2x" style="color:#000000;">
+  </a>
+</p>
+
+<BR><BR>
+
+<!-- # Expertise -->
+
+```{r radarPlot, eval = FALSE}
+
+member_name <- "Phuong Hoan Le"
+special_skill <- "cat lover"
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("open source software", all_of(special_skill), "data sharing", "data management", "preregistration", "open access", "reproducible analysis"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
