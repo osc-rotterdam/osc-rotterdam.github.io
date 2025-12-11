@@ -10,10 +10,10 @@ cp CNAME public/
 cp README.md public/
 cp .gitignore public/
 TMPDIR=$(dirname $(mktemp))
-cp -rav public/ $TMPDIR/
+cp -Ra public/ $TMPDIR/
 
 # switch to master branch
-git checkout master
+git checkout update_main
 git config pull.rebase false
 git pull --force
 
@@ -36,5 +36,5 @@ git commit -m "$msg"
 git push --all
 
 # switch back to development branch
-git checkout development
+git checkout update
 

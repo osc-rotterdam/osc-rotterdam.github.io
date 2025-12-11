@@ -1,4 +1,4 @@
-baseurl: http://localhost:4593/
+baseurl: https://www.openscience-rotterdam.com/home/
 title: OSCR
 theme: hugo-universal-theme
 languageCode: en-us
