@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/python/</link>
-    <description>Recent content in python on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Python on OSCR</title>
+    <link>http://localhost:4593/tags/python/</link>
+    <description>Recent content in Python on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Julia Krämer</title>
-      <link>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</link>
+      <link>http://localhost:4593/post/2022/11/11/kraemer/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</guid>
+      <guid>http://localhost:4593/post/2022/11/11/kraemer/</guid>
       <description>PhD candidate, ESL</description>
     </item>
-    
   </channel>
 </rss>

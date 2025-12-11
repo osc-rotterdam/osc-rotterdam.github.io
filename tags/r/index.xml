@@ -1,164 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/r/</link>
-    <description>Recent content in R on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>R on OSCR</title>
+    <link>http://localhost:4593/tags/r/</link>
+    <description>Recent content in R on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Julia Krämer</title>
-      <link>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</link>
+      <link>http://localhost:4593/post/2022/11/11/kraemer/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</guid>
+      <guid>http://localhost:4593/post/2022/11/11/kraemer/</guid>
       <description>PhD candidate, ESL</description>
     </item>
-    
     <item>
       <title>An example of open software and innovative academic publication in econometrics</title>
-      <link>https://www.openscience-rotterdam.com/2022/01/18/innovative-publication-alfons/</link>
+      <link>http://localhost:4593/post/2022/01/18/innovative-publication-alfons/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/01/18/innovative-publication-alfons/</guid>
+      <guid>http://localhost:4593/post/2022/01/18/innovative-publication-alfons/</guid>
       <description>Andreas Alfons, Associate Professor at ESE, shares his experience in publishing open source code on an innovative platform.</description>
     </item>
-    
     <item>
       <title>OSCR Member: Somaye Dehban</title>
-      <link>https://www.openscience-rotterdam.com/2021/04/26/dehban/</link>
+      <link>http://localhost:4593/post/2021/04/26/dehban/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/04/26/dehban/</guid>
+      <guid>http://localhost:4593/post/2021/04/26/dehban/</guid>
       <description>PhD Candidate, RSM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Miranda Lutz-Landesbergen</title>
-      <link>https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/</link>
+      <link>http://localhost:4593/post/2021/03/03/lutz-landesbergen/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/</guid>
+      <guid>http://localhost:4593/post/2021/03/03/lutz-landesbergen/</guid>
       <description>PhD Candidate, ESSB and VU Amsterdam</description>
     </item>
-    
     <item>
       <title>OSCR Member: Ibrahim Cikrikcioglu</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/26/cikrikcioglu/</link>
+      <link>http://localhost:4593/post/2021/02/26/cikrikcioglu/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/26/cikrikcioglu/</guid>
+      <guid>http://localhost:4593/post/2021/02/26/cikrikcioglu/</guid>
       <description>PhD Candidate, RSM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lotte Houtepen</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/25/houtepen/</link>
+      <link>http://localhost:4593/post/2021/02/25/houtepen/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/25/houtepen/</guid>
+      <guid>http://localhost:4593/post/2021/02/25/houtepen/</guid>
       <description>Policy &amp;amp; Project officer, Academic Affairs</description>
     </item>
-    
     <item>
       <title>OSCR Member: Sebastian Himmler</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/04/himmler/</link>
+      <link>http://localhost:4593/post/2021/02/04/himmler/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/04/himmler/</guid>
+      <guid>http://localhost:4593/post/2021/02/04/himmler/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lizette Guzman-Ramirez</title>
-      <link>https://www.openscience-rotterdam.com/2021/01/18/guzman-ramirez/</link>
+      <link>http://localhost:4593/post/2021/01/18/guzman-ramirez/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/01/18/guzman-ramirez/</guid>
+      <guid>http://localhost:4593/post/2021/01/18/guzman-ramirez/</guid>
       <description>Research Data Steward, ERIM</description>
     </item>
-    
     <item>
       <title>Writing a Reproducible Paper in R with WORCS</title>
-      <link>https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/</link>
+      <link>http://localhost:4593/post/2020/10/16/worcshop-oct2020/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/</guid>
+      <guid>http://localhost:4593/post/2020/10/16/worcshop-oct2020/</guid>
       <description>October 26th 2020, h. 15:00 CET, Zoom</description>
     </item>
-    
     <item>
       <title>OSCR Member: Elisabet Blok</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/27/blok/</link>
+      <link>http://localhost:4593/post/2020/02/27/blok/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/27/blok/</guid>
+      <guid>http://localhost:4593/post/2020/02/27/blok/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lorenza Dall&#39;Aglio</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/26/dallaglio/</link>
+      <link>http://localhost:4593/post/2020/02/26/dallaglio/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/26/dallaglio/</guid>
+      <guid>http://localhost:4593/post/2020/02/26/dallaglio/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Ana Martinovici</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/25/martinovici/</link>
+      <link>http://localhost:4593/post/2020/02/25/martinovici/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/25/martinovici/</guid>
+      <guid>http://localhost:4593/post/2020/02/25/martinovici/</guid>
       <description>Assistant Professor, RSM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Rik Joosen</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/10/joosen/</link>
+      <link>http://localhost:4593/post/2020/02/10/joosen/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/10/joosen/</guid>
+      <guid>http://localhost:4593/post/2020/02/10/joosen/</guid>
       <description>PhD Candidate, Department of Public Administration and Sociology, ESSB</description>
     </item>
-    
     <item>
       <title>OSCR Member: Marianne Tenand</title>
-      <link>https://www.openscience-rotterdam.com/2020/01/08/tenand/</link>
+      <link>http://localhost:4593/post/2020/01/08/tenand/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/01/08/tenand/</guid>
+      <guid>http://localhost:4593/post/2020/01/08/tenand/</guid>
       <description>Post-Doctoral Researcher, ESPHM</description>
     </item>
-    
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/06/rojassaunero/</link>
+      <link>http://localhost:4593/post/2019/11/06/rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/11/06/rojassaunero/</guid>
+      <guid>http://localhost:4593/post/2019/11/06/rojassaunero/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Aurélie Lemmens</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</link>
+      <link>http://localhost:4593/post/2019/10/21/lemmens/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</guid>
+      <guid>http://localhost:4593/post/2019/10/21/lemmens/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/03/perryduxbury/</link>
+      <link>http://localhost:4593/post/2019/10/03/perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/03/perryduxbury/</guid>
+      <guid>http://localhost:4593/post/2019/10/03/perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
-    
   </channel>
 </rss>

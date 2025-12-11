@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open mindedness on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/open-mindedness/</link>
-    <description>Recent content in open mindedness on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Open Mindedness on OSCR</title>
+    <link>http://localhost:4593/tags/open-mindedness/</link>
+    <description>Recent content in Open Mindedness on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/open-mindedness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/open-mindedness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Yuna Koyama</title>
-      <link>https://www.openscience-rotterdam.com/2019/12/16/koyama/</link>
+      <link>http://localhost:4593/post/2019/12/16/koyama/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/12/16/koyama/</guid>
+      <guid>http://localhost:4593/post/2019/12/16/koyama/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
   </channel>
 </rss>

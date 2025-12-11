@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>curiosity on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/curiosity/</link>
-    <description>Recent content in curiosity on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Curiosity on OSCR</title>
+    <link>http://localhost:4593/tags/curiosity/</link>
+    <description>Recent content in Curiosity on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/curiosity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Annette van Engen</title>
-      <link>https://www.openscience-rotterdam.com/2024/10/06/vanengen/</link>
+      <link>http://localhost:4593/post/2024/10/06/vanengen/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/10/06/vanengen/</guid>
+      <guid>http://localhost:4593/post/2024/10/06/vanengen/</guid>
       <description>Research Programme Manager, IHS</description>
     </item>
-    
     <item>
       <title>OSCR Member: Macarena Lara</title>
-      <link>https://www.openscience-rotterdam.com/2022/09/06/lara/</link>
+      <link>http://localhost:4593/post/2022/09/06/lara/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/09/06/lara/</guid>
+      <guid>http://localhost:4593/post/2022/09/06/lara/</guid>
       <description>Senior Researcher, ErasmusX</description>
     </item>
-    
   </channel>
 </rss>

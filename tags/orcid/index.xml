@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ORCID on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/orcid/</link>
-    <description>Recent content in ORCID on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>ORCID on OSCR</title>
+    <link>http://localhost:4593/tags/orcid/</link>
+    <description>Recent content in ORCID on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/orcid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/orcid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Judith Gulpers</title>
-      <link>https://www.openscience-rotterdam.com/2024/06/14/gulpers/</link>
+      <link>http://localhost:4593/post/2024/06/14/gulpers/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/06/14/gulpers/</guid>
+      <guid>http://localhost:4593/post/2024/06/14/gulpers/</guid>
       <description>Faculty Liaison Librarian, UB</description>
     </item>
-    
     <item>
       <title>Take-away OSCR-ORCID workshop</title>
-      <link>https://www.openscience-rotterdam.com/2020/11/26/takeaway-orcid-nov2020/</link>
+      <link>http://localhost:4593/post/2020/11/26/takeaway-orcid-nov2020/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/11/26/takeaway-orcid-nov2020/</guid>
+      <guid>http://localhost:4593/post/2020/11/26/takeaway-orcid-nov2020/</guid>
       <description>Missed out on the workshop? Catch up by following these steps!</description>
     </item>
-    
     <item>
       <title>Get recognized. Get the most out of your ORCID iD!</title>
-      <link>https://www.openscience-rotterdam.com/2020/10/30/orcid-nov2020/</link>
+      <link>http://localhost:4593/post/2020/10/30/orcid-nov2020/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/10/30/orcid-nov2020/</guid>
+      <guid>http://localhost:4593/post/2020/10/30/orcid-nov2020/</guid>
       <description>November 18th 2020, h. 14:00 CET, Zoom</description>
     </item>
-    
     <item>
       <title>Distinguish yourself and get recognized with ORCID!</title>
-      <link>https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/</link>
+      <link>http://localhost:4593/post/2020/10/27/eur-orcid/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/</guid>
+      <guid>http://localhost:4593/post/2020/10/27/eur-orcid/</guid>
       <description>A university-wide campaign to raise awareness on the importance, benefits, and use of ORCID for researchers.</description>
     </item>
-    
   </channel>
 </rss>

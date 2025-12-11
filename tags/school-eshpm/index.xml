@@ -1,119 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-eshpm on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
-    <description>Recent content in school-eshpm on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>School-Eshpm on OSCR</title>
+    <link>http://localhost:4593/tags/school-eshpm/</link>
+    <description>Recent content in School-Eshpm on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/school-eshpm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/school-eshpm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Jule van den Berg</title>
-      <link>https://www.openscience-rotterdam.com/2025/09/19/vandenberg-jule/</link>
+      <link>http://localhost:4593/post/2025/09/19/vandenberg-jule/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/09/19/vandenberg-jule/</guid>
+      <guid>http://localhost:4593/post/2025/09/19/vandenberg-jule/</guid>
       <description>Researcher &amp;amp; PhD Candidate, IDEA Center &amp;amp; ESHPM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lucy van Eck</title>
-      <link>https://www.openscience-rotterdam.com/2025/08/29/vaneck/</link>
+      <link>http://localhost:4593/post/2025/08/29/vaneck/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/08/29/vaneck/</guid>
+      <guid>http://localhost:4593/post/2025/08/29/vaneck/</guid>
       <description>PhD Candidate, ESHPM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Bryan Bong</title>
-      <link>https://www.openscience-rotterdam.com/2024/07/29/bong/</link>
+      <link>http://localhost:4593/post/2024/07/29/bong/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/07/29/bong/</guid>
+      <guid>http://localhost:4593/post/2024/07/29/bong/</guid>
       <description>Research Policy Advisor, ESHPM</description>
     </item>
-    
     <item>
       <title>An example of applied Open Science practices in health economics</title>
-      <link>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</link>
+      <link>http://localhost:4593/post/2021/06/11/benefits-os-stoeckel-himmler/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</guid>
+      <guid>http://localhost:4593/post/2021/06/11/benefits-os-stoeckel-himmler/</guid>
       <description>Jannis Stöckel and Sebastian Himmler, PhD Candidates at ESHPM, share their experience in implementing open science practices in their own project.</description>
     </item>
-    
     <item>
       <title>OSCR Member: Jannis Stöckel</title>
-      <link>https://www.openscience-rotterdam.com/2021/03/30/stoeckel/</link>
+      <link>http://localhost:4593/post/2021/03/30/stoeckel/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/03/30/stoeckel/</guid>
+      <guid>http://localhost:4593/post/2021/03/30/stoeckel/</guid>
       <description>PhD Candidate, ESHPM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Sebastian Himmler</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/04/himmler/</link>
+      <link>http://localhost:4593/post/2021/02/04/himmler/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/04/himmler/</guid>
+      <guid>http://localhost:4593/post/2021/02/04/himmler/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Zhongyu Lang</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/01/lang/</link>
+      <link>http://localhost:4593/post/2021/02/01/lang/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/01/lang/</guid>
+      <guid>http://localhost:4593/post/2021/02/01/lang/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
-    
     <item>
       <title>Data Stewards join EUR Research Support</title>
-      <link>https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/</link>
+      <link>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/</guid>
+      <guid>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</guid>
       <description>Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!</description>
     </item>
-    
     <item>
       <title>OSCR Member: Marianne Tenand</title>
-      <link>https://www.openscience-rotterdam.com/2020/01/08/tenand/</link>
+      <link>http://localhost:4593/post/2020/01/08/tenand/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/01/08/tenand/</guid>
+      <guid>http://localhost:4593/post/2020/01/08/tenand/</guid>
       <description>Post-Doctoral Researcher, ESPHM</description>
     </item>
-    
     <item>
       <title>Talk on Collective and Individual Benefits of Open Science at ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/28/introos-eshpm-oct2019/</link>
+      <link>http://localhost:4593/post/2019/10/28/introos-eshpm-oct2019/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/28/introos-eshpm-oct2019/</guid>
+      <guid>http://localhost:4593/post/2019/10/28/introos-eshpm-oct2019/</guid>
       <description>Upfront investment, tangible career benefits.</description>
     </item>
-    
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/03/perryduxbury/</link>
+      <link>http://localhost:4593/post/2019/10/03/perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/03/perryduxbury/</guid>
+      <guid>http://localhost:4593/post/2019/10/03/perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
-    
     <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>https://www.openscience-rotterdam.com/2019/09/22/osfworkshop-eshpm-sept2019/</link>
+      <link>http://localhost:4593/post/2019/09/22/osfworkshop-eshpm-sept2019/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/09/22/osfworkshop-eshpm-sept2019/</guid>
+      <guid>http://localhost:4593/post/2019/09/22/osfworkshop-eshpm-sept2019/</guid>
       <description>September 24th 2019, h.14:30, room J7-43/J7-45</description>
     </item>
-    
   </channel>
 </rss>

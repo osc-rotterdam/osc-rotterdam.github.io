@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-eshcc on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
-    <description>Recent content in school-eshcc on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>School-Eshcc on OSCR</title>
+    <link>http://localhost:4593/tags/school-eshcc/</link>
+    <description>Recent content in School-Eshcc on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/school-eshcc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/school-eshcc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Merit Zimmermann</title>
-      <link>https://www.openscience-rotterdam.com/2025/10/16/zimmermann/</link>
+      <link>http://localhost:4593/post/2025/10/16/zimmermann/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/10/16/zimmermann/</guid>
+      <guid>http://localhost:4593/post/2025/10/16/zimmermann/</guid>
       <description>PhD Candidate, ESHCC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Daniel Trottier</title>
-      <link>https://www.openscience-rotterdam.com/2025/09/27/trottier/</link>
+      <link>http://localhost:4593/post/2025/09/27/trottier/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/09/27/trottier/</guid>
+      <guid>http://localhost:4593/post/2025/09/27/trottier/</guid>
       <description>Associate Professor, ESHCC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Jason Pridmore</title>
-      <link>https://www.openscience-rotterdam.com/2024/02/06/pridmore/</link>
+      <link>http://localhost:4593/post/2024/02/06/pridmore/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/02/06/pridmore/</guid>
+      <guid>http://localhost:4593/post/2024/02/06/pridmore/</guid>
       <description>Associate Professor, ESHCC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Victoria Balan</title>
-      <link>https://www.openscience-rotterdam.com/2022/12/02/balan/</link>
+      <link>http://localhost:4593/post/2022/12/02/balan/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/12/02/balan/</guid>
+      <guid>http://localhost:4593/post/2022/12/02/balan/</guid>
       <description>PhD Candidate, ESHCC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Freya De Keyzer</title>
-      <link>https://www.openscience-rotterdam.com/2022/04/11/dekeyzer/</link>
+      <link>http://localhost:4593/post/2022/04/11/dekeyzer/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/04/11/dekeyzer/</guid>
+      <guid>http://localhost:4593/post/2022/04/11/dekeyzer/</guid>
       <description>Assistant Professor, ESHCC</description>
     </item>
-    
     <item>
       <title>Data Stewards join EUR Research Support</title>
-      <link>https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/</link>
+      <link>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/</guid>
+      <guid>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</guid>
       <description>Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!</description>
     </item>
-    
   </channel>
 </rss>

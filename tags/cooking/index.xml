@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cooking on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/cooking/</link>
-    <description>Recent content in cooking on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Cooking on OSCR</title>
+    <link>http://localhost:4593/tags/cooking/</link>
+    <description>Recent content in Cooking on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Erica Yu</title>
-      <link>https://www.openscience-rotterdam.com/2025/10/16/yu/</link>
+      <link>http://localhost:4593/post/2025/10/16/yu/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/10/16/yu/</guid>
+      <guid>http://localhost:4593/post/2025/10/16/yu/</guid>
       <description>PhD candidate, ESPhil &amp;amp; Open Access Officer, UB</description>
     </item>
-    
     <item>
       <title>OSCR Member: Julia Steenwegen</title>
-      <link>https://www.openscience-rotterdam.com/2024/10/18/steenwegen/</link>
+      <link>http://localhost:4593/post/2024/10/18/steenwegen/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/10/18/steenwegen/</guid>
+      <guid>http://localhost:4593/post/2024/10/18/steenwegen/</guid>
       <description>Postdoctoral Researcher, ESSB</description>
     </item>
-    
     <item>
       <title>OSCR Member: Jeffrey Sweeney</title>
-      <link>https://www.openscience-rotterdam.com/2021/12/01/sweeney/</link>
+      <link>http://localhost:4593/post/2021/12/01/sweeney/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/12/01/sweeney/</guid>
+      <guid>http://localhost:4593/post/2021/12/01/sweeney/</guid>
       <description>Assistant Professor, RSM</description>
     </item>
-    
   </channel>
 </rss>

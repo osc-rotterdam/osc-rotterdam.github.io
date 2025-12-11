@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/music/</link>
-    <description>Recent content in music on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Music on OSCR</title>
+    <link>http://localhost:4593/tags/music/</link>
+    <description>Recent content in Music on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Junior Louter</title>
-      <link>https://www.openscience-rotterdam.com/2024/11/08/louter/</link>
+      <link>http://localhost:4593/post/2024/11/08/louter/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/11/08/louter/</guid>
+      <guid>http://localhost:4593/post/2024/11/08/louter/</guid>
       <description>Research Associate, ESSB</description>
     </item>
-    
     <item>
       <title>OSCR Member: Coline Serres</title>
-      <link>https://www.openscience-rotterdam.com/2022/05/16/serres/</link>
+      <link>http://localhost:4593/post/2022/05/16/serres/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/05/16/serres/</guid>
+      <guid>http://localhost:4593/post/2022/05/16/serres/</guid>
       <description>Postdoctoral Researcher, RSM</description>
     </item>
-    
     <item>
       <title>OSCR Member: Isabella Zampeta</title>
-      <link>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</link>
+      <link>http://localhost:4593/post/2021/06/11/zampeta/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</guid>
+      <guid>http://localhost:4593/post/2021/06/11/zampeta/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Yuna Koyama</title>
-      <link>https://www.openscience-rotterdam.com/2019/12/16/koyama/</link>
+      <link>http://localhost:4593/post/2019/12/16/koyama/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/12/16/koyama/</guid>
+      <guid>http://localhost:4593/post/2019/12/16/koyama/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
   </channel>
 </rss>

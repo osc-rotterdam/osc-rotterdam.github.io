@@ -1,1343 +1,1048 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/</link>
-    <description>Recent content in Tags on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on OSCR</title>
+    <link>http://localhost:4593/tags/</link>
+    <description>Recent content in Tags on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cat lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/cat-lover/</link>
+      <title>Cat Lover</title>
+      <link>http://localhost:4593/tags/cat-lover/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cat-lover/</guid>
+      <guid>http://localhost:4593/tags/cat-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open source software</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-source-software/</link>
+      <title>Open Source Software</title>
+      <link>http://localhost:4593/tags/open-source-software/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-source-software/</guid>
+      <guid>http://localhost:4593/tags/open-source-software/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reproducible analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</link>
+      <title>Reproducible Analysis</title>
+      <link>http://localhost:4593/tags/reproducible-analysis/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</guid>
+      <guid>http://localhost:4593/tags/reproducible-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-essb</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-essb/</link>
+      <title>School-Essb</title>
+      <link>http://localhost:4593/tags/school-essb/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-essb/</guid>
+      <guid>http://localhost:4593/tags/school-essb/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>citizen science</title>
-      <link>https://www.openscience-rotterdam.com/tags/citizen-science/</link>
+      <title>Citizen Science</title>
+      <link>http://localhost:4593/tags/citizen-science/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/citizen-science/</guid>
+      <guid>http://localhost:4593/tags/citizen-science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data management</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-management/</link>
+      <title>Data Management</title>
+      <link>http://localhost:4593/tags/data-management/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-management/</guid>
+      <guid>http://localhost:4593/tags/data-management/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data sharing</title>
-      <link>https://www.openscience-rotterdam.com/tags/data-sharing/</link>
+      <title>Data Sharing</title>
+      <link>http://localhost:4593/tags/data-sharing/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/data-sharing/</guid>
+      <guid>http://localhost:4593/tags/data-sharing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open access</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-access/</link>
+      <title>Open Access</title>
+      <link>http://localhost:4593/tags/open-access/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-access/</guid>
+      <guid>http://localhost:4593/tags/open-access/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-esl</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
+      <title>School-Esl</title>
+      <link>http://localhost:4593/tags/school-esl/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-esl/</guid>
+      <guid>http://localhost:4593/tags/school-esl/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>art lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/art-lover/</link>
+      <title>Art Lover</title>
+      <link>http://localhost:4593/tags/art-lover/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/art-lover/</guid>
+      <guid>http://localhost:4593/tags/art-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cooking</title>
-      <link>https://www.openscience-rotterdam.com/tags/cooking/</link>
+      <title>Cooking</title>
+      <link>http://localhost:4593/tags/cooking/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cooking/</guid>
+      <guid>http://localhost:4593/tags/cooking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-eshcc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshcc/</link>
+      <title>School-Eshcc</title>
+      <link>http://localhost:4593/tags/school-eshcc/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshcc/</guid>
+      <guid>http://localhost:4593/tags/school-eshcc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-esphil</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-esphil/</link>
+      <title>School-Esphil</title>
+      <link>http://localhost:4593/tags/school-esphil/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-esphil/</guid>
+      <guid>http://localhost:4593/tags/school-esphil/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ecda</title>
-      <link>https://www.openscience-rotterdam.com/tags/ecda/</link>
+      <title>Ecda</title>
+      <link>http://localhost:4593/tags/ecda/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ecda/</guid>
+      <guid>http://localhost:4593/tags/ecda/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>preregistration</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistration/</link>
+      <title>Preregistration</title>
+      <link>http://localhost:4593/tags/preregistration/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistration/</guid>
+      <guid>http://localhost:4593/tags/preregistration/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public outreach</title>
-      <link>https://www.openscience-rotterdam.com/tags/public-outreach/</link>
+      <title>Public Outreach</title>
+      <link>http://localhost:4593/tags/public-outreach/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/public-outreach/</guid>
+      <guid>http://localhost:4593/tags/public-outreach/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thinker and doer</title>
-      <link>https://www.openscience-rotterdam.com/tags/thinker-and-doer/</link>
+      <title>Thinker and Doer</title>
+      <link>http://localhost:4593/tags/thinker-and-doer/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/thinker-and-doer/</guid>
+      <guid>http://localhost:4593/tags/thinker-and-doer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IDEA</title>
-      <link>https://www.openscience-rotterdam.com/tags/idea/</link>
+      <link>http://localhost:4593/tags/idea/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/idea/</guid>
+      <guid>http://localhost:4593/tags/idea/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inclusiveness</title>
-      <link>https://www.openscience-rotterdam.com/tags/inclusiveness/</link>
+      <title>Inclusiveness</title>
+      <link>http://localhost:4593/tags/inclusiveness/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/inclusiveness/</guid>
+      <guid>http://localhost:4593/tags/inclusiveness/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-eshpm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-eshpm/</link>
+      <title>School-Eshpm</title>
+      <link>http://localhost:4593/tags/school-eshpm/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-eshpm/</guid>
+      <guid>http://localhost:4593/tags/school-eshpm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ERS</title>
-      <link>https://www.openscience-rotterdam.com/tags/ers/</link>
+      <link>http://localhost:4593/tags/ers/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ers/</guid>
+      <guid>http://localhost:4593/tags/ers/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>metaphorising research</title>
-      <link>https://www.openscience-rotterdam.com/tags/metaphorising-research/</link>
+      <title>Metaphorising Research</title>
+      <link>http://localhost:4593/tags/metaphorising-research/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/metaphorising-research/</guid>
+      <guid>http://localhost:4593/tags/metaphorising-research/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>machine learning</title>
-      <link>https://www.openscience-rotterdam.com/tags/machine-learning/</link>
+      <title>Machine Learning</title>
+      <link>http://localhost:4593/tags/machine-learning/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/machine-learning/</guid>
+      <guid>http://localhost:4593/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-erasmusmc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
+      <title>School-Erasmusmc</title>
+      <link>http://localhost:4593/tags/school-erasmusmc/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</guid>
+      <guid>http://localhost:4593/tags/school-erasmusmc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sleeping</title>
-      <link>https://www.openscience-rotterdam.com/tags/sleeping/</link>
+      <title>Sleeping</title>
+      <link>http://localhost:4593/tags/sleeping/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/sleeping/</guid>
+      <guid>http://localhost:4593/tags/sleeping/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>literature search</title>
-      <link>https://www.openscience-rotterdam.com/tags/literature-search/</link>
+      <title>Literature Search</title>
+      <link>http://localhost:4593/tags/literature-search/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/literature-search/</guid>
+      <guid>http://localhost:4593/tags/literature-search/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>qualitative methods</title>
-      <link>https://www.openscience-rotterdam.com/tags/qualitative-methods/</link>
+      <title>Qualitative Methods</title>
+      <link>http://localhost:4593/tags/qualitative-methods/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/qualitative-methods/</guid>
+      <guid>http://localhost:4593/tags/qualitative-methods/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>information literacy</title>
-      <link>https://www.openscience-rotterdam.com/tags/information-literacy/</link>
+      <title>Information Literacy</title>
+      <link>http://localhost:4593/tags/information-literacy/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/information-literacy/</guid>
+      <guid>http://localhost:4593/tags/information-literacy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-ihs</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ihs/</link>
+      <title>School-Ihs</title>
+      <link>http://localhost:4593/tags/school-ihs/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ihs/</guid>
+      <guid>http://localhost:4593/tags/school-ihs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>baking</title>
-      <link>https://www.openscience-rotterdam.com/tags/baking/</link>
+      <title>Baking</title>
+      <link>http://localhost:4593/tags/baking/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/baking/</guid>
+      <guid>http://localhost:4593/tags/baking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>preregistation</title>
-      <link>https://www.openscience-rotterdam.com/tags/preregistation/</link>
+      <title>Preregistation</title>
+      <link>http://localhost:4593/tags/preregistation/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/preregistation/</guid>
+      <guid>http://localhost:4593/tags/preregistation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Matlab</title>
-      <link>https://www.openscience-rotterdam.com/tags/matlab/</link>
+      <link>http://localhost:4593/tags/matlab/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/matlab/</guid>
+      <guid>http://localhost:4593/tags/matlab/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>music</title>
-      <link>https://www.openscience-rotterdam.com/tags/music/</link>
+      <title>Music</title>
+      <link>http://localhost:4593/tags/music/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/music/</guid>
+      <guid>http://localhost:4593/tags/music/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>children participation</title>
-      <link>https://www.openscience-rotterdam.com/tags/children-participation/</link>
+      <title>Children Participation</title>
+      <link>http://localhost:4593/tags/children-participation/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/children-participation/</guid>
+      <guid>http://localhost:4593/tags/children-participation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>curiosity</title>
-      <link>https://www.openscience-rotterdam.com/tags/curiosity/</link>
+      <title>Curiosity</title>
+      <link>http://localhost:4593/tags/curiosity/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/curiosity/</guid>
+      <guid>http://localhost:4593/tags/curiosity/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-euc</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-euc/</link>
+      <title>School-Euc</title>
+      <link>http://localhost:4593/tags/school-euc/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-euc/</guid>
+      <guid>http://localhost:4593/tags/school-euc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>heavy metal guitar</title>
-      <link>https://www.openscience-rotterdam.com/tags/heavy-metal-guitar/</link>
+      <title>Heavy Metal Guitar</title>
+      <link>http://localhost:4593/tags/heavy-metal-guitar/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/heavy-metal-guitar/</guid>
+      <guid>http://localhost:4593/tags/heavy-metal-guitar/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bibliophile</title>
-      <link>https://www.openscience-rotterdam.com/tags/bibliophile/</link>
+      <title>Bibliophile</title>
+      <link>http://localhost:4593/tags/bibliophile/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/bibliophile/</guid>
+      <guid>http://localhost:4593/tags/bibliophile/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ethics</title>
-      <link>https://www.openscience-rotterdam.com/tags/ethics/</link>
+      <title>Ethics</title>
+      <link>http://localhost:4593/tags/ethics/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ethics/</guid>
+      <guid>http://localhost:4593/tags/ethics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-ese</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-ese/</link>
+      <title>School-Ese</title>
+      <link>http://localhost:4593/tags/school-ese/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-ese/</guid>
+      <guid>http://localhost:4593/tags/school-ese/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ORCID</title>
-      <link>https://www.openscience-rotterdam.com/tags/orcid/</link>
+      <link>http://localhost:4593/tags/orcid/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/orcid/</guid>
+      <guid>http://localhost:4593/tags/orcid/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UB</title>
-      <link>https://www.openscience-rotterdam.com/tags/ub/</link>
+      <link>http://localhost:4593/tags/ub/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ub/</guid>
+      <guid>http://localhost:4593/tags/ub/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VR and AI</title>
-      <link>https://www.openscience-rotterdam.com/tags/vr-and-ai/</link>
+      <link>http://localhost:4593/tags/vr-and-ai/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/vr-and-ai/</guid>
+      <guid>http://localhost:4593/tags/vr-and-ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>publishing</title>
-      <link>https://www.openscience-rotterdam.com/tags/publishing/</link>
+      <title>Publishing</title>
+      <link>http://localhost:4593/tags/publishing/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/publishing/</guid>
+      <guid>http://localhost:4593/tags/publishing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science communication</title>
-      <link>https://www.openscience-rotterdam.com/tags/science-communication/</link>
+      <title>Science Communication</title>
+      <link>http://localhost:4593/tags/science-communication/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/science-communication/</guid>
+      <guid>http://localhost:4593/tags/science-communication/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>review studies</title>
-      <link>https://www.openscience-rotterdam.com/tags/review-studies/</link>
+      <title>Review Studies</title>
+      <link>http://localhost:4593/tags/review-studies/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/review-studies/</guid>
+      <guid>http://localhost:4593/tags/review-studies/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fieldwork</title>
-      <link>https://www.openscience-rotterdam.com/tags/fieldwork/</link>
+      <title>Fieldwork</title>
+      <link>http://localhost:4593/tags/fieldwork/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/fieldwork/</guid>
+      <guid>http://localhost:4593/tags/fieldwork/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-iss</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-iss/</link>
+      <title>School-Iss</title>
+      <link>http://localhost:4593/tags/school-iss/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-iss/</guid>
+      <guid>http://localhost:4593/tags/school-iss/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>strategy-office</title>
-      <link>https://www.openscience-rotterdam.com/tags/strategy-office/</link>
+      <title>Strategy-Office</title>
+      <link>http://localhost:4593/tags/strategy-office/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/strategy-office/</guid>
+      <guid>http://localhost:4593/tags/strategy-office/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>collaboration</title>
-      <link>https://www.openscience-rotterdam.com/tags/collaboration/</link>
+      <title>Collaboration</title>
+      <link>http://localhost:4593/tags/collaboration/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/collaboration/</guid>
+      <guid>http://localhost:4593/tags/collaboration/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>driving</title>
-      <link>https://www.openscience-rotterdam.com/tags/driving/</link>
+      <title>Driving</title>
+      <link>http://localhost:4593/tags/driving/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/driving/</guid>
+      <guid>http://localhost:4593/tags/driving/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>experience sampling</title>
-      <link>https://www.openscience-rotterdam.com/tags/experience-sampling/</link>
+      <title>Experience Sampling</title>
+      <link>http://localhost:4593/tags/experience-sampling/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/experience-sampling/</guid>
+      <guid>http://localhost:4593/tags/experience-sampling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>deep learning</title>
-      <link>https://www.openscience-rotterdam.com/tags/deep-learning/</link>
+      <title>Deep Learning</title>
+      <link>http://localhost:4593/tags/deep-learning/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/deep-learning/</guid>
+      <guid>http://localhost:4593/tags/deep-learning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>perseverance</title>
-      <link>https://www.openscience-rotterdam.com/tags/perseverance/</link>
+      <title>Perseverance</title>
+      <link>http://localhost:4593/tags/perseverance/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/perseverance/</guid>
+      <guid>http://localhost:4593/tags/perseverance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>school-rsm</title>
-      <link>https://www.openscience-rotterdam.com/tags/school-rsm/</link>
+      <title>School-Rsm</title>
+      <link>http://localhost:4593/tags/school-rsm/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/school-rsm/</guid>
+      <guid>http://localhost:4593/tags/school-rsm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>registered reports</title>
-      <link>https://www.openscience-rotterdam.com/tags/registered-reports/</link>
+      <title>Registered Reports</title>
+      <link>http://localhost:4593/tags/registered-reports/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/registered-reports/</guid>
+      <guid>http://localhost:4593/tags/registered-reports/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>FAIR data</title>
-      <link>https://www.openscience-rotterdam.com/tags/fair-data/</link>
+      <title>FAIR Data</title>
+      <link>http://localhost:4593/tags/fair-data/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/fair-data/</guid>
+      <guid>http://localhost:4593/tags/fair-data/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>discretion</title>
-      <link>https://www.openscience-rotterdam.com/tags/discretion/</link>
+      <title>Discretion</title>
+      <link>http://localhost:4593/tags/discretion/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/discretion/</guid>
+      <guid>http://localhost:4593/tags/discretion/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>outreach</title>
-      <link>https://www.openscience-rotterdam.com/tags/outreach/</link>
+      <title>Outreach</title>
+      <link>http://localhost:4593/tags/outreach/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/outreach/</guid>
+      <guid>http://localhost:4593/tags/outreach/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>food</title>
-      <link>https://www.openscience-rotterdam.com/tags/food/</link>
+      <title>Food</title>
+      <link>http://localhost:4593/tags/food/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/food/</guid>
+      <guid>http://localhost:4593/tags/food/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>societal impact</title>
-      <link>https://www.openscience-rotterdam.com/tags/societal-impact/</link>
+      <title>Societal Impact</title>
+      <link>http://localhost:4593/tags/societal-impact/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/societal-impact/</guid>
+      <guid>http://localhost:4593/tags/societal-impact/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>football</title>
-      <link>https://www.openscience-rotterdam.com/tags/football/</link>
+      <title>Football</title>
+      <link>http://localhost:4593/tags/football/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/football/</guid>
+      <guid>http://localhost:4593/tags/football/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pop culture references</title>
-      <link>https://www.openscience-rotterdam.com/tags/pop-culture-references/</link>
+      <title>Pop Culture References</title>
+      <link>http://localhost:4593/tags/pop-culture-references/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/pop-culture-references/</guid>
+      <guid>http://localhost:4593/tags/pop-culture-references/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>law</title>
-      <link>https://www.openscience-rotterdam.com/tags/law/</link>
+      <title>Law</title>
+      <link>http://localhost:4593/tags/law/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/law/</guid>
+      <guid>http://localhost:4593/tags/law/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
-      <link>https://www.openscience-rotterdam.com/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:4593/tags/python/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/python/</guid>
+      <guid>http://localhost:4593/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>R</title>
-      <link>https://www.openscience-rotterdam.com/tags/r/</link>
+      <link>http://localhost:4593/tags/r/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/r/</guid>
+      <guid>http://localhost:4593/tags/r/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>webscraping</title>
-      <link>https://www.openscience-rotterdam.com/tags/webscraping/</link>
+      <title>Webscraping</title>
+      <link>http://localhost:4593/tags/webscraping/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/webscraping/</guid>
+      <guid>http://localhost:4593/tags/webscraping/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>research quality assurance</title>
-      <link>https://www.openscience-rotterdam.com/tags/research-quality-assurance/</link>
+      <title>Research Quality Assurance</title>
+      <link>http://localhost:4593/tags/research-quality-assurance/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/research-quality-assurance/</guid>
+      <guid>http://localhost:4593/tags/research-quality-assurance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>morning person</title>
-      <link>https://www.openscience-rotterdam.com/tags/morning-person/</link>
+      <title>Morning Person</title>
+      <link>http://localhost:4593/tags/morning-person/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/morning-person/</guid>
+      <guid>http://localhost:4593/tags/morning-person/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>empathy</title>
-      <link>https://www.openscience-rotterdam.com/tags/empathy/</link>
+      <title>Empathy</title>
+      <link>http://localhost:4593/tags/empathy/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/empathy/</guid>
+      <guid>http://localhost:4593/tags/empathy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>medical information</title>
-      <link>https://www.openscience-rotterdam.com/tags/medical-information/</link>
+      <title>Medical Information</title>
+      <link>http://localhost:4593/tags/medical-information/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/medical-information/</guid>
+      <guid>http://localhost:4593/tags/medical-information/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bridge player</title>
-      <link>https://www.openscience-rotterdam.com/tags/bridge-player/</link>
+      <title>Bridge Player</title>
+      <link>http://localhost:4593/tags/bridge-player/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/bridge-player/</guid>
+      <guid>http://localhost:4593/tags/bridge-player/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>creativity</title>
-      <link>https://www.openscience-rotterdam.com/tags/creativity/</link>
+      <title>Creativity</title>
+      <link>http://localhost:4593/tags/creativity/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/creativity/</guid>
+      <guid>http://localhost:4593/tags/creativity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ErasmusX</title>
-      <link>https://www.openscience-rotterdam.com/tags/erasmusx/</link>
+      <link>http://localhost:4593/tags/erasmusx/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/erasmusx/</guid>
+      <guid>http://localhost:4593/tags/erasmusx/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>talks</title>
-      <link>https://www.openscience-rotterdam.com/tags/talks/</link>
+      <title>Talks</title>
+      <link>http://localhost:4593/tags/talks/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/talks/</guid>
+      <guid>http://localhost:4593/tags/talks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dancing</title>
-      <link>https://www.openscience-rotterdam.com/tags/dancing/</link>
+      <title>Dancing</title>
+      <link>http://localhost:4593/tags/dancing/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/dancing/</guid>
+      <guid>http://localhost:4593/tags/dancing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>statistics</title>
-      <link>https://www.openscience-rotterdam.com/tags/statistics/</link>
+      <title>Statistics</title>
+      <link>http://localhost:4593/tags/statistics/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/statistics/</guid>
+      <guid>http://localhost:4593/tags/statistics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>flexibility</title>
-      <link>https://www.openscience-rotterdam.com/tags/flexibility/</link>
+      <title>Flexibility</title>
+      <link>http://localhost:4593/tags/flexibility/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/flexibility/</guid>
+      <guid>http://localhost:4593/tags/flexibility/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open science</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-science/</link>
+      <title>Open Science</title>
+      <link>http://localhost:4593/tags/open-science/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-science/</guid>
+      <guid>http://localhost:4593/tags/open-science/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OSF</title>
-      <link>https://www.openscience-rotterdam.com/tags/osf/</link>
+      <link>http://localhost:4593/tags/osf/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/osf/</guid>
+      <guid>http://localhost:4593/tags/osf/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>workshops</title>
-      <link>https://www.openscience-rotterdam.com/tags/workshops/</link>
+      <title>Workshops</title>
+      <link>http://localhost:4593/tags/workshops/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/workshops/</guid>
+      <guid>http://localhost:4593/tags/workshops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ReproducibiliTea</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducibilitea/</link>
+      <link>http://localhost:4593/tags/reproducibilitea/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducibilitea/</guid>
+      <guid>http://localhost:4593/tags/reproducibilitea/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coding</title>
-      <link>https://www.openscience-rotterdam.com/tags/coding/</link>
+      <title>Coding</title>
+      <link>http://localhost:4593/tags/coding/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/coding/</guid>
+      <guid>http://localhost:4593/tags/coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>design thinking</title>
-      <link>https://www.openscience-rotterdam.com/tags/design-thinking/</link>
+      <title>Design Thinking</title>
+      <link>http://localhost:4593/tags/design-thinking/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/design-thinking/</guid>
+      <guid>http://localhost:4593/tags/design-thinking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>parenting studies</title>
-      <link>https://www.openscience-rotterdam.com/tags/parenting-studies/</link>
+      <title>Parenting Studies</title>
+      <link>http://localhost:4593/tags/parenting-studies/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/parenting-studies/</guid>
+      <guid>http://localhost:4593/tags/parenting-studies/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jamovi</title>
-      <link>https://www.openscience-rotterdam.com/tags/jamovi/</link>
+      <title>Jamovi</title>
+      <link>http://localhost:4593/tags/jamovi/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/jamovi/</guid>
+      <guid>http://localhost:4593/tags/jamovi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>power analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/power-analysis/</link>
+      <title>Power Analysis</title>
+      <link>http://localhost:4593/tags/power-analysis/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/power-analysis/</guid>
+      <guid>http://localhost:4593/tags/power-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>knitting</title>
-      <link>https://www.openscience-rotterdam.com/tags/knitting/</link>
+      <title>Knitting</title>
+      <link>http://localhost:4593/tags/knitting/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/knitting/</guid>
+      <guid>http://localhost:4593/tags/knitting/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>grant preparation</title>
-      <link>https://www.openscience-rotterdam.com/tags/grant-preparation/</link>
+      <title>Grant Preparation</title>
+      <link>http://localhost:4593/tags/grant-preparation/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/grant-preparation/</guid>
+      <guid>http://localhost:4593/tags/grant-preparation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>obscure philosophy</title>
-      <link>https://www.openscience-rotterdam.com/tags/obscure-philosophy/</link>
+      <title>Obscure Philosophy</title>
+      <link>http://localhost:4593/tags/obscure-philosophy/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/obscure-philosophy/</guid>
+      <guid>http://localhost:4593/tags/obscure-philosophy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>policy development</title>
-      <link>https://www.openscience-rotterdam.com/tags/policy-development/</link>
+      <title>Policy Development</title>
+      <link>http://localhost:4593/tags/policy-development/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/policy-development/</guid>
+      <guid>http://localhost:4593/tags/policy-development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>watching soccer</title>
-      <link>https://www.openscience-rotterdam.com/tags/watching-soccer/</link>
+      <title>Watching Soccer</title>
+      <link>http://localhost:4593/tags/watching-soccer/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/watching-soccer/</guid>
+      <guid>http://localhost:4593/tags/watching-soccer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>information management</title>
-      <link>https://www.openscience-rotterdam.com/tags/information-management/</link>
+      <title>Information Management</title>
+      <link>http://localhost:4593/tags/information-management/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/information-management/</guid>
+      <guid>http://localhost:4593/tags/information-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UL</title>
-      <link>https://www.openscience-rotterdam.com/tags/ul/</link>
+      <link>http://localhost:4593/tags/ul/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ul/</guid>
+      <guid>http://localhost:4593/tags/ul/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>quoting movies</title>
-      <link>https://www.openscience-rotterdam.com/tags/quoting-movies/</link>
+      <title>Quoting Movies</title>
+      <link>http://localhost:4593/tags/quoting-movies/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/quoting-movies/</guid>
+      <guid>http://localhost:4593/tags/quoting-movies/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OSCR</title>
-      <link>https://www.openscience-rotterdam.com/tags/oscr/</link>
+      <link>http://localhost:4593/tags/oscr/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/oscr/</guid>
+      <guid>http://localhost:4593/tags/oscr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sea lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/sea-lover/</link>
+      <title>Sea Lover</title>
+      <link>http://localhost:4593/tags/sea-lover/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/sea-lover/</guid>
+      <guid>http://localhost:4593/tags/sea-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>clinical practice</title>
-      <link>https://www.openscience-rotterdam.com/tags/clinical-practice/</link>
+      <title>Clinical Practice</title>
+      <link>http://localhost:4593/tags/clinical-practice/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/clinical-practice/</guid>
+      <guid>http://localhost:4593/tags/clinical-practice/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>edis</title>
-      <link>https://www.openscience-rotterdam.com/tags/edis/</link>
+      <title>Edis</title>
+      <link>http://localhost:4593/tags/edis/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/edis/</guid>
+      <guid>http://localhost:4593/tags/edis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>code review</title>
-      <link>https://www.openscience-rotterdam.com/tags/code-review/</link>
+      <title>Code Review</title>
+      <link>http://localhost:4593/tags/code-review/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/code-review/</guid>
+      <guid>http://localhost:4593/tags/code-review/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dog lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/dog-lover/</link>
+      <title>Dog Lover</title>
+      <link>http://localhost:4593/tags/dog-lover/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/dog-lover/</guid>
+      <guid>http://localhost:4593/tags/dog-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>board games</title>
-      <link>https://www.openscience-rotterdam.com/tags/board-games/</link>
+      <title>Board Games</title>
+      <link>http://localhost:4593/tags/board-games/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/board-games/</guid>
+      <guid>http://localhost:4593/tags/board-games/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RIOTS</title>
-      <link>https://www.openscience-rotterdam.com/tags/riots/</link>
+      <link>http://localhost:4593/tags/riots/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/riots/</guid>
+      <guid>http://localhost:4593/tags/riots/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ROARR2021</title>
-      <link>https://www.openscience-rotterdam.com/tags/roarr2021/</link>
+      <link>http://localhost:4593/tags/roarr2021/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/roarr2021/</guid>
+      <guid>http://localhost:4593/tags/roarr2021/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>running</title>
-      <link>https://www.openscience-rotterdam.com/tags/running/</link>
+      <title>Running</title>
+      <link>http://localhost:4593/tags/running/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/running/</guid>
+      <guid>http://localhost:4593/tags/running/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>responsible research and innovation</title>
-      <link>https://www.openscience-rotterdam.com/tags/responsible-research-and-innovation/</link>
+      <title>Responsible Research and Innovation</title>
+      <link>http://localhost:4593/tags/responsible-research-and-innovation/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/responsible-research-and-innovation/</guid>
+      <guid>http://localhost:4593/tags/responsible-research-and-innovation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>conceptual analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/conceptual-analysis/</link>
+      <title>Conceptual Analysis</title>
+      <link>http://localhost:4593/tags/conceptual-analysis/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/conceptual-analysis/</guid>
+      <guid>http://localhost:4593/tags/conceptual-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>transdisciplinary collaboration</title>
-      <link>https://www.openscience-rotterdam.com/tags/transdisciplinary-collaboration/</link>
+      <title>Transdisciplinary Collaboration</title>
+      <link>http://localhost:4593/tags/transdisciplinary-collaboration/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/transdisciplinary-collaboration/</guid>
+      <guid>http://localhost:4593/tags/transdisciplinary-collaboration/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>eating enthusiast</title>
-      <link>https://www.openscience-rotterdam.com/tags/eating-enthusiast/</link>
+      <title>Eating Enthusiast</title>
+      <link>http://localhost:4593/tags/eating-enthusiast/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/eating-enthusiast/</guid>
+      <guid>http://localhost:4593/tags/eating-enthusiast/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>project management</title>
-      <link>https://www.openscience-rotterdam.com/tags/project-management/</link>
+      <title>Project Management</title>
+      <link>http://localhost:4593/tags/project-management/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/project-management/</guid>
+      <guid>http://localhost:4593/tags/project-management/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>puzzle lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/puzzle-lover/</link>
+      <title>Puzzle Lover</title>
+      <link>http://localhost:4593/tags/puzzle-lover/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/puzzle-lover/</guid>
+      <guid>http://localhost:4593/tags/puzzle-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ballroom dancing</title>
-      <link>https://www.openscience-rotterdam.com/tags/ballroom-dancing/</link>
+      <title>Ballroom Dancing</title>
+      <link>http://localhost:4593/tags/ballroom-dancing/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/ballroom-dancing/</guid>
+      <guid>http://localhost:4593/tags/ballroom-dancing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>stats</title>
-      <link>https://www.openscience-rotterdam.com/tags/stats/</link>
+      <title>Stats</title>
+      <link>http://localhost:4593/tags/stats/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/stats/</guid>
+      <guid>http://localhost:4593/tags/stats/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>development aid</title>
-      <link>https://www.openscience-rotterdam.com/tags/development-aid/</link>
+      <title>Development Aid</title>
+      <link>http://localhost:4593/tags/development-aid/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/development-aid/</guid>
+      <guid>http://localhost:4593/tags/development-aid/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fusion Iranian food</title>
-      <link>https://www.openscience-rotterdam.com/tags/fusion-iranian-food/</link>
+      <title>Fusion Iranian Food</title>
+      <link>http://localhost:4593/tags/fusion-iranian-food/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/fusion-iranian-food/</guid>
+      <guid>http://localhost:4593/tags/fusion-iranian-food/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>NLeSc</title>
-      <link>https://www.openscience-rotterdam.com/tags/nlesc/</link>
+      <link>http://localhost:4593/tags/nlesc/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/nlesc/</guid>
+      <guid>http://localhost:4593/tags/nlesc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bicycle mechanic</title>
-      <link>https://www.openscience-rotterdam.com/tags/bicycle-mechanic/</link>
+      <title>Bicycle Mechanic</title>
+      <link>http://localhost:4593/tags/bicycle-mechanic/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/bicycle-mechanic/</guid>
+      <guid>http://localhost:4593/tags/bicycle-mechanic/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>obscure historic facts</title>
-      <link>https://www.openscience-rotterdam.com/tags/obscure-historic-facts/</link>
+      <title>Obscure Historic Facts</title>
+      <link>http://localhost:4593/tags/obscure-historic-facts/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/obscure-historic-facts/</guid>
+      <guid>http://localhost:4593/tags/obscure-historic-facts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>elite rower</title>
-      <link>https://www.openscience-rotterdam.com/tags/elite-rower/</link>
+      <title>Elite Rower</title>
+      <link>http://localhost:4593/tags/elite-rower/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/elite-rower/</guid>
+      <guid>http://localhost:4593/tags/elite-rower/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>QRP</title>
-      <link>https://www.openscience-rotterdam.com/tags/qrp/</link>
+      <link>http://localhost:4593/tags/qrp/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/qrp/</guid>
+      <guid>http://localhost:4593/tags/qrp/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>plant lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/plant-lover/</link>
+      <title>Plant Lover</title>
+      <link>http://localhost:4593/tags/plant-lover/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/plant-lover/</guid>
+      <guid>http://localhost:4593/tags/plant-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>networker</title>
-      <link>https://www.openscience-rotterdam.com/tags/networker/</link>
+      <title>Networker</title>
+      <link>http://localhost:4593/tags/networker/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/networker/</guid>
+      <guid>http://localhost:4593/tags/networker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>piano</title>
-      <link>https://www.openscience-rotterdam.com/tags/piano/</link>
+      <title>Piano</title>
+      <link>http://localhost:4593/tags/piano/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/piano/</guid>
+      <guid>http://localhost:4593/tags/piano/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>academic-affairs</title>
-      <link>https://www.openscience-rotterdam.com/tags/academic-affairs/</link>
+      <title>Academic-Affairs</title>
+      <link>http://localhost:4593/tags/academic-affairs/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/academic-affairs/</guid>
+      <guid>http://localhost:4593/tags/academic-affairs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guitar</title>
-      <link>https://www.openscience-rotterdam.com/tags/guitar/</link>
+      <title>Guitar</title>
+      <link>http://localhost:4593/tags/guitar/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/guitar/</guid>
+      <guid>http://localhost:4593/tags/guitar/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>procrastination</title>
-      <link>https://www.openscience-rotterdam.com/tags/procrastination/</link>
+      <title>Procrastination</title>
+      <link>http://localhost:4593/tags/procrastination/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/procrastination/</guid>
+      <guid>http://localhost:4593/tags/procrastination/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>beer</title>
-      <link>https://www.openscience-rotterdam.com/tags/beer/</link>
+      <title>Beer</title>
+      <link>http://localhost:4593/tags/beer/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/beer/</guid>
+      <guid>http://localhost:4593/tags/beer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reproducible paper</title>
-      <link>https://www.openscience-rotterdam.com/tags/reproducible-paper/</link>
+      <title>Reproducible Paper</title>
+      <link>http://localhost:4593/tags/reproducible-paper/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/reproducible-paper/</guid>
+      <guid>http://localhost:4593/tags/reproducible-paper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cooking without a recipe</title>
-      <link>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</link>
+      <title>Cooking Without a Recipe</title>
+      <link>http://localhost:4593/tags/cooking-without-a-recipe/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</guid>
+      <guid>http://localhost:4593/tags/cooking-without-a-recipe/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self-appointed master chef</title>
-      <link>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</link>
+      <title>Self-Appointed Master Chef</title>
+      <link>http://localhost:4593/tags/self-appointed-master-chef/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</guid>
+      <guid>http://localhost:4593/tags/self-appointed-master-chef/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open science enthusiast</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</link>
+      <title>Open Science Enthusiast</title>
+      <link>http://localhost:4593/tags/open-science-enthusiast/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</guid>
+      <guid>http://localhost:4593/tags/open-science-enthusiast/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science education</title>
-      <link>https://www.openscience-rotterdam.com/tags/science-education/</link>
+      <title>Science Education</title>
+      <link>http://localhost:4593/tags/science-education/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/science-education/</guid>
+      <guid>http://localhost:4593/tags/science-education/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>drinking coffee</title>
-      <link>https://www.openscience-rotterdam.com/tags/drinking-coffee/</link>
+      <title>Drinking Coffee</title>
+      <link>http://localhost:4593/tags/drinking-coffee/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/drinking-coffee/</guid>
+      <guid>http://localhost:4593/tags/drinking-coffee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>academic tweeting</title>
-      <link>https://www.openscience-rotterdam.com/tags/academic-tweeting/</link>
+      <title>Academic Tweeting</title>
+      <link>http://localhost:4593/tags/academic-tweeting/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/academic-tweeting/</guid>
+      <guid>http://localhost:4593/tags/academic-tweeting/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>packrat</title>
-      <link>https://www.openscience-rotterdam.com/tags/packrat/</link>
+      <title>Packrat</title>
+      <link>http://localhost:4593/tags/packrat/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/packrat/</guid>
+      <guid>http://localhost:4593/tags/packrat/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Bayesian inference</title>
-      <link>https://www.openscience-rotterdam.com/tags/bayesian-inference/</link>
+      <title>Bayesian Inference</title>
+      <link>http://localhost:4593/tags/bayesian-inference/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/bayesian-inference/</guid>
+      <guid>http://localhost:4593/tags/bayesian-inference/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>multiverse analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</link>
+      <title>Multiverse Analysis</title>
+      <link>http://localhost:4593/tags/multiverse-analysis/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</guid>
+      <guid>http://localhost:4593/tags/multiverse-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>replication</title>
-      <link>https://www.openscience-rotterdam.com/tags/replication/</link>
+      <title>Replication</title>
+      <link>http://localhost:4593/tags/replication/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/replication/</guid>
+      <guid>http://localhost:4593/tags/replication/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>conference</title>
-      <link>https://www.openscience-rotterdam.com/tags/conference/</link>
+      <title>Conference</title>
+      <link>http://localhost:4593/tags/conference/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/conference/</guid>
+      <guid>http://localhost:4593/tags/conference/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open mindedness</title>
-      <link>https://www.openscience-rotterdam.com/tags/open-mindedness/</link>
+      <title>Eco-Conscious/Eco-Anxious</title>
+      <link>http://localhost:4593/tags/eco-conscious/eco-anxious/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4593/tags/eco-conscious/eco-anxious/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Mindedness</title>
+      <link>http://localhost:4593/tags/open-mindedness/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/open-mindedness/</guid>
+      <guid>http://localhost:4593/tags/open-mindedness/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>business &amp; open science</title>
-      <link>https://www.openscience-rotterdam.com/tags/business-open-science/</link>
+      <title>Business &amp; Open Science</title>
+      <link>http://localhost:4593/tags/business--open-science/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/business-open-science/</guid>
+      <guid>http://localhost:4593/tags/business--open-science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>horses</title>
-      <link>https://www.openscience-rotterdam.com/tags/horses/</link>
+      <title>Horses</title>
+      <link>http://localhost:4593/tags/horses/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/horses/</guid>
+      <guid>http://localhost:4593/tags/horses/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sushi lover</title>
-      <link>https://www.openscience-rotterdam.com/tags/sushi-lover/</link>
+      <title>Sushi Lover</title>
+      <link>http://localhost:4593/tags/sushi-lover/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/sushi-lover/</guid>
+      <guid>http://localhost:4593/tags/sushi-lover/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>online sampling</title>
-      <link>https://www.openscience-rotterdam.com/tags/online-sampling/</link>
+      <title>Online Sampling</title>
+      <link>http://localhost:4593/tags/online-sampling/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/online-sampling/</guid>
+      <guid>http://localhost:4593/tags/online-sampling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>punkrock</title>
-      <link>https://www.openscience-rotterdam.com/tags/punkrock/</link>
+      <title>Punkrock</title>
+      <link>http://localhost:4593/tags/punkrock/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/punkrock/</guid>
+      <guid>http://localhost:4593/tags/punkrock/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>policy analysis</title>
-      <link>https://www.openscience-rotterdam.com/tags/policy-analysis/</link>
+      <title>Policy Analysis</title>
+      <link>http://localhost:4593/tags/policy-analysis/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/policy-analysis/</guid>
+      <guid>http://localhost:4593/tags/policy-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
-      <link>https://www.openscience-rotterdam.com/tags/linux/</link>
+      <link>http://localhost:4593/tags/linux/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/linux/</guid>
+      <guid>http://localhost:4593/tags/linux/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>eco-conscious/eco-anxious</title>
-      <link>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

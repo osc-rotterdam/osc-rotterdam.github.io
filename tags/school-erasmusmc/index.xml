@@ -1,209 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-erasmusmc on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</link>
-    <description>Recent content in school-erasmusmc on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>School-Erasmusmc on OSCR</title>
+    <link>http://localhost:4593/tags/school-erasmusmc/</link>
+    <description>Recent content in School-Erasmusmc on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/school-erasmusmc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/school-erasmusmc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Laura Dias</title>
-      <link>https://www.openscience-rotterdam.com/2025/05/23/dias/</link>
+      <link>http://localhost:4593/post/2025/05/23/dias/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/05/23/dias/</guid>
+      <guid>http://localhost:4593/post/2025/05/23/dias/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Marianna Karachaliou</title>
-      <link>https://www.openscience-rotterdam.com/2025/05/16/karachaliou/</link>
+      <link>http://localhost:4593/post/2025/05/16/karachaliou/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/05/16/karachaliou/</guid>
+      <guid>http://localhost:4593/post/2025/05/16/karachaliou/</guid>
       <description>Postdoctoral Researcher, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Julius März</title>
-      <link>https://www.openscience-rotterdam.com/2025/04/24/marz/</link>
+      <link>http://localhost:4593/post/2025/04/24/marz/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/04/24/marz/</guid>
+      <guid>http://localhost:4593/post/2025/04/24/marz/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Kamil Hiralal</title>
-      <link>https://www.openscience-rotterdam.com/2025/03/14/hiralal/</link>
+      <link>http://localhost:4593/post/2025/03/14/hiralal/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/03/14/hiralal/</guid>
+      <guid>http://localhost:4593/post/2025/03/14/hiralal/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Gennady Roshchupkin</title>
-      <link>https://www.openscience-rotterdam.com/2024/01/12/roshchupkin/</link>
+      <link>http://localhost:4593/post/2024/01/12/roshchupkin/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/01/12/roshchupkin/</guid>
+      <guid>http://localhost:4593/post/2024/01/12/roshchupkin/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lisanne van Houtum</title>
-      <link>https://www.openscience-rotterdam.com/2023/11/02/van-houtum/</link>
+      <link>http://localhost:4593/post/2023/11/02/van-houtum/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2023/11/02/van-houtum/</guid>
+      <guid>http://localhost:4593/post/2023/11/02/van-houtum/</guid>
       <description>Postdoctoral Researcher, Erasmus MC - Sophia Children&amp;rsquo;s Hospital</description>
     </item>
-    
     <item>
       <title>OSCR Member: Viola Woeckel</title>
-      <link>https://www.openscience-rotterdam.com/2023/09/09/woeckel/</link>
+      <link>http://localhost:4593/post/2023/09/09/woeckel/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2023/09/09/woeckel/</guid>
+      <guid>http://localhost:4593/post/2023/09/09/woeckel/</guid>
       <description>Data Steward, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Valérie Drost</title>
-      <link>https://www.openscience-rotterdam.com/2022/11/04/drost/</link>
+      <link>http://localhost:4593/post/2022/11/04/drost/</link>
       <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/11/04/drost/</guid>
+      <guid>http://localhost:4593/post/2022/11/04/drost/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Maarten Engel</title>
-      <link>https://www.openscience-rotterdam.com/2022/09/27/engel/</link>
+      <link>http://localhost:4593/post/2022/09/27/engel/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/09/27/engel/</guid>
+      <guid>http://localhost:4593/post/2022/09/27/engel/</guid>
       <description>Medical Information Specialist, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Elise Krabbendam</title>
-      <link>https://www.openscience-rotterdam.com/2022/08/30/krabbendam/</link>
+      <link>http://localhost:4593/post/2022/08/30/krabbendam/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/08/30/krabbendam/</guid>
+      <guid>http://localhost:4593/post/2022/08/30/krabbendam/</guid>
       <description>Biomedical Information Specialist, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Sabrina Meertens-Gunput</title>
-      <link>https://www.openscience-rotterdam.com/2022/08/30/meertens-gunput/</link>
+      <link>http://localhost:4593/post/2022/08/30/meertens-gunput/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/08/30/meertens-gunput/</guid>
+      <guid>http://localhost:4593/post/2022/08/30/meertens-gunput/</guid>
       <description>Biomedical Information Specialist, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Fabio Porru</title>
-      <link>https://www.openscience-rotterdam.com/2021/12/06/porru/</link>
+      <link>http://localhost:4593/post/2021/12/06/porru/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/12/06/porru/</guid>
+      <guid>http://localhost:4593/post/2021/12/06/porru/</guid>
       <description>Scientific researcher, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Milan Zarchev</title>
-      <link>https://www.openscience-rotterdam.com/2021/10/05/zarchev/</link>
+      <link>http://localhost:4593/post/2021/10/05/zarchev/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/10/05/zarchev/</guid>
+      <guid>http://localhost:4593/post/2021/10/05/zarchev/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Isabella Zampeta</title>
-      <link>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</link>
+      <link>http://localhost:4593/post/2021/06/11/zampeta/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</guid>
+      <guid>http://localhost:4593/post/2021/06/11/zampeta/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Amy van der List</title>
-      <link>https://www.openscience-rotterdam.com/2021/02/09/vanderlist/</link>
+      <link>http://localhost:4593/post/2021/02/09/vanderlist/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2021/02/09/vanderlist/</guid>
+      <guid>http://localhost:4593/post/2021/02/09/vanderlist/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Serena Defina</title>
-      <link>https://www.openscience-rotterdam.com/2020/10/30/defina/</link>
+      <link>http://localhost:4593/post/2020/10/30/defina/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/10/30/defina/</guid>
+      <guid>http://localhost:4593/post/2020/10/30/defina/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Fleur Helmink</title>
-      <link>https://www.openscience-rotterdam.com/2020/04/24/helmink/</link>
+      <link>http://localhost:4593/post/2020/04/24/helmink/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/04/24/helmink/</guid>
+      <guid>http://localhost:4593/post/2020/04/24/helmink/</guid>
       <description>PhD Candidate, Erasmus MC-Sophia</description>
     </item>
-    
     <item>
       <title>OSCR Member: Elisabet Blok</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/27/blok/</link>
+      <link>http://localhost:4593/post/2020/02/27/blok/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/27/blok/</guid>
+      <guid>http://localhost:4593/post/2020/02/27/blok/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Lorenza Dall&#39;Aglio</title>
-      <link>https://www.openscience-rotterdam.com/2020/02/26/dallaglio/</link>
+      <link>http://localhost:4593/post/2020/02/26/dallaglio/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/02/26/dallaglio/</guid>
+      <guid>http://localhost:4593/post/2020/02/26/dallaglio/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Yuna Koyama</title>
-      <link>https://www.openscience-rotterdam.com/2019/12/16/koyama/</link>
+      <link>http://localhost:4593/post/2019/12/16/koyama/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/12/16/koyama/</guid>
+      <guid>http://localhost:4593/post/2019/12/16/koyama/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: L. Paloma Rojas Saunero</title>
-      <link>https://www.openscience-rotterdam.com/2019/11/06/rojassaunero/</link>
+      <link>http://localhost:4593/post/2019/11/06/rojassaunero/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/11/06/rojassaunero/</guid>
+      <guid>http://localhost:4593/post/2019/11/06/rojassaunero/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Aleksandra Badura</title>
-      <link>https://www.openscience-rotterdam.com/2019/10/16/badura/</link>
+      <link>http://localhost:4593/post/2019/10/16/badura/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2019/10/16/badura/</guid>
+      <guid>http://localhost:4593/post/2019/10/16/badura/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
-    
   </channel>
 </rss>

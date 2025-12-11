@@ -2,1110 +2,1115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.openscience-rotterdam.com/tags/cat-lover/</loc>
+    <loc>http://localhost:4593/tags/cat-lover/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/</loc>
+    <loc>http://localhost:4593/categories/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/</loc>
+    <loc>http://localhost:4593/tags/open-source-software/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-source-software/</loc>
+    <loc>http://localhost:4593/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/12/05/le/</loc>
+    <loc>http://localhost:4593/post/2025/12/05/le/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/people/</loc>
+    <loc>http://localhost:4593/categories/people/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/post/</loc>
+    <loc>http://localhost:4593/post/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-analysis/</loc>
+    <loc>http://localhost:4593/tags/reproducible-analysis/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-essb/</loc>
+    <loc>http://localhost:4593/tags/school-essb/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/</loc>
+    <loc>http://localhost:4593/tags/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/citizen-science/</loc>
+    <loc>http://localhost:4593/categories/news/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4593/post/2025/11/25/2025-11-25-oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4593/tags/citizen-science/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-management/</loc>
+    <loc>http://localhost:4593/tags/data-management/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/data-sharing/</loc>
+    <loc>http://localhost:4593/tags/data-sharing/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-access/</loc>
+    <loc>http://localhost:4593/tags/open-access/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/11/21/airey/</loc>
+    <loc>http://localhost:4593/post/2025/11/21/airey/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-esl/</loc>
+    <loc>http://localhost:4593/tags/school-esl/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/art-lover/</loc>
+    <loc>http://localhost:4593/post/2025/11/13/2025-11-13-oscr-and-essb-organize-opening-up-science-from-principles-to-practice/</loc>
+    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4593/tags/art-lover/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/cooking/</loc>
+    <loc>http://localhost:4593/tags/cooking/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/10/16/yu/</loc>
+    <loc>http://localhost:4593/post/2025/10/16/yu/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/10/16/zimmermann/</loc>
+    <loc>http://localhost:4593/post/2025/10/16/zimmermann/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-eshcc/</loc>
+    <loc>http://localhost:4593/tags/school-eshcc/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-esphil/</loc>
+    <loc>http://localhost:4593/tags/school-esphil/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ecda/</loc>
+    <loc>http://localhost:4593/tags/ecda/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/09/27/trottier/</loc>
+    <loc>http://localhost:4593/post/2025/09/27/trottier/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/09/27/vanveen/</loc>
+    <loc>http://localhost:4593/post/2025/09/27/vanveen/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/09/27/radman/</loc>
+    <loc>http://localhost:4593/post/2025/09/27/radman/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistration/</loc>
+    <loc>http://localhost:4593/tags/preregistration/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/public-outreach/</loc>
+    <loc>http://localhost:4593/tags/public-outreach/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/thinker-and-doer/</loc>
+    <loc>http://localhost:4593/tags/thinker-and-doer/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/idea/</loc>
+    <loc>http://localhost:4593/tags/idea/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/inclusiveness/</loc>
+    <loc>http://localhost:4593/tags/inclusiveness/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/09/19/vandenberg-jule/</loc>
+    <loc>http://localhost:4593/post/2025/09/19/vandenberg-jule/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-eshpm/</loc>
+    <loc>http://localhost:4593/tags/school-eshpm/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ers/</loc>
+    <loc>http://localhost:4593/tags/ers/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/09/05/glaesel/</loc>
+    <loc>http://localhost:4593/post/2025/09/05/glaesel/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/metaphorising-research/</loc>
+    <loc>http://localhost:4593/tags/metaphorising-research/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/08/29/vaneck/</loc>
+    <loc>http://localhost:4593/post/2025/08/29/vaneck/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/machine-learning/</loc>
+    <loc>http://localhost:4593/tags/machine-learning/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/05/23/dias/</loc>
+    <loc>http://localhost:4593/post/2025/05/23/dias/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-erasmusmc/</loc>
+    <loc>http://localhost:4593/tags/school-erasmusmc/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/05/16/karachaliou/</loc>
+    <loc>http://localhost:4593/post/2025/05/16/karachaliou/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/04/24/marz/</loc>
+    <loc>http://localhost:4593/post/2025/04/24/marz/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/sleeping/</loc>
+    <loc>http://localhost:4593/tags/sleeping/</loc>
     <lastmod>2025-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/03/28/prifti/</loc>
+    <loc>http://localhost:4593/post/2025/03/28/prifti/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/03/14/hiralal/</loc>
+    <loc>http://localhost:4593/post/2025/03/14/hiralal/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/02/28/stenico/</loc>
+    <loc>http://localhost:4593/post/2025/02/28/stenico/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/literature-search/</loc>
+    <loc>http://localhost:4593/tags/literature-search/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/02/16/dias-broens/</loc>
+    <loc>http://localhost:4593/post/2025/02/16/dias-broens/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/qualitative-methods/</loc>
+    <loc>http://localhost:4593/tags/qualitative-methods/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/02/09/houtgraaf/</loc>
+    <loc>http://localhost:4593/post/2025/02/09/houtgraaf/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/information-literacy/</loc>
+    <loc>http://localhost:4593/tags/information-literacy/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2025/02/07/ros/</loc>
+    <loc>http://localhost:4593/post/2025/02/07/ros/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/12/06/ensenado/</loc>
+    <loc>http://localhost:4593/post/2024/12/06/ensenado/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/12/06/breijer/</loc>
+    <loc>http://localhost:4593/post/2024/12/06/breijer/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-ihs/</loc>
+    <loc>http://localhost:4593/tags/school-ihs/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/baking/</loc>
+    <loc>http://localhost:4593/tags/baking/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/11/15/kroon/</loc>
+    <loc>http://localhost:4593/post/2024/11/15/kroon/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/preregistation/</loc>
+    <loc>http://localhost:4593/tags/preregistation/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/matlab/</loc>
+    <loc>http://localhost:4593/tags/matlab/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/music/</loc>
+    <loc>http://localhost:4593/tags/music/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/11/08/louter/</loc>
+    <loc>http://localhost:4593/post/2024/11/08/louter/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/11/08/morgenstern/</loc>
+    <loc>http://localhost:4593/post/2024/11/08/morgenstern/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/children-participation/</loc>
+    <loc>http://localhost:4593/tags/children-participation/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/10/18/steenwegen/</loc>
+    <loc>http://localhost:4593/post/2024/10/18/steenwegen/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/10/11/qaffas/</loc>
+    <loc>http://localhost:4593/post/2024/10/11/qaffas/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/curiosity/</loc>
+    <loc>http://localhost:4593/tags/curiosity/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/10/06/vanengen/</loc>
+    <loc>http://localhost:4593/post/2024/10/06/vanengen/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/10/06/wada/</loc>
+    <loc>http://localhost:4593/post/2024/10/06/wada/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-euc/</loc>
+    <loc>http://localhost:4593/tags/school-euc/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/heavy-metal-guitar/</loc>
+    <loc>http://localhost:4593/tags/heavy-metal-guitar/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/09/20/gerrits/</loc>
+    <loc>http://localhost:4593/post/2024/09/20/gerrits/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/home/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/home/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/bibliophile/</loc>
+    <loc>http://localhost:4593/tags/bibliophile/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/07/29/bong/</loc>
+    <loc>http://localhost:4593/post/2024/07/29/bong/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ethics/</loc>
+    <loc>http://localhost:4593/tags/ethics/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/06/21/de-groot/</loc>
+    <loc>http://localhost:4593/post/2024/06/21/de-groot/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-ese/</loc>
+    <loc>http://localhost:4593/tags/school-ese/</loc>
     <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/orcid/</loc>
+    <loc>http://localhost:4593/tags/orcid/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/06/14/gulpers/</loc>
+    <loc>http://localhost:4593/post/2024/06/14/gulpers/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ub/</loc>
+    <loc>http://localhost:4593/tags/ub/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/04/12/olsthoorn/</loc>
+    <loc>http://localhost:4593/post/2024/04/12/olsthoorn/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/vr-and-ai/</loc>
+    <loc>http://localhost:4593/tags/vr-and-ai/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/03/27/constantin/</loc>
+    <loc>http://localhost:4593/post/2024/03/27/constantin/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/publishing/</loc>
+    <loc>http://localhost:4593/tags/publishing/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/science-communication/</loc>
+    <loc>http://localhost:4593/tags/science-communication/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/03/22/harder/</loc>
+    <loc>http://localhost:4593/post/2024/03/22/harder/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/review-studies/</loc>
+    <loc>http://localhost:4593/tags/review-studies/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/fieldwork/</loc>
+    <loc>http://localhost:4593/tags/fieldwork/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/03/08/xu/</loc>
+    <loc>http://localhost:4593/post/2024/03/08/xu/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-iss/</loc>
+    <loc>http://localhost:4593/tags/school-iss/</loc>
     <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/03/02/abreu/</loc>
+    <loc>http://localhost:4593/post/2024/03/02/abreu/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/02/23/vanroessel/</loc>
+    <loc>http://localhost:4593/post/2024/02/23/vanroessel/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/strategy-office/</loc>
+    <loc>http://localhost:4593/tags/strategy-office/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/collaboration/</loc>
+    <loc>http://localhost:4593/tags/collaboration/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/02/06/pridmore/</loc>
+    <loc>http://localhost:4593/post/2024/02/06/pridmore/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/driving/</loc>
+    <loc>http://localhost:4593/tags/driving/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/experience-sampling/</loc>
+    <loc>http://localhost:4593/tags/experience-sampling/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/01/19/achterhof/</loc>
+    <loc>http://localhost:4593/post/2024/01/19/achterhof/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/deep-learning/</loc>
+    <loc>http://localhost:4593/tags/deep-learning/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/01/12/roshchupkin/</loc>
+    <loc>http://localhost:4593/post/2024/01/12/roshchupkin/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2024/01/12/vandergaag/</loc>
+    <loc>http://localhost:4593/post/2024/01/12/vandergaag/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/11/02/van-houtum/</loc>
+    <loc>http://localhost:4593/post/2023/11/02/van-houtum/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/11/01/garrido/</loc>
+    <loc>http://localhost:4593/post/2023/11/01/garrido/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/perseverance/</loc>
+    <loc>http://localhost:4593/tags/perseverance/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/school-rsm/</loc>
+    <loc>http://localhost:4593/tags/school-rsm/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/09/15/mills/</loc>
+    <loc>http://localhost:4593/post/2023/09/15/mills/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/registered-reports/</loc>
+    <loc>http://localhost:4593/tags/registered-reports/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/fair-data/</loc>
+    <loc>http://localhost:4593/tags/fair-data/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/09/09/woeckel/</loc>
+    <loc>http://localhost:4593/post/2023/09/09/woeckel/</loc>
     <lastmod>2023-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/discretion/</loc>
+    <loc>http://localhost:4593/tags/discretion/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/08/04/morseletto/</loc>
+    <loc>http://localhost:4593/post/2023/08/04/morseletto/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/06/19/vanderstraaten/</loc>
+    <loc>http://localhost:4593/post/2023/06/19/vanderstraaten/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/outreach/</loc>
+    <loc>http://localhost:4593/tags/outreach/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/food/</loc>
+    <loc>http://localhost:4593/tags/food/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/05/18/bueckmann/</loc>
+    <loc>http://localhost:4593/post/2023/05/18/bueckmann/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/04/29/lima/</loc>
+    <loc>http://localhost:4593/post/2023/04/29/lima/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/societal-impact/</loc>
+    <loc>http://localhost:4593/tags/societal-impact/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/football/</loc>
+    <loc>http://localhost:4593/tags/football/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/04/16/metzger/</loc>
+    <loc>http://localhost:4593/post/2023/04/16/metzger/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2023/01/25/sunami/</loc>
+    <loc>http://localhost:4593/post/2023/01/25/sunami/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/pop-culture-references/</loc>
+    <loc>http://localhost:4593/tags/pop-culture-references/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/12/19/weinberg/</loc>
+    <loc>http://localhost:4593/post/2022/12/19/weinberg/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/12/02/balan/</loc>
+    <loc>http://localhost:4593/post/2022/12/02/balan/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/law/</loc>
+    <loc>http://localhost:4593/tags/law/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</loc>
+    <loc>http://localhost:4593/post/2022/11/11/kraemer/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/python/</loc>
+    <loc>http://localhost:4593/tags/python/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/r/</loc>
+    <loc>http://localhost:4593/tags/r/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/webscraping/</loc>
+    <loc>http://localhost:4593/tags/webscraping/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/11/09/vanderveen/</loc>
+    <loc>http://localhost:4593/post/2022/11/09/vanderveen/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/research-quality-assurance/</loc>
+    <loc>http://localhost:4593/tags/research-quality-assurance/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/morning-person/</loc>
+    <loc>http://localhost:4593/tags/morning-person/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/11/04/drost/</loc>
+    <loc>http://localhost:4593/post/2022/11/04/drost/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/empathy/</loc>
+    <loc>http://localhost:4593/tags/empathy/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/10/04/liberali/</loc>
+    <loc>http://localhost:4593/post/2022/10/04/liberali/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/medical-information/</loc>
+    <loc>http://localhost:4593/tags/medical-information/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/09/27/engel/</loc>
+    <loc>http://localhost:4593/post/2022/09/27/engel/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/bridge-player/</loc>
+    <loc>http://localhost:4593/tags/bridge-player/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/creativity/</loc>
+    <loc>http://localhost:4593/tags/creativity/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/erasmusx/</loc>
+    <loc>http://localhost:4593/tags/erasmusx/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/09/06/engelberts/</loc>
+    <loc>http://localhost:4593/post/2022/09/06/engelberts/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/09/06/lara/</loc>
+    <loc>http://localhost:4593/post/2022/09/06/lara/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/08/31/2022-eur-ors-awards/</loc>
+    <loc>http://localhost:4593/categories/archive/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/categories/news/</loc>
+    <loc>http://localhost:4593/post/2022/08/31/2022-eur-ors-awards/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/talks/</loc>
+    <loc>http://localhost:4593/tags/talks/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/dancing/</loc>
+    <loc>http://localhost:4593/tags/dancing/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/08/30/krabbendam/</loc>
+    <loc>http://localhost:4593/post/2022/08/30/krabbendam/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/08/30/meertens-gunput/</loc>
+    <loc>http://localhost:4593/post/2022/08/30/meertens-gunput/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/08/10/vua-art-june2022/</loc>
+    <loc>http://localhost:4593/post/2022/08/10/vua-art-june2022/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/05/23/roza/</loc>
+    <loc>http://localhost:4593/post/2022/05/23/roza/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/statistics/</loc>
+    <loc>http://localhost:4593/tags/statistics/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/flexibility/</loc>
+    <loc>http://localhost:4593/tags/flexibility/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/05/22/lucieer/</loc>
+    <loc>http://localhost:4593/post/2022/05/22/lucieer/</loc>
     <lastmod>2022-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/05/17/intro-osf-june2022/</loc>
+    <loc>http://localhost:4593/post/2022/05/17/intro-osf-june2022/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-science/</loc>
+    <loc>http://localhost:4593/tags/open-science/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/osf/</loc>
+    <loc>http://localhost:4593/tags/osf/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/workshops/</loc>
+    <loc>http://localhost:4593/tags/workshops/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/05/16/serres/</loc>
+    <loc>http://localhost:4593/post/2022/05/16/serres/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducibilitea/</loc>
+    <loc>http://localhost:4593/tags/reproducibilitea/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/05/03/reproducibilitea-may2022/</loc>
+    <loc>http://localhost:4593/post/2022/05/03/reproducibilitea-may2022/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/coding/</loc>
+    <loc>http://localhost:4593/tags/coding/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/04/11/dekeyzer/</loc>
+    <loc>http://localhost:4593/post/2022/04/11/dekeyzer/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/04/11/mulder/</loc>
+    <loc>http://localhost:4593/post/2022/04/11/mulder/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/03/31/onencan/</loc>
+    <loc>http://localhost:4593/post/2022/03/31/onencan/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/03/30/adelmund/</loc>
+    <loc>http://localhost:4593/post/2022/03/30/adelmund/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/03/24/reproducibilitea-april2022/</loc>
+    <loc>http://localhost:4593/post/2022/03/24/reproducibilitea-april2022/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/02/24/meilof/</loc>
+    <loc>http://localhost:4593/post/2022/02/24/meilof/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/design-thinking/</loc>
+    <loc>http://localhost:4593/tags/design-thinking/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/02/03/luijk/</loc>
+    <loc>http://localhost:4593/post/2022/02/03/luijk/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/parenting-studies/</loc>
+    <loc>http://localhost:4593/tags/parenting-studies/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/02/02/jamovi-power-feb2022/</loc>
+    <loc>http://localhost:4593/post/2022/02/02/jamovi-power-feb2022/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/jamovi/</loc>
+    <loc>http://localhost:4593/tags/jamovi/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/power-analysis/</loc>
+    <loc>http://localhost:4593/tags/power-analysis/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/knitting/</loc>
+    <loc>http://localhost:4593/tags/knitting/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/28/maineri/</loc>
+    <loc>http://localhost:4593/post/2022/01/28/maineri/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/grant-preparation/</loc>
+    <loc>http://localhost:4593/tags/grant-preparation/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/obscure-philosophy/</loc>
+    <loc>http://localhost:4593/tags/obscure-philosophy/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/25/peeters-daan/</loc>
+    <loc>http://localhost:4593/post/2022/01/25/peeters-daan/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/25/dekkers-deleeuw/</loc>
+    <loc>http://localhost:4593/post/2022/01/25/dekkers-deleeuw/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/policy-development/</loc>
+    <loc>http://localhost:4593/tags/policy-development/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/18/innovative-publication-alfons/</loc>
+    <loc>http://localhost:4593/post/2022/01/18/innovative-publication-alfons/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/14/pletzer/</loc>
+    <loc>http://localhost:4593/post/2022/01/14/pletzer/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/watching-soccer/</loc>
+    <loc>http://localhost:4593/tags/watching-soccer/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2022/01/11/scholten/</loc>
+    <loc>http://localhost:4593/post/2022/01/11/scholten/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/information-management/</loc>
+    <loc>http://localhost:4593/tags/information-management/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/16/verwijmeren/</loc>
+    <loc>http://localhost:4593/post/2021/12/16/verwijmeren/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ul/</loc>
+    <loc>http://localhost:4593/tags/ul/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/06/porru/</loc>
+    <loc>http://localhost:4593/post/2021/12/06/porru/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/quoting-movies/</loc>
+    <loc>http://localhost:4593/tags/quoting-movies/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/03/new-oscr-community-manager/</loc>
+    <loc>http://localhost:4593/post/2021/12/03/new-oscr-community-manager/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/oscr/</loc>
+    <loc>http://localhost:4593/tags/oscr/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/01/botsari/</loc>
+    <loc>http://localhost:4593/post/2021/12/01/botsari/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/12/01/sweeney/</loc>
+    <loc>http://localhost:4593/post/2021/12/01/sweeney/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/sea-lover/</loc>
+    <loc>http://localhost:4593/tags/sea-lover/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/11/30/2021-convergence-or-awards-winners/</loc>
+    <loc>http://localhost:4593/post/2021/11/30/2021-convergence-or-awards-winners/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/clinical-practice/</loc>
+    <loc>http://localhost:4593/tags/clinical-practice/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/10/21/zeinstra/</loc>
+    <loc>http://localhost:4593/post/2021/10/21/zeinstra/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/10/20/klesse/</loc>
+    <loc>http://localhost:4593/post/2021/10/20/klesse/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/edis/</loc>
+    <loc>http://localhost:4593/tags/edis/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/10/19/vanwijngaarden/</loc>
+    <loc>http://localhost:4593/post/2021/10/19/vanwijngaarden/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/code-review/</loc>
+    <loc>http://localhost:4593/tags/code-review/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/10/05/schmidt/</loc>
+    <loc>http://localhost:4593/post/2021/10/05/schmidt/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/10/05/zarchev/</loc>
+    <loc>http://localhost:4593/post/2021/10/05/zarchev/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/dog-lover/</loc>
+    <loc>http://localhost:4593/tags/dog-lover/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/09/27/peeters/</loc>
+    <loc>http://localhost:4593/post/2021/09/27/peeters/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/09/21/kok/</loc>
+    <loc>http://localhost:4593/post/2021/09/21/kok/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/09/20/weeland/</loc>
+    <loc>http://localhost:4593/post/2021/09/20/weeland/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/board-games/</loc>
+    <loc>http://localhost:4593/tags/board-games/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/08/10/welz/</loc>
+    <loc>http://localhost:4593/post/2021/08/10/welz/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/07/08/roarr2021-july-summary/</loc>
+    <loc>http://localhost:4593/post/2021/07/08/roarr2021-july-summary/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/riots/</loc>
+    <loc>http://localhost:4593/tags/riots/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/roarr2021/</loc>
+    <loc>http://localhost:4593/tags/roarr2021/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/30/demaat/</loc>
+    <loc>http://localhost:4593/post/2021/06/30/demaat/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/running/</loc>
+    <loc>http://localhost:4593/tags/running/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/22/barbosa-mendes/</loc>
+    <loc>http://localhost:4593/post/2021/06/22/barbosa-mendes/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/responsible-research-and-innovation/</loc>
+    <loc>http://localhost:4593/tags/responsible-research-and-innovation/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/22/roarr2021-july/</loc>
+    <loc>http://localhost:4593/post/2021/06/22/roarr2021-july/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/21/2021-convergence-or-awards/</loc>
+    <loc>http://localhost:4593/post/2021/06/21/2021-convergence-or-awards/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/conceptual-analysis/</loc>
+    <loc>http://localhost:4593/tags/conceptual-analysis/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/16/dejager/</loc>
+    <loc>http://localhost:4593/post/2021/06/16/dejager/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/transdisciplinary-collaboration/</loc>
+    <loc>http://localhost:4593/tags/transdisciplinary-collaboration/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/11/benefits-os-stoeckel-himmler/</loc>
+    <loc>http://localhost:4593/post/2021/06/11/benefits-os-stoeckel-himmler/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/eating-enthusiast/</loc>
+    <loc>http://localhost:4593/tags/eating-enthusiast/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/11/vandelden/</loc>
+    <loc>http://localhost:4593/post/2021/06/11/vandelden/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/11/zampeta/</loc>
+    <loc>http://localhost:4593/post/2021/06/11/zampeta/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/project-management/</loc>
+    <loc>http://localhost:4593/tags/project-management/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/puzzle-lover/</loc>
+    <loc>http://localhost:4593/tags/puzzle-lover/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/06/07/reproducibilitea-june2021/</loc>
+    <loc>http://localhost:4593/post/2021/06/07/reproducibilitea-june2021/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/ballroom-dancing/</loc>
+    <loc>http://localhost:4593/tags/ballroom-dancing/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/31/harrewijn/</loc>
+    <loc>http://localhost:4593/post/2021/05/31/harrewijn/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/31/savvopoulou/</loc>
+    <loc>http://localhost:4593/post/2021/05/31/savvopoulou/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/31/roarr2021-june/</loc>
+    <loc>http://localhost:4593/post/2021/05/31/roarr2021-june/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/10/tang/</loc>
+    <loc>http://localhost:4593/post/2021/05/10/tang/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/10/reproducibilitea-may2021/</loc>
+    <loc>http://localhost:4593/post/2021/05/10/reproducibilitea-may2021/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/05/04/roarr2021-may/</loc>
+    <loc>http://localhost:4593/post/2021/05/04/roarr2021-may/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/stats/</loc>
+    <loc>http://localhost:4593/tags/stats/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/development-aid/</loc>
+    <loc>http://localhost:4593/tags/development-aid/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/fusion-iranian-food/</loc>
+    <loc>http://localhost:4593/tags/fusion-iranian-food/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/26/dehban/</loc>
+    <loc>http://localhost:4593/post/2021/04/26/dehban/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/23/pcurve-may2021/</loc>
+    <loc>http://localhost:4593/post/2021/04/23/pcurve-may2021/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/nlesc/</loc>
+    <loc>http://localhost:4593/tags/nlesc/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/19/maatz/</loc>
+    <loc>http://localhost:4593/post/2021/04/19/maatz/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/19/nlesc/</loc>
+    <loc>http://localhost:4593/post/2021/04/19/nlesc-april2021/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/09/reproducibilitea-apr2021/</loc>
+    <loc>http://localhost:4593/post/2021/04/09/reproducibilitea-apr2021/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/bicycle-mechanic/</loc>
+    <loc>http://localhost:4593/tags/bicycle-mechanic/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/08/alfons/</loc>
+    <loc>http://localhost:4593/post/2021/04/08/alfons/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/07/verbeek/</loc>
+    <loc>http://localhost:4593/post/2021/04/07/verbeek/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/04/01/introbayes-april2021/</loc>
+    <loc>http://localhost:4593/post/2021/04/01/introbayes-april2021/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/31/roarr2021-apr/</loc>
+    <loc>http://localhost:4593/post/2021/03/31/roarr2021-apr/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/obscure-historic-facts/</loc>
+    <loc>http://localhost:4593/tags/obscure-historic-facts/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/30/stoeckel/</loc>
+    <loc>http://localhost:4593/post/2021/03/30/stoeckel/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/elite-rower/</loc>
+    <loc>http://localhost:4593/tags/elite-rower/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/10/vandenberg/</loc>
+    <loc>http://localhost:4593/post/2021/03/10/vandenberg/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/qrp/</loc>
+    <loc>http://localhost:4593/tags/qrp/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/08/roarr2021-mar/</loc>
+    <loc>http://localhost:4593/post/2021/03/08/roarr2021-mar/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/05/wagenaar/</loc>
+    <loc>http://localhost:4593/post/2021/03/05/wagenaar/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/05/damen/</loc>
+    <loc>http://localhost:4593/post/2021/03/05/damen/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/plant-lover/</loc>
+    <loc>http://localhost:4593/tags/plant-lover/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/networker/</loc>
+    <loc>http://localhost:4593/tags/networker/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/03/03/lutz-landesbergen/</loc>
+    <loc>http://localhost:4593/post/2021/03/03/lutz-landesbergen/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/26/cikrikcioglu/</loc>
+    <loc>http://localhost:4593/post/2021/02/26/cikrikcioglu/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/piano/</loc>
+    <loc>http://localhost:4593/tags/piano/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/26/reproducibilitea-mar2021/</loc>
+    <loc>http://localhost:4593/post/2021/02/26/reproducibilitea-mar2021/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/academic-affairs/</loc>
+    <loc>http://localhost:4593/tags/academic-affairs/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/25/houtepen/</loc>
+    <loc>http://localhost:4593/post/2021/02/25/houtepen/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/19/riots-advanced-feb2021/</loc>
+    <loc>http://localhost:4593/post/2021/02/19/riots-advanced-feb2021/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/10/roarr2021-feb/</loc>
+    <loc>http://localhost:4593/post/2021/02/10/roarr2021-feb/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/09/vanderlist/</loc>
+    <loc>http://localhost:4593/post/2021/02/09/vanderlist/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/09/buelow/</loc>
+    <loc>http://localhost:4593/post/2021/02/09/buelow/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/guitar/</loc>
+    <loc>http://localhost:4593/tags/guitar/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/08/mari/</loc>
+    <loc>http://localhost:4593/post/2021/02/08/mari/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/08/magnee/</loc>
+    <loc>http://localhost:4593/post/2021/02/08/magnee/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/04/himmler/</loc>
+    <loc>http://localhost:4593/post/2021/02/04/himmler/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/procrastination/</loc>
+    <loc>http://localhost:4593/tags/procrastination/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/02/reproducibilitea-feb2021/</loc>
+    <loc>http://localhost:4593/post/2021/02/02/reproducibilitea-feb2021/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/02/01/lang/</loc>
+    <loc>http://localhost:4593/post/2021/02/01/lang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/22/pnn-phd-survey/</loc>
+    <loc>http://localhost:4593/post/2021/01/22/pnn-phd-survey/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/21/roarr2021-jan/</loc>
+    <loc>http://localhost:4593/post/2021/01/21/roarr2021-jan/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/20/data-stewards-jan2021/</loc>
+    <loc>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/18/guzman-ramirez/</loc>
+    <loc>http://localhost:4593/post/2021/01/18/guzman-ramirez/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/12/roarr-2021/</loc>
+    <loc>http://localhost:4593/post/2021/01/12/roarr-2021/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2021/01/11/failurescience-jan2021/</loc>
+    <loc>http://localhost:4593/post/2021/01/11/failurescience-jan2021/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/12/03/eur-oa/</loc>
+    <loc>http://localhost:4593/post/2020/12/03/eur-oa/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/11/30/vietze/</loc>
+    <loc>http://localhost:4593/post/2020/11/30/vietze/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/11/26/takeaway-orcid-nov2020/</loc>
+    <loc>http://localhost:4593/post/2020/11/26/takeaway-orcid-nov2020/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/11/17/reproducibilitea-nov2020/</loc>
+    <loc>http://localhost:4593/post/2020/11/17/reproducibilitea-nov2020/</loc>
     <lastmod>2020-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/beer/</loc>
+    <loc>http://localhost:4593/tags/beer/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/30/orcid-nov2020/</loc>
+    <loc>http://localhost:4593/post/2020/10/30/orcid-nov2020/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/30/defina/</loc>
+    <loc>http://localhost:4593/post/2020/10/30/defina/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/27/eur-orcid/</loc>
+    <loc>http://localhost:4593/post/2020/10/27/eur-orcid/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/reproducible-paper/</loc>
+    <loc>http://localhost:4593/tags/reproducible-paper/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/16/worcshop-oct2020/</loc>
+    <loc>http://localhost:4593/post/2020/10/16/worcshop-oct2020/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/14/sweijen/</loc>
+    <loc>http://localhost:4593/post/2020/10/14/sweijen/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/13/reproducibilitea-oct2020/</loc>
+    <loc>http://localhost:4593/post/2020/10/13/reproducibilitea-oct2020/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/10/07/sharing-mri-oct2020/</loc>
+    <loc>http://localhost:4593/post/2020/10/07/sharing-mri-oct2020/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/09/10/reproducibilitea-sept2020/</loc>
+    <loc>http://localhost:4593/post/2020/09/10/reproducibilitea-sept2020/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/09/08/genevsky/</loc>
+    <loc>http://localhost:4593/post/2020/09/08/genevsky/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/09/07/intro-bids-sept2020/</loc>
+    <loc>http://localhost:4593/post/2020/09/07/intro-bids-sept2020/</loc>
     <lastmod>2020-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/cooking-without-a-recipe/</loc>
+    <loc>http://localhost:4593/tags/cooking-without-a-recipe/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/07/27/malbecdevidts/</loc>
+    <loc>http://localhost:4593/post/2020/07/27/malbecdevidts/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/07/02/granic/</loc>
+    <loc>http://localhost:4593/post/2020/07/02/granic/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/06/30/reproducibilitea-july2020/</loc>
+    <loc>http://localhost:4593/post/2020/06/30/reproducibilitea-july2020/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/06/29/aslanidou/</loc>
+    <loc>http://localhost:4593/post/2020/06/29/aslanidou/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/self-appointed-master-chef/</loc>
+    <loc>http://localhost:4593/tags/self-appointed-master-chef/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/06/22/ivandegroep/</loc>
+    <loc>http://localhost:4593/post/2020/06/22/ivandegroep/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/06/15/intro-tidyverse-june2020/</loc>
+    <loc>http://localhost:4593/post/2020/06/15/intro-tidyverse-june2020/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/05/27/reproducibilitea-june2020/</loc>
+    <loc>http://localhost:4593/post/2020/05/27/reproducibilitea-june2020/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/05/22/introbayes-june2020/</loc>
+    <loc>http://localhost:4593/post/2020/05/22/introbayes-june2020/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/05/15/opensampling-may2020/</loc>
+    <loc>http://localhost:4593/post/2020/05/15/opensampling-may2020/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/05/14/klapwijk/</loc>
+    <loc>http://localhost:4593/post/2020/05/14/klapwijk/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/05/13/orlandi/</loc>
+    <loc>http://localhost:4593/post/2020/05/13/orlandi/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/04/27/prereg-dewies/</loc>
+    <loc>http://localhost:4593/post/2020/04/27/prereg-dewies/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/04/27/reproducibilitea-may2020/</loc>
+    <loc>http://localhost:4593/post/2020/04/27/reproducibilitea-may2020/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-science-enthusiast/</loc>
+    <loc>http://localhost:4593/tags/open-science-enthusiast/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/04/24/helmink/</loc>
+    <loc>http://localhost:4593/post/2020/04/24/helmink/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/04/09/intro-github-apr2020/</loc>
+    <loc>http://localhost:4593/post/2020/04/09/intro-github-apr2020/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/03/30/reproducibilitea-apr2020/</loc>
+    <loc>http://localhost:4593/post/2020/03/30/reproducibilitea-apr2020/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/03/12/oscr-riots/</loc>
+    <loc>http://localhost:4593/post/2020/03/12/oscr-riots/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/03/12/vandegroep/</loc>
+    <loc>http://localhost:4593/post/2020/03/12/vandegroep/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/03/03/huijser/</loc>
+    <loc>http://localhost:4593/post/2020/03/03/huijser/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/03/03/achterberg/</loc>
+    <loc>http://localhost:4593/post/2020/03/03/achterberg/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/science-education/</loc>
+    <loc>http://localhost:4593/tags/science-education/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/drinking-coffee/</loc>
+    <loc>http://localhost:4593/tags/drinking-coffee/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/27/blok/</loc>
+    <loc>http://localhost:4593/post/2020/02/27/blok/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/academic-tweeting/</loc>
+    <loc>http://localhost:4593/tags/academic-tweeting/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/26/dallaglio/</loc>
+    <loc>http://localhost:4593/post/2020/02/26/dallaglio/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/26/reproducibilitea-mar2020/</loc>
+    <loc>http://localhost:4593/post/2020/02/26/reproducibilitea-mar2020/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/25/martinovici/</loc>
+    <loc>http://localhost:4593/post/2020/02/25/martinovici/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/packrat/</loc>
+    <loc>http://localhost:4593/tags/packrat/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/bayesian-inference/</loc>
+    <loc>http://localhost:4593/tags/bayesian-inference/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/10/joosen/</loc>
+    <loc>http://localhost:4593/post/2020/02/10/joosen/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/multiverse-analysis/</loc>
+    <loc>http://localhost:4593/tags/multiverse-analysis/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/02/07/verheyen/</loc>
+    <loc>http://localhost:4593/post/2020/02/07/verheyen/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/replication/</loc>
+    <loc>http://localhost:4593/tags/replication/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/01/29/reproducibilitea-feb2020/</loc>
+    <loc>http://localhost:4593/post/2020/01/29/reproducibilitea-feb2020/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/conference/</loc>
+    <loc>http://localhost:4593/tags/conference/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/01/28/osfestival-wageningen-announcement/</loc>
+    <loc>http://localhost:4593/post/2020/01/28/osfestival-wageningen-announcement/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/01/20/dpecs-lakens-feb2020/</loc>
+    <loc>http://localhost:4593/post/2020/01/20/dpecs-lakens-feb2020/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/01/13/reproducibilitea-jan2020/</loc>
+    <loc>http://localhost:4593/post/2020/01/13/reproducibilitea-jan2020/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2020/01/08/tenand/</loc>
+    <loc>http://localhost:4593/tags/eco-conscious/eco-anxious/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/open-mindedness/</loc>
+    <loc>http://localhost:4593/post/2020/01/08/tenand/</loc>
+    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4593/tags/open-mindedness/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/12/16/koyama/</loc>
+    <loc>http://localhost:4593/post/2019/12/16/koyama/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/11/26/reproducibilitea-dec2019/</loc>
+    <loc>http://localhost:4593/post/2019/11/26/reproducibilitea-dec2019/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/11/06/rojassaunero/</loc>
+    <loc>http://localhost:4593/post/2019/11/06/rojassaunero/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/10/28/introos-eshpm-oct2019/</loc>
+    <loc>http://localhost:4593/post/2019/10/28/introos-eshpm-oct2019/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/business-open-science/</loc>
+    <loc>http://localhost:4593/tags/business--open-science/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/10/21/lemmens/</loc>
+    <loc>http://localhost:4593/post/2019/10/21/lemmens/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/10/21/oscr-reproducibilitea/</loc>
+    <loc>http://localhost:4593/post/2019/10/21/oscr-reproducibilitea/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/horses/</loc>
+    <loc>http://localhost:4593/tags/horses/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/10/16/badura/</loc>
+    <loc>http://localhost:4593/post/2019/10/16/badura/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/10/03/perryduxbury/</loc>
+    <loc>http://localhost:4593/post/2019/10/03/perryduxbury/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/sushi-lover/</loc>
+    <loc>http://localhost:4593/tags/sushi-lover/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/09/22/osfworkshop-eshpm-sept2019/</loc>
+    <loc>http://localhost:4593/post/2019/09/22/osfworkshop-eshpm-sept2019/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/online-sampling/</loc>
+    <loc>http://localhost:4593/tags/online-sampling/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/27/paolacci/</loc>
+    <loc>http://localhost:4593/post/2019/08/27/paolacci/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/15/zwaan/</loc>
+    <loc>http://localhost:4593/post/2019/08/15/zwaan/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/14/roos/</loc>
+    <loc>http://localhost:4593/post/2019/08/14/roos/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/14/wieser/</loc>
+    <loc>http://localhost:4593/post/2019/08/14/wieser/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/punkrock/</loc>
+    <loc>http://localhost:4593/tags/punkrock/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/06/mijnhardt/</loc>
+    <loc>http://localhost:4593/post/2019/08/06/mijnhardt/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/policy-analysis/</loc>
+    <loc>http://localhost:4593/tags/policy-analysis/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/08/05/website-live/</loc>
+    <loc>http://localhost:4593/post/2019/08/05/website-live/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/coc/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/dpecs_colloquia/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/principles/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/linux/</loc>
+    <loc>http://localhost:4593/tags/linux/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/07/30/lindemann/</loc>
+    <loc>http://localhost:4593/post/2019/07/30/lindemann/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/2019/04/01/schettino/</loc>
+    <loc>http://localhost:4593/post/2019/04/01/schettino/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</loc>
+    <loc>http://localhost:4593/authors/</loc>
+  </url><url>
+    <loc>http://localhost:4593/conduct/</loc>
+  </url><url>
+    <loc>http://localhost:4593/community/</loc>
+  </url><url>
+    <loc>http://localhost:4593/contact/</loc>
+  </url><url>
+    <loc>http://localhost:4593/guide/</loc>
   </url>
 </urlset>

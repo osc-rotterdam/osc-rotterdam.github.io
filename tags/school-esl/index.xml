@@ -1,83 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>school-esl on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/school-esl/</link>
-    <description>Recent content in school-esl on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>School-Esl on OSCR</title>
+    <link>http://localhost:4593/tags/school-esl/</link>
+    <description>Recent content in School-Esl on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/school-esl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/school-esl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Siobhan Airey</title>
-      <link>https://www.openscience-rotterdam.com/2025/11/21/airey/</link>
+      <link>http://localhost:4593/post/2025/11/21/airey/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/11/21/airey/</guid>
+      <guid>http://localhost:4593/post/2025/11/21/airey/</guid>
       <description>Assistant Professor, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Kostina Prifti</title>
-      <link>https://www.openscience-rotterdam.com/2025/03/28/prifti/</link>
+      <link>http://localhost:4593/post/2025/03/28/prifti/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/03/28/prifti/</guid>
+      <guid>http://localhost:4593/post/2025/03/28/prifti/</guid>
       <description>Postdoctoral Researcher, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Björn Ros</title>
-      <link>https://www.openscience-rotterdam.com/2025/02/07/ros/</link>
+      <link>http://localhost:4593/post/2025/02/07/ros/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/02/07/ros/</guid>
+      <guid>http://localhost:4593/post/2025/02/07/ros/</guid>
       <description>Law librarian, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Marianne Breijer</title>
-      <link>https://www.openscience-rotterdam.com/2024/12/06/breijer/</link>
+      <link>http://localhost:4593/post/2024/12/06/breijer/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/12/06/breijer/</guid>
+      <guid>http://localhost:4593/post/2024/12/06/breijer/</guid>
       <description>Programme manager Sectorplan SSH-Breed, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Amarilys Abreu</title>
-      <link>https://www.openscience-rotterdam.com/2024/03/02/abreu/</link>
+      <link>http://localhost:4593/post/2024/03/02/abreu/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/03/02/abreu/</guid>
+      <guid>http://localhost:4593/post/2024/03/02/abreu/</guid>
       <description>PhD Candidate, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Julia Krämer</title>
-      <link>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</link>
+      <link>http://localhost:4593/post/2022/11/11/kraemer/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/11/11/kraemer/</guid>
+      <guid>http://localhost:4593/post/2022/11/11/kraemer/</guid>
       <description>PhD candidate, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Annet van der Veen</title>
-      <link>https://www.openscience-rotterdam.com/2022/11/09/vanderveen/</link>
+      <link>http://localhost:4593/post/2022/11/09/vanderveen/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/11/09/vanderveen/</guid>
+      <guid>http://localhost:4593/post/2022/11/09/vanderveen/</guid>
       <description>Policy Advisor and Head Research Office, ESL</description>
     </item>
-    
     <item>
       <title>OSCR Member: Abby Onencan</title>
-      <link>https://www.openscience-rotterdam.com/2022/03/31/onencan/</link>
+      <link>http://localhost:4593/post/2022/03/31/onencan/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/03/31/onencan/</guid>
+      <guid>http://localhost:4593/post/2022/03/31/onencan/</guid>
       <description>Post-doctoral Researcher in Corporate Environmental Crimes, ESL</description>
     </item>
-    
   </channel>
 </rss>

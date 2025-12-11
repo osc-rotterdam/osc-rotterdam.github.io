@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bibliophile on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/bibliophile/</link>
-    <description>Recent content in bibliophile on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Bibliophile on OSCR</title>
+    <link>http://localhost:4593/tags/bibliophile/</link>
+    <description>Recent content in Bibliophile on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/bibliophile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/bibliophile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Bryan Bong</title>
-      <link>https://www.openscience-rotterdam.com/2024/07/29/bong/</link>
+      <link>http://localhost:4593/post/2024/07/29/bong/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/07/29/bong/</guid>
+      <guid>http://localhost:4593/post/2024/07/29/bong/</guid>
       <description>Research Policy Advisor, ESHPM</description>
     </item>
-    
   </channel>
 </rss>

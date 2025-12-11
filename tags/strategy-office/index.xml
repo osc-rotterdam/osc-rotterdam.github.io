@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>strategy-office on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/strategy-office/</link>
-    <description>Recent content in strategy-office on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Strategy-Office on OSCR</title>
+    <link>http://localhost:4593/tags/strategy-office/</link>
+    <description>Recent content in Strategy-Office on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/strategy-office/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/strategy-office/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Maud van Roessel</title>
-      <link>https://www.openscience-rotterdam.com/2024/02/23/vanroessel/</link>
+      <link>http://localhost:4593/post/2024/02/23/vanroessel/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/02/23/vanroessel/</guid>
+      <guid>http://localhost:4593/post/2024/02/23/vanroessel/</guid>
       <description>Junior Researcher and Project Officer, Strategy Office</description>
     </item>
-    
     <item>
       <title>OSCR Member: Giovanna Lima</title>
-      <link>https://www.openscience-rotterdam.com/2023/04/29/lima/</link>
+      <link>http://localhost:4593/post/2023/04/29/lima/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2023/04/29/lima/</guid>
+      <guid>http://localhost:4593/post/2023/04/29/lima/</guid>
       <description>Impact Project Officer, Strategy Office</description>
     </item>
-    
   </channel>
 </rss>

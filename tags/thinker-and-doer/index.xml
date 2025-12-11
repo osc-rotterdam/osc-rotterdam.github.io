@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thinker and doer on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/thinker-and-doer/</link>
-    <description>Recent content in thinker and doer on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Thinker and Doer on OSCR</title>
+    <link>http://localhost:4593/tags/thinker-and-doer/</link>
+    <description>Recent content in Thinker and Doer on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/thinker-and-doer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/thinker-and-doer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Farshad Radman</title>
-      <link>https://www.openscience-rotterdam.com/2025/09/27/radman/</link>
+      <link>http://localhost:4593/post/2025/09/27/radman/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/09/27/radman/</guid>
+      <guid>http://localhost:4593/post/2025/09/27/radman/</guid>
       <description>IT Architect, Erasmus Centre for Data Analytics (ECDA)</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>literature search on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/literature-search/</link>
-    <description>Recent content in literature search on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Literature Search on OSCR</title>
+    <link>http://localhost:4593/tags/literature-search/</link>
+    <description>Recent content in Literature Search on OSCR</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openscience-rotterdam.com/tags/literature-search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/literature-search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Aike Dias-Broens</title>
-      <link>https://www.openscience-rotterdam.com/2025/02/16/dias-broens/</link>
+      <link>http://localhost:4593/post/2025/02/16/dias-broens/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2025/02/16/dias-broens/</guid>
+      <guid>http://localhost:4593/post/2025/02/16/dias-broens/</guid>
       <description>PhD Candidate, ESSB</description>
     </item>
-    
     <item>
       <title>OSCR Member: Leonardo Wada</title>
-      <link>https://www.openscience-rotterdam.com/2024/10/06/wada/</link>
+      <link>http://localhost:4593/post/2024/10/06/wada/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2024/10/06/wada/</guid>
+      <guid>http://localhost:4593/post/2024/10/06/wada/</guid>
       <description>BSc graduate, EUC</description>
     </item>
-    
     <item>
       <title>OSCR Member: Elise Krabbendam</title>
-      <link>https://www.openscience-rotterdam.com/2022/08/30/krabbendam/</link>
+      <link>http://localhost:4593/post/2022/08/30/krabbendam/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2022/08/30/krabbendam/</guid>
+      <guid>http://localhost:4593/post/2022/08/30/krabbendam/</guid>
       <description>Biomedical Information Specialist, Erasmus MC</description>
     </item>
-    
   </channel>
 </rss>

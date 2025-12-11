@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eco-conscious/eco-anxious on Open Science Community Rotterdam</title>
-    <link>https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/</link>
-    <description>Recent content in eco-conscious/eco-anxious on Open Science Community Rotterdam</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.openscience-rotterdam.com/tags/eco-conscious/eco-anxious/index.xml" rel="self" type="application/rss+xml" />
+    <title>Eco-Conscious/Eco-Anxious on OSCR</title>
+    <link>http://localhost:4593/tags/eco-conscious/eco-anxious/</link>
+    <description>Recent content in Eco-Conscious/Eco-Anxious on OSCR</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4593/tags/eco-conscious/eco-anxious/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Marianne Tenand</title>
-      <link>https://www.openscience-rotterdam.com/2020/01/08/tenand/</link>
+      <link>http://localhost:4593/post/2020/01/08/tenand/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.openscience-rotterdam.com/2020/01/08/tenand/</guid>
+      <guid>http://localhost:4593/post/2020/01/08/tenand/</guid>
       <description>Post-Doctoral Researcher, ESPHM</description>
     </item>
-    
   </channel>
 </rss>
