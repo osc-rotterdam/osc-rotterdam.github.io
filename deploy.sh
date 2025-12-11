@@ -13,7 +13,7 @@ TMPDIR=$(dirname $(mktemp))
 cp -Ra public/ $TMPDIR/
 
 # switch to master branch
-git checkout update_main
+git checkout main_update
 git config pull.rebase false
 git pull --force
 
