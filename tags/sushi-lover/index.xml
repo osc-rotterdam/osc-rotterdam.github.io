@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sushi Lover on OSCR</title>
-    <link>http://localhost:4593/tags/sushi-lover/</link>
+    <link>https://osc-rotterdam.org/tags/sushi-lover/</link>
     <description>Recent content in Sushi Lover on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/sushi-lover/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/sushi-lover/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Meg Perry-Duxbury</title>
-      <link>http://localhost:4593/post/2019/10/03/perryduxbury/</link>
+      <link>https://osc-rotterdam.org/post/2019/10/03/perryduxbury/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/10/03/perryduxbury/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/10/03/perryduxbury/</guid>
       <description>PhD Candidate, ESPHM</description>
     </item>
   </channel>

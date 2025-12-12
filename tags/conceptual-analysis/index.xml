@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conceptual Analysis on OSCR</title>
-    <link>http://localhost:4593/tags/conceptual-analysis/</link>
+    <link>https://osc-rotterdam.org/tags/conceptual-analysis/</link>
     <description>Recent content in Conceptual Analysis on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/conceptual-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/conceptual-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Sonia de Jager</title>
-      <link>http://localhost:4593/post/2021/06/16/dejager/</link>
+      <link>https://osc-rotterdam.org/post/2021/06/16/dejager/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/06/16/dejager/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/06/16/dejager/</guid>
       <description>PhD candidate at ESPhil, teacher at the &lt;a href=&#34;https://www.wdka.nl/&#34;&gt;Willem de Kooning Academie&lt;/a&gt;, director of Regenerative Feedback</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qualitative Methods on OSCR</title>
-    <link>http://localhost:4593/tags/qualitative-methods/</link>
+    <link>https://osc-rotterdam.org/tags/qualitative-methods/</link>
     <description>Recent content in Qualitative Methods on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/qualitative-methods/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/qualitative-methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Aike Dias-Broens</title>
-      <link>http://localhost:4593/post/2025/02/16/dias-broens/</link>
+      <link>https://osc-rotterdam.org/post/2025/02/16/dias-broens/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/02/16/dias-broens/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/02/16/dias-broens/</guid>
       <description>PhD Candidate, ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Renske van der Gaag</title>
-      <link>http://localhost:4593/post/2024/01/12/vandergaag/</link>
+      <link>https://osc-rotterdam.org/post/2024/01/12/vandergaag/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/01/12/vandergaag/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/01/12/vandergaag/</guid>
       <description>Assistant Professor, Department of Pedagogical Science, ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Victoria Balan</title>
-      <link>http://localhost:4593/post/2022/12/02/balan/</link>
+      <link>https://osc-rotterdam.org/post/2022/12/02/balan/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/12/02/balan/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/12/02/balan/</guid>
       <description>PhD Candidate, ESHCC</description>
     </item>
   </channel>

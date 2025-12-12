@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ERS on OSCR</title>
-    <link>http://localhost:4593/tags/ers/</link>
+    <link>https://osc-rotterdam.org/tags/ers/</link>
     <description>Recent content in ERS on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/ers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/ers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Signe Glaesel</title>
-      <link>http://localhost:4593/post/2025/09/05/glaesel/</link>
+      <link>https://osc-rotterdam.org/post/2025/09/05/glaesel/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/09/05/glaesel/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/09/05/glaesel/</guid>
       <description>Junior Research Data Steward, ERS</description>
     </item>
     <item>
       <title>OSCR Member: Chiara Stenico</title>
-      <link>http://localhost:4593/post/2025/02/28/stenico/</link>
+      <link>https://osc-rotterdam.org/post/2025/02/28/stenico/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/02/28/stenico/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/02/28/stenico/</guid>
       <description>Engaged Research Officer, ERS</description>
     </item>
     <item>
       <title>OSCR Member: John Mills</title>
-      <link>http://localhost:4593/post/2023/09/15/mills/</link>
+      <link>https://osc-rotterdam.org/post/2023/09/15/mills/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2023/09/15/mills/</guid>
+      <guid>https://osc-rotterdam.org/post/2023/09/15/mills/</guid>
       <description>Open Science Advisor (ERS) and Honorary Fellow (Ulster University)</description>
     </item>
     <item>
       <title>OSCR Member: Mira Bückmann</title>
-      <link>http://localhost:4593/post/2023/05/18/bueckmann/</link>
+      <link>https://osc-rotterdam.org/post/2023/05/18/bueckmann/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2023/05/18/bueckmann/</guid>
+      <guid>https://osc-rotterdam.org/post/2023/05/18/bueckmann/</guid>
       <description>Information Manager Research, ERS &amp;amp; UB</description>
     </item>
     <item>
       <title>OSCR Member: Marlies Meilof</title>
-      <link>http://localhost:4593/post/2022/02/24/meilof/</link>
+      <link>https://osc-rotterdam.org/post/2022/02/24/meilof/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/02/24/meilof/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/02/24/meilof/</guid>
       <description>Communication Advisor, ERS</description>
     </item>
     <item>
       <title>OSCR Member: Willem Scholten</title>
-      <link>http://localhost:4593/post/2022/01/11/scholten/</link>
+      <link>https://osc-rotterdam.org/post/2022/01/11/scholten/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/01/11/scholten/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/01/11/scholten/</guid>
       <description>Programme leader Open and Responsible Science, senior programmamaker Studium Generale</description>
     </item>
     <item>
       <title>OSCR Member: René Verwijmeren</title>
-      <link>http://localhost:4593/post/2021/12/16/verwijmeren/</link>
+      <link>https://osc-rotterdam.org/post/2021/12/16/verwijmeren/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/12/16/verwijmeren/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/12/16/verwijmeren/</guid>
       <description>Information Manager Research, University Library &amp;amp; Erasmus Research Services</description>
     </item>
     <item>
       <title>OSCR Member: Eirini Botsari</title>
-      <link>http://localhost:4593/post/2021/12/01/botsari/</link>
+      <link>https://osc-rotterdam.org/post/2021/12/01/botsari/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/12/01/botsari/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/12/01/botsari/</guid>
       <description>OSCR Community Manager, Erasmus Research Services</description>
     </item>
     <item>
       <title>OSCR Member: Antonio Schettino</title>
-      <link>http://localhost:4593/post/2019/04/01/schettino/</link>
+      <link>https://osc-rotterdam.org/post/2019/04/01/schettino/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/04/01/schettino/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/04/01/schettino/</guid>
       <description>Head of Open and Responsible Science, ERS</description>
     </item>
   </channel>

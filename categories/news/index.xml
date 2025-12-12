@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on OSCR</title>
-    <link>http://localhost:4593/categories/news/</link>
+    <link>https://osc-rotterdam.org/categories/news/</link>
     <description>Recent content in News on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR and SSH-Breed organize AI for Open Science: Accelerating Discovery and Transparency</title>
-      <link>http://localhost:4593/post/2025/11/25/2025-11-25-oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency/</link>
+      <link>https://osc-rotterdam.org/post/2025/11/25/2025-11-25-oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/11/25/2025-11-25-oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/11/25/2025-11-25-oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency/</guid>
       <description>&lt;p&gt;📅 &lt;b&gt;25 November 2025 |11:00-13:00 &lt;/b&gt;| 🏫 Polak 1-20 | 🥗 Lunch Included &lt;/p&gt; &lt;p&gt;Join us for a joint meeting of the &lt;b&gt;Open Science Community Rotterdam (OSCR)&lt;/b&gt; and &lt;b&gt;SSH-Breed&lt;/b&gt; that brings together academics from diverse fields to explore how AI might benefit Open Science.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSCR and ESSB organize Opening Up Science: From Principles to Practice</title>
-      <link>http://localhost:4593/post/2025/11/13/2025-11-13-oscr-and-essb-organize-opening-up-science-from-principles-to-practice/</link>
+      <link>https://osc-rotterdam.org/post/2025/11/13/2025-11-13-oscr-and-essb-organize-opening-up-science-from-principles-to-practice/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/11/13/2025-11-13-oscr-and-essb-organize-opening-up-science-from-principles-to-practice/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/11/13/2025-11-13-oscr-and-essb-organize-opening-up-science-from-principles-to-practice/</guid>
       <description>&lt;p&gt;📅 &lt;b&gt;4 December 2025 |14:00-15:30 | 🏫 Theil C1-6 &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Join us for a special meeting of the &lt;b&gt;Open Science Community Rotterdam (OSCR)&lt;/b&gt; in collaboration with the &lt;b&gt;Erasmus School of Social and Behavioural Sciences (ESSB)&lt;/b&gt; during which Prof. dr. Rolf Zwaan will share his extensive experience with open and responsible research practices.&lt;/p&gt;</description>
     </item>
   </channel>

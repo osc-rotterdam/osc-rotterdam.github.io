@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cooking on OSCR</title>
-    <link>http://localhost:4593/tags/cooking/</link>
+    <link>https://osc-rotterdam.org/tags/cooking/</link>
     <description>Recent content in Cooking on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Erica Yu</title>
-      <link>http://localhost:4593/post/2025/10/16/yu/</link>
+      <link>https://osc-rotterdam.org/post/2025/10/16/yu/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/10/16/yu/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/10/16/yu/</guid>
       <description>PhD candidate, ESPhil &amp;amp; Open Access Officer, UB</description>
     </item>
     <item>
       <title>OSCR Member: Julia Steenwegen</title>
-      <link>http://localhost:4593/post/2024/10/18/steenwegen/</link>
+      <link>https://osc-rotterdam.org/post/2024/10/18/steenwegen/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/10/18/steenwegen/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/10/18/steenwegen/</guid>
       <description>Postdoctoral Researcher, ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Jeffrey Sweeney</title>
-      <link>http://localhost:4593/post/2021/12/01/sweeney/</link>
+      <link>https://osc-rotterdam.org/post/2021/12/01/sweeney/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/12/01/sweeney/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/12/01/sweeney/</guid>
       <description>Assistant Professor, RSM</description>
     </item>
   </channel>

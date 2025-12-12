@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OSCR</title>
-    <link>http://localhost:4593/categories/</link>
+    <link>https://osc-rotterdam.org/categories/</link>
     <description>Recent content in Categories on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
-      <link>http://localhost:4593/categories/people/</link>
+      <link>https://osc-rotterdam.org/categories/people/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/categories/people/</guid>
+      <guid>https://osc-rotterdam.org/categories/people/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:4593/categories/news/</link>
+      <link>https://osc-rotterdam.org/categories/news/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/categories/news/</guid>
+      <guid>https://osc-rotterdam.org/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Archive</title>
-      <link>http://localhost:4593/categories/archive/</link>
+      <link>https://osc-rotterdam.org/categories/archive/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/categories/archive/</guid>
+      <guid>https://osc-rotterdam.org/categories/archive/</guid>
       <description></description>
     </item>
   </channel>

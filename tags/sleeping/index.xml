@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sleeping on OSCR</title>
-    <link>http://localhost:4593/tags/sleeping/</link>
+    <link>https://osc-rotterdam.org/tags/sleeping/</link>
     <description>Recent content in Sleeping on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/sleeping/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/sleeping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Julius März</title>
-      <link>http://localhost:4593/post/2025/04/24/marz/</link>
+      <link>https://osc-rotterdam.org/post/2025/04/24/marz/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/04/24/marz/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/04/24/marz/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
   </channel>

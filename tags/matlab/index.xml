@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matlab on OSCR</title>
-    <link>http://localhost:4593/tags/matlab/</link>
+    <link>https://osc-rotterdam.org/tags/matlab/</link>
     <description>Recent content in Matlab on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Yaniv Morgenstern</title>
-      <link>http://localhost:4593/post/2024/11/08/morgenstern/</link>
+      <link>https://osc-rotterdam.org/post/2024/11/08/morgenstern/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/11/08/morgenstern/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/11/08/morgenstern/</guid>
       <description>Assistant Professor, ESSB</description>
     </item>
   </channel>

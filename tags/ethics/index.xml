@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethics on OSCR</title>
-    <link>http://localhost:4593/tags/ethics/</link>
+    <link>https://osc-rotterdam.org/tags/ethics/</link>
     <description>Recent content in Ethics on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Kristel de Groot</title>
-      <link>http://localhost:4593/post/2024/06/21/de-groot/</link>
+      <link>https://osc-rotterdam.org/post/2024/06/21/de-groot/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/06/21/de-groot/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/06/21/de-groot/</guid>
       <description>PhD Candidate, ESE and ESSB</description>
     </item>
     <item>
       <title>OSCR Member: John Mills</title>
-      <link>http://localhost:4593/post/2023/09/15/mills/</link>
+      <link>https://osc-rotterdam.org/post/2023/09/15/mills/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2023/09/15/mills/</guid>
+      <guid>https://osc-rotterdam.org/post/2023/09/15/mills/</guid>
       <description>Open Science Advisor (ERS) and Honorary Fellow (Ulster University)</description>
     </item>
   </channel>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>School-Ese on OSCR</title>
-    <link>http://localhost:4593/tags/school-ese/</link>
+    <link>https://osc-rotterdam.org/tags/school-ese/</link>
     <description>Recent content in School-Ese on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/school-ese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/school-ese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Kristel de Groot</title>
-      <link>http://localhost:4593/post/2024/06/21/de-groot/</link>
+      <link>https://osc-rotterdam.org/post/2024/06/21/de-groot/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/06/21/de-groot/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/06/21/de-groot/</guid>
       <description>PhD Candidate, ESE and ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Nami Sunami</title>
-      <link>http://localhost:4593/post/2023/01/25/sunami/</link>
+      <link>https://osc-rotterdam.org/post/2023/01/25/sunami/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2023/01/25/sunami/</guid>
+      <guid>https://osc-rotterdam.org/post/2023/01/25/sunami/</guid>
       <description>Research Data Steward, ERIM</description>
     </item>
     <item>
       <title>An example of open software and innovative academic publication in econometrics</title>
-      <link>http://localhost:4593/post/2022/01/18/innovative-publication-alfons/</link>
+      <link>https://osc-rotterdam.org/post/2022/01/18/innovative-publication-alfons/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/01/18/innovative-publication-alfons/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/01/18/innovative-publication-alfons/</guid>
       <description>Andreas Alfons, Associate Professor at ESE, shares his experience in publishing open source code on an innovative platform.</description>
     </item>
     <item>
       <title>OSCR Member: Aishameriane Venes Schmidt</title>
-      <link>http://localhost:4593/post/2021/10/05/schmidt/</link>
+      <link>https://osc-rotterdam.org/post/2021/10/05/schmidt/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/10/05/schmidt/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/10/05/schmidt/</guid>
       <description>PhD Candidate, ESE</description>
     </item>
     <item>
       <title>OSCR Member: Thomas Peeters</title>
-      <link>http://localhost:4593/post/2021/09/27/peeters/</link>
+      <link>https://osc-rotterdam.org/post/2021/09/27/peeters/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/09/27/peeters/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/09/27/peeters/</guid>
       <description>Associate Professor, ESE</description>
     </item>
     <item>
       <title>OSCR Member: Max Welz</title>
-      <link>http://localhost:4593/post/2021/08/10/welz/</link>
+      <link>https://osc-rotterdam.org/post/2021/08/10/welz/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/08/10/welz/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/08/10/welz/</guid>
       <description>PhD Candidate, ESE</description>
     </item>
     <item>
       <title>OSCR Member: Andreas Alfons</title>
-      <link>http://localhost:4593/post/2021/04/08/alfons/</link>
+      <link>https://osc-rotterdam.org/post/2021/04/08/alfons/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/04/08/alfons/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/04/08/alfons/</guid>
       <description>Associate Professor, ESE</description>
     </item>
     <item>
       <title>Data Stewards join EUR Research Support</title>
-      <link>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/01/20/data-stewards-jan2021/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/01/20/data-stewards-jan2021/</guid>
       <description>Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!</description>
     </item>
     <item>
       <title>OSCR Member: Lizette Guzman-Ramirez</title>
-      <link>http://localhost:4593/post/2021/01/18/guzman-ramirez/</link>
+      <link>https://osc-rotterdam.org/post/2021/01/18/guzman-ramirez/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/01/18/guzman-ramirez/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/01/18/guzman-ramirez/</guid>
       <description>Research Data Steward, ERIM</description>
     </item>
     <item>
       <title>OSCR Member: Georg Granic</title>
-      <link>http://localhost:4593/post/2020/07/02/granic/</link>
+      <link>https://osc-rotterdam.org/post/2020/07/02/granic/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/07/02/granic/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/07/02/granic/</guid>
       <description>Assistant Professor, ESE</description>
     </item>
   </channel>

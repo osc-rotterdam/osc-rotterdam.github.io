@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UL on OSCR</title>
-    <link>http://localhost:4593/tags/ul/</link>
+    <link>https://osc-rotterdam.org/tags/ul/</link>
     <description>Recent content in UL on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/ul/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/ul/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: René Verwijmeren</title>
-      <link>http://localhost:4593/post/2021/12/16/verwijmeren/</link>
+      <link>https://osc-rotterdam.org/post/2021/12/16/verwijmeren/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/12/16/verwijmeren/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/12/16/verwijmeren/</guid>
       <description>Information Manager Research, University Library &amp;amp; Erasmus Research Services</description>
     </item>
     <item>
       <title>A Researcher’s Guide to Open Access Publishing</title>
-      <link>http://localhost:4593/post/2020/12/03/eur-oa/</link>
+      <link>https://osc-rotterdam.org/post/2020/12/03/eur-oa/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/12/03/eur-oa/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/12/03/eur-oa/</guid>
       <description>A short but comprehensive guide to Open Access publishing for EUR and ErasmusMC researchers.</description>
     </item>
     <item>
       <title>Take-away OSCR-ORCID workshop</title>
-      <link>http://localhost:4593/post/2020/11/26/takeaway-orcid-nov2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/11/26/takeaway-orcid-nov2020/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/11/26/takeaway-orcid-nov2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/11/26/takeaway-orcid-nov2020/</guid>
       <description>Missed out on the workshop? Catch up by following these steps!</description>
     </item>
     <item>
       <title>Distinguish yourself and get recognized with ORCID!</title>
-      <link>http://localhost:4593/post/2020/10/27/eur-orcid/</link>
+      <link>https://osc-rotterdam.org/post/2020/10/27/eur-orcid/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/10/27/eur-orcid/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/10/27/eur-orcid/</guid>
       <description>A university-wide campaign to raise awareness on the importance, benefits, and use of ORCID for researchers.</description>
     </item>
   </channel>

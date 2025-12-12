@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ballroom Dancing on OSCR</title>
-    <link>http://localhost:4593/tags/ballroom-dancing/</link>
+    <link>https://osc-rotterdam.org/tags/ballroom-dancing/</link>
     <description>Recent content in Ballroom Dancing on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/ballroom-dancing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/ballroom-dancing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Anita Harrewijn</title>
-      <link>http://localhost:4593/post/2021/05/31/harrewijn/</link>
+      <link>https://osc-rotterdam.org/post/2021/05/31/harrewijn/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/05/31/harrewijn/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/05/31/harrewijn/</guid>
       <description>Post-Doctoral Researcher, ESSB</description>
     </item>
   </channel>

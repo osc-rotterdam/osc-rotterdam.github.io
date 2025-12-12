@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReproducibiliTea on OSCR</title>
-    <link>http://localhost:4593/tags/reproducibilitea/</link>
+    <link>https://osc-rotterdam.org/tags/reproducibilitea/</link>
     <description>Recent content in ReproducibiliTea on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/reproducibilitea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/reproducibilitea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ReproducibiliTea Online: Value Pluralism in Research Integrity</title>
-      <link>http://localhost:4593/post/2022/05/03/reproducibilitea-may2022/</link>
+      <link>https://osc-rotterdam.org/post/2022/05/03/reproducibilitea-may2022/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/05/03/reproducibilitea-may2022/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/05/03/reproducibilitea-may2022/</guid>
       <description>May 12th 2022, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Replication and Trustworthiness</title>
-      <link>http://localhost:4593/post/2022/03/24/reproducibilitea-april2022/</link>
+      <link>https://osc-rotterdam.org/post/2022/03/24/reproducibilitea-april2022/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/03/24/reproducibilitea-april2022/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/03/24/reproducibilitea-april2022/</guid>
       <description>April 7th 2022, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Is Peer Review a Good Idea?</title>
-      <link>http://localhost:4593/post/2021/06/07/reproducibilitea-june2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/06/07/reproducibilitea-june2021/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/06/07/reproducibilitea-june2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/06/07/reproducibilitea-june2021/</guid>
       <description>June 16th 2021, h. 11:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Arrested theory development</title>
-      <link>http://localhost:4593/post/2021/05/10/reproducibilitea-may2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/05/10/reproducibilitea-may2021/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/05/10/reproducibilitea-may2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/05/10/reproducibilitea-may2021/</guid>
       <description>May 19th 2021, h. 11:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Foundational Practices of Research Data Management</title>
-      <link>http://localhost:4593/post/2021/04/09/reproducibilitea-apr2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/04/09/reproducibilitea-apr2021/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/04/09/reproducibilitea-apr2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/04/09/reproducibilitea-apr2021/</guid>
       <description>April 19th 2021, h. 15:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: The Generalizability Crisis</title>
-      <link>http://localhost:4593/post/2021/02/26/reproducibilitea-mar2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/26/reproducibilitea-mar2021/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/26/reproducibilitea-mar2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/26/reproducibilitea-mar2021/</guid>
       <description>March 12th 2021, h. 15:00 CET, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Making Replication Mainstream</title>
-      <link>http://localhost:4593/post/2021/02/02/reproducibilitea-feb2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/02/reproducibilitea-feb2021/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/02/reproducibilitea-feb2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/02/reproducibilitea-feb2021/</guid>
       <description>February 11th 2021, h. 14:00 CET, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Replicable social-behavioral findings are achievable</title>
-      <link>http://localhost:4593/post/2020/11/17/reproducibilitea-nov2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/11/17/reproducibilitea-nov2020/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/11/17/reproducibilitea-nov2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/11/17/reproducibilitea-nov2020/</guid>
       <description>November 25th 2020, h. 11:00 CET, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: The Garden of Forking Paths</title>
-      <link>http://localhost:4593/post/2020/10/13/reproducibilitea-oct2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/10/13/reproducibilitea-oct2020/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/10/13/reproducibilitea-oct2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/10/13/reproducibilitea-oct2020/</guid>
       <description>October 28th 2020, h. 15:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: A Checklist to Avoid p-Hacking</title>
-      <link>http://localhost:4593/post/2020/09/10/reproducibilitea-sept2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/09/10/reproducibilitea-sept2020/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/09/10/reproducibilitea-sept2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/09/10/reproducibilitea-sept2020/</guid>
       <description>September 23th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Beyond Bonferroni Revisited</title>
-      <link>http://localhost:4593/post/2020/06/30/reproducibilitea-july2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/06/30/reproducibilitea-july2020/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/06/30/reproducibilitea-july2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/06/30/reproducibilitea-july2020/</guid>
       <description>July 8th 2020, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: v-hacking</title>
-      <link>http://localhost:4593/post/2020/05/27/reproducibilitea-june2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/05/27/reproducibilitea-june2020/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/05/27/reproducibilitea-june2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/05/27/reproducibilitea-june2020/</guid>
       <description>June 10th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Seven Easy Steps to Open Science</title>
-      <link>http://localhost:4593/post/2020/04/27/reproducibilitea-may2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/04/27/reproducibilitea-may2020/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/04/27/reproducibilitea-may2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/04/27/reproducibilitea-may2020/</guid>
       <description>May 13th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea Online: Comparing the standard Psychology literature with Registered Reports</title>
-      <link>http://localhost:4593/post/2020/03/30/reproducibilitea-apr2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/03/30/reproducibilitea-apr2020/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/03/30/reproducibilitea-apr2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/03/30/reproducibilitea-apr2020/</guid>
       <description>April 8th 2020, h. 11:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ReproducibiliTea: Responsible Research Evaluation</title>
-      <link>http://localhost:4593/post/2020/02/26/reproducibilitea-mar2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/02/26/reproducibilitea-mar2020/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/02/26/reproducibilitea-mar2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/02/26/reproducibilitea-mar2020/</guid>
       <description>March 11th 2020, h. 11:00, room G2-35</description>
     </item>
     <item>
       <title>ReproducibiliTea: Meet the Journal of Trial and Error</title>
-      <link>http://localhost:4593/post/2020/01/29/reproducibilitea-feb2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/01/29/reproducibilitea-feb2020/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/01/29/reproducibilitea-feb2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/01/29/reproducibilitea-feb2020/</guid>
       <description>February 12th 2020, h. 11:00, room J7-55</description>
     </item>
     <item>
       <title>ReproducibiliTea: Musical Contrast and Chronological Rejuvenation</title>
-      <link>http://localhost:4593/post/2020/01/13/reproducibilitea-jan2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/01/13/reproducibilitea-jan2020/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/01/13/reproducibilitea-jan2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/01/13/reproducibilitea-jan2020/</guid>
       <description>January 22nd 2020, h. 11:00, room VB-02</description>
     </item>
     <item>
       <title>ReproducibiliTea for qualitative researchers</title>
-      <link>http://localhost:4593/post/2019/11/26/reproducibilitea-dec2019/</link>
+      <link>https://osc-rotterdam.org/post/2019/11/26/reproducibilitea-dec2019/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/11/26/reproducibilitea-dec2019/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/11/26/reproducibilitea-dec2019/</guid>
       <description>December 11th 2019, h. 11:00, room J7-55</description>
     </item>
     <item>
       <title>ReproducibiliTea journal clubs</title>
-      <link>http://localhost:4593/post/2019/10/21/oscr-reproducibilitea/</link>
+      <link>https://osc-rotterdam.org/post/2019/10/21/oscr-reproducibilitea/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/10/21/oscr-reproducibilitea/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/10/21/oscr-reproducibilitea/</guid>
       <description>A monthly journal club to discuss all things open science</description>
     </item>
   </channel>

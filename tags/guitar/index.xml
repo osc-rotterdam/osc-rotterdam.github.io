@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guitar on OSCR</title>
-    <link>http://localhost:4593/tags/guitar/</link>
+    <link>https://osc-rotterdam.org/tags/guitar/</link>
     <description>Recent content in Guitar on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/guitar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/guitar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Gabriele Mari</title>
-      <link>http://localhost:4593/post/2021/02/08/mari/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/08/mari/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/08/mari/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/08/mari/</guid>
       <description>Postdoctoral Researcher, ESSB</description>
     </item>
   </channel>

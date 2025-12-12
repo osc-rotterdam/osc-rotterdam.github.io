@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bicycle Mechanic on OSCR</title>
-    <link>http://localhost:4593/tags/bicycle-mechanic/</link>
+    <link>https://osc-rotterdam.org/tags/bicycle-mechanic/</link>
     <description>Recent content in Bicycle Mechanic on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/bicycle-mechanic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/bicycle-mechanic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Andreas Alfons</title>
-      <link>http://localhost:4593/post/2021/04/08/alfons/</link>
+      <link>https://osc-rotterdam.org/post/2021/04/08/alfons/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/04/08/alfons/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/04/08/alfons/</guid>
       <description>Associate Professor, ESE</description>
     </item>
   </channel>

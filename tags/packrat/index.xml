@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packrat on OSCR</title>
-    <link>http://localhost:4593/tags/packrat/</link>
+    <link>https://osc-rotterdam.org/tags/packrat/</link>
     <description>Recent content in Packrat on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/packrat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/packrat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Ana Martinovici</title>
-      <link>http://localhost:4593/post/2020/02/25/martinovici/</link>
+      <link>https://osc-rotterdam.org/post/2020/02/25/martinovici/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/02/25/martinovici/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/02/25/martinovici/</guid>
       <description>Assistant Professor, RSM</description>
     </item>
   </channel>

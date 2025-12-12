@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Quality Assurance on OSCR</title>
-    <link>http://localhost:4593/tags/research-quality-assurance/</link>
+    <link>https://osc-rotterdam.org/tags/research-quality-assurance/</link>
     <description>Recent content in Research Quality Assurance on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/research-quality-assurance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/research-quality-assurance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Annet van der Veen</title>
-      <link>http://localhost:4593/post/2022/11/09/vanderveen/</link>
+      <link>https://osc-rotterdam.org/post/2022/11/09/vanderveen/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/11/09/vanderveen/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/11/09/vanderveen/</guid>
       <description>Policy Advisor and Head Research Office, ESL</description>
     </item>
   </channel>

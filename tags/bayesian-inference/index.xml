@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian Inference on OSCR</title>
-    <link>http://localhost:4593/tags/bayesian-inference/</link>
+    <link>https://osc-rotterdam.org/tags/bayesian-inference/</link>
     <description>Recent content in Bayesian Inference on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Rik Joosen</title>
-      <link>http://localhost:4593/post/2020/02/10/joosen/</link>
+      <link>https://osc-rotterdam.org/post/2020/02/10/joosen/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/02/10/joosen/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/02/10/joosen/</guid>
       <description>PhD Candidate, Department of Public Administration and Sociology, ESSB</description>
     </item>
   </channel>

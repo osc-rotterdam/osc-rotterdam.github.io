@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perseverance on OSCR</title>
-    <link>http://localhost:4593/tags/perseverance/</link>
+    <link>https://osc-rotterdam.org/tags/perseverance/</link>
     <description>Recent content in Perseverance on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/perseverance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/perseverance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Klaus Garrido</title>
-      <link>http://localhost:4593/post/2023/11/01/garrido/</link>
+      <link>https://osc-rotterdam.org/post/2023/11/01/garrido/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2023/11/01/garrido/</guid>
+      <guid>https://osc-rotterdam.org/post/2023/11/01/garrido/</guid>
       <description>PhD Candidate, RSM</description>
     </item>
   </channel>

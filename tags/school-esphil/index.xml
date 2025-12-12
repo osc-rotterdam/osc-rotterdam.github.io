@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>School-Esphil on OSCR</title>
-    <link>http://localhost:4593/tags/school-esphil/</link>
+    <link>https://osc-rotterdam.org/tags/school-esphil/</link>
     <description>Recent content in School-Esphil on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/school-esphil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/school-esphil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Erica Yu</title>
-      <link>http://localhost:4593/post/2025/10/16/yu/</link>
+      <link>https://osc-rotterdam.org/post/2025/10/16/yu/</link>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/10/16/yu/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/10/16/yu/</guid>
       <description>PhD candidate, ESPhil &amp;amp; Open Access Officer, UB</description>
     </item>
     <item>
       <title>OSCR Member: Eddie Adelmund</title>
-      <link>http://localhost:4593/post/2022/03/30/adelmund/</link>
+      <link>https://osc-rotterdam.org/post/2022/03/30/adelmund/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/03/30/adelmund/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/03/30/adelmund/</guid>
       <description>Marketing and Communication Officer | Press Officer | Alumni Officer, ESPhil</description>
     </item>
     <item>
       <title>OSCR Member: Ana Barbosa Mendes</title>
-      <link>http://localhost:4593/post/2021/06/22/barbosa-mendes/</link>
+      <link>https://osc-rotterdam.org/post/2021/06/22/barbosa-mendes/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/06/22/barbosa-mendes/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/06/22/barbosa-mendes/</guid>
       <description>PhD candidate, ESPhil</description>
     </item>
     <item>
       <title>OSCR Member: Sonia de Jager</title>
-      <link>http://localhost:4593/post/2021/06/16/dejager/</link>
+      <link>https://osc-rotterdam.org/post/2021/06/16/dejager/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/06/16/dejager/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/06/16/dejager/</guid>
       <description>PhD candidate at ESPhil, teacher at the &lt;a href=&#34;https://www.wdka.nl/&#34;&gt;Willem de Kooning Academie&lt;/a&gt;, director of Regenerative Feedback</description>
     </item>
     <item>
       <title>OSCR Member: Max Wagenaar</title>
-      <link>http://localhost:4593/post/2021/03/05/wagenaar/</link>
+      <link>https://osc-rotterdam.org/post/2021/03/05/wagenaar/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/03/05/wagenaar/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/03/05/wagenaar/</guid>
       <description>Project lead Erasmus Verbindt</description>
     </item>
     <item>
       <title>Data Stewards join EUR Research Support</title>
-      <link>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/01/20/data-stewards-jan2021/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/01/20/data-stewards-jan2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/01/20/data-stewards-jan2021/</guid>
       <description>Meet the newly appointed Data Stewards and come to the EUR Research Funding Days!</description>
     </item>
   </channel>

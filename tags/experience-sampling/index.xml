@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience Sampling on OSCR</title>
-    <link>http://localhost:4593/tags/experience-sampling/</link>
+    <link>https://osc-rotterdam.org/tags/experience-sampling/</link>
     <description>Recent content in Experience Sampling on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/experience-sampling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/experience-sampling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Robin Achterhof</title>
-      <link>http://localhost:4593/post/2024/01/19/achterhof/</link>
+      <link>https://osc-rotterdam.org/post/2024/01/19/achterhof/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/01/19/achterhof/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/01/19/achterhof/</guid>
       <description>Assistant Professor, Department of Psychology, Education &amp;amp; Child Studies, ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Anne Bülow</title>
-      <link>http://localhost:4593/post/2021/02/09/buelow/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/09/buelow/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/09/buelow/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/09/buelow/</guid>
       <description>PhD Candidate, ESSB</description>
     </item>
   </channel>

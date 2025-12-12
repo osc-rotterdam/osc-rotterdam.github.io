@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature Search on OSCR</title>
-    <link>http://localhost:4593/tags/literature-search/</link>
+    <link>https://osc-rotterdam.org/tags/literature-search/</link>
     <description>Recent content in Literature Search on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/literature-search/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/literature-search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Aike Dias-Broens</title>
-      <link>http://localhost:4593/post/2025/02/16/dias-broens/</link>
+      <link>https://osc-rotterdam.org/post/2025/02/16/dias-broens/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/02/16/dias-broens/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/02/16/dias-broens/</guid>
       <description>PhD Candidate, ESSB</description>
     </item>
     <item>
       <title>OSCR Member: Leonardo Wada</title>
-      <link>http://localhost:4593/post/2024/10/06/wada/</link>
+      <link>https://osc-rotterdam.org/post/2024/10/06/wada/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/10/06/wada/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/10/06/wada/</guid>
       <description>BSc graduate, EUC</description>
     </item>
     <item>
       <title>OSCR Member: Elise Krabbendam</title>
-      <link>http://localhost:4593/post/2022/08/30/krabbendam/</link>
+      <link>https://osc-rotterdam.org/post/2022/08/30/krabbendam/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/08/30/krabbendam/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/08/30/krabbendam/</guid>
       <description>Biomedical Information Specialist, Erasmus MC</description>
     </item>
   </channel>

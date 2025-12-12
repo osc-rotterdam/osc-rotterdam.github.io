@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on OSCR</title>
-    <link>http://localhost:4593/tags/coding/</link>
+    <link>https://osc-rotterdam.org/tags/coding/</link>
     <description>Recent content in Coding on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Mark Mulder</title>
-      <link>http://localhost:4593/post/2022/04/11/mulder/</link>
+      <link>https://osc-rotterdam.org/post/2022/04/11/mulder/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/04/11/mulder/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/04/11/mulder/</guid>
       <description>Data Manager, ESSB</description>
     </item>
   </channel>

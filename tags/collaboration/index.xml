@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on OSCR</title>
-    <link>http://localhost:4593/tags/collaboration/</link>
+    <link>https://osc-rotterdam.org/tags/collaboration/</link>
     <description>Recent content in Collaboration on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Jason Pridmore</title>
-      <link>http://localhost:4593/post/2024/02/06/pridmore/</link>
+      <link>https://osc-rotterdam.org/post/2024/02/06/pridmore/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/02/06/pridmore/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/02/06/pridmore/</guid>
       <description>Associate Professor, ESHCC</description>
     </item>
   </channel>

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RIOTS on OSCR</title>
-    <link>http://localhost:4593/tags/riots/</link>
+    <link>https://osc-rotterdam.org/tags/riots/</link>
     <description>Recent content in RIOTS on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/riots/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/riots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Science Concerns addressed during the ROARR2021 July session</title>
-      <link>http://localhost:4593/post/2021/07/08/roarr2021-july-summary/</link>
+      <link>https://osc-rotterdam.org/post/2021/07/08/roarr2021-july-summary/</link>
       <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/07/08/roarr2021-july-summary/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/07/08/roarr2021-july-summary/</guid>
       <description>A summary of the Q&amp;amp;A session on July 5th 2021.</description>
     </item>
     <item>
       <title>ROARR2021 -- Addressing Concerns about Open Science</title>
-      <link>http://localhost:4593/post/2021/06/22/roarr2021-july/</link>
+      <link>https://osc-rotterdam.org/post/2021/06/22/roarr2021-july/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/06/22/roarr2021-july/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/06/22/roarr2021-july/</guid>
       <description>July 5th 2021, h. 15:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Reimagining Scientific Publishing</title>
-      <link>http://localhost:4593/post/2021/05/31/roarr2021-june/</link>
+      <link>https://osc-rotterdam.org/post/2021/05/31/roarr2021-june/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/05/31/roarr2021-june/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/05/31/roarr2021-june/</guid>
       <description>June 8th 2021, h. 16:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Hidden flexibility and p-values</title>
-      <link>http://localhost:4593/post/2021/05/04/roarr2021-may/</link>
+      <link>https://osc-rotterdam.org/post/2021/05/04/roarr2021-may/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/05/04/roarr2021-may/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/05/04/roarr2021-may/</guid>
       <description>May 11th 2021, h. 15:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Introduction to the Open Science Framework</title>
-      <link>http://localhost:4593/post/2021/03/31/roarr2021-apr/</link>
+      <link>https://osc-rotterdam.org/post/2021/03/31/roarr2021-apr/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/03/31/roarr2021-apr/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/03/31/roarr2021-apr/</guid>
       <description>April 14th 2021, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Questionable Research Practices: How to identify and prevent them</title>
-      <link>http://localhost:4593/post/2021/03/08/roarr2021-mar/</link>
+      <link>https://osc-rotterdam.org/post/2021/03/08/roarr2021-mar/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/03/08/roarr2021-mar/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/03/08/roarr2021-mar/</guid>
       <description>March 18th 2021, h. 15:00 CET, Zoom</description>
     </item>
     <item>
       <title>Rotterdam R.I.O.T.S. Club -- R Markdown &amp; Github</title>
-      <link>http://localhost:4593/post/2021/02/19/riots-advanced-feb2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/19/riots-advanced-feb2021/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/19/riots-advanced-feb2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/19/riots-advanced-feb2021/</guid>
       <description>February 25th 2021, h. 15:00 CET, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Introduction to Git</title>
-      <link>http://localhost:4593/post/2021/02/10/roarr2021-feb/</link>
+      <link>https://osc-rotterdam.org/post/2021/02/10/roarr2021-feb/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/02/10/roarr2021-feb/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/02/10/roarr2021-feb/</guid>
       <description>February 12th 2021, h. 15:00 CET, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Introduction to Open Research, Preregistration, and Registered Reports</title>
-      <link>http://localhost:4593/post/2021/01/21/roarr2021-jan/</link>
+      <link>https://osc-rotterdam.org/post/2021/01/21/roarr2021-jan/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/01/21/roarr2021-jan/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/01/21/roarr2021-jan/</guid>
       <description>January 28th 2021, h. 15:00 CET, Zoom</description>
     </item>
     <item>
       <title>ROARR!</title>
-      <link>http://localhost:4593/post/2021/01/12/roarr-2021/</link>
+      <link>https://osc-rotterdam.org/post/2021/01/12/roarr-2021/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/01/12/roarr-2021/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/01/12/roarr-2021/</guid>
       <description>Announcing the 2021 Rotterdam Open and Reproducible Research (ROARR) programme.</description>
     </item>
     <item>
       <title>OSCR &amp; R.I.O.T.S.: by researchers, for researchers</title>
-      <link>http://localhost:4593/post/2020/03/12/oscr-riots/</link>
+      <link>https://osc-rotterdam.org/post/2020/03/12/oscr-riots/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/03/12/oscr-riots/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/03/12/oscr-riots/</guid>
       <description>Increasing the offer of training on open and reproducible science at EUR and ErasmusMC</description>
     </item>
   </channel>

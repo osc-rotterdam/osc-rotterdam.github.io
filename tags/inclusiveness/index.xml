@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inclusiveness on OSCR</title>
-    <link>http://localhost:4593/tags/inclusiveness/</link>
+    <link>https://osc-rotterdam.org/tags/inclusiveness/</link>
     <description>Recent content in Inclusiveness on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/inclusiveness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/inclusiveness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Jule van den Berg</title>
-      <link>http://localhost:4593/post/2025/09/19/vandenberg-jule/</link>
+      <link>https://osc-rotterdam.org/post/2025/09/19/vandenberg-jule/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/09/19/vandenberg-jule/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/09/19/vandenberg-jule/</guid>
       <description>Researcher &amp;amp; PhD Candidate, IDEA Center &amp;amp; ESHPM</description>
     </item>
     <item>
       <title>OSCR Member: Amarilys Abreu</title>
-      <link>http://localhost:4593/post/2024/03/02/abreu/</link>
+      <link>https://osc-rotterdam.org/post/2024/03/02/abreu/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/03/02/abreu/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/03/02/abreu/</guid>
       <description>PhD Candidate, ESL</description>
     </item>
   </channel>

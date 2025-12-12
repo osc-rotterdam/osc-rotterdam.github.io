@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSF on OSCR</title>
-    <link>http://localhost:4593/tags/osf/</link>
+    <link>https://osc-rotterdam.org/tags/osf/</link>
     <description>Recent content in OSF on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/osf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/osf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to the Open Science Framework</title>
-      <link>http://localhost:4593/post/2022/05/17/intro-osf-june2022/</link>
+      <link>https://osc-rotterdam.org/post/2022/05/17/intro-osf-june2022/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2022/05/17/intro-osf-june2022/</guid>
+      <guid>https://osc-rotterdam.org/post/2022/05/17/intro-osf-june2022/</guid>
       <description>June 1st 2022, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>ROARR2021 -- Introduction to the Open Science Framework</title>
-      <link>http://localhost:4593/post/2021/03/31/roarr2021-apr/</link>
+      <link>https://osc-rotterdam.org/post/2021/03/31/roarr2021-apr/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2021/03/31/roarr2021-apr/</guid>
+      <guid>https://osc-rotterdam.org/post/2021/03/31/roarr2021-apr/</guid>
       <description>April 14th 2021, h. 14:00 CEST, Zoom</description>
     </item>
     <item>
       <title>OSF Workshop at ESHPM</title>
-      <link>http://localhost:4593/post/2019/09/22/osfworkshop-eshpm-sept2019/</link>
+      <link>https://osc-rotterdam.org/post/2019/09/22/osfworkshop-eshpm-sept2019/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/09/22/osfworkshop-eshpm-sept2019/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/09/22/osfworkshop-eshpm-sept2019/</guid>
       <description>September 24th 2019, h.14:30, room J7-43/J7-45</description>
     </item>
   </channel>

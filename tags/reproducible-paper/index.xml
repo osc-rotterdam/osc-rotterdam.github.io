@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reproducible Paper on OSCR</title>
-    <link>http://localhost:4593/tags/reproducible-paper/</link>
+    <link>https://osc-rotterdam.org/tags/reproducible-paper/</link>
     <description>Recent content in Reproducible Paper on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/reproducible-paper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/reproducible-paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing a Reproducible Paper in R with WORCS</title>
-      <link>http://localhost:4593/post/2020/10/16/worcshop-oct2020/</link>
+      <link>https://osc-rotterdam.org/post/2020/10/16/worcshop-oct2020/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2020/10/16/worcshop-oct2020/</guid>
+      <guid>https://osc-rotterdam.org/post/2020/10/16/worcshop-oct2020/</guid>
       <description>October 26th 2020, h. 15:00 CET, Zoom</description>
     </item>
   </channel>

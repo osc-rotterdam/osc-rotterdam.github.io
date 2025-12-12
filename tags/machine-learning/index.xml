@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on OSCR</title>
-    <link>http://localhost:4593/tags/machine-learning/</link>
+    <link>https://osc-rotterdam.org/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on OSCR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4593/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osc-rotterdam.org/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCR Member: Laura Dias</title>
-      <link>http://localhost:4593/post/2025/05/23/dias/</link>
+      <link>https://osc-rotterdam.org/post/2025/05/23/dias/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2025/05/23/dias/</guid>
+      <guid>https://osc-rotterdam.org/post/2025/05/23/dias/</guid>
       <description>PhD Candidate, Erasmus MC</description>
     </item>
     <item>
       <title>OSCR Member: Gennady Roshchupkin</title>
-      <link>http://localhost:4593/post/2024/01/12/roshchupkin/</link>
+      <link>https://osc-rotterdam.org/post/2024/01/12/roshchupkin/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2024/01/12/roshchupkin/</guid>
+      <guid>https://osc-rotterdam.org/post/2024/01/12/roshchupkin/</guid>
       <description>Assistant Professor, Erasmus MC</description>
     </item>
     <item>
       <title>OSCR Member: Aurélie Lemmens</title>
-      <link>http://localhost:4593/post/2019/10/21/lemmens/</link>
+      <link>https://osc-rotterdam.org/post/2019/10/21/lemmens/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4593/post/2019/10/21/lemmens/</guid>
+      <guid>https://osc-rotterdam.org/post/2019/10/21/lemmens/</guid>
       <description>Associate Professor of Marketing, RSM</description>
     </item>
   </channel>
