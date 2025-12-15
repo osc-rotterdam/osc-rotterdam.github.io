@@ -39,10 +39,6 @@ menu:
     - name: 'Community'
       url: /categories/people/
       weight: 4
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 6
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
@@ -82,7 +78,7 @@ params:
     subtitle: ''
     title: Our Clients
   contact_form_ajax: no
-  contact_url: /contact
+  # contact_url: /contact
   copyright: "&copy; 2025 Open Science Community Rotterdam. All rights reserved."
   date_format: January 2, 2006
   default_sharing_image: /images/favicon.png
@@ -101,7 +97,7 @@ params:
   footer:
     recent_posts:
       enable: no
-  formspree_action: https://formspree.io/sample/of/endpoint
+  # formspree_action: 
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
   #latitude: '-12.043333'
