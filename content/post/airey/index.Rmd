@@ -2,7 +2,7 @@
 title: "OSCR Member: Siobhan Airey"
 date: 2025-11-21
 slug: "airey"
-categories: ["people"]
+categories: ["People"]
 tags: ["open access", "data management", "data sharing", "citizen science", "school-esl"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Airey.jpg

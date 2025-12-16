@@ -2,7 +2,7 @@
 title: "OSCR Member: Phuong Hoan Le"
 date: 2025-12-05
 slug: "le"
-categories: ["people"]
+categories: ["People"]
 tags: ["reproducible analysis", "open source software", "cat lover", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
 banner: /images/people/Le.jpg
@@ -72,9 +72,7 @@ editor_options:
 Phuong Hoan Le is an Assistant Professor of HR, Organization, and Management in the Department of Public Administration and Sociology at Erasmus University Rotterdam. With a background in organizational communication and management studies, her research focuses on the impact of digitalization on employees and organizations, covering topics ranging from social media use in public relations to algorithmic management in the platform economy. She is a co-founder of the research group Responsible Organizations: Communication, Change and Society (ROCCS), coordinator of the Platform Labor Group at Erasmus University Rotterdam, and a Reshaping Work fellow.
 <BR>
 
-# Expertise
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/radarPlot-1.png" width="576" />
+<!-- # Expertise -->
 
 
 
