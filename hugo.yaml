@@ -82,7 +82,7 @@ params:
   copyright: "&copy; 2025 Open Science Community Rotterdam. All rights reserved."
   date_format: January 2, 2006
   default_sharing_image: /images/favicon.png
-  defaultDescription: Website of the Open Science community rotterdam
+  defaultDescription: Website of the Open Science Community Rotterdam
   defaultKeywords:
     - OSCR
     - Rotterdam
