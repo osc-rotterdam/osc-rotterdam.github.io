@@ -1,10 +1,9 @@
 # Website OSCRotterdam
 
-Source code of the [website of the Open Science Community Rotterdam](http://www.openscience-rotterdam.com) (OSCR).
+Source code of the [website of the Open Science Community Rotterdam](https://www.osc-rotterdam.org) (OSCR).
 
-This website is developed using [_R_](https://cran.r-project.org/), [`blogdown v1.1`](https://github.com/rstudio/blogdown), and [Hugo v0.81.0](https://gohugo.io/). See 
-[this book](https://bookdown.org/yihui/blogdown/) for details on how to 
-create a website with this software.
+This website is developed using [_R_](https://cran.r-project.org/), [`blogdown v1.1`](https://github.com/rstudio/blogdown), and [Hugo](https://gohugo.io/). See 
+[this book](https://bookdown.org/yihui/blogdown/) for details on how to create a website with this software.
 
 *Hint for Linux user*: Do **not** install Hugo via apt or snap, use `blogdown::install_hugo()` in _R_ instead. 
 
@@ -18,4 +17,4 @@ To publish your last changes, perform the following steps:
 3. `push` all changes and resolve all merge conflicts
 4. run `deploy.sh`
 
-To serve the site locally, perform step 1 and then `blogdown::serve_site()`:
+To serve the site locally, perform step 1 and then `blogdown::serve_site()`.
