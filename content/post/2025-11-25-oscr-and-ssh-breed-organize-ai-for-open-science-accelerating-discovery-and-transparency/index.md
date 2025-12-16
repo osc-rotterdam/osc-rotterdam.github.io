@@ -2,10 +2,9 @@
 title: 'OSCR and SSH-Breed organize AI for Open Science: Accelerating Discovery and
   Transparency'
 author: Package Build
-date: '2025-11-25'
 slug: oscr-and-ssh-breed-organize-ai-for-open-science-accelerating-discovery-and-transparency
 categories: ["News"]
-summary: "<p>📅 <b>25 November 2025 |11:00-13:00 </b>| 🏫 Polak 1-20 | 🥗 Lunch Included </p>
+summary: "<p>📅 <b>25 November 2025 | 11:00-13:00 | 🏫 Polak 1-20 | 🥗 Lunch Included </b></p>
 <p>Join us for a joint meeting of the <b>Open Science Community Rotterdam (OSCR)</b> and <b>SSH-Breed</b> that brings together academics from diverse fields to explore how AI might benefit Open Science.</p>"
 
 ---

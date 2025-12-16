@@ -2,12 +2,12 @@
 title: A collaborative session joining ESPhil’s AI Session seminar and the Open Science
   Community Rotterdam
 author: Package Build
-date: '2025-12-15'
 slug: a-collaborative-session-joining-esphil-s-ai-session-seminar-and-the-open-science-community-rotterdam
 categories: ["News"]
 coverImage: /images/news/microsoft.jpg
 banner: /images/news/microsoft.jpg
-summary: "We’d like to invite all who are interested to a discussion around the stakes of migrating away from Microsoft, from philosophical and technical perspectives, and in the name of open research and academic integrity."
+summary: "<p>📅 <b>14 January 2026 | 14:30-16:00 | 🏫 Glasbak </b> </p>
+We’d like to invite all who are interested to a discussion around the stakes of migrating away from Microsoft, from philosophical and technical perspectives, and in the name of open research and academic integrity."
 
 ---
 <p>

@@ -1,10 +1,9 @@
 ---
 title: 'OSCR and ESSB organize Opening Up Science: From Principles to Practice'
 author: Package Build
-date: "2025-11-13"
 slug: oscr-and-essb-organize-opening-up-science-from-principles-to-practice
 categories: ["News"]
-summary: "<p>📅 <b>4 December 2025 |14:00-15:30 | 🏫 Theil C1-6 </b></p><p>Join us for a special meeting of the <b>Open Science Community Rotterdam (OSCR)</b> in collaboration with the <b>Erasmus School of Social and Behavioural Sciences (ESSB)</b> during which Prof. dr. Rolf Zwaan will share his extensive experience with open and responsible research practices.</p>"
+summary: "<p>📅 <b>4 December 2025 | 14:00-15:30 | 🏫 Theil C1-6 </b></p><p>Join us for a special meeting of the <b>Open Science Community Rotterdam (OSCR)</b> in collaboration with the <b>Erasmus School of Social and Behavioural Sciences (ESSB)</b> during which Prof. dr. Rolf Zwaan will share his extensive experience with open and responsible research practices.</p>"
 
 ---
 
