@@ -1,7 +1,7 @@
 ---
 title: "OSCR Member: Julia Reinold"
 date: 2026-01-17
-slug: "le"
+slug: "reinold"
 categories: ["People"]
 tags: ["open access", "data management", "data sharing", "reproducible analysis", "science communication", "school-essb"] # top 3 categories + unique + school
 coverImage: /images/people.svg
