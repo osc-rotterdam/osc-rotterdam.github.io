@@ -27,7 +27,6 @@ editor_options:
   </a>
 </p>
 
-
 <p align="center">
 <!--  CV
   <a href="" class="fa-solid fa-file" style="color:#000000;">
@@ -36,7 +35,6 @@ editor_options:
 <!-- TWITTER   
   <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
   </a>   -->
-
 
 <!-- GOOGLE SCHOLAR
   <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
@@ -52,7 +50,7 @@ editor_options:
   <a href="" class="fa-brands fa-linkedin" style="color:#000000;">
   </a> -->  
   
-  <!-- ORCID   -->
+<!-- ORCID -->
   <a href="https://orcid.org/0000-0002-5406-1373" class="fa-brands fa-orcid" style="color:#000000;">
   </a>  
 
