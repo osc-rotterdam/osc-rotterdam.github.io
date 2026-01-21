@@ -1,0 +1,118 @@
+---
+title: "OSCR Member: Eunus Chan"
+date: 2026-01-21
+slug: "chan"
+categories: ["people"]
+tags: ["bird nerd", "academic writing", "school-essb"] # top 3 categories + unique + school
+coverImage: /images/people.svg
+banner: /images/people/Chan.jpg
+thumbnailImagePosition: left
+coverSize: partial
+coverMeta: out
+metaAlignment: center
+showMeta: true
+comments: true
+showActions: true
+summary: Bachelor Student, ESSB
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+
+library(knitr)
+library(here)
+library(tidyverse)
+library(fmsb)
+
+options(
+  digits = 4,  # number of digits
+  width = 120, # output width
+  scipen = 999 # disable scientific notation (default: scipen = 0)
+)
+
+opts_chunk$set(
+  collapse = TRUE, # collapse all source and output blocks from one code chunk into a single block
+  echo = FALSE,    # no code
+  warning = FALSE, # no package warnings
+  message = FALSE, # no package messages
+  fig.width = 6,   # figure width
+  fig.height = 6   # figure height
+)
+
+```
+
+<!-- EMAIL -->
+<p>
+  <a href="mailto:687684oc@eur.nl">
+  <img border="0" alt="Eunus Chan" src="/images/people/Chan.jpg" width="200" height="200" align="center">
+  </a>
+</p>
+
+<p align="center">
+<!--  CV -->
+  <a href="https://drive.google.com/file/d/1UFWIW4EvYTH6vqFiZNc0FQeJCxRBqVJn/view?usp=sharing" class="fa-solid fa-file" style="color:#000000;">
+  </a>
+
+<!-- TWITTER   
+  <a href="" class="fa-brands fa-x-twitter" style="color:#000000;">
+  </a>   -->
+
+<!-- GOOGLE SCHOLAR
+  <a href="" class="fa-brands fa-google-scholar" style="color:#000000;">
+  </a>
+  -->
+  
+<!-- RESEARCHGATE 
+  <a href="" class="fa-brands fa-researchgate" style="color:#000000;">
+  </a>
+   --> 
+  
+<!-- LINKEDIN --> 
+  <a href="https://www.linkedin.com/in/eunus-chan-b542b9286" class="fa-brands fa-linkedin" style="color:#000000;">
+  </a>
+  
+<!-- ORCID
+  <a href="" class="fa-brands fa-orcid" style="color:#000000;">
+  </a>  -->
+
+<!-- PERSONAL WEBSITE
+  <a href="" class="fa-solid fa-link" style="color:#000000;">
+  </a>-->
+
+<!-- GITHUB 
+  <a href="" class="fa-brands fa-github" style="color:#000000;"> 
+  </a> -->
+</p>
+
+<BR>
+
+# About me
+
+I am interested in pursuing research in social cognition, embodied cognition, cultural psychology, and more! I haven't had many chances to do hands-on research yet, but I want to equip myself with knowledge and skills about open science so I can start my research career in the best way. I believe that open science is a crucial part of science for the common good.
+
+<BR>
+
+# Expertise 
+
+```{r radarPlot, eval = TRUE}
+
+member_name <- "Eunus Chan"
+special_skill <- c("academic writing", "bird nerd")
+
+OS_skills <- read_csv(here("static/OS_skills.csv")) %>%
+  dplyr::filter(name %in% c("max", "min", member_name)) %>%
+  dplyr::select(c("reproducible analysis", "open source software", "data sharing", all_of(special_skill), "preregistration", "open access", "data management"))
+
+# custom radar plot
+radarchart(OS_skills,
+  axistype = 0, seg = 10,
+  pcol = alpha("#002328", 0.8), pfcol = alpha("#00B969", 0.6), plwd = 4, centerzero = TRUE, # polygon
+  cglcol = "#7e7e7e", axislabcol = "#002328", caxislabels = seq(0, 10, 2), cglwd = 0.8 # grid
+)
+
+```
+
+***
+
+
