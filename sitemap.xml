@@ -2,46 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://osc-rotterdam.org/categories/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/data-management/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/open-access/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/post/2026/02/13/schaap/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/categories/people/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/post/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/reproducible-analysis/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/school-eshcc/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://osc-rotterdam.org/tags/team-science/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://osc-rotterdam.org/tags/academic-writing/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osc-rotterdam.org/tags/bird-nerd/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://osc-rotterdam.org/categories/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://osc-rotterdam.org/post/2026/01/21/chan/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/categories/people/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/post/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osc-rotterdam.org/tags/school-essb/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://osc-rotterdam.org/tags/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/tags/data-management/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://osc-rotterdam.org/tags/data-sharing/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://osc-rotterdam.org/tags/open-access/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://osc-rotterdam.org/post/2026/01/17/reinold/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/tags/reproducible-analysis/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osc-rotterdam.org/tags/science-communication/</loc>
@@ -75,9 +84,6 @@
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osc-rotterdam.org/post/2025/10/16/zimmermann/</loc>
-    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/tags/school-eshcc/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://osc-rotterdam.org/tags/school-esphil/</loc>
@@ -1105,8 +1111,6 @@
   </url><url>
     <loc>https://osc-rotterdam.org/post/2019/04/01/schettino/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://osc-rotterdam.org/post/1/01/01/2026-01-28-a-collaborative-meeting-of-the-erasmus-school-of-history-culture-and-communication-eshcc-and-the-open-science/</loc>
   </url><url>
     <loc>https://osc-rotterdam.org/post/1/01/01/2025-12-15-a-collaborative-session-joining-esphil-s-ai-session-seminar-and-the-open-science-community-rotterdam/</loc>
   </url><url>
