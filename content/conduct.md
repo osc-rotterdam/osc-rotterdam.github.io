@@ -48,9 +48,8 @@ The Community Coordinator and event organizers will also discuss with the compla
 This Code of Conduct was adapted from the following sources: 
 
 * [Society for the Improvement of Psychological Science code of conduct](https://improvingpsych.org/sipsinaction/code/)
-* [Geek Feminism wiki](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)
-* [American Library Association code of conduct](http://www.ala.org/conferencesevents/statement_appropriate_conduct)
-* [Community Covenant v1.0](https://community-covenant.net/version/1/0/)
+* [Geek Feminism wiki](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy)
+* [American Library Association code of conduct](https://www.ala.org/conferencesevents/statement_appropriate_conduct)
 
 <br>
 <br>
