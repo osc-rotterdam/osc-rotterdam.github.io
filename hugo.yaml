@@ -50,7 +50,7 @@ menu:
       weight: 4
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url: mailto:info@openscience-rotterdam.com
+      url: mailto:schettino@eur.nl
       weight: 5
 params:
   about_us: <p>The Open Science Community Rotterdam comprises academics and support staff working at Erasmus University Rotterdam and Erasmus Medical Center.</p>
@@ -79,7 +79,7 @@ params:
     title: Our Clients
   contact_form_ajax: no
   # contact_url: /contact
-  copyright: "&copy; 2025 Open Science Community Rotterdam. All rights reserved."
+  copyright: "&copy; 2026 Open Science Community Rotterdam. All rights reserved."
   date_format: January 2, 2006
   default_sharing_image: /images/favicon.png
   defaultDescription: Website of the Open Science Community Rotterdam
