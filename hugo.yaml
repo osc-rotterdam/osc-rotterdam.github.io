@@ -55,7 +55,7 @@ menu:
 params:
   about_us: <p>The Open Science Community Rotterdam comprises academics and support staff working at Erasmus University Rotterdam and Erasmus Medical Center.</p>
   address: "<p class=\"text-uppercase\"><strong>Erasmus University Rotterdam</strong>\n<br>Burgemeester Oudlaan 50\n<br>3062 PA Rotterdam\n
-    \       <br>\n<strong>Netherlands</strong>\n</p>\n"
+    \       <br>\n<strong>The Netherlands</strong>\n</p>\n"
   author: Helena Wedig
   carouselCustomers:
     auto_play: no
